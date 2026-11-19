@@ -5,7 +5,7 @@
 - Laufzeit: 00:11:53
 - Video: [youtube.com/watch?v=LWQUaGxUmxk](https://www.youtube.com/watch?v=LWQUaGxUmxk)
 
-**Status: In Bearbeitung – erster veröffentlichter Stand.**
+**Status: Abgeschlossen am 19.11.2026; Aktualisierung, sobald Betriebsdaten der Anlage vorliegen.**
 
 ## Worum geht es?
 
@@ -19,9 +19,10 @@ Die meisten Aussagen zur Anlage stimmen: Höhe, Rekord, Inbetriebnahme, Bauweise
 2. **Kosten:** Ein normales Onshore-Windrad kostet nicht „etwa 1 Million Euro“, sondern bei heutiger Größe eher 7 bis 10 Millionen Euro (**Widerlegt**). Der Faktor „zehnmal so teuer“ für die Serienversion ist nicht belegt; bekannt ist, dass der Prototyp 25 Millionen Euro kostete und je Kilowatt fast viermal so teuer war (**Irreführend / Kontext fehlt**).
 3. **Leistungsrekord:** Vestas hat tatsächlich eine Anlage mit etwa vierfacher Leistung, die leistungsstärkste Anlage ist aber ein chinesischer 26-MW-Prototyp (**Teilweise belegt**).
 
-## Offen
+## Zur Einordnung
 
-- Zahl der Messinstrumente (46) und Abstand der Messebenen am Messmast.
-- „Ein modernes Windrad versorgt etwa 4.000 Haushalte“ – noch nicht geprüft.
+- Die Faktenampel steht auf **Gelb**: 3 von 23 entschiedenen Tatsachenbehauptungen sind widerlegt oder irreführend. Die Fehler betreffen vor allem Zahlen im zweiten Teil (Mehrertrag, Kosten), nicht die Kernnachricht vom Rekord.
+- Viele Angaben zur Anlage stammen vom Bauherrn Gicon bzw. der SPRIND. Das Video kennzeichnet sie meist als Erwartung („soll“). Belastbar wird der Mehrertrag erst mit Betriebsdaten.
+- Die Haushaltsvergleiche (7.500 gegenüber 4.000) beruhen auf unterschiedlichen Annahmen; eine grobe Gegenrechnung mit den veröffentlichten Messdaten ergibt für Schipkau eher rund 3.900 Haushalte.
 
 Alle Einzelprüfungen mit Quellen stehen in der [Aussagenübersicht](strukturiert/aussagen.json).

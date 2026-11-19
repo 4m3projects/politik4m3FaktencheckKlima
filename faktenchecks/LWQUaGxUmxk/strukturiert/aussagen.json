@@ -3,10 +3,10 @@
   "scope": {
     "videoId": "LWQUaGxUmxk",
     "videoUrl": "https://www.youtube.com/watch?v=LWQUaGxUmxk",
-    "kind": "Teilbestand",
+    "kind": "Vollerfassung",
     "asOf": "2026-11-19",
     "durationSeconds": 713,
-    "coverageNote": "Erster Stand vom 19.11.2026: Alle Sachaussagen des Videos sind erfasst, 23 abschließend eingeordnet; 2 Aussagen sind noch offen oder in Bearbeitung. Werbeteile (WAGO-Stiftung, Livestream-Ankündigung) sind nicht geprüft.",
+    "coverageNote": "Recherche abgeschlossen (Stand 19.11.2026): Alle Sach- und Meinungsaussagen des Videos sind erfasst und eingeordnet. Werbeteile (WAGO-Stiftung, Livestream-Ankündigung) sind nicht Gegenstand der Prüfung. Neue Betriebsdaten der Anlage können Einordnungen zum Mehrertrag später ändern.",
     "researchNote": "Transkript aus den automatisch erzeugten deutschen YouTube-Untertiteln. Geprüft mit Projektangaben von SPRIND/GICON (inkl. Messmast-Auswertung), der Ausbaustatistik der Fachagentur Wind und Solar, der Kostenstudie der Deutschen WindGuard sowie Presseberichten (ZDF, dpa, Fachmedien). Viele Angaben zur Anlage stammen ursprünglich vom Bauherrn; wo das so ist, steht es dabei."
   },
   "speakers": [
@@ -183,6 +183,22 @@
       "title": "deutschland.de (dpa): Höhenwindrad in Schipkau",
       "url": "https://www.deutschland.de/de/topic/wirtschaft/hoehenwindrad-schipkau-lausitz",
       "details": "Klaus Lüber, 30.09.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S23",
+      "title": "SPRIND: Feierliche Einweihung des höchsten Windmessmasts der Welt",
+      "url": "https://www.sprind.org/en/articles/inauguration-wind-measuring-mast-beventum",
+      "details": "Bundesagentur für Sprunginnovationen, 05.05.2023",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S24",
+      "title": "EnBW: Windkraftanlagen – Aufbau, Leistung und Ertrag",
+      "url": "https://www.enbw.com/unternehmen/themen/windkraft/windkraftanlagen.html",
+      "details": "EnBW Energie Baden-Württemberg, Stand der Daten März 2026 (in der Videobeschreibung als Quelle 17 genannt)",
       "accessedOn": "2026-11-19",
       "accessBasis": "Webseite direkt abgerufen und gelesen"
     },
@@ -378,11 +394,11 @@
       "id": "LWQUaGxUmxk-A04",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "In Bearbeitung",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
       "description": "Am 300 Meter hohen Windmessmast hängt alle 25 Meter ein Messgerät; insgesamt maßen 46 Messinstrumente.",
-      "reason": "Die Messhöhen von 25 m bis 300 m sind in der SPRIND/GICON-Auswertung belegt. Der genaue Abstand der Messebenen und die Zahl von 46 Instrumenten haben wir in den gelesenen Quellen noch nicht gefunden.",
-      "assessmentBasis": "Bisher nur die Auswertung des Messmastes gelesen.",
+      "reason": "Stimmt im Kern. Die SPRIND nennt bei der Einweihung im Mai 2023 ausdrücklich 46 Messgeräte am 300 m hohen Mast. Die Auswertung der Messdaten nennt Messhöhen von 25 m bis 300 m. Einen festen Abstand von genau 25 m haben wir nicht ausdrücklich gefunden; die Angabe stammt aus einer Szene vor Ort und widerspricht den Quellen nicht.",
+      "assessmentBasis": "Projektangaben zur Einweihung und technische Auswertung des Messmastes.",
       "occurrences": [
         {
           "startSeconds": 31,
@@ -412,13 +428,15 @@
       ],
       "sourceRefs": [
         {
+          "sourceId": "S23",
+          "note": "„equipped with 46 measuring devices“; Messbetrieb seit 4. Mai 2023"
+        },
+        {
           "sourceId": "S03",
           "note": "Mastmessung in Höhen von 25 m bis 300 m, ergänzt durch LIDAR"
         }
       ],
-      "openQuestions": [
-        "Wie viele Messgeräte hatte der Mast und in welchen Höhen genau? (Gicon-Pressemitteilung zum Messmast prüfen)"
-      ],
+      "openQuestions": [],
       "migration": {
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
@@ -909,7 +927,7 @@
       "status": "Abgeschlossen",
       "verdict": "Belegt",
       "description": "Nach Angaben der Projektverantwortlichen soll das Windrad künftig Strom für bis zu 7.500 Haushalte erzeugen können.",
-      "reason": "Richtig wiedergegeben. Die Zahl „bis zu 7.500 Haushalte“ nennen die Projektverantwortlichen; das Video kennzeichnet sie korrekt als deren Angabe. Unabhängig nachgemessen ist sie noch nicht.",
+      "reason": "Richtig wiedergegeben. Die Zahl „bis zu 7.500 Haushalte“ nennen die Projektverantwortlichen; das Video kennzeichnet sie korrekt als deren Angabe. Unabhängig nachgemessen ist sie noch nicht, und die Annahmen dahinter (Jahresertrag, Verbrauch je Haushalt) sind nicht veröffentlicht. Eine grobe eigene Gegenrechnung mahnt zur Vorsicht: Mit dem in der Messmast-Auswertung berechneten Kapazitätsfaktor von rund 44 % in 300 m Höhe käme eine 3,8-MW-Anlage auf etwa 14,6 Mio. kWh im Jahr, bei 3.750 kWh je Haushalt also auf rund 3.900 Haushalte. 7.500 Haushalte setzen einen deutlich niedrigeren Verbrauch je Haushalt oder einen höheren Ertrag voraus.",
       "assessmentBasis": "Wiedergabe der Projektangabe in mehreren Medien.",
       "occurrences": [
         {
@@ -937,9 +955,15 @@
         {
           "sourceId": "S13",
           "note": "bis zu 7.500 Haushalte"
+        },
+        {
+          "sourceId": "S03",
+          "note": "Kapazitätsfaktor 43,8 % in 300 m (Beispielanlage, Tabelle 5)"
         }
       ],
-      "openQuestions": [],
+      "openQuestions": [
+        "Welche Annahmen (Jahresertrag, kWh je Haushalt) stehen hinter den 7.500 Haushalten? Bei Gicon/SPRIND nachfragen."
+      ],
       "migration": {
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
@@ -950,11 +974,11 @@
       "id": "LWQUaGxUmxk-A17",
       "chapter": 3,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
       "description": "Ein großes modernes Windrad in herkömmlicher Höhe versorgt im Schnitt etwa 4.000 Haushalte.",
-      "reason": "Noch nicht geprüft. Die Zahl steht in keiner der bisher gelesenen Quellen; Haushaltsangaben hängen stark vom Standort und vom angenommenen Haushaltsverbrauch ab.",
-      "assessmentBasis": "Noch keine Prüfung.",
+      "reason": "Die Zahl stammt von der EnBW, die das Video als Quelle nennt: Große, moderne Anlagen erzeugen unter optimalen Bedingungen rund 15 Millionen kWh im Jahr, das reicht bei 3.750 kWh je Haushalt für rund 4.000 Haushalte. Wichtig für den Vergleich im Video: Die EnBW nennt für neue Onshore-Anlagen rund 7 MW Leistung, also fast doppelt so viel wie die 3,8 MW in Schipkau. Die beiden Haushaltszahlen (4.000 und 7.500) beruhen zudem auf unterschiedlichen, teils nicht veröffentlichten Annahmen und sind nur grob vergleichbar.",
+      "assessmentBasis": "Quelle des Videos selbst geprüft; Annahmen offengelegt.",
       "occurrences": [
         {
           "startSeconds": 395,
@@ -969,10 +993,13 @@
           "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
         }
       ],
-      "sourceRefs": [],
-      "openQuestions": [
-        "Quelle für typischen Jahresertrag einer neuen 5,5-MW-Anlage und einen Durchschnittshaushalt (z. B. BDEW, UBA) heranziehen"
+      "sourceRefs": [
+        {
+          "sourceId": "S24",
+          "note": "„rund 4.000 Haushalte“ bei ca. 15 Mio. kWh und 3.750 kWh je Haushalt; neuere Anlagen rund 7 MW"
+        }
       ],
+      "openQuestions": [],
       "migration": {
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
