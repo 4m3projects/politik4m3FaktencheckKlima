@@ -1,0 +1,470 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "videoId": "d6-SBMTduwk",
+    "videoUrl": "https://www.youtube.com/shorts/d6-SBMTduwk",
+    "kind": "Vollerfassung",
+    "asOf": "2026-11-19",
+    "durationSeconds": 97,
+    "coverageNote": "Short vollständig erfasst (Stand 19.11.2026): Alle Tatsachenbehauptungen und die wertende Kernaussage des Liedtexts sind geprüft. Reine Ausrufe und die rhetorische Frage „Wem gehört das Windrad, Frau Weidel?“ sind keine eigenen Aussagen. Künstlerische Zuspitzungen sind als solche benannt.",
+    "researchNote": "Liedtext aus den automatisch erzeugten deutschen YouTube-Untertiteln (ohne Audiokontrolle; das Audio ließ sich nicht abrufen). Geprüft mit Presseberichten zur AfD-Rede in Riesa (ZDF, top agrar, ZfK), Wahlprogramm-Auszügen (Mieterbund), Studien zur Eigentümerstruktur der Windenergie (UBA, AEE/trend:research, Wissenschaftliche Dienste des Bundestages) und dem Atomausstiegs-Urteil des Bundesverfassungsgerichts. Das Lied stammt vom Betreiber dieser Seite; es wurde nach denselben Maßstäben geprüft wie fremde Videos."
+  },
+  "speakers": [
+    {
+      "id": "SP1",
+      "name": "Politik4m3 (Lied von Jens)",
+      "videoRole": "Liedtext des Kanals Politik4m3",
+      "identityBasis": "Jens hat im Projekt mitgeteilt, dass er das Lied selbst gemacht hat; Kanal laut YouTube-Metadaten Politik4m3."
+    }
+  ],
+  "sources": [
+    {
+      "id": "S01",
+      "title": "ZDFheute: Weidel-Forderung: Windräder wieder abbauen? – Die Folgen",
+      "url": "https://www.zdfheute.de/politik/deutschland/weidel-afd-windraeder-reinhardswald-windkraft-kritik-100.html",
+      "details": "Nils Metzger, Florian Neuhann, ZDF, 13.01.2025; mit Einschätzungen von Lion Hirth (Hertie School) und Bundesverband WindEnergie",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S02",
+      "title": "top agrar: Alle Windräder abreißen? Weidel will das plötzlich ganz anders gemeint haben",
+      "url": "https://www.topagrar.com/energie/news/alle-windrader-abreissen-weidel-will-das-plotzlich-ganz-anders-gemeint-haben-20010536.html",
+      "details": "Alfons Deter, top agrar, 13.01.2025 (aktualisiert 17.01.2025)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S03",
+      "title": "ZfK: Weidels Windkraft-Äußerungen sorgen für Irritationen",
+      "url": "https://www.zfk.de/politik/deutschland/weidels-windkraft-aeusserungen-sorgen-fuer-irritationen",
+      "details": "Hans-Peter Hoeren mit dpa, Zeitung für kommunale Wirtschaft, 12.01.2025; teils hinter Bezahlschranke",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen; frei zugänglicher Teil gelesen"
+    },
+    {
+      "id": "S04",
+      "title": "Deutscher Mieterbund: Bundestagswahl 2025 – DMB-Parteiencheck",
+      "url": "https://mieterbund.de/app/uploads/2025/02/BTW_2025_DMB-Parteiencheck.pdf",
+      "details": "Deutscher Mieterbund, Stand 04.02.2025; Wahlprogramm-Auszüge der Parteien",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "PDF direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S05",
+      "title": "ZDFheute: Berlin streitet über Enteignungen – das steckt dahinter",
+      "url": "https://www.zdfheute.de/politik/deutschland/berlin-wahlkampf-enteignung-immobilienkonzerne-100.html",
+      "details": "ZDF mit dpa, 09.08.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S06",
+      "title": "ZDFheute: Wohnungen in Berlin vergesellschaften: Was die Linke plant",
+      "url": "https://www.zdfheute.de/politik/deutschland/linke-enteignung-wohnungskrise-immobilienkonzerne-wahl-abgeordnetenhaus-100.html",
+      "details": "ZDF mit dpa, 21.09.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S07",
+      "title": "Wissenschaftliche Dienste des Bundestages: Eigentümerstruktur bei deutschen Windenergieanlagen (WD 5 - 3000 - 025/23)",
+      "url": "https://www.landkreis-pfaffenhofen.de/media/18977/wd-eigentuemerstruktur-bei-deutschen-windenergieanlagen.pdf",
+      "details": "Deutscher Bundestag, Sachstand vom 29.03.2023 (hier über den Landkreis Pfaffenhofen veröffentlicht)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "PDF direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S08",
+      "title": "ZfK: Studie: Bürgerenergie nimmt ab, gewerblicher Zubau nimmt zu",
+      "url": "https://www.zfk.de/energie/strom/studie-buergerenergie-nimmt-ab-gewerblicher-zubau-nimmt-zu",
+      "details": "ZfK, 15.01.2021; Studie von trend:research für die Agentur für Erneuerbare Energien (Eigentümer der 2019 installierten Erneuerbaren-Leistung)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S09",
+      "title": "Umweltbundesamt: Monitoring der Akteursstruktur bei Freiflächen-Photovoltaik und Windenergie an Land (Factsheet)",
+      "url": "https://www.umweltbundesamt.de/sites/default/files/medien/5750/publikationen/factsheet_abschlussbericht_monitoring_akteursvielfalt_0.pdf",
+      "details": "IZES gGmbH und Leuphana Universität Lüneburg für das UBA, Stand 26.04.2021",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "PDF direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S10",
+      "title": "Bundesverfassungsgericht: Die Dreizehnte Novelle des Atomgesetzes ist im Wesentlichen mit dem Grundgesetz vereinbar (Pressemitteilung 88/2016)",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2016/bvg16-088.html",
+      "details": "BVerfG, Urteil vom 06.12.2016, 1 BvR 2821/11 u. a.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    }
+  ],
+  "claims": [
+    {
+      "id": "d6-SBMTduwk-A01",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Alice Weidel hat auf dem AfD-Parteitag in Riesa gesagt: „Wir reißen alle Windkraftwerke nieder.“",
+      "reason": "Stimmt. Weidel sagte das in ihrer Rede auf dem Bundesparteitag in Riesa am 11.01.2025, dem Tag ihrer Wahl zur Kanzlerkandidatin. Mehrere Medien geben den Satz übereinstimmend wieder, vollständig etwa: „wenn wir am Ruder sind, wir reißen alle Windkraftwerke nieder. Nieder mit diesen Windmühlen der Schande.“ Das Lied lässt den Bedingungssatz („wenn wir am Ruder sind“) weg, ändert die Aussage dadurch aber nicht. Kontext: Im dpa-Interview am Parteitag sagte Weidel, sie habe nur den Reinhardswald gemeint; im ntv-Interview sprach sie davon, jede Anlage zu „prüfen“.",
+      "assessmentBasis": "Abgleich des Zitats mit mehreren unabhängigen Presseberichten vom Parteitag; Rede selbst nicht im Original gehört.",
+      "occurrences": [
+        {
+          "startSeconds": 4,
+          "endSeconds": 21,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Zitat",
+          "roleStatus": "Wiedergabe einer Äußerung von Alice Weidel",
+          "attributionBasis": "Teil des Liedtexts; das Lied stammt laut Jens von ihm selbst. Wessen Stimme jeweils zu hören ist, wurde nicht per Audio geprüft.",
+          "roleBasis": "Der Liedtext gibt eine Äußerung von Alice Weidel wieder.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S01",
+          "note": "Wortlaut mit „wenn wir am Ruder sind“; spätere Erklärungen (ntv, heute journal)"
+        },
+        {
+          "sourceId": "S02",
+          "note": "Wortlaut „Nieder! Mit diesen Windmühlen der Schande!“; Relativierung auf den Reinhardswald im dpa-Interview"
+        },
+        {
+          "sourceId": "S03",
+          "note": "Wortlaut und Datum (Parteitag, Wahl zur Kanzlerkandidatin)"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Liedtext des Shorts",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "d6-SBMTduwk-A02",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Die Linke will enteignen.",
+      "reason": "Stimmt, bezogen auf große Wohnungskonzerne. Das Wahlprogramm der Linken zur Bundestagswahl 2025 will „den Wohnbestand von Immobilienkonzernen mit mehr als 3.000 Wohnungen vergesellschaften“. In Berlin will die Linke den Volksentscheid von 2021 zur Vergesellschaftung großer Wohnungsunternehmen umsetzen (Spitzenkandidatin Elif Eralp, 2026). Rechtlich ist das eine Vergesellschaftung nach Art. 15 GG gegen Entschädigung; im allgemeinen Sprachgebrauch und in der Debatte heißt es meist „Enteignung“.",
+      "assessmentBasis": "Wahlprogramm-Auszug (DMB-Parteiencheck) und aktuelle Berichterstattung zur Berliner Debatte.",
+      "occurrences": [
+        {
+          "startSeconds": 22,
+          "endSeconds": 25,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage im Liedtext",
+          "attributionBasis": "Teil des Liedtexts; das Lied stammt laut Jens von ihm selbst. Wessen Stimme jeweils zu hören ist, wurde nicht per Audio geprüft.",
+          "roleBasis": "Die Aussage ist Teil des Liedtexts und wird dort als Tatsache dargestellt.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S04",
+          "note": "Linke-Programm 2025: Vergesellschaftung von Konzernen mit mehr als 3.000 Wohnungen"
+        },
+        {
+          "sourceId": "S06",
+          "note": "Berliner Pläne der Linken, rund 240.000 Wohnungen, Entschädigung unter Marktwert"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Liedtext des Shorts",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "d6-SBMTduwk-A03",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Die AfD lehnt die Enteignungspläne der Linken ab.",
+      "reason": "Im Kern richtig. Das ZDF stellt in der Berliner Debatte fest: „Die AfD lehnt Enteignungen ebenso ab wie die CDU.“ Im Wahlprogramm-Vergleich des Mieterbunds wendet sich die AfD gegen „staatliche Überregulierungen“ im Wohnungsmarkt. Dass die AfD „gleich“ und lautstark „nein schreit“, ist künstlerische Zuspitzung; ein konkretes AfD-Zitat zu den Linken-Plänen wurde für diese Prüfung nicht herangezogen.",
+      "assessmentBasis": "Einordnung durch das ZDF und Wahlprogramm-Vergleich; kein eigenes AfD-Zitat ausgewertet.",
+      "occurrences": [
+        {
+          "startSeconds": 25,
+          "endSeconds": 27,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage im Liedtext",
+          "attributionBasis": "Teil des Liedtexts; das Lied stammt laut Jens von ihm selbst. Wessen Stimme jeweils zu hören ist, wurde nicht per Audio geprüft.",
+          "roleBasis": "Die Aussage ist Teil des Liedtexts und wird dort als Tatsache dargestellt.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S05",
+          "note": "„Die AfD lehnt Enteignungen ebenso ab wie die CDU.“"
+        },
+        {
+          "sourceId": "S04",
+          "note": "AfD-Position zum Mietrecht: gegen staatliche Überregulierung"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Liedtext des Shorts",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "d6-SBMTduwk-A04",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Bei Windkraftwerken will die AfD plötzlich privates Eigentum beseitigen („soll plötzlich Schluss mit Eigentum sein“, „privates Eigentum soll fort“).",
+      "reason": "Teilweise richtig. Die Folge stimmt: Windräder gehören privaten Betreibern und sind genehmigt; ein erzwungener Rückbau bestehender Anlagen träfe deren Eigentum. Der Energieökonom Lion Hirth nennt die Forderung „staatliche Enteignung von privatem Eigentum“, der Bundesverband WindEnergie sagt, sie „käme einer Enteignung gleich“. Aber: Ein Abriss bestehender Anlagen steht nicht im AfD-Wahlprogramm; dort wird nur der weitere Ausbau abgelehnt und die Abschaffung des EEG gefordert. Weidel selbst hat ihre Rede danach unterschiedlich ausgelegt (nur Reinhardswald, Einzelprüfung), auf X aber nachgelegt: „dass wir diese Dinger endlich niederreißen sollten. Weg damit!“ Dass die Partei das Ziel verfolgt, Eigentum zu entziehen, ist deshalb eine Schlussfolgerung aus Weidels Worten, kein beschlossener Plan. Das gilt auch für den Titel des Shorts („Enteignungspläne der AfD“).",
+      "assessmentBasis": "Abgleich mit Expertenstimmen, Leitantrag/Wahlprogramm-Zitaten und Weidels späteren Äußerungen in der Presse.",
+      "occurrences": [
+        {
+          "startSeconds": 28,
+          "endSeconds": 35,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage im Liedtext",
+          "attributionBasis": "Teil des Liedtexts; das Lied stammt laut Jens von ihm selbst. Wessen Stimme jeweils zu hören ist, wurde nicht per Audio geprüft.",
+          "roleBasis": "Die Aussage ist Teil des Liedtexts und wird dort als Tatsache dargestellt.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        },
+        {
+          "startSeconds": 43,
+          "endSeconds": 50,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage im Liedtext",
+          "attributionBasis": "Teil des Liedtexts; das Lied stammt laut Jens von ihm selbst. Wessen Stimme jeweils zu hören ist, wurde nicht per Audio geprüft.",
+          "roleBasis": "Die Aussage ist Teil des Liedtexts und wird dort als Tatsache dargestellt.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle.",
+          "note": "Wiederholung: „Doch wem gehört das Windrad dort? Privates Eigentum soll fort.“"
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S01",
+          "note": "Hirth und BWE zur Enteignung; Leitantrag lehnt nur weiteren Ausbau ab; X-Post Weidels; Entschädigungskosten"
+        },
+        {
+          "sourceId": "S02",
+          "note": "Weidel: nur Reinhardswald gemeint, Windkraft „ohne Subventionen“ möglich"
+        },
+        {
+          "sourceId": "S03",
+          "note": "„Weg mit dem EEG“; Relativierung im dpa-Interview"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Liedtext des Shorts",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "d6-SBMTduwk-A05",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "„Nieder, nieder, nieder“ ruft Weidel „immer wieder“.",
+      "reason": "Stimmt. In Riesa rief Weidel „Nieder! Mit diesen Windmühlen der Schande!“. Dass sie das öfter sagt, bestätigt sie selbst: Auf X schrieb sie laut ZDF, sie sage „in fast jeder Rede, dass wir diese Dinger endlich niederreißen sollten“.",
+      "assessmentBasis": "Pressewiedergabe der Rede und von Weidels eigener Aussage auf X.",
+      "occurrences": [
+        {
+          "startSeconds": 37,
+          "endSeconds": 42,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage im Liedtext",
+          "attributionBasis": "Teil des Liedtexts; das Lied stammt laut Jens von ihm selbst. Wessen Stimme jeweils zu hören ist, wurde nicht per Audio geprüft.",
+          "roleBasis": "Die Aussage ist Teil des Liedtexts und wird dort als Tatsache dargestellt.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        },
+        {
+          "startSeconds": 72,
+          "endSeconds": 75,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage im Liedtext",
+          "attributionBasis": "Teil des Liedtexts; das Lied stammt laut Jens von ihm selbst. Wessen Stimme jeweils zu hören ist, wurde nicht per Audio geprüft.",
+          "roleBasis": "Die Aussage ist Teil des Liedtexts und wird dort als Tatsache dargestellt.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle.",
+          "note": "Refrain-Wiederholung"
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S01",
+          "note": "X-Post: „in fast jeder Rede“"
+        },
+        {
+          "sourceId": "S02",
+          "note": "Ausruf „Nieder!“ in der Rede"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Liedtext des Shorts",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "d6-SBMTduwk-A06",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Ein Windrad ist kein Staatseigentum, sondern gehört oft Firmen.",
+      "reason": "Im Wesentlichen richtig. Windräder an Land werden in Deutschland von privaten Investoren geplant, gebaut und betrieben. Zu den Eigentümern zählen Energieversorger, Banken und Fonds, Projektierer, Gewerbebetriebe und Anlagenhersteller, also Firmen, aber auch in großem Umfang Privatleute, Bürgerenergiegesellschaften und Landwirte (bei allen Erneuerbaren 2019 zusammen fast 40 % der Leistung). Eine Einschränkung: Stadtwerke und andere kommunale Versorger, also Unternehmen in öffentlicher Hand, betreiben ebenfalls Windparks (etwa im Reinhardswald). Eine amtliche Statistik zum Anteil öffentlicher Eigentümer gibt es nicht; das Marktstammdatenregister erfasst nur Betreiber.",
+      "assessmentBasis": "Studien zur Eigentümer- und Akteursstruktur (UBA, AEE/trend:research) und Sachstand der Wissenschaftlichen Dienste des Bundestages.",
+      "occurrences": [
+        {
+          "startSeconds": 53,
+          "endSeconds": 58,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage im Liedtext",
+          "attributionBasis": "Teil des Liedtexts; das Lied stammt laut Jens von ihm selbst. Wessen Stimme jeweils zu hören ist, wurde nicht per Audio geprüft.",
+          "roleBasis": "Die Aussage ist Teil des Liedtexts und wird dort als Tatsache dargestellt.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S01",
+          "note": "„von privaten Investoren geplant, gebaut und betrieben“"
+        },
+        {
+          "sourceId": "S03",
+          "note": "Reinhardswald: Städtische Werke Kassel, Stadtwerke Eschwege, EAM als Partner"
+        },
+        {
+          "sourceId": "S07",
+          "note": "Register erfasst Betreiber, nicht Eigentümer; öffentliche Eigentümer nicht ausgewiesen"
+        },
+        {
+          "sourceId": "S08",
+          "note": "Privatleute und Landwirte fast 40 %, Energieversorger sowie Banken/Fonds je 21 % am Zubau"
+        },
+        {
+          "sourceId": "S09",
+          "note": "Akteursstruktur Wind an Land: Energieversorger ca. 13–16 %, Bürgerenergie, Projektentwickler, Hersteller"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Liedtext des Shorts",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "d6-SBMTduwk-A07",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Wer den Abriss eines Windrads staatlich erzwingt, greift ins Eigentum ein.",
+      "reason": "Stimmt. Genehmigte Anlagen stehen unter dem Schutz des Eigentums (Art. 14 GG). Wie der Atomausstieg zeigt, muss der Staat bei einem solchen Eingriff Investitionen ausgleichen: Das Bundesverfassungsgericht verlangte 2016 einen Ausgleich für Investitionen, die im Vertrauen auf eine staatliche Zusage getätigt wurden. Das ZDF verweist auf Entschädigungen aus Steuergeld an Betreiber und Verpächter. Juristisch genau ist dabei: Weil der Staat die Anlagen nicht selbst übernimmt, stufte das Gericht ein solches Nutzungsende beim Atomausstieg nicht als „Enteignung“ im Sinne von Art. 14 Abs. 3 GG ein, sondern als Inhalts- und Schrankenbestimmung. Ein Eingriff ins Eigentum ist es in jedem Fall.",
+      "assessmentBasis": "Verfassungsrechtliche Einordnung anhand des Atomausstiegs-Urteils und Presseberichten mit Expertenstimmen.",
+      "occurrences": [
+        {
+          "startSeconds": 58,
+          "endSeconds": 65,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage im Liedtext",
+          "attributionBasis": "Teil des Liedtexts; das Lied stammt laut Jens von ihm selbst. Wessen Stimme jeweils zu hören ist, wurde nicht per Audio geprüft.",
+          "roleBasis": "Die Aussage ist Teil des Liedtexts und wird dort als Tatsache dargestellt.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S10",
+          "note": "Atomausstieg: Inhalts- und Schrankenbestimmung, Ausgleichspflicht für Investitionen"
+        },
+        {
+          "sourceId": "S01",
+          "note": "Entschädigungen an Betreiber und Verpächter; WindEurope: rund 6 Mrd. Euro allein für die Stilllegung"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Liedtext des Shorts",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "d6-SBMTduwk-A08",
+      "chapter": 2,
+      "kind": "Meinung",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Die AfD kritisiert Enteignungen bei den Linken, propagiert selbst aber den Abriss von Windrädern (Vorwurf der Doppelmoral).",
+      "reason": "Wertende Kernaussage des Lieds. Die Tatsachen dahinter sind überwiegend belegt (siehe A01, A03, A05, A07). Zu bedenken ist: Die Linke will gegen Entschädigung Eigentum auf die öffentliche Hand übertragen, Weidels Forderung zielt auf die Beseitigung von Anlagen ohne Übertragung; beides wären Eingriffe ins Eigentum, rechtlich aber unterschiedlich. Und der Abriss ist Weidels Rhetorik, kein Beschluss der Partei (siehe A04). Ob man das als Widerspruch wertet, bleibt eine Meinung.",
+      "assessmentBasis": "Einordnung als Meinung; Bezug zu den geprüften Tatsachenbehauptungen.",
+      "occurrences": [
+        {
+          "startSeconds": 66,
+          "endSeconds": 71,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Wertung im Liedtext",
+          "attributionBasis": "Teil des Liedtexts; das Lied stammt laut Jens von ihm selbst. Wessen Stimme jeweils zu hören ist, wurde nicht per Audio geprüft.",
+          "roleBasis": "Die Aussage ist Teil des Liedtexts und wird dort als Tatsache dargestellt.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S01",
+          "note": "Expertenstimmen: Rückbau käme Enteignung gleich"
+        },
+        {
+          "sourceId": "S10",
+          "note": "Unterschied Enteignung / Inhalts- und Schrankenbestimmung"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Liedtext des Shorts",
+        "assessmentChange": "Erstbewertung"
+      }
+    }
+  ]
+}

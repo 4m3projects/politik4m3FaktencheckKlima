@@ -66,6 +66,32 @@
           "checkedOn": "2026-11-19"
         }
       }
+    },
+    {
+      "id": "d6-SBMTduwk",
+      "title": "Alice Weidel und die Enteignungpläne der AfD: Alle Windkraftwerke niederreißen!",
+      "structured": true,
+      "rhetoric": false,
+      "files": [
+        "README.md",
+        "kapitel/01_zitat.md",
+        "kapitel/02_lied.md"
+      ],
+      "video": {
+        "schemaVersion": 1,
+        "videoId": "d6-SBMTduwk",
+        "role": "original",
+        "channel": "Politik4m3",
+        "title": "Alice Weidel und die Enteignungpläne der AfD: Alle Windkraftwerke niederreißen!",
+        "videoUrl": "https://www.youtube.com/shorts/d6-SBMTduwk",
+        "workStatus": "Abgeschlossen",
+        "format": "short",
+        "identification": {
+          "basis": "Video-ID, Titel, Kanal und Upload-Datum aus den direkt abgerufenen YouTube-Metadaten (yt-dlp).",
+          "certainty": "Belegt",
+          "checkedOn": "2026-11-19"
+        }
+      }
     }
   ]
 }
