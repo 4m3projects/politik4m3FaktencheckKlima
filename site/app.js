@@ -418,7 +418,7 @@ async function relationsSection(v) {
     const links = rels.flatMap(r => (r.claimLinks || []).map(l => linkCard(r, l, videos))).join('');
     return `<section class="section" id="reaktionen" aria-labelledby="h-reaktionen">
       <div class="section-head"><h2 id="h-reaktionen">Reaktionen und weitere Faktenchecks</h2>
-      <p>Videos anderer Kanäle, die sich nachweislich auf dieses Interview beziehen. Ihre Aussagen werden eigenständig geprüft; der Faktencheck dieses Interviews ist dafür Kontext, kein Wahrheitsmaßstab.</p></div>
+      <p>Weitere Videos, die sich nachweislich auf diese Aussagen beziehen. Sie werden eigenständig geprüft; die ursprüngliche Analyse dient als Kontext, nicht als Wahrheitsmaßstab.</p></div>
       ${v.files.includes('vergleich.md') ? `<p><a class="case-comparison" href="#/video/${esc(v.id)}/bericht/vergleich.md">Gemeinsamer Vergleich der Prüfungen</a></p>` : ''}
       ${rels.length ? `${thumbPrompt()}<ul class="rel-list">${rels.map(r => relationSummary(r, videos, 'original')).join('')}</ul>` : '<p class="muted">Noch keine Reaktionen zugeordnet.</p>'}
       ${links ? `<h3 style="margin-top:20px">Gegenüberstellung verknüpfter Aussagen</h3><div class="cmp-list">${links}</div>` : ''}
@@ -429,7 +429,7 @@ async function relationsSection(v) {
     const videos = await loadLinked(rels);
     const links = rels.flatMap(r => (r.claimLinks || []).map(l => linkCard(r, l, videos))).join('');
     return `<section class="section" id="bezuege" aria-labelledby="h-bezuege">
-      <div class="section-head"><h2 id="h-bezuege">Bezüge auf Originalinterviews</h2>
+      <div class="section-head"><h2 id="h-bezuege">Bezüge zum Ausgangsvideo</h2>
       <p>Wiedergaben und eigene Behauptungen dieser Reaktion, verknüpft mit den geprüften Aussagen des Originals.</p></div>
       ${rels.filter(r => videos.get(r.originalVideoId)?.files?.includes('vergleich.md')).map(r => `<p><a class="case-comparison" href="#/video/${esc(r.originalVideoId)}/bericht/vergleich.md">Gemeinsamer Vergleich: ${esc(videoName(r.originalVideoId))}</a></p>`).join('')}
       ${rels.length ? `${thumbPrompt()}<ul class="rel-list">${rels.map(r => relationSummary(r, videos, 'reaction')).join('')}</ul>` : '<p class="muted">Noch keinem Original zugeordnet.</p>'}
@@ -450,7 +450,7 @@ function roleLine(v) {
   if (!m) return `<p class="role-line small">${shortBadge(v)}Noch nicht als Original oder Reaktion eingeordnet.</p>`;
   if (m.role === 'original') {
     const n = (state.rel.byOriginal.get(v.id) || []).length;
-    return `<p class="role-line">${shortBadge(v)}<span class="badge kind">Originalinterview</span>${n ? ` <a href="#/video/${esc(v.id)}/reaktionen">${n} zugeordnete Reaktion${n === 1 ? '' : 'en'}</a>` : ''}</p>`;
+    return `<p class="role-line">${shortBadge(v)}<span class="badge kind">Ausgangsvideo</span>${n ? ` <a href="#/video/${esc(v.id)}/reaktionen">${n} zugeordnete Reaktion${n === 1 ? '' : 'en'}</a>` : ''}</p>`;
   }
   const origs = (state.rel.byReaction.get(v.id) || []).map(r => `<a href="#/video/${esc(r.originalVideoId)}">${esc(videoName(r.originalVideoId))}</a>`);
   return `<p class="role-line">${shortBadge(v)}<span class="badge kind">${esc(reactionTypeName(m.reactionType))}</span> von ${esc(m.channel)}${origs.length ? ` · bezieht sich auf: ${origs.join(', ')}` : ''}</p>`;
@@ -495,9 +495,9 @@ function progressOverview(videos) {
     const pending = pendingClaims(v);
     const status = !v.data ? 'Keine strukturierten Aussagen' : pending.length ? `${pending.length} noch offen oder in Bearbeitung` : 'Keine offenen erfassten Aussagen';
     const rhetoric = FactRhetoric.reviewState(v.rhet);
-    return `<tr><th scope="row"><a href="#/video/${esc(v.id)}">${esc(v.title)}</a><div class="small muted">${v.video?.role === 'reaction' ? 'Reaktion' : 'Originalinterview'}</div></th><td>${esc(status)}${v.data ? `<br><a href="#/video/${esc(v.id)}/pruefaufgaben">Umfang und nächste Schritte</a>` : ''}</td><td>${esc(rhetoric.status)}${v.rhet ? ` · ${rhetoric.annotations} KI-Hinweise` : ''}</td></tr>`;
+    return `<tr><th scope="row"><a href="#/video/${esc(v.id)}">${esc(v.title)}</a><div class="small muted">${v.video?.role === 'reaction' ? 'Reaktion' : 'Ausgangsvideo'}</div></th><td>${esc(status)}${v.data ? `<br><a href="#/video/${esc(v.id)}/pruefaufgaben">Umfang und nächste Schritte</a>` : ''}</td><td>${esc(rhetoric.status)}${v.rhet ? ` · ${rhetoric.annotations} KI-Hinweise` : ''}</td></tr>`;
   };
-  return `<section class="section" id="pruefstand" aria-labelledby="h-pruefstand"><div class="section-head"><h2 id="h-pruefstand">Prüfstand aller Videos</h2><p>Originale und zugehörige Reaktionen: Was ist noch zu bearbeiten? Die Zahl offener Aussagen beschreibt nur den erfassten Bestand. Auch ohne offene Einträge ist damit keine vollständige Prüfung des Videos bestätigt. Darstellungshinweise werden getrennt geprüft.</p></div><div class="table-wrap"><table><thead><tr><th>Video</th><th>Sachprüfung</th><th>Darstellung</th></tr></thead><tbody>${sorted.map(row).join('')}</tbody></table></div></section>`;
+  return `<section class="section" id="pruefstand" aria-labelledby="h-pruefstand"><div class="section-head"><h2 id="h-pruefstand">Prüfstand aller Videos</h2><p>Ausgangsvideos und zugehörige Reaktionen: Was ist noch zu bearbeiten? Die Zahl offener Aussagen beschreibt nur den erfassten Bestand. Auch ohne offene Einträge ist damit keine vollständige Prüfung des Videos bestätigt. Darstellungshinweise werden getrennt geprüft.</p></div><div class="table-wrap"><table><thead><tr><th>Video</th><th>Sachprüfung</th><th>Darstellung</th></tr></thead><tbody>${sorted.map(row).join('')}</tbody></table></div></section>`;
 }
 function pendingSection(v) {
   const pending = pendingClaims(v);
@@ -559,7 +559,7 @@ function ampelOverview(all) {
   };
   return `<div id="ampel-uebersicht">
       <h3 id="h-ampel">Alle Videos auf einen Blick</h3>
-      <p>So stehen die Ampeln nach dieser Regel gerade. Die Ampeln der Reaktionsvideos stehen zusätzlich auf der Seite des jeweiligen Interviews.</p>
+      <p>So stehen die Ampeln nach dieser Regel gerade. Verknüpfte Reaktionsvideos erscheinen zusätzlich beim jeweiligen Ausgangsvideo.</p>
       <ul class="ampel-overview">${list.map(item).join('')}</ul>
     </div>`;
 }
@@ -1156,8 +1156,8 @@ async function pageMethod() {
       <p>Wird ein Fehler in einer früheren Prüfung bestätigt, korrigieren wir die betroffenen Aussagen gezielt und dokumentieren alte und neue Bewertung. Themenseiten, Statistiken und Ampel werden danach automatisch neu berechnet. Jede umgesetzte Korrektur steht mit Datum, Grund und Quellen im <a href="#/themen">Korrekturprotokoll</a> und auf den betroffenen Themenseiten. Betrifft eine Korrektur mehr als drei Aussagen oder das Ergebnis eines Wissenseintrags, entscheidet Jens selbst. Eine Aussage, die zu ihrem Zeitpunkt stimmte, wird nicht nachträglich als falsch markiert, nur weil sich die Lage geändert hat. Die Regeln stehen in <a href="${esc(blobUrl('docs/WISSENSDATENBANK.md'))}" rel="noopener noreferrer" target="_blank">docs/WISSENSDATENBANK.md</a>.</p>
     </section>
 
-    <section class="section prose-plain"><h2>Originalinterviews und Reaktionen</h2>
-      <p>Die Übersicht zeigt Originalinterviews. Videos anderer Kanäle, die sich nachweislich auf ein Interview beziehen, stehen auf dessen Seite und werden mit demselben Verfahren eigenständig geprüft, zustimmende wie kritische. Der Faktencheck des Originals dient dabei als Kontext, nicht als Wahrheitsmaßstab.</p>
+    <section class="section prose-plain"><h2>Ausgangsvideos und Reaktionen</h2>
+      <p>Die Übersicht zeigt Ausgangsvideos. Videos anderer Kanäle, die sich nachweislich auf ein Interview beziehen, stehen auf dessen Seite und werden mit demselben Verfahren eigenständig geprüft, zustimmende wie kritische. Der Faktencheck des Originals dient dabei als Kontext, nicht als Wahrheitsmaßstab.</p>
       <p>Prüfen Original und Reaktion dieselbe Behauptung mit gegensätzlichem Ergebnis, erscheint ein sichtbarer <strong>Prüfkonflikt</strong> mit Gegenüberstellung der Quellen und einer offenen Review-Aufgabe, bis die Abweichung begründet geklärt ist. Bewertungen werden nie nur angeglichen, damit sie übereinstimmen.</p>
     </section>
 
@@ -1181,7 +1181,7 @@ function pageJens() {
       <h2>Wer ist Jens?</h2>
       <p>Jens interessiert sich für Politik und gesellschaftliche Debatten. Als Christ ist ihm wichtig, Menschen respektvoll zu begegnen und unterschiedliche Standpunkte ernst zu nehmen. Er beschäftigt sich außerdem mit Webentwicklung und digitalen Projekten.</p>
       <h2>Warum dieses Projekt?</h2>
-      <p>Politische Aussagen in Interviews und Reaktionsvideos sollen nachvollziehbar überprüft werden können. Dafür werden Behauptungen, Quellen, Zeitmarken und Unsicherheiten transparent dokumentiert – auch dann, wenn eine Aussage zutrifft oder sich nicht abschließend prüfen lässt.</p>
+      <p>Aussagen zu Klimawandel, Energieversorgung, Wetter und Umwelt sollen nachvollziehbar überprüft werden können. Dafür werden Behauptungen, Quellen, Zeitmarken und Unsicherheiten transparent dokumentiert – auch dann, wenn eine Aussage zutrifft oder sich nicht abschließend prüfen lässt.</p>
       <h2>Wie wird gearbeitet?</h2>
       <p>Jens verantwortet das Projekt. Bei Recherche, Datenaufbereitung und technischer Entwicklung kommen KI-Werkzeuge wie ChatGPT, Claude und Codex zum Einsatz. Ihre Ergebnisse sind nicht automatisch richtig und ersetzen keine sorgfältige Prüfung. Hinweise und Korrekturen sind willkommen.</p>
       <p><a href="#/methodik">Mehr zur Prüfmethode</a> · <a href="${esc(repoUrl())}/issues" rel="noopener noreferrer" target="_blank">Fehler oder Ergänzungen auf GitHub melden</a></p>
@@ -1211,7 +1211,7 @@ async function pageVerlauf() {
   const row = v => {
     const meta = byId.get(v.id);
     const name = meta.video?.title || meta.title || v.id;
-    const role = meta.video?.role === 'reaction' ? `Reaktion von ${meta.video.channel}` : meta.video?.role === 'original' ? 'Originalinterview' : 'Faktencheck';
+    const role = meta.video?.role === 'reaction' ? `Reaktion von ${meta.video.channel}` : meta.video?.role === 'original' ? 'Ausgangsvideo' : 'Faktencheck';
     const [last, ...older] = v.events;
     const rest = verlaufItems(last.items);
     return `<li class="verlauf-item" id="verlauf-${esc(v.id)}">
