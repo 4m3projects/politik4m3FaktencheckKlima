@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "videoId": "LWQUaGxUmxk",
+  "role": "original",
+  "channel": "Breaking Lab",
+  "title": "365 Meter: Das höchste Windrad der Welt geht in Deutschland ans Netz!",
+  "videoUrl": "https://www.youtube.com/watch?v=LWQUaGxUmxk",
+  "workStatus": "In Bearbeitung",
+  "format": "video",
+  "identification": {
+    "basis": "Video-ID, Titel, Kanal und Upload-Datum aus den direkt abgerufenen YouTube-Metadaten (yt-dlp).",
+    "certainty": "Belegt",
+    "checkedOn": "2026-11-19"
+  }
+}

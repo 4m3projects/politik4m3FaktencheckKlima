@@ -2,5 +2,36 @@
   "generated": null,
   "commit": null,
   "repository": "4m3projects/politik4m3FaktencheckKlima",
-  "videos": []
+  "videos": [
+    {
+      "id": "LWQUaGxUmxk",
+      "title": "365 Meter: Das höchste Windrad der Welt geht in Deutschland ans Netz!",
+      "structured": true,
+      "rhetoric": false,
+      "files": [
+        "README.md",
+        "kapitel/01_einleitung.md",
+        "kapitel/02_warum-hoeher.md",
+        "kapitel/03_bau.md",
+        "kapitel/04_bedeutung.md",
+        "kapitel/05_aber.md",
+        "kapitel/06_fazit.md"
+      ],
+      "video": {
+        "schemaVersion": 1,
+        "videoId": "LWQUaGxUmxk",
+        "role": "original",
+        "channel": "Breaking Lab",
+        "title": "365 Meter: Das höchste Windrad der Welt geht in Deutschland ans Netz!",
+        "videoUrl": "https://www.youtube.com/watch?v=LWQUaGxUmxk",
+        "workStatus": "In Bearbeitung",
+        "format": "video",
+        "identification": {
+          "basis": "Video-ID, Titel, Kanal und Upload-Datum aus den direkt abgerufenen YouTube-Metadaten (yt-dlp).",
+          "certainty": "Belegt",
+          "checkedOn": "2026-11-19"
+        }
+      }
+    }
+  ]
 }

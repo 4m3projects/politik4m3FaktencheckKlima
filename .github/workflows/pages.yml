@@ -14,6 +14,10 @@ jobs:
       - name: JavaScript Syntax prüfen
         run: |
           for f in site/*.js; do node --check "$f"; done
+      - name: Faktencheck-Daten prüfen
+        run: node scripts/build-index.js --check
+      - name: Index mit Commit erzeugen
+        run: node scripts/build-index.js
       - name: Website bauen
         run: |
           mkdir -p _site
