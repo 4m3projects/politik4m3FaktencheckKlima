@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "videoId": "5UboW16rU1w",
+  "role": "original",
+  "channel": "ZDFheute Nachrichten",
+  "title": "Lohnt sich Atomkraft? Der Reality-Check | Wirtschaft erklärt",
+  "videoUrl": "https://www.youtube.com/watch?v=5UboW16rU1w",
+  "workStatus": "Abgeschlossen",
+  "format": "video",
+  "identification": {
+    "basis": "Video-ID, Titel, Kanal und Upload-Datum aus den direkt abgerufenen YouTube-Metadaten (yt-dlp).",
+    "certainty": "Belegt",
+    "checkedOn": "2026-11-19"
+  }
+}

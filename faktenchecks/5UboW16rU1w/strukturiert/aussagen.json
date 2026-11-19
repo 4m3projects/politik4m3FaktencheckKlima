@@ -1,0 +1,1909 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "videoId": "5UboW16rU1w",
+    "videoUrl": "https://www.youtube.com/watch?v=5UboW16rU1w",
+    "kind": "Vollerfassung",
+    "asOf": "2026-11-19",
+    "durationSeconds": 673,
+    "coverageNote": "Recherche abgeschlossen (Stand 19.11.2026): Alle Sach- und Meinungsaussagen des Videos sind erfasst und eingeordnet. Rhetorische Fragen, Moderationsscherze und der Abspann sind nicht Gegenstand der Prüfung. Das Video ist vom 24.04.2026; wo sich danach etwas geändert hat (Italien, Mochovce 4, Onkalo), steht es dabei.",
+    "researchNote": "Transkript aus den automatisch erzeugten deutschen YouTube-Untertiteln. Geprüft mit den in der Videobeschreibung genannten Quellen (Bundesnetzagentur, McKinsey, Fraunhofer ISE, Bundestag, EnBW, BDEW-Daten über Agora Energiewende) sowie Daten von UBA, BDEW, RTE, Energy-Charts, BMUKN und Fachmedien (World Nuclear News). Die Tagesprofile der Stromimporte haben wir selbst aus den Energy-Charts-Daten 2025 berechnet."
+  },
+  "speakers": [
+    {
+      "id": "SP1",
+      "name": "Florian Neuhann",
+      "videoRole": "Host, ZDF-Wirtschaftskorrespondent",
+      "identityBasis": "Stellt sich im Video als Wirtschaftskorrespondent des ZDF vor; die Videobeschreibung nennt ihn als Host."
+    },
+    {
+      "id": "SP2",
+      "name": "Friedrich Merz",
+      "videoRole": "Eingespielter O-Ton",
+      "identityBasis": "Die Videobeschreibung schreibt das Zitat Bundeskanzler Merz zu."
+    }
+  ],
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Bundesnetzagentur: Veröffentlichung des Versorgungssicherheitsmonitorings",
+      "url": "https://www.bundesnetzagentur.de/1072798",
+      "details": "Pressemitteilung, 03.09.2025 (in der Videobeschreibung als Quelle genannt)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S02",
+      "title": "McKinsey: Zukunftspfad Stromnachfrage (Pressemitteilung)",
+      "url": "https://www.mckinsey.com/de/news/presse/2025-01-20-zukunftspfad-stromnachfrage",
+      "details": "McKinsey & Company, 20.01.2025",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S03",
+      "title": "McKinsey: Zukunftspfad Stromnachfrage (Studie)",
+      "url": "https://www.mckinsey.de/~/media/mckinsey/locations/europe%20and%20middle%20east/deutschland/news/presse/2025/2025-01-20%20zukunftspfad%20stromnachfrage/mckinsey_zukunftspfad%20stromnachfrage_januar%202025.pdf",
+      "details": "McKinsey & Company, Januar 2025; Executive Summary (Nettostrombedarf 2023/2024 und Szenarien 2030/2035). In der Videobeschreibung als Quelle genannt.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "PDF abgerufen; Executive Summary wörtlich gelesen, hinterer Teil nur auszugsweise"
+    },
+    {
+      "id": "S04",
+      "title": "BDEW: Entwicklungen in der deutschen Stromwirtschaft – das Jahr 2025",
+      "url": "https://ag-energiebilanzen.de/wp-content/uploads/AGEB-Tagung-Dez2025-Strom-INTERNET.pdf",
+      "details": "Carlotta Irrgang (BDEW), Webkonferenz der AG Energiebilanzen, 15.12.2025; Folie 2 (Stromverbrauch 2023–2025)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "PDF direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S05",
+      "title": "Umweltbundesamt: Stromverbrauch",
+      "url": "https://www.umweltbundesamt.de/daten/energie/stromverbrauch",
+      "details": "UBA, Datenseite, Stand 2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S06",
+      "title": "Wikipedia: Nuclear power in Germany",
+      "url": "https://en.wikipedia.org/wiki/Nuclear_power_in_Germany",
+      "details": "Abschnitt zum Abschalten der letzten drei Kernkraftwerke am 15.04.2023 (mit Einzelbelegen)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S07",
+      "title": "Anadolu Agency: Germany's Merz calls nuclear phaseout 'serious strategic mistake'",
+      "url": "https://aa.com.tr/en/europe/germanys-merz-calls-nuclear-phaseout-serious-strategic-mistake/3800545",
+      "details": "Ayhan Simsek, 15.01.2026, aktualisiert 16.01.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S08",
+      "title": "Umweltbundesamt: Primärenergiegewinnung und -importe",
+      "url": "https://www.umweltbundesamt.de/daten/energie/primaerenergiegewinnung-importe",
+      "details": "UBA, zuletzt aktualisiert 18.12.2025",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S09",
+      "title": "ZDFheute: Iran-Krieg treibt Öl- und Spritpreise in Deutschland",
+      "url": "https://www.zdfheute.de/politik/deutschland/iran-krieg-wirtschaft-oelpreise-spritpreise-benzin-diesel-100.html",
+      "details": "Frank Bethmann, 03.03.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S10",
+      "title": "World Nuclear News: French ministerial council reiterates need for nuclear revival",
+      "url": "https://www.world-nuclear-news.org/articles/french-ministerial-council-reiterates-need-for-nuclear-revival",
+      "details": "WNN, März 2026 (Rat für Atompolitik am 12.03.2026, EPR2-Programm)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S11",
+      "title": "Wikipedia: Nuclear power by country",
+      "url": "https://en.wikipedia.org/wiki/Nuclear_power_by_country",
+      "details": "Tabelle der Reaktoren in Betrieb und im Bau je Land; Abschnitt zu Ländern ohne Reaktoren bzw. mit Ausstieg",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S12",
+      "title": "Associated Press (via Courthouse News): 40 years after Chernobyl, Italy greenlights a return to nuclear energy",
+      "url": "https://courthousenews.com/40-years-after-chernobyl-italy-greenlights-a-return-to-nuclear-energy/",
+      "details": "AP, 23.09.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S13",
+      "title": "Berliner Zeitung: Italien kehrt zur Atomkraft zurück – Meloni setzt auf neue Mini-Reaktoren",
+      "url": "https://www.berliner-zeitung.de/article/italien-kehrt-zur-atomkraft-zurueck-meloni-setzt-auf-neue-mini-reaktoren-10258161",
+      "details": "Berliner Zeitung, Juni 2026 (frei lesbarer Teil)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S14",
+      "title": "NBC News (Reuters): Japan's TEPCO restarts nuclear reactor for the first time since Fukushima",
+      "url": "https://www.nbcnews.com/world/asia/japans-tepco-restarts-nuclear-reactor-first-time-fukushima-rcna255161",
+      "details": "Reuters, 21.01.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S15",
+      "title": "Energy-Charts (Fraunhofer ISE): Physikalische grenzüberschreitende Stromflüsse Deutschland 2025",
+      "url": "https://api.energy-charts.info/cbet?country=de&start=2025-01-01&end=2025-12-31",
+      "details": "Viertelstundenwerte aller Nachbarländer; eigene Auswertung als Mittelwert je Tagesstunde (deutsche Zeit)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Daten direkt abgerufen und selbst ausgewertet"
+    },
+    {
+      "id": "S16",
+      "title": "RTE: Bilan électrique 2025 – principaux résultats",
+      "url": "https://assets.rte-france.com/prod/public/2026-02/Bilan-electrique-2025-principaux-resultats.pdf",
+      "details": "RTE (französischer Netzbetreiber), Februar 2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "PDF direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S17",
+      "title": "Agora Energiewende: Abbildung Haushaltsstrompreise 2019–2023 (nach BDEW)",
+      "url": "https://www.agora-energiewende.de/fileadmin/AutomaticFiles/1399/abb-16.pdf",
+      "details": "Grafik auf Basis der BDEW-Strompreisanalyse 2023; Bestandskunden- und Neukundenpreise",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "PDF direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S18",
+      "title": "IAEA-Erklärung zur COP28 (via Mirage News): Nuclear Power Essential for Net Zero",
+      "url": "https://www.miragenews.com/iaea-nuclear-power-essential-for-net-zero-1135395/",
+      "details": "Wiedergabe der IAEA-Mitteilung vom 01.12.2023",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S19",
+      "title": "World Nuclear News: France's Flamanville EPR starts supplying power",
+      "url": "https://world-nuclear-news.org/articles/french-epr-starts-supplying-power",
+      "details": "WNN, 21.12.2024",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S20",
+      "title": "World Nuclear News: Finnish EPR enters regular electricity production",
+      "url": "https://world-nuclear-news.org/Articles/Finnish-EPR-enters-regular-electricity-production",
+      "details": "WNN, 17.04.2023",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S21",
+      "title": "World Nuclear News: Mochovce 4 connected to the grid",
+      "url": "https://world-nuclear-news.org/articles/mochovce-4-connected-to-the-grid",
+      "details": "WNN, 16.10.2026; mit Baugeschichte der Blöcke 3 und 4",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S22",
+      "title": "EnBW: Drei Gründe, warum sich Kernkraft nicht rechnet",
+      "url": "https://www.enbw.com/unternehmen/themen/klimaschutz/kernkraft-kosten.html",
+      "details": "EnBW ECO*Journal, ohne Datum (in der Videobeschreibung als Quelle genannt)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S23",
+      "title": "Fraunhofer ISE: Stromgestehungskosten Erneuerbare Energien (Juli 2024)",
+      "url": "https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/DE2024_ISE_Studie_Stromgestehungskosten_Erneuerbare_Energien.pdf",
+      "details": "Fraunhofer ISE, 2024; Zusammenfassung S. 2–4 (in der Videobeschreibung als Quelle genannt)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "PDF direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S24",
+      "title": "Wissenschaftliche Dienste des Bundestags: Kosten von Strom aus Kernenergie und erneuerbaren Energien (WD 5 - 3000 - 005/22)",
+      "url": "https://www.bundestag.de/resource/blob/887090/1867659c1d4edcc0e32cb093ab073767/WD-5-005-22-pdf-data.pdf",
+      "details": "2022; Tabelle 1 (LCOE-Studienvergleich) und Abschnitt zu Betriebskosten (in der Videobeschreibung als Quelle genannt)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "PDF direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S25",
+      "title": "Journal de l'économie: Nucléaire – une facture de 23,7 milliards pour l'EPR de Flamanville",
+      "url": "https://www.journaldeleconomie.fr/nucleaire-une-facture-de-237-milliards-pour-lepr-de-flamanville/",
+      "details": "Paolo Garoscio, 15.01.2025; fasst den Bericht des französischen Rechnungshofs (Cour des comptes) zusammen",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S26",
+      "title": "oEnergetice: Finland becomes the first country in the world to authorize operation of a deep geological repository",
+      "url": "https://oenergetice.cz/en/nuclear-power/finland-becomes-the-first-country-in-the-world-to-authorize-operation-of-a-deep-geological-repository",
+      "details": "Jiří Puchnar, 26.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S27",
+      "title": "BMUKN: Kostenbericht nukleare Entsorgung Deutschland 2025",
+      "url": "https://www.bundesumweltministerium.de/fileadmin/Daten_BMU/Download_PDF/Nukleare_Sicherheit/kostenbericht_nukleare_entsorgung_deutschland_2025_de.pdf",
+      "details": "Bundesumweltministerium, 2025; Abschnitte zu KENFO und Zuständigkeiten",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "PDF direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S28",
+      "title": "World Nuclear News: Von der Leyen – It was strategic mistake to turn against nuclear",
+      "url": "https://world-nuclear-news.org/articles/von-der-leyen-it-was-strategic-mistake-to-turn-against-nuclear",
+      "details": "WNN, 10.03.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S29",
+      "title": "POWER Magazine: A Closer Look at Two Operational Small Modular Reactor Designs",
+      "url": "https://www.powermag.com/a-closer-look-at-two-operational-small-modular-reactor-designs/",
+      "details": "Aaron Larson, 01.03.2024",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S30",
+      "title": "World Nuclear Association: First small modular reactors open a new world of applications",
+      "url": "https://world-nuclear.org/news-and-media/press-statements/first-small-modular-reactors-open-a-new-world-of-a",
+      "details": "WNA-Pressemitteilung, 19.12.2019 (Akademik Lomonosov)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S31",
+      "title": "World Nuclear News: New Chinese reactors reach start-up milestones",
+      "url": "https://world-nuclear-news.org/articles/chinese-reactors-start-up-milestones",
+      "details": "WNN, 03.08.2026 (Stand Linglong One: Inbetriebnahmetests)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S32",
+      "title": "BMUKN: Das Standortauswahlgesetz",
+      "url": "https://www.bundesumweltministerium.de/themen/nukleare-sicherheit/endlagerung/das-standortauswahlgesetz",
+      "details": "Bundesumweltministerium, Themenseite",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S34",
+      "title": "Wikipedia: Flughafen Berlin Brandenburg",
+      "url": "https://de.wikipedia.org/wiki/Flughafen_Berlin_Brandenburg",
+      "details": "Abschnitt Geschichte (geplante Eröffnung Oktober 2011, Eröffnung 31.10.2020)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S33",
+      "title": "ZfK (dpa): Gutachten – Atom-Endlagersuche mindestens 43 Jahre länger",
+      "url": "https://www.zfk.de/politik/deutschland/gutachten-atom-endlagersuche-mindestens-43-jahre-laenger",
+      "details": "ZfK, August 2024; Gutachten des Öko-Instituts im Auftrag des BASE",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    }
+  ],
+  "claims": [
+    {
+      "id": "5UboW16rU1w-A01",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Bundeskanzler Friedrich Merz hat den Atomausstieg als „schweren strategischen Fehler“ bezeichnet (im Video als Einspieler).",
+      "reason": "Stimmt. Merz sagte das am 14.01.2026 bei einer Wirtschaftsveranstaltung der IHK in Halle (Sachsen-Anhalt). Das Video spielt die Aussage ohne Datum ein; die Videobeschreibung nennt Merz als Urheber.",
+      "assessmentBasis": "Abgleich mit Presseberichten über die Rede.",
+      "occurrences": [
+        {
+          "startSeconds": 27,
+          "endSeconds": 31,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP2",
+          "role": "Zitat",
+          "roleStatus": "Fremdaussage im Video",
+          "attributionBasis": "Die Videobeschreibung schreibt den Satz Bundeskanzler Merz zu; Stimme nicht per Audio geprüft.",
+          "roleBasis": "Das Video spielt die Aussage als O-Ton ein, der Moderator macht sie sich nicht ausdrücklich zu eigen.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle.",
+          "note": "Einspieler mit O-Ton; Zuordnung zu Merz über die Videobeschreibung"
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S07",
+          "note": "Merz: Atomausstieg „serious strategic mistake“, Rede am 14.01.2026 in Sachsen-Anhalt"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A02",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Im April 2023 ging das letzte deutsche Atomkraftwerk vom Netz; Deutschland ist endgültig ausgestiegen.",
+      "reason": "Stimmt. Die letzten drei Kernkraftwerke (Isar 2, Emsland, Neckarwestheim 2) wurden am 15.04.2023 abgeschaltet.",
+      "assessmentBasis": "Abgleich mit der dokumentierten Chronik des Ausstiegs.",
+      "occurrences": [
+        {
+          "startSeconds": 74,
+          "endSeconds": 80,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S06",
+          "note": "Abschaltung der letzten drei Kernkraftwerke am 15.04.2023"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A03",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Die Lücke durch den Atomausstieg konnte auch deshalb geschlossen werden, weil der Stromverbrauch bis 2023 gesunken ist; inzwischen hat sich der Trend umgekehrt.",
+      "reason": "Stimmt im Kern. Laut Umweltbundesamt sank der Stromverbrauch 2022 und 2023 auf den niedrigsten Wert seit der Wiedervereinigung, auch wegen Sparbemühungen und schwächerer Industrieproduktion. Danach stieg er laut BDEW wieder leicht: von 485 Mrd. kWh (2023) auf 491 (2024) und 495 Mrd. kWh (2025). Die Trendwende ist also real, aber bisher klein (rund +2 % in zwei Jahren). Dass die Lücke auch durch mehr Erneuerbare und Stromimporte geschlossen wurde, sagt das Video an dieser Stelle nicht.",
+      "assessmentBasis": "Abgleich mit Verbrauchsdaten von UBA und BDEW.",
+      "occurrences": [
+        {
+          "startSeconds": 80,
+          "endSeconds": 90,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S05",
+          "note": "Verbrauch 2022/2023 auf Tiefstand seit der Wiedervereinigung"
+        },
+        {
+          "sourceId": "S04",
+          "note": "Gesamtstromverbrauch 2023: 485, 2024: 491, 2025: 495 Mrd. kWh"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A04",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Laut einer McKinsey-Prognose werden wir in den nächsten zehn Jahren bis zu 70 % mehr Strom benötigen.",
+      "reason": "Die Zahl lässt sich nur aus dem ehrgeizigsten Szenario ableiten. McKinsey rechnet im „Transformationspfad“ (alle politischen Ziele werden erreicht) für 2035 mit 805 TWh Nettostrombedarf, gegenüber rund 464 TWh im Jahr 2024; das wären gut 70 % mehr. Die Kernaussage der Studie ist aber das Gegenteil: Im wahrscheinlicheren „Trendpfad“ steigt die Nachfrage nur um 1 bis 2 % pro Jahr auf 635 TWh (rund +37 %), deutlich weniger als in der staatlichen Planung angenommen. Das „bis zu“ ist formal richtig, die Studie wird aber einseitig wiedergegeben.",
+      "assessmentBasis": "Abgleich mit Pressemitteilung und Executive Summary der Studie (in der Videobeschreibung verlinkt); Prozentwert selbst nachgerechnet.",
+      "occurrences": [
+        {
+          "startSeconds": 90,
+          "endSeconds": 97,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S02",
+          "note": "Trendpfad 1–2 % pro Jahr, 635 TWh in 2035; Nachfrage steigt weniger stark als erwartet"
+        },
+        {
+          "sourceId": "S03",
+          "note": "Transformationspfad 805 TWh in 2035; 2024 ca. 464 TWh"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A05",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Laut Bundesnetzagentur fehlen 2035 bis zu 35 Gigawatt Leistung.",
+      "reason": "Stimmt mit Einschränkung. Die Bundesnetzagentur sieht bis 2035 einen Bedarf an zusätzlichen steuerbaren Kapazitäten von bis zu 22,4 GW (Zielszenario) bzw. bis zu 35,5 GW (Szenario „Verzögerte Energiewende“). Die 35 GW sind also der obere Wert des pessimistischeren Szenarios; das „bis zu“ im Video deckt das ab. Es handelt sich um Bruttozubau ohne Stilllegungen.",
+      "assessmentBasis": "Abgleich mit der Pressemitteilung der Bundesnetzagentur (in der Videobeschreibung verlinkt).",
+      "occurrences": [
+        {
+          "startSeconds": 99,
+          "endSeconds": 106,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S01",
+          "note": "Bis zu 22,4 GW (Zielszenario) bzw. 35,5 GW (verzögerte Energiewende) bis 2035"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A06",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Um diese Lücke zu schließen, müsste man rund 70 Gaskraftwerke oder 25 Atomkraftwerke bauen.",
+      "reason": "Rechnerisch stimmig. 35 GW geteilt durch 70 ergibt 500 MW je Gaskraftwerk, geteilt durch 25 rund 1,4 GW je Atomkraftwerk. Das entspricht üblichen Größen; die neuesten europäischen Reaktoren Flamanville 3 und Olkiluoto 3 haben je rund 1,6 GW. Die Rechnung ist eine Veranschaulichung, keine Planung: Die Bundesnetzagentur bezieht ausdrücklich auch andere steuerbare Kapazitäten und Flexibilität ein.",
+      "assessmentBasis": "Eigene Nachrechnung mit den Angaben der Bundesnetzagentur und veröffentlichten Reaktorgrößen.",
+      "occurrences": [
+        {
+          "startSeconds": 106,
+          "endSeconds": 115,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S01",
+          "note": "Bedarf bis zu 35,5 GW steuerbare Kapazität"
+        },
+        {
+          "sourceId": "S19",
+          "note": "Flamanville 3: 1630 MWe netto"
+        },
+        {
+          "sourceId": "S20",
+          "note": "Olkiluoto 3: 1600 MWe"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A07",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Bei Öl und Gas ist Deutschland von anderen abhängig und spürt das gerade wieder bitter.",
+      "reason": "Stimmt. Knapp 70 % des deutschen Energieaufkommens werden importiert, bei Öl und Gas fast alles. Zur Zeit der Veröffentlichung (April 2026) hatte der Iran-Krieg ab Ende Februar 2026 die Öl- und Gaspreise in Deutschland deutlich steigen lassen.",
+      "assessmentBasis": "Abgleich mit UBA-Daten und Berichten zur Preisentwicklung 2026.",
+      "occurrences": [
+        {
+          "startSeconds": 124,
+          "endSeconds": 130,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S08",
+          "note": "Knapp 70 % des Energieaufkommens werden importiert"
+        },
+        {
+          "sourceId": "S09",
+          "note": "Iran-Krieg treibt Öl-, Sprit- und Gaspreise, März 2026"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A08",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Erneuerbare Energien sind nicht immer zuverlässig verfügbar, zumal es nicht genügend Speicher gibt.",
+      "reason": "Stimmt in der Sache. Wind- und Solarstrom schwanken mit dem Wetter; die Bundesnetzagentur hält deshalb bis 2035 zusätzliche steuerbare Kapazitäten für nötig, deren Umfang ausdrücklich davon abhängt, wie stark Verbrauch und Speicher flexibel werden.",
+      "assessmentBasis": "Abgleich mit dem Versorgungssicherheitsmonitoring.",
+      "occurrences": [
+        {
+          "startSeconds": 130,
+          "endSeconds": 138,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S01",
+          "note": "Zusätzliche steuerbare Kapazitäten nötig; Bedarf hängt von Flexibilisierung ab"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A09",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Frankreich plant neue Reaktoren, China sowieso.",
+      "reason": "Stimmt. Frankreich will mit dem EPR2-Programm sechs neue Großreaktoren an den Standorten Penly, Gravelines und Bugey bauen. China hat weltweit mit Abstand die meisten Reaktoren im Bau (38).",
+      "assessmentBasis": "Abgleich mit Fachberichten und Reaktorstatistik.",
+      "occurrences": [
+        {
+          "startSeconds": 148,
+          "endSeconds": 152,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S10",
+          "note": "EPR2: sechs neue Reaktoren, Rat für Atompolitik 12.03.2026"
+        },
+        {
+          "sourceId": "S11",
+          "note": "China: 38 Reaktoren im Bau"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A10",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Italien, das längst aus der Atomkraft ausgestiegen war, investiert jetzt wieder in Atomkraft.",
+      "reason": "Im Kern zutreffend, aber zum Zeitpunkt des Videos (April 2026) verfrüht formuliert. Italien hatte nach dem Referendum 1987 alle Reaktoren abgeschaltet. Die Regierung Meloni bereitete die Rückkehr per Rahmengesetz vor; die Abgeordnetenkammer stimmte im Juni 2026 zu, der Senat erst am 23.09.2026. Gebaut oder konkret investiert in Reaktoren wird bisher nicht; das Gesetz erlaubt zunächst Durchführungsverordnungen, Schwerpunkt sind kleine modulare Reaktoren.",
+      "assessmentBasis": "Abgleich mit Presseberichten zum Gesetzgebungsverfahren.",
+      "occurrences": [
+        {
+          "startSeconds": 150,
+          "endSeconds": 156,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S12",
+          "note": "Senat billigt Rahmengesetz am 23.09.2026; Ausstieg nach Referendum 1987"
+        },
+        {
+          "sourceId": "S13",
+          "note": "Abgeordnetenhaus stimmt am 4. Juni zu; Fokus auf SMR"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A11",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "In Japan ist gerade ein altes Kernkraftwerk trotz Fukushima wieder ans Netz gegangen.",
+      "reason": "Stimmt. Tepco, Betreiber des 2011 havarierten Kraftwerks Fukushima, hat im Januar 2026 Block 6 des Kraftwerks Kashiwazaki-Kariwa wieder angefahren, zum ersten Mal seit der Katastrophe. Andere Betreiber hatten in Japan schon seit 2015 einzelne Reaktoren wieder in Betrieb genommen.",
+      "assessmentBasis": "Abgleich mit Agenturberichten.",
+      "occurrences": [
+        {
+          "startSeconds": 155,
+          "endSeconds": 161,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S14",
+          "note": "Neustart von Kashiwazaki-Kariwa 6 durch Tepco, 21.01.2026"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A12",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Unter den großen Industrienationen steht Deutschland mit dem Atomausstieg ziemlich allein da.",
+      "reason": "Stimmt weitgehend. Von den G7-Staaten betreiben die USA, Frankreich, Japan, Kanada und Großbritannien Kernkraftwerke. Italien hat zwar ebenfalls keine Reaktoren, bereitet aber die Rückkehr vor. Andere Länder mit Ausstiegsplänen wie Belgien und Schweden sind davon abgerückt; Taiwan hat 2025 seinen Ausstieg abgeschlossen.",
+      "assessmentBasis": "Abgleich mit der Reaktorstatistik nach Ländern.",
+      "occurrences": [
+        {
+          "startSeconds": 161,
+          "endSeconds": 166,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S11",
+          "note": "Reaktoren in Betrieb nach Ländern; Belgien und Schweden rücken vom Ausstieg ab"
+        },
+        {
+          "sourceId": "S12",
+          "note": "Italien beschließt Rückkehr"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A13",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Die Stromerzeugung in Deutschland schwankt im Tagesverlauf enorm; vor allem bei Dunkelflauten gibt es mit Erneuerbaren allein ein echtes Problem.",
+      "reason": "Stimmt. Solarstrom fällt nachts aus, Windstrom schwankt mit dem Wetter. Gerade für längere wind- und sonnenarme Phasen braucht es laut Bundesnetzagentur zusätzliche steuerbare Kraftwerke oder Speicher.",
+      "assessmentBasis": "Abgleich mit dem Versorgungssicherheitsmonitoring und Erzeugungsdaten.",
+      "occurrences": [
+        {
+          "startSeconds": 197,
+          "endSeconds": 216,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S01",
+          "note": "Bedarf an steuerbaren Kapazitäten für Versorgungssicherheit"
+        },
+        {
+          "sourceId": "S15",
+          "note": "Stark schwankender Austauschsaldo im Tagesverlauf"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A14",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Schon jetzt muss Deutschland morgens immer wieder Strom importieren, weil der Verbrauch hochschießt, die Sonne aber noch nicht liefert.",
+      "reason": "Teilweise richtig. Unsere Auswertung der Stromflüsse 2025 zeigt: Deutschland importiert im Mittel tatsächlich am meisten gegen 6 bis 7 Uhr (rund 5 GW). Fast genauso viel aber abends zwischen 19 und 20 Uhr und auch nachts; nur mittags wird exportiert. Zudem ist das „Muss“ verkürzt: Importe kommen vor allem zustande, weil Strom im Ausland zu diesen Zeiten billiger ist, nicht weil in Deutschland keine Kraftwerke zur Verfügung stünden.",
+      "assessmentBasis": "Eigene Auswertung der physikalischen grenzüberschreitenden Stromflüsse 2025 (Energy-Charts) nach Tagesstunde.",
+      "occurrences": [
+        {
+          "startSeconds": 222,
+          "endSeconds": 231,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S15",
+          "note": "Mittlerer Nettoimport 6–7 Uhr ca. 5,1 GW, 19–20 Uhr ca. 5,0 GW, 11–15 Uhr Export"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A15",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "In Frankreich macht Atomstrom rund 70 % aus; die Kraftwerke liefern Tag und Nacht eine stabile Grundlast, die Schwankungen sind viel geringer.",
+      "reason": "Stimmt. 2025 lieferten französische Kernkraftwerke 373 TWh von 547,5 TWh, also rund 68 %. Die Erzeugung ist deutlich gleichmäßiger als in Deutschland; die Reaktoren fahren ihre Leistung allerdings zunehmend auch herunter, etwa bei Solarüberschüssen.",
+      "assessmentBasis": "Abgleich mit der Jahresbilanz des französischen Netzbetreibers RTE.",
+      "occurrences": [
+        {
+          "startSeconds": 235,
+          "endSeconds": 251,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S16",
+          "note": "Kernenergie 373,0 TWh von 547,5 TWh Gesamterzeugung 2025; Lastfolgebetrieb der Reaktoren"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A16",
+      "chapter": 4,
+      "kind": "Meinung",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Die Stabilität der französischen Atomstromversorgung ist ein echter Vorteil.",
+      "reason": "Wertung des Moderators. Die stabile Erzeugung ist ein anerkannter Vorteil für die Versorgungssicherheit; ob er die Kosten aufwiegt, behandelt das Video im zweiten Teil.",
+      "assessmentBasis": "Wertung; nicht als wahr oder falsch bewertbar.",
+      "occurrences": [
+        {
+          "startSeconds": 251,
+          "endSeconds": 253,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A17",
+      "chapter": 5,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Deutschland hängt immer noch stark von Energieimporten aus dem Ausland ab.",
+      "reason": "Stimmt. Knapp 70 % des Energieaufkommens werden importiert; die inländische Gewinnung deckt seit Mitte der 2000er-Jahre nur 28 bis 32 % des Primärenergieverbrauchs.",
+      "assessmentBasis": "Abgleich mit UBA-Daten.",
+      "occurrences": [
+        {
+          "startSeconds": 255,
+          "endSeconds": 259,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S08",
+          "note": "Knapp 70 % Importe; inländische Gewinnung 28–32 %"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A18",
+      "chapter": 5,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Bis 2021 lag der Strompreis für Endverbraucher bei rund 30 Cent; nach dem russischen Angriff auf die Ukraine stieg er auf über 46 Cent, weil russisches Gas wegbrach.",
+      "reason": "Stimmt in der Größenordnung. Nach BDEW-Daten zahlten Haushalte 2020 und 2021 rund 32 Cent je kWh, 2022 rund 40 Cent und 2023 (Bestandskunden) rund 46 Cent. Zum Kontext: Die Preise zogen schon ab Herbst 2021 an, vor dem Angriff; Neukunden zahlten 2023 bereits wieder deutlich weniger, und die Strompreisbremse deckelte 80 % des Verbrauchs bei 40 Cent.",
+      "assessmentBasis": "Abgleich mit BDEW-Daten (in der Videobeschreibung verlinkt; hier über eine Grafik von Agora Energiewende gelesen, weil die BDEW-Dateien nicht abrufbar waren).",
+      "occurrences": [
+        {
+          "startSeconds": 260,
+          "endSeconds": 276,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S17",
+          "note": "Haushaltsstrompreis 2020/2021 ca. 32 ct, 2022 ca. 40 ct, 2023 Bestand ca. 46 ct, 2023 Neukunden ca. 29 ct"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A19",
+      "chapter": 5,
+      "kind": "Prognose",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Mit Atomenergie im Energiemix könnten wir von anderen Ländern und von Krisen unabhängiger werden.",
+      "reason": "Einschätzung. Zum Kontext: Auch Uran und Brennelemente müssen importiert werden, allerdings lassen sich Brennstoffvorräte für mehrere Jahre lagern. Der Preissprung 2022 betraf vor allem Gas, nicht Strom aus Kernkraft.",
+      "assessmentBasis": "Prognose/Abwägung; nicht als wahr oder falsch bewertbar.",
+      "occurrences": [
+        {
+          "startSeconds": 276,
+          "endSeconds": 284,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A20",
+      "chapter": 5,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Beim Betrieb von Kernkraftwerken wird im Gegensatz zu Gas oder Kohle quasi kein CO2 freigesetzt.",
+      "reason": "Stimmt. Im Betrieb entstehen keine direkten CO2-Emissionen. Über den ganzen Lebenszyklus (Uranabbau, Bau, Entsorgung) fallen geringe Emissionen an. Frankreichs Strom mit rund 68 % Kernkraft hatte 2025 eine Treibhausgasintensität von nur 19,6 g CO2-Äquivalent je kWh.",
+      "assessmentBasis": "Abgleich mit IAEA-Angaben und der französischen Strombilanz.",
+      "occurrences": [
+        {
+          "startSeconds": 287,
+          "endSeconds": 296,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S18",
+          "note": "Kernkraft emittiert bei der Stromerzeugung keine Treibhausgase"
+        },
+        {
+          "sourceId": "S16",
+          "note": "Emissionsintensität des französischen Stroms 2025: 19,6 g CO2eq/kWh"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A21",
+      "chapter": 5,
+      "kind": "Prognose",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Atomkraft könnte uns helfen, unsere Klimaziele zu erreichen.",
+      "reason": "Einschätzung. Neue Kernkraftwerke würden in Deutschland nach den Bauzeiten der letzten europäischen Projekte frühestens in den 2040er-Jahren Strom liefern; das gesetzliche Ziel der Klimaneutralität gilt für 2045. Das Video selbst behandelt die Bauzeiten im nächsten Kapitel.",
+      "assessmentBasis": "Prognose; nicht als wahr oder falsch bewertbar.",
+      "occurrences": [
+        {
+          "startSeconds": 298,
+          "endSeconds": 302,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A22",
+      "chapter": 5,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Die Internationale Atomenergiebehörde meint sogar, nur mit Atomenergie schaffen wir die Wende hin zur Klimaneutralität.",
+      "reason": "Die Wiedergabe stimmt. In einer Erklärung zur Klimakonferenz COP28 (Dezember 2023) schrieb die IAEA: „Net zero needs nuclear power“, das globale Netto-Null-Ziel sei bis 2050 nur mit erheblichen Investitionen in Kernenergie erreichbar. Zur Einordnung: Die IAEA hat den satzungsmäßigen Auftrag, die friedliche Nutzung der Kernenergie zu fördern; Deutschland plant Klimaneutralität ausdrücklich ohne Kernkraft.",
+      "assessmentBasis": "Abgleich mit der Erklärung der IAEA.",
+      "occurrences": [
+        {
+          "startSeconds": 303,
+          "endSeconds": 310,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S18",
+          "note": "„Net zero needs nuclear power“; Ziel nur mit Investitionen in Kernenergie erreichbar"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A23",
+      "chapter": 6,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Die drei neuesten Reaktoren in der EU sind Flamanville 3 (Frankreich), Olkiluoto 3 (Finnland) und Mochovce 3 (Slowakei).",
+      "reason": "Stimmt für den Zeitpunkt des Videos. Olkiluoto 3 und Mochovce 3 gingen 2023 in Betrieb, Flamanville 3 Ende 2024. Nach Veröffentlichung des Videos kam Mochovce 4 hinzu (am Netz seit 15.10.2026).",
+      "assessmentBasis": "Abgleich mit Fachberichten zur Inbetriebnahme.",
+      "occurrences": [
+        {
+          "startSeconds": 323,
+          "endSeconds": 330,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S19",
+          "note": "Flamanville 3 am Netz seit 21.12.2024"
+        },
+        {
+          "sourceId": "S20",
+          "note": "Olkiluoto 3 regulär in Betrieb seit April 2023"
+        },
+        {
+          "sourceId": "S21",
+          "note": "Mochovce 4 am Netz seit 15.10.2026"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A24",
+      "chapter": 6,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Geplant waren rund 5 Jahre Bauzeit für Flamanville und rund 4 Jahre für Olkiluoto 3 und Mochovce 3; tatsächlich verspätete sich Flamanville um 12 Jahre, Olkiluoto um 14 Jahre, und Mochovce 3 ging erst 36 Jahre nach Baubeginn ans Netz.",
+      "reason": "Stimmt. Flamanville 3: Baubeginn Dezember 2007, Start ursprünglich für 2012 geplant, ans Netz im Dezember 2024 (laut Rechnungshof zwölf Jahre Verspätung). Olkiluoto 3: Baubeginn 2005 mit vier Jahren geplanter Bauzeit, regulärer Betrieb erst ab April 2023. Mochovce 3 und 4: Baubeginn 1986, Arbeiten 1992 bis 2008 gestoppt; Block 3 ging 2023 ans Netz. Bei Mochovce lag die lange Dauer also vor allem an einem 16-jährigen Baustopp, nicht nur an Verzögerungen auf der Baustelle.",
+      "assessmentBasis": "Abgleich mit Fachberichten und Zusammenfassungen des französischen Rechnungshofs.",
+      "occurrences": [
+        {
+          "startSeconds": 327,
+          "endSeconds": 359,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S19",
+          "note": "Flamanville 3: Baubeginn 12/2007, ans Netz 12/2024"
+        },
+        {
+          "sourceId": "S25",
+          "note": "Flamanville: zwölf Jahre Verspätung"
+        },
+        {
+          "sourceId": "S20",
+          "note": "Olkiluoto 3: regulärer Betrieb ab 16.04.2023"
+        },
+        {
+          "sourceId": "S22",
+          "note": "Olkiluoto 3: aus vier Jahren Bauzeit wurden 18"
+        },
+        {
+          "sourceId": "S21",
+          "note": "Mochovce 3/4: Baubeginn 1986, Stopp 1992, Wiederaufnahme 2008"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A25",
+      "chapter": 6,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Der Berliner Flughafen BER war mit neun Jahren Verspätung vergleichsweise pünktlich; statt 2011 wurde er 2020 eröffnet.",
+      "reason": "Stimmt. Der BER sollte beim ersten Spatenstich 2006 im Oktober 2011 eröffnen und wurde am 31.10.2020 in Betrieb genommen.",
+      "assessmentBasis": "Abgleich mit der dokumentierten Baugeschichte.",
+      "occurrences": [
+        {
+          "startSeconds": 363,
+          "endSeconds": 380,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S34",
+          "note": "Eröffnung geplant für Oktober 2011, tatsächlich 31.10.2020"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A26",
+      "chapter": 6,
+      "kind": "Prognose",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Wie schnell Deutschland überhaupt neue Atomkraftwerke bauen könnte, ist völlig unklar.",
+      "reason": "Einschätzung, gestützt auf die Erfahrungen mit den letzten europäischen Neubauten.",
+      "assessmentBasis": "Prognose; nicht als wahr oder falsch bewertbar.",
+      "occurrences": [
+        {
+          "startSeconds": 380,
+          "endSeconds": 386,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A27",
+      "chapter": 7,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "description": "Die Kosten für Brennstäbe und Betrieb von Atomstrom liegen bei 3 bis 6 Cent pro Kilowattstunde.",
+      "reason": "Die Spanne ließ sich keiner der im Video genannten Quellen eindeutig zuordnen. Veröffentlichte Werte für reine Betriebskosten liegen eher darunter: Laut IEA/NEA (2020) betragen sie in Frankreich rund 14 US-Dollar je MWh (gut 1 Cent je kWh), in Japan rund 26 US-Dollar (gut 2 Cent). Abgeschriebene Altanlagen kommen inklusive Nachrüstung auf etwa 2,4 bis 2,7 Cent. Die Größenordnung „billig im Betrieb“ stimmt, die genaue Spanne ist nicht belegt.",
+      "assessmentBasis": "Abgleich mit der Bundestagsausarbeitung (in der Videobeschreibung verlinkt), die mehrere Kostenstudien vergleicht.",
+      "occurrences": [
+        {
+          "startSeconds": 395,
+          "endSeconds": 410,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S24",
+          "note": "Betriebskosten Frankreich 14,26 USD/MWh, Japan 25,84 USD/MWh (IEA/NEA 2020); LCOE abgeschriebener AKW ca. 2,4–2,7 ct/kWh"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A28",
+      "chapter": 7,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "description": "Zum Vergleich: Solarenergie kostet zwischen 4 und 12 Cent pro Kilowattstunde.",
+      "reason": "Die Spanne ist etwas zu eng, vor allem aber ist der Vergleich schief. Laut Fraunhofer ISE (2024) liegen die Stromgestehungskosten von Photovoltaik zwischen 4,1 und 14,4 Cent je kWh. Das sind Vollkosten einschließlich Bau. Das Video stellt sie den reinen Betriebskosten von Atomstrom gegenüber; dadurch wirkt Atomstrom zunächst billiger als Solarstrom. Das Video korrigiert den Eindruck einige Sekunden später, indem es die Baukosten hinzunimmt.",
+      "assessmentBasis": "Abgleich mit der Fraunhofer-Studie (in der Videobeschreibung verlinkt).",
+      "occurrences": [
+        {
+          "startSeconds": 407,
+          "endSeconds": 410,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S23",
+          "note": "PV-Stromgestehungskosten 2024: 4,1–14,4 ct/kWh"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A29",
+      "chapter": 7,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Für Flamanville waren ursprünglich 3,3 Milliarden Euro veranschlagt; durch die Verzögerungen stiegen die Kosten auf 23,7 Milliarden Euro, siebenmal so viel.",
+      "reason": "Stimmt. Laut französischem Rechnungshof (Januar 2025) stiegen die Kosten von 3,3 Mrd. Euro (Schätzung 2007) auf 23,7 Mrd. Euro (Stand 2023), also gut das Siebenfache. Zum Kontext: Die 23,7 Mrd. enthalten Finanzierungskosten und sind in Preisen von 2023 gerechnet; als Gründe nennt der Rechnungshof Verzögerungen, technische Änderungen und Inflation.",
+      "assessmentBasis": "Abgleich mit Berichten über den Rechnungshofbericht.",
+      "occurrences": [
+        {
+          "startSeconds": 424,
+          "endSeconds": 440,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S25",
+          "note": "Kosten von 3,3 Mrd. € (2007) auf 23,7 Mrd. € (2023)"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A30",
+      "chapter": 7,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Mit den Baukosten liegen die Stromgestehungskosten von Atomstrom zwischen 13 und maximal 49 Cent pro Kilowattstunde (Modellrechnung des Fraunhofer-Instituts).",
+      "reason": "Stimmt. Fraunhofer ISE beziffert die Stromgestehungskosten neu gebauter Kernkraftwerke auf 13,6 bis 49,0 Cent je kWh. Die Spanne hängt vor allem von den angenommenen Volllaststunden und Baukosten ab. Andere Studien kommen auf niedrigere Werte; das Video kennzeichnet die Zahl korrekt als Modellrechnung.",
+      "assessmentBasis": "Abgleich mit der Fraunhofer-Studie und dem Studienvergleich der Bundestagsverwaltung.",
+      "occurrences": [
+        {
+          "startSeconds": 445,
+          "endSeconds": 463,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S23",
+          "note": "Kernkraft-Neubau: 13,6–49,0 ct/kWh"
+        },
+        {
+          "sourceId": "S24",
+          "note": "Große Spannbreite der LCOE-Werte je nach Studie"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A31",
+      "chapter": 7,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "In dieser Rechnung sind die Kosten für den Atommüll noch nicht enthalten.",
+      "reason": "Stimmt. Fraunhofer ISE weist ausdrücklich darauf hin, dass externalisierte Kosten wie die Endlagerung der ausgebrannten Brennstäbe nicht berücksichtigt sind.",
+      "assessmentBasis": "Abgleich mit der Fraunhofer-Studie.",
+      "occurrences": [
+        {
+          "startSeconds": 463,
+          "endSeconds": 470,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S23",
+          "note": "Endlagerung in den Stromgestehungskosten nicht berücksichtigt"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A32",
+      "chapter": 8,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Bis heute hat nur Finnland ein sicheres Endlager gebaut, eingeschlossen in Granit in rund 420 Metern Tiefe.",
+      "reason": "Stimmt. Das finnische Endlager Onkalo ist das erste fertig gebaute Tiefenlager für hochradioaktiven Abfall; es liegt im kristallinen Grundgebirge in gut 400 Metern Tiefe (meist werden etwa 430 m genannt). Die Betriebsgenehmigung erhielt es am 22.10.2026, also nach dem Video; mit der Einlagerung wurde noch nicht begonnen. „Sicher“ beruht auf der Sicherheitsbewertung der finnischen Aufsicht.",
+      "assessmentBasis": "Abgleich mit Berichten zur Genehmigung.",
+      "occurrences": [
+        {
+          "startSeconds": 472,
+          "endSeconds": 483,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S26",
+          "note": "Onkalo: weltweit erste Betriebsgenehmigung für ein Tiefenlager, 22.10.2026"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A33",
+      "chapter": 8,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Der Müll wird noch eine Million Jahre lang strahlen.",
+      "reason": "Stimmt als Größenordnung. Das deutsche Standortauswahlgesetz verlangt deshalb die bestmögliche Sicherheit für einen Zeitraum von einer Million Jahren.",
+      "assessmentBasis": "Abgleich mit den gesetzlichen Anforderungen an ein Endlager.",
+      "occurrences": [
+        {
+          "startSeconds": 483,
+          "endSeconds": 487,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S32",
+          "note": "Bestmögliche Sicherheit für eine Million Jahre"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A34",
+      "chapter": 8,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "In allen anderen Ländern fehlt ein solches Endlager, auch in Deutschland; der Atommüll liegt in Zwischenlagern.",
+      "reason": "Stimmt. In Deutschland läuft die Standortsuche noch; der ursprüngliche Zeitplan (Entscheidung 2031) ist aufgegeben, ein Gutachten im Auftrag des BASE hält eine Entscheidung erst ab 2074 für realistisch. Bis dahin lagern die Abfälle in Zwischenlagern.",
+      "assessmentBasis": "Abgleich mit Angaben des Bundesumweltministeriums und Berichten zur Endlagersuche.",
+      "occurrences": [
+        {
+          "startSeconds": 487,
+          "endSeconds": 494,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S27",
+          "note": "Zwischen- und Endlagerung liegt beim Bund"
+        },
+        {
+          "sourceId": "S33",
+          "note": "Standortentscheidung frühestens 2074; Zeitplan 2031 nicht haltbar"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A35",
+      "chapter": 8,
+      "kind": "Meinung",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Kein Bundesland will den Atommüll haben.",
+      "reason": "Zugespitzte Wertung. Einige Landesregierungen haben sich gegen ein Endlager auf ihrem Gebiet ausgesprochen; das Verfahren bezieht aber per Gesetz alle Bundesländer ein („weiße Landkarte“).",
+      "assessmentBasis": "Wertung; nicht als wahr oder falsch bewertbar.",
+      "occurrences": [
+        {
+          "startSeconds": 494,
+          "endSeconds": 496,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S32",
+          "note": "Standortsuche startet von einer weißen Landkarte, alle Bundesländer einbezogen"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A36",
+      "chapter": 8,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Die Kosten für den Atommüll landen am Ende beim Steuerzahler, auch wenn sie nicht auf der Stromrechnung auftauchen.",
+      "reason": "Teilweise richtig. Die Betreiber haben 2017 rund 24,1 Mrd. Euro (inklusive Risikoaufschlag) in den staatlichen Entsorgungsfonds KENFO eingezahlt; damit ging die Verantwortung für Zwischen- und Endlagerung auf den Bund über. Reicht das Geld samt Erträgen nicht, trägt der Staat den Rest. Teile der Kosten haben also die Stromkunden über die früheren Rückstellungen der Betreiber bezahlt; das Risiko weiterer Kosten liegt beim Steuerzahler.",
+      "assessmentBasis": "Abgleich mit dem Kostenbericht des Bundesumweltministeriums.",
+      "occurrences": [
+        {
+          "startSeconds": 506,
+          "endSeconds": 512,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S27",
+          "note": "Betreiber zahlten am 03.07.2017 rund 24,1 Mrd. € an den KENFO; Verantwortung ging auf den Bund über"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A37",
+      "chapter": 8,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Die Kosten einer nuklearen Katastrophe lassen sich in dieser Rechnung gar nicht berücksichtigen.",
+      "reason": "Stimmt für die gezeigte Rechnung: Die Stromgestehungskosten von Fraunhofer ISE enthalten keine externen Kosten wie Unfallrisiken. Ältere Studien versuchen solche Kosten zu schätzen, kommen aber zu sehr unterschiedlichen Werten.",
+      "assessmentBasis": "Abgleich mit der Fraunhofer-Studie und dem Studienvergleich der Bundestagsverwaltung.",
+      "occurrences": [
+        {
+          "startSeconds": 512,
+          "endSeconds": 520,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S23",
+          "note": "Externalisierte Kosten nicht berücksichtigt"
+        },
+        {
+          "sourceId": "S24",
+          "note": "Externe Kosten der Kernenergie je nach Studie stark schwankend"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A38",
+      "chapter": 9,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Small Modular Reactors sind deutlich kleinere Reaktoren, die in Serie produziert und vorab im Werk zusammengebaut werden sollen.",
+      "reason": "Stimmt als Beschreibung des Konzepts. SMR sind meist bis 300 MW elektrisch groß und sollen modular in Fabriken gefertigt werden; Serienfertigung gibt es bisher nicht.",
+      "assessmentBasis": "Abgleich mit der Definition der World Nuclear Association.",
+      "occurrences": [
+        {
+          "startSeconds": 552,
+          "endSeconds": 563,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S30",
+          "note": "Akademik Lomonosov als erstes SMR"
+        },
+        {
+          "sourceId": "S29",
+          "note": "Bisher nur zwei SMR-Designs in kommerziellem Betrieb"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A39",
+      "chapter": 9,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "EU-Kommissionspräsidentin von der Leyen hat angekündigt, dass Europa die Entwicklung kleiner Reaktoren mit 200 Millionen Euro unterstützen will; Anfang der 2030er-Jahre sollen in der EU die ersten an den Start gehen.",
+      "reason": "Stimmt. Von der Leyen kündigte am 10.03.2026 eine Garantie über 200 Mio. Euro aus dem Emissionshandel für private Investitionen in innovative Nukleartechnik an, zusammen mit einer EU-Strategie, die SMR bis Anfang der 2030er-Jahre in Betrieb sehen will. Es handelt sich um eine Garantie für private Investitionen, nicht um direkte Förderung, und um ein Ziel, keinen Zeitplan konkreter Projekte.",
+      "assessmentBasis": "Abgleich mit Fachberichten über die Ankündigung.",
+      "occurrences": [
+        {
+          "startSeconds": 573,
+          "endSeconds": 590,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S28",
+          "note": "EUR 200 Mio. Garantie aus dem ETS; SMR in Europa bis Anfang der 2030er"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A40",
+      "chapter": 9,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Nach Angaben der World Nuclear Association sind weltweit bisher nur zwei SMR überhaupt in Betrieb.",
+      "reason": "Stimmt. In kommerziellem Betrieb sind das schwimmende Kraftwerk Akademik Lomonosov in Russland (seit 2019, zwei Reaktoren) und der Hochtemperaturreaktor HTR-PM in China. Der chinesische Linglong One befand sich im Sommer 2026 noch in Inbetriebnahmetests.",
+      "assessmentBasis": "Abgleich mit Angaben der WNA und Fachberichten.",
+      "occurrences": [
+        {
+          "startSeconds": 591,
+          "endSeconds": 597,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S30",
+          "note": "Akademik Lomonosov seit Dezember 2019 in Betrieb"
+        },
+        {
+          "sourceId": "S29",
+          "note": "Nur zwei SMR-Designs in kommerziellem Betrieb"
+        },
+        {
+          "sourceId": "S31",
+          "note": "Linglong One noch in Inbetriebnahmetests"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A41",
+      "chapter": 9,
+      "kind": "Prognose",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Ob es SMR jemals in großer Zahl geben wird und ob sie bei Bauzeit oder Kosten besser abschneiden als normale Kernkraftwerke, kann aktuell niemand seriös sagen.",
+      "reason": "Einschätzung; entspricht dem Stand, dass es bisher keine Serienfertigung und kaum Betriebserfahrung gibt.",
+      "assessmentBasis": "Prognose; nicht als wahr oder falsch bewertbar.",
+      "occurrences": [
+        {
+          "startSeconds": 597,
+          "endSeconds": 606,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A42",
+      "chapter": 10,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Die früheren Betreiber winken ab, zum Beispiel sagt EnBW, dass sich Atomkraft nicht rechnet.",
+      "reason": "Stimmt für EnBW. Der Konzern schreibt, Atomstrom gehöre mit bis zu 49 Cent je kWh zu den teuersten Formen der Stromerzeugung, ein Neustart sei wirtschaftlich nicht sinnvoll. Für die anderen früheren Betreiber haben wir keine eigenen Belege geprüft.",
+      "assessmentBasis": "Abgleich mit der Veröffentlichung von EnBW (in der Videobeschreibung verlinkt).",
+      "occurrences": [
+        {
+          "startSeconds": 618,
+          "endSeconds": 628,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S22",
+          "note": "„Drei Gründe, warum sich Kernkraft nicht rechnet“; Neustart wirtschaftlich nicht sinnvoll"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "5UboW16rU1w-A43",
+      "chapter": 10,
+      "kind": "Meinung",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Die Kosten für Bau, Versicherung und Endlagerung will keiner tragen; ein Wiedereinstieg wäre eine rein politische Entscheidung, bei der der Staat und damit alle die Risiken tragen müssten. Das würde lange dauern und teuer werden.",
+      "reason": "Schlussfolgerung des Moderators aus den vorher genannten Fakten. Dass Neubauten lange dauern und teuer sind, belegen die geprüften Beispiele; ob ein Wiedereinstieg sich trotzdem lohnt, ist eine politische Abwägung.",
+      "assessmentBasis": "Wertung und Prognose; nicht als wahr oder falsch bewertbar.",
+      "occurrences": [
+        {
+          "startSeconds": 626,
+          "endSeconds": 648,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Moderationsstimme des Videos; laut Videobeschreibung Host Florian Neuhann.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    }
+  ]
+}

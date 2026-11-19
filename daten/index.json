@@ -4,6 +4,40 @@
   "repository": "4m3projects/politik4m3FaktencheckKlima",
   "videos": [
     {
+      "id": "5UboW16rU1w",
+      "title": "Lohnt sich Atomkraft? Der Reality-Check | Wirtschaft erklärt",
+      "structured": true,
+      "rhetoric": false,
+      "files": [
+        "README.md",
+        "kapitel/01_zurueck-zur-atomkraft.md",
+        "kapitel/02_stromverbrauch.md",
+        "kapitel/03_comeback-im-ausland.md",
+        "kapitel/04_versorgungssicherheit.md",
+        "kapitel/05_unabhaengigkeit-klima.md",
+        "kapitel/06_bauzeit.md",
+        "kapitel/07_kosten.md",
+        "kapitel/08_atommuell.md",
+        "kapitel/09_small-modular-reactors.md",
+        "kapitel/10_bilanz.md"
+      ],
+      "video": {
+        "schemaVersion": 1,
+        "videoId": "5UboW16rU1w",
+        "role": "original",
+        "channel": "ZDFheute Nachrichten",
+        "title": "Lohnt sich Atomkraft? Der Reality-Check | Wirtschaft erklärt",
+        "videoUrl": "https://www.youtube.com/watch?v=5UboW16rU1w",
+        "workStatus": "Abgeschlossen",
+        "format": "video",
+        "identification": {
+          "basis": "Video-ID, Titel, Kanal und Upload-Datum aus den direkt abgerufenen YouTube-Metadaten (yt-dlp).",
+          "certainty": "Belegt",
+          "checkedOn": "2026-11-19"
+        }
+      }
+    },
+    {
       "id": "LWQUaGxUmxk",
       "title": "365 Meter: Das höchste Windrad der Welt geht in Deutschland ans Netz!",
       "structured": true,
