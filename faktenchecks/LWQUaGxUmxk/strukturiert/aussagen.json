@@ -1,0 +1,1342 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "videoId": "LWQUaGxUmxk",
+    "videoUrl": "https://www.youtube.com/watch?v=LWQUaGxUmxk",
+    "kind": "Vollerfassung",
+    "asOf": "2026-11-19",
+    "durationSeconds": 713,
+    "coverageNote": "Recherche abgeschlossen (Stand 19.11.2026): Alle Sach- und Meinungsaussagen des Videos sind erfasst und eingeordnet. Werbeteile (WAGO-Stiftung, Livestream-Ankündigung) sind nicht Gegenstand der Prüfung. Neue Betriebsdaten der Anlage können Einordnungen zum Mehrertrag später ändern.",
+    "researchNote": "Transkript aus den automatisch erzeugten deutschen YouTube-Untertiteln. Geprüft mit Projektangaben von SPRIND/GICON (inkl. Messmast-Auswertung), der Ausbaustatistik der Fachagentur Wind und Solar, der Kostenstudie der Deutschen WindGuard sowie Presseberichten (ZDF, dpa, Fachmedien). Viele Angaben zur Anlage stammen ursprünglich vom Bauherrn; wo das so ist, steht es dabei."
+  },
+  "speakers": [
+    {
+      "id": "SP1",
+      "name": "Jacob Beautemps",
+      "videoRole": "Moderator (Breaking Lab)",
+      "identityBasis": "Stellt sich in der Videobeschreibung als Moderator vor."
+    }
+  ],
+  "sources": [
+    {
+      "id": "S01",
+      "title": "SPRIND Magazin: Höhenwindrad erreicht Rekordhöhe",
+      "url": "https://www.sprind.org/worte/magazin/hoehenwindrad-rekord",
+      "details": "Bundesagentur für Sprunginnovationen, 29.09.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S02",
+      "title": "SPRIND Projekt beventum (Höhenwindenergieanlage)",
+      "url": "https://www.sprind.org/taten/projekte/beventum",
+      "details": "Bundesagentur für Sprunginnovationen, Projektseite, ohne Datum",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S03",
+      "title": "Analyse der Windbedingungen in 300 m Höhe am Standort Schipkau anhand der Daten des Messmastes",
+      "url": "https://cms.system.sprind.org/uploads/Analyse_der_Windbedingungen_in_300_m_Hoehe_am_Standort_Schipkau_anhand_der_Daten_des_Messmastes_d6e807ee10.pdf",
+      "details": "GICON, BEVENTUM, SPRIND; Auswertung der Mast- und LIDAR-Daten (Tabellen 2, 5, 6)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "PDF direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S04",
+      "title": "ZDFheute: Höchstes Windrad der Welt in der Lausitz steht",
+      "url": "https://www.zdfheute.de/panorama/rekord-hoechstes-windrad-schipkau-brandenburg-100.html",
+      "details": "ZDF, 29.09.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S05",
+      "title": "energiezukunft: Weltrekord bei 365 Metern",
+      "url": "https://www.energiezukunft.eu/erneuerbare-energien/windenergie/weltrekord-bei-365-metern",
+      "details": "energiezukunft, 30.09.2026; mit Einschätzung von Christoph Winkler (Forschungszentrum Jülich)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S06",
+      "title": "ERNEUERBARE ENERGIEN: Baustelle für 360-Meter-Höhenwindrad eröffnet",
+      "url": "https://www.erneuerbareenergien.de/technologie/onshore-wind/baustelle-fuer-360-meter-hoehenwindrad-eroeffnet",
+      "details": "Tilman Weber, 22.09.2024 (Planungsstand vor dem Bau)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S07",
+      "title": "wissenschaft.de: Was bringen Höhenwindtürme für die Windenergie?",
+      "url": "https://wissenschaft.de/artikel/hintergrund-was-bringen-hoehenwindtuerme-fuer-die-windenergie",
+      "details": "Nadja Podbregar, 01.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S08",
+      "title": "Schwäbische: In der Lausitz – Liebherr-Kran baut die höchste Windkraftanlage der Welt",
+      "url": "https://www.schwaebische.de/regional/ulm-alb-donau/ehingen/in-der-lausitz-liebherr-kran-baut-die-hoechste-windkraftanlage-der-welt-4950251",
+      "details": "Schwäbische Zeitung, 20.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S09",
+      "title": "Ostdeutsche Allgemeine: Weltrekord in Brandenburg – 365-Meter-Windrad produziert jetzt Strom",
+      "url": "https://ostdeutscheallgemeine.com/article/hoechstes-windrad-welt-brandenburg-schipkau-10613311",
+      "details": "Carola Tunk, 19.11.2026 (Update)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S10",
+      "title": "Niederlausitz aktuell: Weltgrößtes Windrad in Schipkau offiziell am Netz",
+      "url": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/oberspreewald-lausitz/schipkau/333055/weltgroesstes-windrad-in-schipkau-offiziell-am-netz.html",
+      "details": "Benjamin Kühn, 19.11.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S11",
+      "title": "cleanthinking: Der Höhenwindturm in der Lausitz stellt den Windrad-Weltrekord auf",
+      "url": "https://www.cleanthinking.de/windrad-weltrekord-gicon-hoehenwindrad/",
+      "details": "Martin Jendrischik, 29.09.2026, aktualisiert 19.10.2026; zitiert Stefan Emeis (KIT) und Christoph Winkler (FZ Jülich)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S12",
+      "title": "Berliner Kurier: Er baute am Fernsehturm mit – DDR-Genie entwickelt größtes Windrad der Welt",
+      "url": "https://www.berliner-kurier.de/berlin/brandenburg/er-baute-am-fernsehturm-mit-ddr-genie-entwickelt-groesstes-windrad-der-welt-li.2284682",
+      "details": "Stefan Henseke (mit dpa), 27.12.2024 (Planungsstand)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S13",
+      "title": "Volksstimme (dpa): Rekord-Windrad in der Lausitz – Praxistest steht noch bevor",
+      "url": "https://www.volksstimme.de/panorama/rekord-windrad-in-der-lausitz-praxistest-steht-noch-bevor-4329776",
+      "details": "dpa, aktualisiert 01.10.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S14",
+      "title": "Fachagentur Wind und Solar: Status des Windenergieausbaus an Land, Jahr 2025",
+      "url": "https://www.fachagentur-wind-solar.de/fileadmin/Veroeffentlichungen/Wind/Analysen/FA_Wind_Solar_Status_des_Windenergieausbaus_an_Land_Jahr_2025.pdf",
+      "details": "Jürgen Quentin, 15.01.2026; Tabelle 2 und Abschnitt 1.2 (S. 8–9)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "PDF direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S15",
+      "title": "Fachagentur Wind und Solar: Status des Windenergieausbaus an Land, 1. Halbjahr 2026",
+      "url": "https://lee-nds-hb.de/wp-content/uploads/2026/07/Factsheet_Status_des_Windenergieausbaus_an_Land_Halbjahr_2026_DE.pdf",
+      "details": "23.07.2026; Tabelle 2 und Abschnitt 1.2 (S. 8–9)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "PDF direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S16",
+      "title": "Deutsche WindGuard: Kostensituation der Windenergie an Land, Stand 2024",
+      "url": "https://www.harztor.de/wp-content/uploads/2025/05/Kostensituation-der-Windenergie-an-Land-Stand-2024.pdf",
+      "details": "Bericht SP24011A1 im Auftrag des BMWK, 01.10.2024, korrigiert 02.12.2024; S. 12–20 (Kopie auf harztor.de)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "PDF direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S17",
+      "title": "heise: 26 Megawatt – China nimmt leistungsstärkstes Windrad der Welt in Betrieb",
+      "url": "https://heise.de/-10630181",
+      "details": "heise online, 2025 (Installation ca. Anfang September 2025)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S18",
+      "title": "offshoreWIND.biz: Offshore Wind Turbines in 2025",
+      "url": "https://www.offshorewind.biz/2026/01/01/offshore-wind-turbines-in-2025-china-continues-leading-in-single-unit-capacity-vestass-15-mw-turbine-installed-at-offshore-wind-farms/",
+      "details": "offshoreWIND.biz, 01.01.2026; u. a. erste Vestas V236-15.0 MW im Projekt He Dreiht (24.04.2025)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S19",
+      "title": "Kaup: Physik der Windenergie (Vorlesungsfolien)",
+      "url": "https://www.umwelt-campus.de/fileadmin/Umwelt-Campus/User/CKaup/Windenergie.pdf",
+      "details": "Prof. Dr.-Ing. Christoph Kaup, Umwelt-Campus Birkenfeld (Hochschule Trier); Folien W 28–W 34",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "PDF direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S20",
+      "title": "wetterdienst.de: Die Kraft des Windes",
+      "url": "https://www.wetterdienst.de/Deutschlandwetter/Thema_des_Tages/1798/die-kraft-des-windes",
+      "details": "Magdalena Bertelmann, Thema des Tages, 15.06.2015",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S21",
+      "title": "deutschland.de (dpa): Höhenwindrad in Schipkau",
+      "url": "https://www.deutschland.de/de/topic/wirtschaft/hoehenwindrad-schipkau-lausitz",
+      "details": "Klaus Lüber, 30.09.2026",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S23",
+      "title": "SPRIND: Feierliche Einweihung des höchsten Windmessmasts der Welt",
+      "url": "https://www.sprind.org/en/articles/inauguration-wind-measuring-mast-beventum",
+      "details": "Bundesagentur für Sprunginnovationen, 05.05.2023",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S24",
+      "title": "EnBW: Windkraftanlagen – Aufbau, Leistung und Ertrag",
+      "url": "https://www.enbw.com/unternehmen/themen/windkraft/windkraftanlagen.html",
+      "details": "EnBW Energie Baden-Württemberg, Stand der Daten März 2026 (in der Videobeschreibung als Quelle 17 genannt)",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "S22",
+      "title": "top agrar: 93-Jähriger erfand Höhenwindrad mit 300 m Nabenhöhe",
+      "url": "https://www.topagrar.com/energie/news/93-jahriger-erfand-hohenwindrad-mit-300-m-narbenhohe-a-20015906.html",
+      "details": "Alfons Deter, 06.07.2025",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Webseite direkt abgerufen und gelesen"
+    }
+  ],
+  "claims": [
+    {
+      "id": "LWQUaGxUmxk-A01",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Das 365 Meter hohe Windrad in Schipkau (Lausitz) ist das höchste Windrad der Welt und geht am Tag der Videoveröffentlichung (19.11.2026) ans Stromnetz.",
+      "reason": "Stimmt. Die Anlage hat am 28.09.2026 ihre Endhöhe von 365 m erreicht; eine höhere Windenergieanlage ist nicht bekannt. Bisher höchste Serienanlage war Winnberg (Oberpfalz) mit 285 m Gesamthöhe, die chinesische 26-MW-Anlage von Dongfang erreicht etwa 340 m. Am 19.11.2026 wurde die Anlage offiziell in Betrieb genommen; laut Gicon speist sie Strom ein. Der Rekordtitel stammt vom Bauherrn, wird aber auch vom Bundesverband Windenergie so gesehen.",
+      "assessmentBasis": "Abgleich mit Projektangaben (SPRIND), mehreren Presseberichten vom Tag der Inbetriebnahme und Daten zu den bisher höchsten bzw. größten Anlagen.",
+      "occurrences": [
+        {
+          "startSeconds": 1,
+          "endSeconds": 9,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        },
+        {
+          "startSeconds": 382,
+          "endSeconds": 388,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle.",
+          "note": "Wiederholung: „genau heute … ist das Windrad ans Netz gegangen“"
+        },
+        {
+          "startSeconds": 646,
+          "endSeconds": 650,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle.",
+          "note": "Wiederholung im Fazit: Weltrekord"
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S01",
+          "note": "Endhöhe 365 m, Nabenhöhe 300 m"
+        },
+        {
+          "sourceId": "S04",
+          "note": "Bisher höchste Serienanlage Winnberg, 285 m; BWE bestätigt Rekord"
+        },
+        {
+          "sourceId": "S09",
+          "note": "Offizielle Inbetriebnahme am 19.11.2026, Strom wird eingespeist (laut Gicon)"
+        },
+        {
+          "sourceId": "S10",
+          "note": "Feier zur Inbetriebnahme am 19.11.2026"
+        },
+        {
+          "sourceId": "S17",
+          "note": "Dongfang 26 MW: Gondel in 185 m Höhe, Rotor 310 m Durchmesser"
+        },
+        {
+          "sourceId": "S11",
+          "note": "Winnberg: 199 m Nabenhöhe, 285 m Gesamthöhe"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A02",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Das Windrad ist insgesamt 365 Meter hoch und damit nur 3 Meter niedriger als der Berliner Fernsehturm.",
+      "reason": "Stimmt. Gesamthöhe 365 m (SPRIND, dpa); der Berliner Fernsehturm ist 368 m hoch, die Differenz beträgt 3 m.",
+      "assessmentBasis": "Projektangaben und mehrere Presseberichte, die beide Höhen nennen.",
+      "occurrences": [
+        {
+          "startSeconds": 9,
+          "endSeconds": 14,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S01",
+          "note": "365 m Endhöhe"
+        },
+        {
+          "sourceId": "S05",
+          "note": "Fernsehturm 368 m als einziges höheres Bauwerk in Deutschland"
+        },
+        {
+          "sourceId": "S10",
+          "note": "„nur drei Meter niedriger“"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A03",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Durch seine Höhe soll das Windrad mehr als doppelt so viel Strom erzeugen können wie ein herkömmliches Windrad mit gleichem Rotordurchmesser.",
+      "reason": "Die Angabe stammt vom Entwickler Gicon und wird im Video mit „soll“ als Erwartung gekennzeichnet. Die veröffentlichte Auswertung des 300-m-Messmasts ergibt aber für eine Beispielanlage rund 63 % mehr Jahresertrag in 300 m gegenüber 150 m Nabenhöhe, nicht mehr als 100 %. Ein Experte des Forschungszentrums Jülich hält rund 60 % Mehrertrag für plausibel. Gemessene Betriebsdaten der Anlage gibt es noch nicht. Die Verdopplung ist also ein Unternehmensziel, das die bisherigen Messdaten nicht stützen.",
+      "assessmentBasis": "Vergleich der Unternehmensangabe mit der Messmast-Auswertung von SPRIND/GICON und einer unabhängigen Experteneinschätzung.",
+      "occurrences": [
+        {
+          "startSeconds": 14,
+          "endSeconds": 21,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S04",
+          "note": "Gicon: „mehr als den doppelten Energieertrag“ bei gleichem Rotordurchmesser"
+        },
+        {
+          "sourceId": "S02",
+          "note": "Ziel der beventum: Energie aus Wind verdoppeln"
+        },
+        {
+          "sourceId": "S03",
+          "note": "Kapitel 7, Tabelle 5: Brutto-Jahresertrag +63,4 % von 150 m auf 300 m (Beispiel Vestas V164)"
+        },
+        {
+          "sourceId": "S05",
+          "note": "Winkler (FZ Jülich): rund 60 % Mehrertrag grundsätzlich plausibel"
+        },
+        {
+          "sourceId": "S11",
+          "note": "Emeis (KIT): „gut 60 Prozent mehr Strom“; unabhängig gemessen noch nicht"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A04",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Am 300 Meter hohen Windmessmast hängt alle 25 Meter ein Messgerät; insgesamt maßen 46 Messinstrumente.",
+      "reason": "Stimmt im Kern. Die SPRIND nennt bei der Einweihung im Mai 2023 ausdrücklich 46 Messgeräte am 300 m hohen Mast. Die Auswertung der Messdaten nennt Messhöhen von 25 m bis 300 m. Einen festen Abstand von genau 25 m haben wir nicht ausdrücklich gefunden; die Angabe stammt aus einer Szene vor Ort und widerspricht den Quellen nicht.",
+      "assessmentBasis": "Projektangaben zur Einweihung und technische Auswertung des Messmastes.",
+      "occurrences": [
+        {
+          "startSeconds": 31,
+          "endSeconds": 36,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        },
+        {
+          "startSeconds": 213,
+          "endSeconds": 217,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle.",
+          "note": "Zweite Stelle: „Messungen mit 46 Messinstrumenten“"
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S23",
+          "note": "„equipped with 46 measuring devices“; Messbetrieb seit 4. Mai 2023"
+        },
+        {
+          "sourceId": "S03",
+          "note": "Mastmessung in Höhen von 25 m bis 300 m, ergänzt durch LIDAR"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A05",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Die durchschnittliche Nabenhöhe neuer Windräder liegt bei etwa 146 Metern; vor zehn Jahren lag sie bei 122 Metern.",
+      "reason": "Stimmt. Laut Fachagentur Wind und Solar hatten die 2025 in Deutschland errichteten Anlagen im Mittel 146 m Nabenhöhe; 2015 waren es 122 m (Wert aus der Zeitreihengrafik). Im ersten Halbjahr 2026 stieg der Mittelwert bereits auf 151 m, die Angabe ist also leicht veraltet, aber für das Jahr 2025 korrekt.",
+      "assessmentBasis": "Amtlich beauftragte Ausbaustatistik für Windenergie an Land.",
+      "occurrences": [
+        {
+          "startSeconds": 58,
+          "endSeconds": 71,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S14",
+          "note": "Tabelle 2: Ø Nabenhöhe 146 m (2025); Grafik S. 9: 122 m (2015), Zuwachs „knapp ein Fünftel“"
+        },
+        {
+          "sourceId": "S15",
+          "note": "1. Halbjahr 2026: Ø Nabenhöhe 151 m"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A06",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Das Windrad hat eine Nabenhöhe von 300 Metern und überragt damit alle bisherigen Anlagen.",
+      "reason": "Stimmt. Nabenhöhe 300 m laut SPRIND und Gicon. Die bisher höchste Serienanlage in Winnberg hat 199 m Nabenhöhe, die Gondel der 26-MW-Anlage von Dongfang sitzt in rund 185 m Höhe.",
+      "assessmentBasis": "Projektangaben und Vergleichsdaten der bisher höchsten Anlagen.",
+      "occurrences": [
+        {
+          "startSeconds": 72,
+          "endSeconds": 84,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S01",
+          "note": "Nabenhöhe 300 m"
+        },
+        {
+          "sourceId": "S11",
+          "note": "Winnberg: 199 m Nabenhöhe"
+        },
+        {
+          "sourceId": "S17",
+          "note": "Dongfang: Gondel in 185 m Höhe"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A07",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Der Erfinder Horst Bendix reichte seinen Entwurf 2019 bei einer SPRIND-Challenge ein, war damals 91 Jahre alt und hatte an den Kränen für den Bau des Berliner Fernsehturms mitgewirkt.",
+      "reason": "Im Kern richtig: Bendix reichte seine Idee 2019 bei der SPRIND ein und arbeitete am Bau des Berliner Fernsehturms mit (u. a. Kräne und Kugeldrehverbindung für die Kuppel). Ungenau sind zwei Details: SPRIND spricht von einem eingereichten Projekt, nicht von einer „Challenge“. Und 91 Jahre alt war er laut SPRIND bei der Gründung der beventum im Dezember 2020; da er im Juni 2023 mit 93 Jahren starb, war er 2019 etwa 89. Dass Bendix 2023 gestorben ist und die Anlage nicht mehr erlebt hat, erwähnt das Video nicht.",
+      "assessmentBasis": "Abgleich mit SPRIND-Projektseite und Presseporträts.",
+      "occurrences": [
+        {
+          "startSeconds": 86,
+          "endSeconds": 102,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S02",
+          "note": "2019 Idee bei SPRIND eingereicht; „des damals 91-Jährigen“ im Zusammenhang mit der beventum-Gründung 2020"
+        },
+        {
+          "sourceId": "S12",
+          "note": "Entwarf Kräne für den Fernsehturmbau; starb am 19. Juni 2023 mit 93 Jahren"
+        },
+        {
+          "sourceId": "S22",
+          "note": "Arbeitete am Bau des Fernsehturms mit; gestorben im Juni 2023"
+        },
+        {
+          "sourceId": "S21",
+          "note": "Kugeldrehverbindung für die Fernsehturmkuppel"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A08",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Die im Wind enthaltene Leistung steigt mit der dritten Potenz der Windgeschwindigkeit; doppelte Windgeschwindigkeit bedeutet theoretisch achtfache Leistung, die ein Windrad aber nicht vollständig nutzen kann.",
+      "reason": "Stimmt. Das ist Lehrbuchphysik (P = ½·ρ·A·v³). Der Hinweis auf technische Grenzen ist ebenfalls richtig: Nach dem Betz-Gesetz sind höchstens etwa 59 % nutzbar, moderne Rotoren erreichen rund 50 %.",
+      "assessmentBasis": "Lehrmaterial einer Hochschule und Fachartikel eines Wetterdienstes.",
+      "occurrences": [
+        {
+          "startSeconds": 123,
+          "endSeconds": 146,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S19",
+          "note": "Folie W 29: Windleistung wächst mit der 3. Potenz; Verdopplung ergibt achtfache Windleistung; Betz-Grenze Folie W 32–34"
+        },
+        {
+          "sourceId": "S20",
+          "note": "„steigt mit der dritten Potenz der Windgeschwindigkeit“; Betz 59,3 %"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A09",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "In Bodennähe wird der Wind durch Häuser, Bäume und Landschaft gebremst; in größerer Höhe weht er stärker und gleichmäßiger, das hat die Messung am 300-m-Mast bestätigt.",
+      "reason": "Stimmt. Die Messmast-Auswertung zeigt am Standort im Jahresmittel 6,7 m/s in 150 m und 8,5 m/s in 300 m Höhe; die Stillstandszeiten sinken mit der Höhe. Die SPRIND bezeichnet den Wind in der Höhe als stärker und beständiger.",
+      "assessmentBasis": "Messdaten des 300-m-Mastes und Projektangaben.",
+      "occurrences": [
+        {
+          "startSeconds": 146,
+          "endSeconds": 160,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        },
+        {
+          "startSeconds": 213,
+          "endSeconds": 219,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle.",
+          "note": "Zweite Stelle: Messungen bestätigten stärkeren, verlässlicheren Wind"
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S03",
+          "note": "Tabelle 2: 6,66 m/s (150 m), 7,38 m/s (200 m), 8,51 m/s (300 m)"
+        },
+        {
+          "sourceId": "S01",
+          "note": "Wind in der Höhe „beständiger und verlässlicher“"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A10",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Der Zusammenhang zwischen der Leistung eines Windrads und der Höhe ist logarithmisch.",
+      "reason": "Ungenau. Logarithmisch (oder näherungsweise als Potenzgesetz) wächst mit der Höhe die Windgeschwindigkeit, nicht die Leistung. Weil die Leistung mit der dritten Potenz der Windgeschwindigkeit steigt, wächst sie mit der Höhe deutlich stärker als die Geschwindigkeit. Die Messmast-Auswertung beschreibt das Höhenprofil mit einem Höhenexponenten von rund 0,3 bis 0,36. Die Grundidee „je höher, desto mehr Wind, mit abnehmendem Zuwachs“ ist richtig, die Formulierung vermischt aber Geschwindigkeit und Leistung.",
+      "assessmentBasis": "Physikalische Grundlagen und Messdaten des Höhenprofils.",
+      "occurrences": [
+        {
+          "startSeconds": 160,
+          "endSeconds": 173,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S03",
+          "note": "Höhenexponent 0,357 (Mast) bzw. 0,298 (LIDAR) für die Windgeschwindigkeit"
+        },
+        {
+          "sourceId": "S19",
+          "note": "Leistung proportional zur dritten Potenz der Geschwindigkeit"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A11",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "description": "Laut Prognosen der Unternehmen erreicht man bei gleichem Rotordurchmesser durch die Höhe ca. 10 % mehr Leistung.",
+      "reason": "Diese Zahl findet sich in keiner der gelesenen Quellen. Gicon spricht von etwa doppeltem Ertrag, die Messmast-Auswertung von rund 63 % Mehrertrag (150 m gegenüber 300 m), Experten halten etwa 60 % für plausibel. Die 10 % widersprechen damit den Unternehmensprognosen und auch der eigenen Aussage im Video-Einstieg („mehr als doppelt so viel Strom“). Möglicherweise ist eine andere Größe gemeint; als Prognose zum Mehrertrag ist sie falsch.",
+      "assessmentBasis": "Abgleich mit Unternehmensangaben, Messdaten-Auswertung und Experteneinschätzungen.",
+      "occurrences": [
+        {
+          "startSeconds": 175,
+          "endSeconds": 188,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S04",
+          "note": "Gicon: mehr als doppelter Energieertrag"
+        },
+        {
+          "sourceId": "S03",
+          "note": "Tabelle 5: +63,4 % Brutto-Jahresertrag; 10 % kommt nur als Leistungsklasse vor"
+        },
+        {
+          "sourceId": "S05",
+          "note": "Winkler: rund 60 % plausibel"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A12",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "SPRIND und Gicon errichteten 2022 in Brandenburg einen 300 Meter hohen Windmessmast und sammelten damit zwischen Mai 2023 und Mai 2024 ein Jahr lang Winddaten.",
+      "reason": "Stimmt. Baustart des Messmastes auf der Hochfläche Klettwitz war im Dezember 2022, der Mast misst bis 300 m. Den Messzeitraum gibt die SPRIND mit Mai 2023 bis Mai 2024 an; die technische Auswertung nennt April 2023 bis April 2024. Die kleine Abweichung ändert an der Aussage nichts.",
+      "assessmentBasis": "Projektangaben und technische Auswertung.",
+      "occurrences": [
+        {
+          "startSeconds": 188,
+          "endSeconds": 203,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S01",
+          "note": "2022 errichteten SPRIND und GICON den höchsten Windmessmast; Messung Mai 2023 bis Mai 2024"
+        },
+        {
+          "sourceId": "S02",
+          "note": "Startschuss am 20.12.2022"
+        },
+        {
+          "sourceId": "S03",
+          "note": "Kapitel 1: Auswertung 13.04.2023 bis 12.04.2024"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A13",
+      "chapter": 2,
+      "kind": "Prognose",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Im Vergleich zu herkömmlichen Onshore-Anlagen sollen die Stillstandszeiten geringer werden.",
+      "reason": "Prognose, die durch die Messdaten gestützt wird: In der Modellrechnung der Messmast-Auswertung sinken die Stunden mit Stillstand von 12,3 % (150 m) auf 9,7 % (300 m). Ob das im Betrieb so eintritt, zeigen erst die Betriebsdaten.",
+      "assessmentBasis": "Modellrechnung auf Basis der Messmast-Daten.",
+      "occurrences": [
+        {
+          "startSeconds": 219,
+          "endSeconds": 226,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S03",
+          "note": "Tabelle 6: Standzeiten 1075 h (150 m) gegenüber 850 h (300 m)"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A14",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Der eingesetzte Kran war knapp 200 Meter hoch und für die Endhöhe zu klein; deshalb funktioniert das Windrad beim Bau als sein eigener Kran: Ein Innenturm wird in einem äußeren Gitterturm nach oben gefahren.",
+      "reason": "Stimmt. Ein Liebherr-Raupenkran erreichte mit Rollenkopf rund 200 m, die Rotorblätter wurden in etwa 170 m Höhe montiert. Anschließend wurde der Innenturm mit einem Litzenhubsystem im äußeren Gittermast auf 300 m Nabenhöhe gefahren. Die SPRIND schreibt: „Der Höhenwindturm ist sein eigener Kran.“",
+      "assessmentBasis": "Projektangaben und Bericht zum Krantechnik-Einsatz.",
+      "occurrences": [
+        {
+          "startSeconds": 328,
+          "endSeconds": 369,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S08",
+          "note": "Liebherr LR 11350, Rollenkopf auf 200 m, Blattmontage in ca. 170 m"
+        },
+        {
+          "sourceId": "S01",
+          "note": "Innenturm per Litzenhubsystem, Gittermast als Außengerüst, „sein eigener Kran“"
+        },
+        {
+          "sourceId": "S07",
+          "note": "Teleskopierender Innenturm"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A15",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Wegen starker Windböen mussten die Arbeiten unterbrochen werden; dadurch verzögerte sich das Erreichen der Endhöhe bis September 2026.",
+      "reason": "Stimmt. Ursprünglich war die Endhöhe für den 20. September geplant; Böen unterbrachen die Arbeiten mehrfach. Am 28.09.2026 war die Endhöhe erreicht.",
+      "assessmentBasis": "Mehrere Presseberichte zum Bauverlauf.",
+      "occurrences": [
+        {
+          "startSeconds": 372,
+          "endSeconds": 380,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S04",
+          "note": "Arbeiten wegen starker Windböen gestoppt, Rekordmeldung verschoben"
+        },
+        {
+          "sourceId": "S11",
+          "note": "Geplant 20. September, Böen unterbrachen mehrfach"
+        },
+        {
+          "sourceId": "S13",
+          "note": "Endhöhe am Montag, 28.9."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A16",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Nach Angaben der Projektverantwortlichen soll das Windrad künftig Strom für bis zu 7.500 Haushalte erzeugen können.",
+      "reason": "Richtig wiedergegeben. Die Zahl „bis zu 7.500 Haushalte“ nennen die Projektverantwortlichen; das Video kennzeichnet sie korrekt als deren Angabe. Unabhängig nachgemessen ist sie noch nicht, und die Annahmen dahinter (Jahresertrag, Verbrauch je Haushalt) sind nicht veröffentlicht. Eine grobe eigene Gegenrechnung mahnt zur Vorsicht: Mit dem in der Messmast-Auswertung berechneten Kapazitätsfaktor von rund 44 % in 300 m Höhe käme eine 3,8-MW-Anlage auf etwa 14,6 Mio. kWh im Jahr, bei 3.750 kWh je Haushalt also auf rund 3.900 Haushalte. 7.500 Haushalte setzen einen deutlich niedrigeren Verbrauch je Haushalt oder einen höheren Ertrag voraus.",
+      "assessmentBasis": "Wiedergabe der Projektangabe in mehreren Medien.",
+      "occurrences": [
+        {
+          "startSeconds": 388,
+          "endSeconds": 395,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S04",
+          "note": "„bis zu 7.500“ Haushalte"
+        },
+        {
+          "sourceId": "S07",
+          "note": "rund 7500 Haushalte"
+        },
+        {
+          "sourceId": "S13",
+          "note": "bis zu 7.500 Haushalte"
+        },
+        {
+          "sourceId": "S03",
+          "note": "Kapazitätsfaktor 43,8 % in 300 m (Beispielanlage, Tabelle 5)"
+        }
+      ],
+      "openQuestions": [
+        "Welche Annahmen (Jahresertrag, kWh je Haushalt) stehen hinter den 7.500 Haushalten? Bei Gicon/SPRIND nachfragen."
+      ],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A17",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Ein großes modernes Windrad in herkömmlicher Höhe versorgt im Schnitt etwa 4.000 Haushalte.",
+      "reason": "Die Zahl stammt von der EnBW, die das Video als Quelle nennt: Große, moderne Anlagen erzeugen unter optimalen Bedingungen rund 15 Millionen kWh im Jahr, das reicht bei 3.750 kWh je Haushalt für rund 4.000 Haushalte. Wichtig für den Vergleich im Video: Die EnBW nennt für neue Onshore-Anlagen rund 7 MW Leistung, also fast doppelt so viel wie die 3,8 MW in Schipkau. Die beiden Haushaltszahlen (4.000 und 7.500) beruhen zudem auf unterschiedlichen, teils nicht veröffentlichten Annahmen und sind nur grob vergleichbar.",
+      "assessmentBasis": "Quelle des Videos selbst geprüft; Annahmen offengelegt.",
+      "occurrences": [
+        {
+          "startSeconds": 395,
+          "endSeconds": 401,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S24",
+          "note": "„rund 4.000 Haushalte“ bei ca. 15 Mio. kWh und 3.750 kWh je Haushalt; neuere Anlagen rund 7 MW"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A18",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Das Windrad in Schipkau ist zunächst eine Pilotanlage; langfristig sollen solche Anlagen als „zweite Etage“ zwischen bestehenden Windrädern in vorhandenen Windparks gebaut werden.",
+      "reason": "Stimmt. SPRIND bezeichnet das Projekt als Pilotprojekt und beschreibt die Nachrüstung bestehender Windparks als „zweite Etage“. Die Anlage selbst steht in einem bestehenden Windpark.",
+      "assessmentBasis": "Projektangaben.",
+      "occurrences": [
+        {
+          "startSeconds": 418,
+          "endSeconds": 449,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S01",
+          "note": "„Pilotprojekt“, Nachrüstung als zweite Etage"
+        },
+        {
+          "sourceId": "S02",
+          "note": "zweite Ebene über bestehenden Anlagen"
+        },
+        {
+          "sourceId": "S13",
+          "note": "Errichtet in einem bestehenden Windpark"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A19",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Die SPRIND schätzt, dass in Deutschland bis zu 4.000 Höhenwindtürme in bestehenden Windparks nachgerüstet werden könnten.",
+      "reason": "Die Zahl steht so im SPRIND-Magazin („nach bisherigen Potenzialabschätzungen … bis zu 4.000“). Andere Berichte schreiben die Schätzung Gicon zu, ein SPRIND-Projektleiter nannte zudem 1.000 bis 2.000 weitere Anlagen. Es handelt sich um eine Potenzialabschätzung, nicht um Planungen.",
+      "assessmentBasis": "Projektangaben und Presseberichte.",
+      "occurrences": [
+        {
+          "startSeconds": 454,
+          "endSeconds": 465,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S01",
+          "note": "bis zu 4.000 Höhenwindtürme als zweite Etage"
+        },
+        {
+          "sourceId": "S13",
+          "note": "Gicon sieht Potenzial für bis zu 4.000; SPRIND: weitere 1.000 bis 2.000 Anlagen"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A20",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Schipkau liegt im ehemaligen Braunkohlerevier in Ostdeutschland.",
+      "reason": "Teilweise richtig. Die Anlage steht auf ehemaligem Tagebaugelände (Hochkippe bei Klettwitz/Schipkau) in der Lausitz. Das Lausitzer Revier als Ganzes ist aber kein ehemaliges Revier: Dort wird weiterhin Braunkohle gefördert, der Ausstieg ist bis spätestens 2038 vorgesehen.",
+      "assessmentBasis": "Presseberichte zum Standort.",
+      "occurrences": [
+        {
+          "startSeconds": 469,
+          "endSeconds": 474,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S12",
+          "note": "Standort ist „ein ehemaliges Tagebau-Gelände“"
+        },
+        {
+          "sourceId": "S11",
+          "note": "Bildunterschrift: Hochkippe Schipkau"
+        },
+        {
+          "sourceId": "S21",
+          "note": "Lausitzer Braunkohleregion"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A21",
+      "chapter": 5,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Das Windrad in Schipkau hält den Höhenrekord, ist mit voraussichtlich 3,8 bis 4,2 Megawatt aber nicht die leistungsstärkste Windkraftanlage.",
+      "reason": "Stimmt. Nennleistung 3,8 MW; in einem „Power-Boost-Modus“ waren bis zu 4,2 MW im Gespräch. Das ist weniger als der Durchschnitt neuer Anlagen in Deutschland (5,46 MW im Jahr 2025) und weit weniger als die größten Anlagen weltweit.",
+      "assessmentBasis": "Projektangaben und Ausbaustatistik.",
+      "occurrences": [
+        {
+          "startSeconds": 594,
+          "endSeconds": 608,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S13",
+          "note": "Nennleistung 3,8 MW"
+        },
+        {
+          "sourceId": "S06",
+          "note": "„möglicherweise bis zu 4,2 MW“ im Power-Boost-Modus"
+        },
+        {
+          "sourceId": "S14",
+          "note": "Ø Generatorleistung neuer Anlagen 2025: 5,46 MW"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A22",
+      "chapter": 5,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Von Vestas ist eine Anlage in Betrieb, die die drei- bis vierfache Leistung liefert.",
+      "reason": "Das Beispiel stimmt: Vestas V236 mit 15 MW (etwa die vierfache Leistung) wird seit 2025 unter anderem im deutschen Offshore-Windpark He Dreiht eingesetzt. Im Zusammenhang („nicht die Anlage mit der höchsten Nennleistung … da ist von Vestas eine Anlage“) entsteht aber der Eindruck, Vestas halte den Leistungsrekord. Leistungsstärkste Anlage ist ein chinesischer Prototyp von Dongfang mit 26 MW, also fast der siebenfachen Leistung.",
+      "assessmentBasis": "Herstellerunabhängige Fachpresse zu den größten Offshore-Turbinen.",
+      "occurrences": [
+        {
+          "startSeconds": 608,
+          "endSeconds": 614,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S18",
+          "note": "Erste Vestas V236-15.0 MW im Projekt He Dreiht installiert (24.04.2025)"
+        },
+        {
+          "sourceId": "S17",
+          "note": "Dongfang 26 MW löst Siemens Gamesa 21,5 MW als Rekordhalter ab"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A23",
+      "chapter": 5,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "description": "Ein normales Onshore-Windrad kostet im Bau etwa 1 Million Euro.",
+      "reason": "Deutlich zu niedrig. Laut Kostenstudie der Deutschen WindGuard für das Wirtschaftsministerium liegen allein die Hauptinvestitionskosten (Anlage, Fundament, Transport, Montage) bei rund 900 bis 1.400 Euro je Kilowatt, dazu kommen Nebenkosten von im Mittel 506 Euro je Kilowatt. Für eine typische neue Anlage mit rund 5,5 MW ergibt das etwa 7 bis 10 Millionen Euro (eigene Rechnung aus den Studienwerten). Selbst bezogen auf ein Megawatt läge der Wert mit rund 1,4 bis 1,9 Millionen Euro über 1 Million.",
+      "assessmentBasis": "Kostenstudie im Auftrag des BMWK und Ausbaustatistik; Gesamtkosten als nachvollziehbare eigene Rechnung.",
+      "occurrences": [
+        {
+          "startSeconds": 627,
+          "endSeconds": 632,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S16",
+          "note": "Hauptinvestitionskosten ca. 910–1.420 €/kW (S. 13); Nebenkosten 506 €/kW (S. 19)"
+        },
+        {
+          "sourceId": "S14",
+          "note": "Ø Generatorleistung 2025: 5,46 MW"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A24",
+      "chapter": 5,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "description": "Die Serienversion des Höhenwindrads soll etwa zehnmal so teuer sein wie ein normales Onshore-Windrad.",
+      "reason": "Für den Faktor zehn haben wir keine Quelle gefunden. Bekannt sind: Der Prototyp kostete laut SPRIND 25 Millionen Euro, also etwa das Zwei- bis Dreifache einer typischen neuen Onshore-Anlage. Je Kilowatt sind die Baukosten des Prototyps laut Bundesregierung bzw. FZ Jülich fast viermal so hoch wie bei einer normalen Anlage; für Serienanlagen mit stärkerer Turbine werden sinkende Kosten je Kilowatt erwartet. Der Vergleich im Video beruht zudem auf dem zu niedrigen Wert von 1 Million Euro für ein normales Windrad.",
+      "assessmentBasis": "Projektangaben zu den Baukosten und Experteneinschätzung zu spezifischen Kosten.",
+      "occurrences": [
+        {
+          "startSeconds": 632,
+          "endSeconds": 636,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S13",
+          "note": "SPRIND: Baukosten 25 Millionen Euro"
+        },
+        {
+          "sourceId": "S11",
+          "note": "Spezifische Baukosten „fast viermal so hoch“; Serie könnte Turmkosten je kW um ein Drittel senken"
+        },
+        {
+          "sourceId": "S05",
+          "note": "Kosten des Prototyps nicht repräsentativ (Winkler)"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A25",
+      "chapter": 6,
+      "kind": "Meinung",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Ein Weltrekord allein bringt wenig; entscheidend ist das Konzept der „zweiten Etage“ in bestehenden Windparks, weil Infrastruktur vorhanden ist und es dort weniger Akzeptanzdebatten gibt.",
+      "reason": "Persönliche Einschätzung des Moderators, ausdrücklich als „meine persönliche Meinung“ gekennzeichnet. Zum Kontext: Fachleute weisen darauf hin, dass fast doppelt so hohe Anlagen größere Mindestabstände brauchen, was mögliche Standorte deutlich einschränkt.",
+      "assessmentBasis": "Wertung; nicht als wahr oder falsch bewertbar.",
+      "occurrences": [
+        {
+          "startSeconds": 650,
+          "endSeconds": 673,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S05",
+          "note": "Größere Mindestabstände schränken Standorte ein"
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Transkript des Videos",
+        "assessmentChange": "Erstbewertung"
+      }
+    }
+  ]
+}
