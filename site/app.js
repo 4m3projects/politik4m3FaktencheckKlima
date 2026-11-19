@@ -1157,7 +1157,7 @@ async function pageMethod() {
     </section>
 
     <section class="section prose-plain"><h2>Ausgangsvideos und Reaktionen</h2>
-      <p>Die Übersicht zeigt Ausgangsvideos. Videos anderer Kanäle, die sich nachweislich auf ein Interview beziehen, stehen auf dessen Seite und werden mit demselben Verfahren eigenständig geprüft, zustimmende wie kritische. Der Faktencheck des Originals dient dabei als Kontext, nicht als Wahrheitsmaßstab.</p>
+      <p>Die Übersicht zeigt Ausgangsvideos. Inhaltlich zugeordnete Reaktionen und weitere Faktenchecks werden auf der jeweiligen Videoseite verknüpft und eigenständig geprüft. Der Ausgangsfaktencheck ist dabei Kontext, kein Wahrheitsmaßstab.</p>
       <p>Prüfen Original und Reaktion dieselbe Behauptung mit gegensätzlichem Ergebnis, erscheint ein sichtbarer <strong>Prüfkonflikt</strong> mit Gegenüberstellung der Quellen und einer offenen Review-Aufgabe, bis die Abweichung begründet geklärt ist. Bewertungen werden nie nur angeglichen, damit sie übereinstimmen.</p>
     </section>
 
