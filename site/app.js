@@ -602,8 +602,8 @@ async function pageHome() {
   <section class="hero">
     <div class="wrap">
       <p class="eyebrow">Offenes Lernprojekt · Quellen statt Schlagworte</p>
-      <h1>Ben ungeskriptet: Was stimmt – und was hält einer Überprüfung nicht stand?</h1>
-      <p class="lead">Bei „ungeskriptet by Ben“ kommen Menschen mit sehr unterschiedlichen, teils kontroversen Ansichten zu Wort. Manche Aussagen sind gut belegt, andere falsch, irreführend oder noch ungeklärt. Auch Aussagen und Nachfragen des Moderators können Gegenstand unserer Prüfung sein. Wir nehmen nach und nach Interviews unter die Lupe – mit Zeitmarken, Quellen und einer fairen Trennung zwischen Tatsachen, Meinungen und offenen Fragen.</p>
+      <h1>Ben Klima & Energie: Was stimmt – und was hält einer Überprüfung nicht stand?</h1>
+      <p class="lead">Bei „Klima & Energie by Ben“ kommen Menschen mit sehr unterschiedlichen, teils kontroversen Ansichten zu Wort. Manche Aussagen sind gut belegt, andere falsch, irreführend oder noch ungeklärt. Auch Aussagen und Nachfragen des Moderators können Gegenstand unserer Prüfung sein. Wir nehmen nach und nach Interviews unter die Lupe – mit Zeitmarken, Quellen und einer fairen Trennung zwischen Tatsachen, Meinungen und offenen Fragen.</p>
       <p class="small">Dieses unabhängige Projekt ist weder eine offizielle Prüfung im Auftrag von Ben Berndt noch eine Zusammenarbeit mit dem Kanal.</p>
       <ul class="hero-facts">
         <li>${videos.length} ${videos.length === 1 ? 'Originalinterview' : 'Originalinterviews'}</li>
@@ -616,11 +616,11 @@ async function pageHome() {
   </section>
   <div class="wrap">
     <section class="section" aria-labelledby="h-hintergrund">
-      <div class="section-head"><h2 id="h-hintergrund">Warum wir „ungeskriptet“ prüfen</h2></div>
-      <p>Die Frage nach der Verantwortung für Tatsachenbehauptungen in Interviews wurde 2026 öffentlich diskutiert: Nach einem Interview mit Björn Höcke wies die Landesanstalt für Medien NRW in einem Hinweisschreiben darauf hin, dass eine nachweislich falsche Aussage über eine Losung der SA im Interview nicht eingeordnet worden war. Die Behörde ordnet „ungeskriptet by Ben“ als journalistisch-redaktionelles Angebot ein und verweist auf die journalistischen Sorgfaltspflichten.</p>
+      <div class="section-head"><h2 id="h-hintergrund">Warum wir „Klima & Energie“ prüfen</h2></div>
+      <p>Die Frage nach der Verantwortung für Tatsachenbehauptungen in Interviews wurde 2026 öffentlich diskutiert: Nach einem Interview mit Björn Höcke wies die Landesanstalt für Medien NRW in einem Hinweisschreiben darauf hin, dass eine nachweislich falsche Aussage über eine Losung der SA im Interview nicht eingeordnet worden war. Die Behörde ordnet „Klima & Energie by Ben“ als journalistisch-redaktionelles Angebot ein und verweist auf die journalistischen Sorgfaltspflichten.</p>
       <p>Am 24. September 2026 teilte die Medienanstalt mit, dass sie ihre Prüfung dieses Falls abgeschlossen habe und derzeit keine weiteren Aufsichtsmaßnahmen ergreife. Berndts Produktionsfirma ging nach Medienberichten Ende Oktober gerichtlich gegen die behördliche Bewertung und die Aufforderung vor, auch weitere Folgen auf journalistische Sorgfalt zu prüfen. Der Streit betrifft also die Sorgfaltspflichten und ihre Anwendung – nicht eine pauschale Feststellung, sämtliche Videos enthielten verfassungswidrige Aussagen.</p>
       <p>Wir möchten einen konstruktiven Beitrag leisten: Statt pauschaler Vorwürfe prüfen wir Schritt für Schritt nachprüfbare Aussagen aus den Interviews. Dabei kann sich herausstellen, dass ein Gast oder Ben richtigliegt, dass eine Aussage falsch ist oder dass Belege fehlen. Auch externe Reaktionen und Faktenchecks sollen mit den jeweiligen Interviews verknüpft und an denselben Maßstäben gemessen werden. Unsere Prüfungen ersetzen keine rechtliche oder behördliche Kontrolle.</p>
-      <p class="small">Zum Hintergrund: <a href="https://www.medienanstalt-nrw.de/presse/pressemitteilungen/pressemitteilungen-2026/2026/september/landesanstalt-fuer-medien-nrw-schliesst-pruefung-im-fall-ungeskriptet-by-ben-ab.html" target="_blank" rel="noopener noreferrer">Mitteilung der Landesanstalt für Medien NRW vom 24.09.2026</a> · <a href="https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-hoecke-interview-podcaster-verklagt-die-nrw-medienaufsicht-wegen-pruefung-100.html" target="_blank" rel="noopener noreferrer">WDR-Bericht vom 29.10.2026 zur Klage</a></p>
+      <p class="small">Zum Hintergrund: <a href="https://www.medienanstalt-nrw.de/presse/pressemitteilungen/pressemitteilungen-2026/2026/september/landesanstalt-fuer-medien-nrw-schliesst-pruefung-im-fall-Klima & Energie-by-ben-ab.html" target="_blank" rel="noopener noreferrer">Mitteilung der Landesanstalt für Medien NRW vom 24.09.2026</a> · <a href="https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-hoecke-interview-podcaster-verklagt-die-nrw-medienaufsicht-wegen-pruefung-100.html" target="_blank" rel="noopener noreferrer">WDR-Bericht vom 29.10.2026 zur Klage</a></p>
     </section>
     <section class="section" aria-labelledby="h-videos">
       <div class="section-head"><h2 id="h-videos">Geprüfte Originalinterviews</h2><p>Zuletzt veröffentlichte oder geprüfte Interviews zuerst. Reaktionen und Faktenchecks anderer Kanäle stehen jeweils auf der Seite des Interviews, auf das sie sich beziehen. Was die Faktenampel auf jeder Karte bedeutet, erklärt die <a href="#/methodik#ampel">Methodik</a>.</p></div>
@@ -1211,7 +1211,7 @@ function pageJens() {
       <h2>Wie wird gearbeitet?</h2>
       <p>Jens verantwortet das Projekt. Bei Recherche, Datenaufbereitung und technischer Entwicklung kommen KI-Werkzeuge wie ChatGPT, Claude und Codex zum Einsatz. Ihre Ergebnisse sind nicht automatisch richtig und ersetzen keine sorgfältige Prüfung. Hinweise und Korrekturen sind willkommen.</p>
       <p><a href="#/methodik">Mehr zur Prüfmethode</a> · <a href="${esc(repoUrl())}/issues" rel="noopener noreferrer" target="_blank">Fehler oder Ergänzungen auf GitHub melden</a></p>
-      <p class="small">Dies ist ein unabhängiges Projekt von Politik4M3 und keine offizielle Zusammenarbeit mit dem YouTube-Kanal „ungeskriptet“.</p>
+      <p class="small">Dies ist ein unabhängiges Projekt von Politik4M3 und keine offizielle Zusammenarbeit mit dem YouTube-Kanal „Klima & Energie“.</p>
     </section>
   </div>`, 'jens');
   document.title = 'Jens der Christ – Politik4M3 Faktencheck Klima & Energie';
