@@ -1,5 +1,5 @@
 /*
- * Politik4M3 Faktencheck – Originalinterviews, Reaktionsvideos und ihre Beziehungen.
+ * Politik4M3 Faktencheck – Ausgangsvideos, Reaktionsvideos und ihre Beziehungen.
  * Eigener Code ohne Fremdbibliotheken. Reine Logik ohne DOM-Zugriff, damit sie im Browser
  * (window.FactRelations) und unter Node (require) gleich geprüft werden kann.
  *
