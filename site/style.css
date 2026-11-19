@@ -130,7 +130,7 @@ p { margin: 0 0 1em; }
   font-weight: 700; font-size: 13px; letter-spacing: -.04em;
 }
 .brand-text { font-size: 1.02rem; letter-spacing: -.005em; }
-/* „Ungeskriptet“ steht zuerst und führt zur Startseite dieses Unterprojekts; das Hauptprojekt
+/* „Klima & Energie“ steht zuerst und führt zur Startseite dieses Unterprojekts; das Hauptprojekt
    folgt als Link (dort können später weitere Projekte angebunden werden). */
 .brand { gap: 6px; flex-wrap: wrap; }
 .brand a { text-decoration: none; }
@@ -512,7 +512,7 @@ a.person-link { display: block; color: inherit; text-decoration: none; transitio
 a.person-link:hover { border-color: var(--accent); transform: translateY(-2px); }
 .person-more { display: inline-block; margin-top: 12px; color: var(--accent); font-weight: 600; }
 
-/* Originalinterviews, Reaktionen und Prüfkonflikte (site/relations.js) */
+/* Ausgangsvideos, Reaktionen und Prüfkonflikte (site/relations.js) */
 .role-line { margin: 4px 0 10px; color: var(--text-2); }
 .rel-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
 .badge.rel-state { white-space: normal; max-width: 100%; }
