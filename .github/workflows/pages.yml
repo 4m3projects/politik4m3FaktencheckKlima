@@ -1,0 +1,56 @@
+name: Klima-Faktencheck Webseite
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: JavaScript Syntax prüfen
+        run: |
+          for f in site/*.js; do node --check "$f"; done
+      - name: Website bauen
+        run: |
+          mkdir -p _site
+          cp site/*.html site/*.css site/*.js _site/
+          mkdir -p _site/daten
+          cp daten/*.json _site/daten/
+          if [ -d faktenchecks ]; then
+            for d in faktenchecks/*; do
+              [ -d "$d" ] || continue
+              id=$(basename "$d")
+              mkdir -p "_site/daten/$id"
+              find "$d" -type f \( -name '*.json' -o -name '*.md' \) | while read -r f; do
+                rel="${f#"$d"/}"
+                mkdir -p "_site/daten/$id/$(dirname "$rel")"
+                cp "$f" "_site/daten/$id/$rel"
+              done
+            done
+          fi
+      - uses: actions/upload-artifact@v4
+        if: github.event_name == 'pull_request'
+        with:
+          name: site-preview
+          path: _site
+      - uses: actions/upload-pages-artifact@v3
+        if: github.event_name != 'pull_request'
+        with:
+          path: _site
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment
