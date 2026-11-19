@@ -567,85 +567,59 @@ function ampelOverview(all) {
 async function pageHome() {
   const all = await Promise.all(state.index.videos.map(v => loadVideo(v.id).catch(() => ({ ...v, meta: {}, data: null }))));
   all.sort(FactRelations.compareVideoRecency);
-  /* Hauptübersicht: nur Originalinterviews; Reaktionen erscheinen bei ihrem Original. */
-  const videos = all.filter(v => v.video?.role === 'original');
-  const unclassified = all.filter(v => !v.video);
-  const shown = videos.concat(unclassified);
+  const shown = all.filter(v => v.video?.role !== 'reaction');
   const allClaims = shown.flatMap(v => v.data?.claims || []);
   const done = allClaims.filter(c => c.status === 'Abgeschlossen').length;
   const sources = shown.reduce((n, v) => n + (v.data?.sources?.length || 0), 0);
   const rhetTotal = shown.reduce((n, v) => n + FactRhetoric.reviewState(v.rhet).annotations, 0);
-
-  const card = v => {
+  const cards = shown.map(v => {
     const claims = v.data?.claims || [];
-    const nReact = (state.rel.byOriginal.get(v.id) || []).length;
     const scope = v.data?.scope;
     return `<a class="card" href="#/video/${esc(v.id)}">
       ${thumbImg(v.id, v.video?.videoUrl || scope?.videoUrl, 'card-thumb')}
       ${ampelView(v)}
-      <div class="claim-top">${shortBadge(v)}${scope ? `<span class="badge kind">${esc(scope.kind)}</span>` : '<span class="badge kind">Bericht</span>'}
-      ${v.meta.Status ? `<span class="small">${esc(v.meta.Status)}</span>` : ''}</div>
+      <div class="claim-top">${shortBadge(v)}${scope ? `<span class="badge kind">${esc(scope.kind)}</span>` : '<span class="badge kind">Bericht</span>'}</div>
       <h3>${esc(v.title)}</h3>
       <ul class="facts">${videoFacts(v)}</ul>
-      ${claims.length ? `<div>${distribution(claims)}</div>
-        <p class="meta">${claims.length} strukturierte Aussagen · ${claims.filter(c => c.status === 'Abgeschlossen').length} abgeschlossen${scope && scope.totalLegacyPoints ? ` · ${scope.totalLegacyPoints - scope.unmigratedLegacyPoints} von ${scope.totalLegacyPoints} Prüfpunkten des Erststands strukturiert` : ''}</p>`
-        : '<p class="meta">Noch keine strukturierten Aussagen; Berichte als Text verfügbar.</p>'}
+      ${claims.length ? `<div>${distribution(claims)}</div><p class="meta">${claims.length} strukturierte Aussagen · ${claims.filter(c => c.status === 'Abgeschlossen').length} abgeschlossen</p>` : '<p class="meta">Noch keine strukturierten Aussagen.</p>'}
       ${rhetSummary(v, false)}
-      ${v.video?.role === 'original' ? `<p class="meta">${nReact ? `${nReact} zugeordnete Reaktion${nReact === 1 ? '' : 'en'} und weitere Faktenchecks` : 'Noch keine Reaktionen zugeordnet'}</p>` : ''}
       <span class="more">Zum Faktencheck →</span>
     </a>`;
-  };
-  const cards = videos.map(card).join('');
-  const otherCards = unclassified.map(card).join('');
-
+  }).join('');
   setPage(`
-  <section class="hero">
-    <div class="wrap">
-      <p class="eyebrow">Offenes Lernprojekt · Quellen statt Schlagworte</p>
-      <h1>Ben Klima & Energie: Was stimmt – und was hält einer Überprüfung nicht stand?</h1>
-      <p class="lead">Bei „Klima & Energie by Ben“ kommen Menschen mit sehr unterschiedlichen, teils kontroversen Ansichten zu Wort. Manche Aussagen sind gut belegt, andere falsch, irreführend oder noch ungeklärt. Auch Aussagen und Nachfragen des Moderators können Gegenstand unserer Prüfung sein. Wir nehmen nach und nach Interviews unter die Lupe – mit Zeitmarken, Quellen und einer fairen Trennung zwischen Tatsachen, Meinungen und offenen Fragen.</p>
-      <p class="small">Dieses unabhängige Projekt ist weder eine offizielle Prüfung im Auftrag von Ben Berndt noch eine Zusammenarbeit mit dem Kanal.</p>
-      <ul class="hero-facts">
-        <li>${videos.length} ${videos.length === 1 ? 'Originalinterview' : 'Originalinterviews'}</li>
-        <li>${allClaims.length} strukturierte Aussagen</li>
-        <li>${done} abgeschlossen</li>
-        <li>${sources} verlinkte Quellen</li>
-        ${rhetTotal ? `<li>${rhetTotal} Darstellungshinweise (KI)</li>` : ''}
-      </ul>
-    </div>
-  </section>
+  <section class="hero"><div class="wrap">
+    <p class="eyebrow">Politik4M3 · Unabhängiger Faktencheck</p>
+    <h1>Klima & Energie: Was stimmt wirklich?</h1>
+    <p class="lead">Wie stark erwärmt sich die Erde? Was kosten Atomkraft, Wind- und Solarstrom wirklich? Welche Rolle spielen Speicher, Stromnetze und Extremwetter? Wir prüfen öffentliche Aussagen anhand nachvollziehbarer Quellen – sachlich, transparent und unabhängig davon, wer sie äußert.</p>
+    <p class="small">Dieses Projekt ist ein eigenständiger Themenbereich des <a href="https://4m3projects.github.io/politik4m3Facktencheck/">Politik4M3 Faktenchecks</a>.</p>
+    <ul class="hero-facts">
+      <li>${shown.length} ${shown.length === 1 ? 'Video-Faktencheck' : 'Video-Faktenchecks'}</li>
+      <li>${allClaims.length} strukturierte Aussagen</li>
+      <li>${done} abgeschlossen</li>
+      <li>${sources} verlinkte Quellen</li>
+      ${rhetTotal ? `<li>${rhetTotal} Hinweise zur Darstellung (KI)</li>` : ''}
+    </ul>
+  </div></section>
   <div class="wrap">
     <section class="section" aria-labelledby="h-hintergrund">
-      <div class="section-head"><h2 id="h-hintergrund">Warum wir „Klima & Energie“ prüfen</h2></div>
-      <p>Die Frage nach der Verantwortung für Tatsachenbehauptungen in Interviews wurde 2026 öffentlich diskutiert: Nach einem Interview mit Björn Höcke wies die Landesanstalt für Medien NRW in einem Hinweisschreiben darauf hin, dass eine nachweislich falsche Aussage über eine Losung der SA im Interview nicht eingeordnet worden war. Die Behörde ordnet „Klima & Energie by Ben“ als journalistisch-redaktionelles Angebot ein und verweist auf die journalistischen Sorgfaltspflichten.</p>
-      <p>Am 24. September 2026 teilte die Medienanstalt mit, dass sie ihre Prüfung dieses Falls abgeschlossen habe und derzeit keine weiteren Aufsichtsmaßnahmen ergreife. Berndts Produktionsfirma ging nach Medienberichten Ende Oktober gerichtlich gegen die behördliche Bewertung und die Aufforderung vor, auch weitere Folgen auf journalistische Sorgfalt zu prüfen. Der Streit betrifft also die Sorgfaltspflichten und ihre Anwendung – nicht eine pauschale Feststellung, sämtliche Videos enthielten verfassungswidrige Aussagen.</p>
-      <p>Wir möchten einen konstruktiven Beitrag leisten: Statt pauschaler Vorwürfe prüfen wir Schritt für Schritt nachprüfbare Aussagen aus den Interviews. Dabei kann sich herausstellen, dass ein Gast oder Ben richtigliegt, dass eine Aussage falsch ist oder dass Belege fehlen. Auch externe Reaktionen und Faktenchecks sollen mit den jeweiligen Interviews verknüpft und an denselben Maßstäben gemessen werden. Unsere Prüfungen ersetzen keine rechtliche oder behördliche Kontrolle.</p>
-      <p class="small">Zum Hintergrund: <a href="https://www.medienanstalt-nrw.de/presse/pressemitteilungen/pressemitteilungen-2026/2026/september/landesanstalt-fuer-medien-nrw-schliesst-pruefung-im-fall-Klima & Energie-by-ben-ab.html" target="_blank" rel="noopener noreferrer">Mitteilung der Landesanstalt für Medien NRW vom 24.09.2026</a> · <a href="https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-hoecke-interview-podcaster-verklagt-die-nrw-medienaufsicht-wegen-pruefung-100.html" target="_blank" rel="noopener noreferrer">WDR-Bericht vom 29.10.2026 zur Klage</a></p>
+      <div class="section-head"><h2 id="h-hintergrund">Warum ein Faktencheck zu Klima und Energie?</h2></div>
+      <p>In Debatten über Klimawandel und Energieversorgung werden oft Zahlen und Behauptungen genannt, die sich nur mit dem richtigen Kontext beurteilen lassen. Zum Beispiel hängen Stromkosten davon ab, welche Kostenarten verglichen werden. Auch ein einzelnes Wetterereignis ist nicht mit einer langfristigen Klimaentwicklung gleichzusetzen.</p>
+      <p>Wir unterscheiden überprüfbare Tatsachenbehauptungen von Meinungen und Prognosen. Belege, Annahmen und Unsicherheiten werden offengelegt. Gut belegte Aussagen werden ebenso ausdrücklich anerkannt wie Fehler oder fehlender Kontext benannt werden. Hinweise auf abwertende oder irreführende Darstellung bleiben von der Faktenbewertung getrennt.</p>
+      <p>Die Themen reichen von CO₂, Klimamodellen und Extremwetter über Atomkraft, erneuerbare Energien und Speicher bis zu Verkehr und Umweltschutz. Neue Erkenntnisse können zu dokumentierten Korrekturen führen.</p>
     </section>
     <section class="section" aria-labelledby="h-videos">
-      <div class="section-head"><h2 id="h-videos">Geprüfte Originalinterviews</h2><p>Zuletzt veröffentlichte oder geprüfte Interviews zuerst. Reaktionen und Faktenchecks anderer Kanäle stehen jeweils auf der Seite des Interviews, auf das sie sich beziehen. Was die Faktenampel auf jeder Karte bedeutet, erklärt die <a href="#/methodik#ampel">Methodik</a>.</p></div>
+      <div class="section-head"><h2 id="h-videos">Video-Faktenchecks</h2><p>Hier erscheinen die geprüften Videos mit Aussagen, Quellen, Bewertungen und ihrem Bearbeitungsstand. Die <a href="#/methodik">Methodik</a> erklärt die Bewertung.</p></div>
       ${cards ? thumbPrompt() : ''}
-      <div class="cards">${cards || '<p class="muted">Noch keine Faktenchecks veröffentlicht.</p>'}</div>
+      <div class="cards">${cards || '<p class="muted">Noch keine Video-Faktenchecks veröffentlicht. Die ersten Analysen werden vorbereitet.</p>'}</div>
     </section>
-    ${progressOverview(all)}
-    ${otherCards ? `<section class="section" aria-labelledby="h-other">
-      <div class="section-head"><h2 id="h-other">Noch nicht eingeordnet</h2><p>Für diese Analysen ist noch nicht belegt, ob es sich um ein Originalinterview oder eine Reaktion handelt.</p></div>
-      <div class="cards">${otherCards}</div>
-    </section>` : ''}
+    ${all.length ? progressOverview(all) : ''}
     <section class="section" aria-labelledby="h-team">
-      <div class="section-head"><h2 id="h-team">Menschen hinter dem Projekt</h2></div>
-      <div class="roles">
-        <a class="role person-link" href="#/jens">
-          <span class="tag">Initiator und Projektverantwortlicher</span>
-          <h3>Jens der Christ</h3>
-          <p>Christ, politisch interessiert und Entwickler von Politik4M3. Er hat dieses unabhängige Faktencheck-Projekt ins Leben gerufen.</p>
-          <span class="person-more">Mehr über Jens der Christ →</span>
-        </a>
-      </div>
-      <p class="small" style="margin-top:16px">Für Recherche und technische Umsetzung werden auch KI-Werkzeuge eingesetzt. Wie Aussagen überprüft werden, steht in der <a href="#/methodik">Methodik</a>.</p>
+      <div class="section-head"><h2 id="h-team">Wer steckt dahinter?</h2></div>
+      <div class="roles"><a class="role person-link" href="#/jens"><span class="tag">Initiator und Projektverantwortlicher</span><h3>Jens der Christ</h3><p>Entwickler von Politik4M3 und Initiator dieses unabhängigen Faktencheck-Projekts.</p><span class="person-more">Mehr über Jens der Christ →</span></a></div>
+      <p class="small" style="margin-top:16px">Für Recherche und technische Umsetzung werden auch KI-Werkzeuge eingesetzt. Die Ergebnisse sollen anhand der angegebenen Quellen überprüfbar sein.</p>
     </section>
   </div>`, 'start');
-  document.title = 'Politik4M3 Faktencheck Klima & Energie';
+  document.title = 'Politik4M3 Faktencheck – Klima & Energie';
 }
 
 /* ---------- Zweite Ebene: Rhetorik und Darstellung (siehe docs/RHETORIK.md) ---------- */
