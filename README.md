@@ -1,17 +1,13 @@
 # Politik4M3 Faktencheck – Klima & Energie
 
-Eigenständige Projektseite für Klima-, Wetter-, Umwelt- und Energiefaktenchecks.
+Unabhängiger Faktencheck zu Aussagen über Klimawandel, Wetter, Umwelt, Atomkraft und Energieversorgung.
 
-## Lokal testen
+**[Zur Projektseite](https://4m3projects.github.io/politik4m3FaktencheckKlima/)**
 
-Die statische Website kann mit einem lokalen HTTP-Server geöffnet werden, beispielsweise `python3 -m http.server 8000`.
-
-## Videos hinzufügen
-
-In `videos.json` Einträge der Form `{ "title": "Titel", "url": "https://...", "description": "Kurzbeschreibung" }` ergänzen. Bis dahin wird bewusst ein Leerzustand angezeigt.
+Die Seite übernimmt zentrale Funktionen der Weboberfläche des Schwesterprojekts Ungeskriptet. Derzeit gibt es noch keine veröffentlichten Videoanalysen. Neue Prüfungen werden erst nach Quellenprüfung aufgenommen.
 
 ## Veröffentlichung
+GitHub Pages wird per GitHub Actions aus `site/` und `daten/` gebaut. In **Settings → Pages → Source: GitHub Actions** auswählen. Weitere Hinweise: [Deployment](docs/DEPLOYMENT.md).
 
-GitHub Pages auf `main` / Root aktivieren, nachdem der Pull Request geprüft und zusammengeführt wurde. Die Hauptseite wird absichtlich **nicht** verändert; diese Unterseite verlinkt bereits zur Hauptseite.
-
-Hinweis: Dies ist zunächst ein eigenständiges statisches Grundgerüst, keine Übernahme der kompletten bestehenden Prüf- und Datenpipeline. Die Integration sollte anhand der bestehenden Projektarchitektur erfolgen.
+## Zusammenarbeit
+Änderungen und Fehlerhinweise über GitHub Issues oder Pull Requests. Fakten, Meinungen und Rhetorik werden getrennt behandelt. Die [Hauptseite](https://4m3projects.github.io/politik4m3Facktencheck/) wird hier verlinkt, nicht umgekehrt.
