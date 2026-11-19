@@ -17,7 +17,7 @@ jobs:
       - name: Website bauen
         run: |
           mkdir -p _site
-          cp site/*.html site/*.css site/*.js _site/
+          cp site/*.html site/*.css site/*.js site/favicon.svg site/favicon.ico site/apple-touch-icon.png _site/
           mkdir -p _site/daten
           cp daten/*.json _site/daten/
           if [ -d faktenchecks ]; then
