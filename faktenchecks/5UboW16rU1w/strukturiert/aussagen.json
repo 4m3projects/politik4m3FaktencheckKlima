@@ -333,6 +333,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -369,6 +377,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -409,6 +425,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -450,6 +474,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Begründet den Bedarf an neuer Erzeugung, ein Grundargument der Debatte.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -486,6 +518,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale Zahl zur Versorgungslücke.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -530,6 +570,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -570,6 +618,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -606,6 +662,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -646,6 +710,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -687,6 +759,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -723,6 +803,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -763,6 +851,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -803,6 +899,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Kernargument zur Versorgungssicherheit (Dunkelflauten).",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -840,6 +944,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -876,6 +988,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -943,6 +1063,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -979,6 +1107,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1050,6 +1186,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrales Klima-Argument für Atomkraft.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1117,6 +1261,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1161,6 +1313,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Aufzählung der Reaktornamen als Hintergrund.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1213,6 +1373,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Bauzeitverzögerungen sind ein Hauptargument der Bilanz gegen neue Atomkraftwerke.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1249,6 +1417,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Humorvoller Nebenvergleich mit dem Flughafen BER.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1317,6 +1493,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Vergleichsbasis der Kostenrechnung (Betriebskosten).",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1354,6 +1538,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Vergleichsbasis der Kostenrechnung (Solarstrom).",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1390,6 +1582,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Kostensteigerung bei Flamanville ist ein zentrales Beispiel der Kostenbilanz.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1430,6 +1630,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Stromgestehungskosten inklusive Bau sind die Kernzahl der Kostenfrage im Titel.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1466,6 +1674,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1502,6 +1718,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Kernaussage zur Endlagerfrage.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1538,6 +1762,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1578,6 +1810,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Kernaussage zur Endlagerfrage in Deutschland.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1651,6 +1891,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1691,6 +1939,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1731,6 +1987,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1767,6 +2031,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1811,6 +2083,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1878,6 +2158,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Schlussargument der Bilanz (frühere Betreiber halten Atomkraft für unwirtschaftlich).",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {

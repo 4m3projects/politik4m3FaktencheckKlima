@@ -142,6 +142,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Liedtext des Shorts",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 3,
+        "weightReason": "Titel und Kern des Videos: Weidels Satz zum Abriss aller Windkraftwerke.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -182,6 +190,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Liedtext des Shorts",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -222,6 +238,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Liedtext des Shorts",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragender Gegensatz der Argumentation (AfD gegen Enteignung bei der Linken).",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -280,6 +304,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Liedtext des Shorts",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Hauptthese: Bei Windkraft wolle die AfD plötzlich privates Eigentum beseitigen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -333,6 +365,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Liedtext des Shorts",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Betonende Wiederholung ohne eigenständige Sachaussage.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -385,6 +425,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Liedtext des Shorts",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -425,6 +473,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Liedtext des Shorts",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Rechtliche Begründung der These (staatlich erzwungener Abriss greift ins Eigentum ein).",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
