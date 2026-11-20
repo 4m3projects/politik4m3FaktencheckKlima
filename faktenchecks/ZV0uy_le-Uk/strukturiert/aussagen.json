@@ -513,6 +513,15 @@
     },
     {
       "id": "ZV0uy_le-Uk-A0005",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Steffen Lackmann",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "MONITOR zeigt Lackmanns Prognose als Beispiel für die Folgen des Entwurfs und überträgt das Finanzierungsproblem im Off-Kommentar auf weitere Regionen.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20"
+      },
       "chapter": 1,
       "kind": "Prognose",
       "status": "Abgeschlossen",
@@ -667,6 +676,15 @@
     },
     {
       "id": "ZV0uy_le-Uk-A0008",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Katherina Reiche",
+        "presentation": "Einspieler",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "MONITOR spielt Reiches Begründung aus der Regierungsbefragung ein, um ihre Position zur Bezahlbarkeit vorzustellen.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20"
+      },
       "chapter": 1,
       "kind": "Meinung",
       "status": "Abgeschlossen",
@@ -767,6 +785,15 @@
     },
     {
       "id": "ZV0uy_le-Uk-A0010",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Katherina Reiche",
+        "presentation": "Einspieler",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "MONITOR spielt Reiches Ankündigung ein und fragt im Anschluss nach den konkreten Folgen für den Ausbau.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20"
+      },
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
@@ -954,6 +981,15 @@
     },
     {
       "id": "ZV0uy_le-Uk-A0013",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Steffen Lackmann",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "MONITOR beschreibt den Rückstand des Netzausbaus unmittelbar vor dem Einspieler. Lackmanns Vergleich der beiden Zeitspannen stützt diese Einordnung.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20"
+      },
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
@@ -1015,6 +1051,15 @@
     },
     {
       "id": "ZV0uy_le-Uk-A0014",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Steffen Lackmann",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "MONITOR beschreibt den Rückstand des Netzausbaus unmittelbar vor dem Einspieler. Lackmanns Vergleich der beiden Zeitspannen stützt diese Einordnung.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20"
+      },
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
@@ -1276,6 +1321,15 @@
     },
     {
       "id": "ZV0uy_le-Uk-A0018",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Steffen Lackmann",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "MONITOR zeigt Lackmanns Prognose als Beispiel für die Folgen des Entwurfs und überträgt das Finanzierungsproblem im Off-Kommentar auf weitere Regionen.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20"
+      },
       "chapter": 2,
       "kind": "Prognose",
       "status": "Abgeschlossen",
@@ -1384,6 +1438,15 @@
     },
     {
       "id": "ZV0uy_le-Uk-A0021",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Nina Scheer",
+        "presentation": "Einspieler",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "MONITOR nutzt die Aussagen als Stellungnahme der SPD zu den Folgen des Entwurfs und stellt die Kritik als Position des Koalitionspartners vor.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20"
+      },
       "chapter": 3,
       "kind": "Prognose",
       "status": "Abgeschlossen",
@@ -1422,6 +1485,15 @@
     },
     {
       "id": "ZV0uy_le-Uk-A0022",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Nina Scheer",
+        "presentation": "Einspieler",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "MONITOR zeigt Scheers Lesart des Koalitionsvertrags als Teil der politischen Gegenreaktion.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20"
+      },
       "chapter": 3,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
@@ -1483,6 +1555,15 @@
     },
     {
       "id": "ZV0uy_le-Uk-A0023",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Nina Scheer",
+        "presentation": "Einspieler",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "MONITOR nutzt die Aussagen als Stellungnahme der SPD zu den Folgen des Entwurfs und stellt die Kritik als Position des Koalitionspartners vor.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20"
+      },
       "chapter": 3,
       "kind": "Prognose",
       "status": "Abgeschlossen",
@@ -1690,6 +1771,15 @@
     },
     {
       "id": "ZV0uy_le-Uk-A0027",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Julia Bläsius",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "Der Off-Kommentar erläutert vor dem Einspieler die mögliche Strompreiswirkung eines verzögerten Ausbaus. Bläsius' Angaben zur Preiswirkung von Erneuerbaren und Gas stützen diese Argumentation.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20"
+      },
       "chapter": 4,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
@@ -1755,6 +1845,15 @@
     },
     {
       "id": "ZV0uy_le-Uk-A0028",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Julia Bläsius",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "Die Redaktion fragt nach den Nutznießern der Reform. Bläsius nennt die Netzbetreiber und der anschließende Off-Kommentar führt diesen Gedanken am Beispiel von E.ON weiter aus.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20"
+      },
       "chapter": 5,
       "kind": "Prognose",
       "status": "Abgeschlossen",
@@ -2078,6 +2177,15 @@
     },
     {
       "id": "ZV0uy_le-Uk-A0033",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Michael Kellner",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "Der Off-Kommentar führt Reiches frühere Funktion und ihre damaligen Forderungen als Hinweise auf einen möglichen Vorteil für E.ON an. Kellners Vorwurf stützt diese These.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20"
+      },
       "chapter": 5,
       "kind": "Meinung",
       "status": "Abgeschlossen",
@@ -2120,6 +2228,15 @@
     },
     {
       "id": "ZV0uy_le-Uk-A0034",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Michael Kellner",
+        "presentation": "Einspieler",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Kellner behauptet eine unveränderte Übernahme eines E.ON-Vorschlags. Der konkrete Vergleich im Off-Kommentar bezieht sich auf Forderungen in Reiches früherem Beitrag. Auf Kellners weitergehende Aussage folgt die Anfrage bei Reiche.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20"
+      },
       "chapter": 5,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
@@ -2226,6 +2343,15 @@
     },
     {
       "id": "ZV0uy_le-Uk-A0036",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "E.ON",
+        "presentation": "Sinngemäße Wiedergabe",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "MONITOR fasst E.ONs Stellungnahme zu den Netzinvestitionen zusammen und stellt ihr Lackmanns Erfahrung vor Ort gegenüber.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20"
+      },
       "chapter": 5,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
