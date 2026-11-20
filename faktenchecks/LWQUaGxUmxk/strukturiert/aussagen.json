@@ -292,6 +292,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 3,
+        "weightReason": "Kernnachricht und Titel des Videos: der Weltrekord und die Inbetriebnahme. Die gesamte Darstellung baut darauf auf.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -336,6 +344,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Kennzahl des Rekords, im Video hervorgehoben (Vergleich mit dem Fernsehturm); teilweise Wiederholung von A01.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -389,6 +405,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Zentrales Versprechen des Konzepts (mehr Ertrag durch Höhe); begründet, warum das Projekt sinnvoll sein soll.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -442,6 +466,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Technisches Detail zur Messung ohne Einfluss auf die Argumentation.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -482,6 +514,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Einordnende Vergleichszahl zur Nabenhöhe; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -526,6 +566,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale technische Angabe (300 m Nabenhöhe), aus der der Mehrertrag folgt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -575,6 +623,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Anekdote zur Person des Erfinders; für die Sachaussage des Videos nebensächlich.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -615,6 +671,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Physikalische Grundlage der Hauptthese, warum Höhe sich lohnt; im Kapitel ausführlich erklärt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -668,6 +732,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Zweite tragende Begründung der Hauptthese (stärkerer, gleichmäßigerer Wind in der Höhe).",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -709,6 +781,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Erläuternde Nebenbemerkung zur Physik; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -754,6 +834,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Einzelne Zahl zum Mehrertrag im Erklärteil; nicht hervorgehoben, das Video stützt sich sonst auf A03. Kein eigenständiger Kern der Argumentation.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -798,6 +886,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Hintergrund zur Datengrundlage; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -878,6 +974,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Thema eines eigenen Kapitels (Bauweise als eigener Kran); erhöhte Bedeutung für das Video.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -922,6 +1026,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Randinformation zum Bauablauf.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -972,6 +1084,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Hervorgehobene Nutzenangabe (Haushalte), prägt den Eindruck vom Ertrag.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1008,6 +1128,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Vergleichszahl zu A16; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1052,6 +1180,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Im Fazit als eigentlicher Sinn des Projekts dargestellt (zweite Etage in Windparks).",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1092,6 +1228,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Angabe zum Ausbaupotenzial, stützt die Bedeutung des Konzepts.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1137,6 +1281,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Ortsangabe am Rande ohne Einfluss auf die Argumentation.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1181,6 +1333,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Einordnung zur Leistung; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1222,6 +1382,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Nebenvergleich mit einer anderen Anlage.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1263,6 +1431,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Vergleichszahl im Abschnitt zu den Kosten; stützt das Kostenargument, ist aber nicht dessen Kern (das ist A24).",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1308,6 +1484,14 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Kern des Kostenvorbehalts im Abschnitt „Das große Aber“; erhöhte Bedeutung für die Gesamtaussage.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {

@@ -21,7 +21,7 @@ Die meisten Aussagen zur Anlage stimmen: Höhe, Rekord, Inbetriebnahme, Bauweise
 
 ## Zur Einordnung
 
-- Die Faktenampel steht auf **Gelb**: 3 von 23 entschiedenen Tatsachenbehauptungen sind widerlegt oder irreführend. Die Fehler betreffen vor allem Zahlen im zweiten Teil (Mehrertrag, Kosten), nicht die Kernnachricht vom Rekord.
+- Die Faktenampel steht auf **Gelb** (gemischte Faktenlage, Faktenindex mit vorläufig eingeschätzten Bedeutungsfaktoren; aktueller Wert auf der Videoseite): 3 von 23 bewerteten Tatsachenbehauptungen sind widerlegt oder irreführend. Die Fehler betreffen vor allem Zahlen im zweiten Teil (Mehrertrag, Kosten), nicht die Kernnachricht vom Rekord.
 - Viele Angaben zur Anlage stammen vom Bauherrn Gicon bzw. der SPRIND. Das Video kennzeichnet sie meist als Erwartung („soll“). Belastbar wird der Mehrertrag erst mit Betriebsdaten.
 - Die Haushaltsvergleiche (7.500 gegenüber 4.000) beruhen auf unterschiedlichen Annahmen; eine grobe Gegenrechnung mit den veröffentlichten Messdaten ergibt für Schipkau eher rund 3.900 Haushalte.
 
