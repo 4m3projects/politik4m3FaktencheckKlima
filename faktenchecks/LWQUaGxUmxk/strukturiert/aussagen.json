@@ -346,6 +346,7 @@
       "verdict": "Teilweise belegt",
       "description": "Durch seine Höhe soll das Windrad mehr als doppelt so viel Strom erzeugen können wie ein herkömmliches Windrad mit gleichem Rotordurchmesser.",
       "reason": "Die Angabe stammt vom Entwickler Gicon und wird im Video mit „soll“ als Erwartung gekennzeichnet. Die veröffentlichte Auswertung des 300-m-Messmasts ergibt aber für eine Beispielanlage rund 63 % mehr Jahresertrag in 300 m gegenüber 150 m Nabenhöhe, nicht mehr als 100 %. Ein Experte des Forschungszentrums Jülich hält rund 60 % Mehrertrag für plausibel. Gemessene Betriebsdaten der Anlage gibt es noch nicht. Die Verdopplung ist also ein Unternehmensziel, das die bisherigen Messdaten nicht stützen.",
+      "shortReason": "Die Verdopplung ist ein Ziel des Entwicklers; die Messmast-Auswertung ergibt rund 63 % Mehrertrag, nicht über 100 %.",
       "assessmentBasis": "Vergleich der Unternehmensangabe mit der Messmast-Auswertung von SPRIND/GICON und einer unabhängigen Experteneinschätzung.",
       "occurrences": [
         {
@@ -535,6 +536,7 @@
       "verdict": "Teilweise belegt",
       "description": "Der Erfinder Horst Bendix reichte seinen Entwurf 2019 bei einer SPRIND-Challenge ein, war damals 91 Jahre alt und hatte an den Kränen für den Bau des Berliner Fernsehturms mitgewirkt.",
       "reason": "Im Kern richtig: Bendix reichte seine Idee 2019 bei der SPRIND ein und arbeitete am Bau des Berliner Fernsehturms mit (u. a. Kräne und Kugeldrehverbindung für die Kuppel). Ungenau sind zwei Details: SPRIND spricht von einem eingereichten Projekt, nicht von einer „Challenge“. Und 91 Jahre alt war er laut SPRIND bei der Gründung der beventum im Dezember 2020; da er im Juni 2023 mit 93 Jahren starb, war er 2019 etwa 89. Dass Bendix 2023 gestorben ist und die Anlage nicht mehr erlebt hat, erwähnt das Video nicht.",
+      "shortReason": "Einreichung 2019 und Mitarbeit am Fernsehturm stimmen; es war keine „Challenge“, und Bendix war 2019 etwa 89, nicht 91 Jahre alt.",
       "assessmentBasis": "Abgleich mit SPRIND-Projektseite und Presseporträts.",
       "occurrences": [
         {
@@ -676,6 +678,7 @@
       "verdict": "Teilweise belegt",
       "description": "Der Zusammenhang zwischen der Leistung eines Windrads und der Höhe ist logarithmisch.",
       "reason": "Ungenau. Logarithmisch (oder näherungsweise als Potenzgesetz) wächst mit der Höhe die Windgeschwindigkeit, nicht die Leistung. Weil die Leistung mit der dritten Potenz der Windgeschwindigkeit steigt, wächst sie mit der Höhe deutlich stärker als die Geschwindigkeit. Die Messmast-Auswertung beschreibt das Höhenprofil mit einem Höhenexponenten von rund 0,3 bis 0,36. Die Grundidee „je höher, desto mehr Wind, mit abnehmendem Zuwachs“ ist richtig, die Formulierung vermischt aber Geschwindigkeit und Leistung.",
+      "shortReason": "Mit der Höhe wächst näherungsweise logarithmisch die Windgeschwindigkeit, nicht die Leistung; diese steigt deutlich stärker.",
       "assessmentBasis": "Physikalische Grundlagen und Messdaten des Höhenprofils.",
       "occurrences": [
         {
@@ -716,6 +719,7 @@
       "verdict": "Widerlegt",
       "description": "Laut Prognosen der Unternehmen erreicht man bei gleichem Rotordurchmesser durch die Höhe ca. 10 % mehr Leistung.",
       "reason": "Diese Zahl findet sich in keiner der gelesenen Quellen. Gicon spricht von etwa doppeltem Ertrag, die Messmast-Auswertung von rund 63 % Mehrertrag (150 m gegenüber 300 m), Experten halten etwa 60 % für plausibel. Die 10 % widersprechen damit den Unternehmensprognosen und auch der eigenen Aussage im Video-Einstieg („mehr als doppelt so viel Strom“). Möglicherweise ist eine andere Größe gemeint; als Prognose zum Mehrertrag ist sie falsch.",
+      "shortReason": "Die 10 % finden sich in keiner Quelle; Hersteller und Messdaten nennen rund 60 % bis doppelten Mehrertrag.",
       "assessmentBasis": "Abgleich mit Unternehmensangaben, Messdaten-Auswertung und Experteneinschätzungen.",
       "occurrences": [
         {
@@ -1098,6 +1102,7 @@
       "verdict": "Teilweise belegt",
       "description": "Schipkau liegt im ehemaligen Braunkohlerevier in Ostdeutschland.",
       "reason": "Teilweise richtig. Die Anlage steht auf ehemaligem Tagebaugelände (Hochkippe bei Klettwitz/Schipkau) in der Lausitz. Das Lausitzer Revier als Ganzes ist aber kein ehemaliges Revier: Dort wird weiterhin Braunkohle gefördert, der Ausstieg ist bis spätestens 2038 vorgesehen.",
+      "shortReason": "Die Anlage steht auf ehemaligem Tagebaugelände, das Lausitzer Revier fördert aber weiter Braunkohle (Ausstieg bis spätestens 2038).",
       "assessmentBasis": "Presseberichte zum Standort.",
       "occurrences": [
         {
@@ -1186,6 +1191,7 @@
       "verdict": "Teilweise belegt",
       "description": "Von Vestas ist eine Anlage in Betrieb, die die drei- bis vierfache Leistung liefert.",
       "reason": "Das Beispiel stimmt: Vestas V236 mit 15 MW (etwa die vierfache Leistung) wird seit 2025 unter anderem im deutschen Offshore-Windpark He Dreiht eingesetzt. Im Zusammenhang („nicht die Anlage mit der höchsten Nennleistung … da ist von Vestas eine Anlage“) entsteht aber der Eindruck, Vestas halte den Leistungsrekord. Leistungsstärkste Anlage ist ein chinesischer Prototyp von Dongfang mit 26 MW, also fast der siebenfachen Leistung.",
+      "shortReason": "Die 15-MW-Anlage von Vestas gibt es; leistungsstärkste Anlage ist aber ein chinesischer 26-MW-Prototyp von Dongfang.",
       "assessmentBasis": "Herstellerunabhängige Fachpresse zu den größten Offshore-Turbinen.",
       "occurrences": [
         {
@@ -1226,6 +1232,7 @@
       "verdict": "Widerlegt",
       "description": "Ein normales Onshore-Windrad kostet im Bau etwa 1 Million Euro.",
       "reason": "Deutlich zu niedrig. Laut Kostenstudie der Deutschen WindGuard für das Wirtschaftsministerium liegen allein die Hauptinvestitionskosten (Anlage, Fundament, Transport, Montage) bei rund 900 bis 1.400 Euro je Kilowatt, dazu kommen Nebenkosten von im Mittel 506 Euro je Kilowatt. Für eine typische neue Anlage mit rund 5,5 MW ergibt das etwa 7 bis 10 Millionen Euro (eigene Rechnung aus den Studienwerten). Selbst bezogen auf ein Megawatt läge der Wert mit rund 1,4 bis 1,9 Millionen Euro über 1 Million.",
+      "shortReason": "Deutlich zu niedrig: Eine typische neue Onshore-Anlage kostet laut Kostenstudie etwa 7 bis 10 Mio. Euro.",
       "assessmentBasis": "Kostenstudie im Auftrag des BMWK und Ausbaustatistik; Gesamtkosten als nachvollziehbare eigene Rechnung.",
       "occurrences": [
         {
@@ -1266,6 +1273,7 @@
       "verdict": "Irreführend / Kontext fehlt",
       "description": "Die Serienversion des Höhenwindrads soll etwa zehnmal so teuer sein wie ein normales Onshore-Windrad.",
       "reason": "Für den Faktor zehn haben wir keine Quelle gefunden. Bekannt sind: Der Prototyp kostete laut SPRIND 25 Millionen Euro, also etwa das Zwei- bis Dreifache einer typischen neuen Onshore-Anlage. Je Kilowatt sind die Baukosten des Prototyps laut Bundesregierung bzw. FZ Jülich fast viermal so hoch wie bei einer normalen Anlage; für Serienanlagen mit stärkerer Turbine werden sinkende Kosten je Kilowatt erwartet. Der Vergleich im Video beruht zudem auf dem zu niedrigen Wert von 1 Million Euro für ein normales Windrad.",
+      "shortReason": "Für den Faktor zehn gibt es keine Quelle; der Prototyp kostete etwa das Zwei- bis Dreifache einer typischen neuen Anlage.",
       "assessmentBasis": "Projektangaben zu den Baukosten und Experteneinschätzung zu spezifischen Kosten.",
       "occurrences": [
         {

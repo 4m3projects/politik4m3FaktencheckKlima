@@ -21,6 +21,9 @@ const FC = path.join(ROOT, 'faktenchecks');
 const CHECK = process.argv.includes('--check');
 
 const VERDICTS = ['Belegt', 'Teilweise belegt', 'Irreführend / Kontext fehlt', 'Widerlegt', 'Nicht ausreichend belegbar', 'Meinung / Prognose'];
+/* Kurzbegründung (shortReason): Pflicht bei diesen Bewertungen, sonst freiwillig. */
+const SHORT_REQUIRED = ['Teilweise belegt', 'Irreführend / Kontext fehlt', 'Widerlegt', 'Nicht ausreichend belegbar'];
+const SHORT_MAX = 200;
 const STATUS = ['Abgeschlossen', 'In Bearbeitung', 'Offen', 'Nicht überprüfbar'];
 const KINDS = ['Tatsachenbehauptung', 'Meinung', 'Prognose'];
 const PRECISION = ['Ungefähr', 'Kontrolliert'];
@@ -69,6 +72,18 @@ function validateClaims(data, id) {
     if (c.status !== 'Abgeschlossen' && c.verdict) errors.push(ca + ': nur abgeschlossene Aussagen haben eine Bewertung.');
     if (c.kind !== 'Tatsachenbehauptung' && c.verdict && c.verdict !== 'Meinung / Prognose') errors.push(ca + ': Meinung/Prognose nur als „Meinung / Prognose“ bewerten.');
     for (const k of ['description', 'reason', 'assessmentBasis']) if (!text(c[k])) errors.push(ca + ': ' + k + ' fehlt.');
+    /* Kurzbegründung (docs/KURZBEGRUENDUNG.md): ein Satz, schon im zugeklappten Zustand sichtbar. */
+    if ('shortReason' in c) {
+      const t = c.shortReason;
+      if (!text(t)) errors.push(ca + ': shortReason muss ein nichtleerer Text sein.');
+      else {
+        if (c.status !== 'Abgeschlossen' && c.status !== 'Nicht überprüfbar') errors.push(ca + ': shortReason nur bei abschließend eingeordneten Aussagen.');
+        if (t.length > SHORT_MAX || /[\r\n]/.test(t)) errors.push(ca + ': shortReason höchstens ' + SHORT_MAX + ' Zeichen in einer Zeile.');
+        if (t === c.reason) errors.push(ca + ': shortReason darf die vollständige Begründung nicht wiederholen.');
+        if ((c.verdict === 'Widerlegt' || c.verdict === 'Irreführend / Kontext fehlt') && /^(Stimmt|Richtig|Belegt|Zutreffend|Korrekt)\b/.test(t)) errors.push(ca + ': shortReason widerspricht der Bewertung.');
+        if (c.verdict === 'Belegt' && /^(Falsch|Widerlegt|Stimmt nicht|Unzutreffend)\b/.test(t)) errors.push(ca + ': shortReason widerspricht der Bewertung.');
+      }
+    } else if (SHORT_REQUIRED.includes(c.verdict)) errors.push(ca + ': Bewertung „' + c.verdict + '“ braucht eine Kurzbegründung (shortReason).');
     if (!Number.isInteger(c.chapter)) errors.push(ca + ': chapter muss eine ganze Zahl sein.');
     if (!Array.isArray(c.occurrences) || !c.occurrences.length) errors.push(ca + ': mindestens eine Fundstelle nötig.');
     for (const o of c.occurrences || []) {
