@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "topics": [
+    {
+      "id": "klima",
+      "name": "Klima",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Klimawandel",
+        "Erderwärmung"
+      ],
+      "description": "Aussagen zu Klimawandel, Eis, Korallen und Klimaforschung.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-20",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses der Klimaseite; IDs aus Ungeskriptet übernommen (klima, energie, energie/windkraft, energie/preise)."
+        }
+      ]
+    },
+    {
+      "id": "energie",
+      "name": "Energie",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Strom"
+      ],
+      "description": "Stromerzeugung, Energiepreise, Energiewende.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-20",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses der Klimaseite; IDs aus Ungeskriptet übernommen (klima, energie, energie/windkraft, energie/preise)."
+        }
+      ]
+    },
+    {
+      "id": "energie/windkraft",
+      "name": "Windkraft",
+      "level": "Unterthema",
+      "parent": "energie",
+      "aliases": [
+        "Windenergie",
+        "Windanlagen",
+        "Windrad"
+      ],
+      "description": "Windenergieanlagen: Energiebilanz, Wirtschaftlichkeit, Materialeinsatz.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-20",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses der Klimaseite; IDs aus Ungeskriptet übernommen (klima, energie, energie/windkraft, energie/preise)."
+        }
+      ]
+    },
+    {
+      "id": "energie/preise",
+      "name": "Energiepreise",
+      "level": "Unterthema",
+      "parent": "energie",
+      "aliases": [
+        "Strompreis",
+        "Gaspreis"
+      ],
+      "description": "Preise für Strom, Gas und andere Energieträger.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-20",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses der Klimaseite; IDs aus Ungeskriptet übernommen (klima, energie, energie/windkraft, energie/preise)."
+        }
+      ]
+    },
+    {
+      "id": "energie/atomkraft",
+      "name": "Atomkraft",
+      "level": "Unterthema",
+      "parent": "energie",
+      "aliases": [
+        "Kernkraft",
+        "Kernenergie",
+        "Atomkraftwerk",
+        "AKW",
+        "Atomausstieg",
+        "Endlager",
+        "SMR"
+      ],
+      "description": "Kernkraftwerke: Ausstieg und Wiedereinstieg, Bauzeiten, Kosten, Atommüll und kleine modulare Reaktoren.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-20",
+          "agent": "Claude",
+          "change": "Neu angelegt für die Klimaseite (in den Schwesterprojekten noch nicht vorhanden)."
+        }
+      ]
+    },
+    {
+      "id": "energie/versorgungssicherheit",
+      "name": "Versorgungssicherheit",
+      "level": "Unterthema",
+      "parent": "energie",
+      "aliases": [
+        "Dunkelflaute",
+        "Grundlast",
+        "Stromimport",
+        "Energieimporte",
+        "Kraftwerkslücke"
+      ],
+      "description": "Ob jederzeit genug Strom zur Verfügung steht: Bedarf, gesicherte Leistung, Importe und Abhängigkeiten.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-20",
+          "agent": "Claude",
+          "change": "Neu angelegt für die Klimaseite (in den Schwesterprojekten noch nicht vorhanden)."
+        }
+      ]
+    },
+    {
+      "id": "eigentum",
+      "name": "Eigentum und Enteignung",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Enteignung",
+        "Privateigentum"
+      ],
+      "description": "Eingriffe in privates Eigentum, Enteignungspläne und ihre politische Bewertung.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-20",
+          "agent": "Claude",
+          "change": "Neu angelegt für die Klimaseite (in den Schwesterprojekten noch nicht vorhanden)."
+        }
+      ]
+    }
+  ]
+}
