@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "KL-K0006",
+  "revision": 1,
+  "claim": "Katherina Reiche war von 2020 bis 2025 Vorstandsvorsitzende der Westenergie AG.",
+  "topics": [
+    "energie"
+  ],
+  "status": "Geprüft",
+  "verdict": "Belegt",
+  "reason": "Die Bundesregierung führt Reiches Vorstandsvorsitz für 2020 bis 2025. Eine Unternehmensmitteilung vom November 2024 nennt sie in dieser Funktion.",
+  "validity": {
+    "asOf": "2026-11-20",
+    "timeScope": "2020 bis 2025",
+    "subjectScope": "Vorstandsvorsitz der Westenergie AG",
+    "validUntil": null
+  },
+  "checkedOn": "2026-11-20",
+  "sources": [
+    {
+      "id": "S001",
+      "title": "Bundesregierung – Lebenslauf Katherina Reiche",
+      "url": "https://www.bundesregierung.de/breg-de/bundesregierung/bundeskabinett/lebenslauf-2342728",
+      "details": "Zeitraum des Vorstandsvorsitzes.",
+      "accessedOn": "2026-11-20",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "S002",
+      "title": "Westenergie – Unternehmensmitteilung vom 7. November 2024",
+      "url": "https://www.westenergie.de/newsroom/article/julika-lendvai",
+      "details": "Zeitgenössische Nennung als Vorstandsvorsitzende.",
+      "accessedOn": "2026-11-20",
+      "kind": "Primärquelle"
+    }
+  ],
+  "dependsOn": [],
+  "supersededBy": null,
+  "links": [
+    {
+      "claimId": "fn_LPgzxYXc-A0005",
+      "repo": null,
+      "relation": "teilaspekt",
+      "contextNote": "Der Vorstandsvorsitz ist der gemeinsame Tatsachenkern. Die Videoaussage nennt zusätzlich den Stromleitungsbau der Gruppe.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-20"
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0031",
+      "repo": null,
+      "relation": "teilaspekt",
+      "contextNote": "Der Vorstandsvorsitz ist der gemeinsame Tatsachenkern. Die Aussage im MONITOR-Beitrag nennt zusätzlich die Konzernzugehörigkeit zu E.ON.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-20"
+    }
+  ],
+  "lock": null,
+  "history": [
+    {
+      "revision": 1,
+      "date": "2026-11-20",
+      "agent": "Codex",
+      "change": "Wiederkehrenden Teilbefund zum früheren Vorstandsvorsitz mit den beiden Videoaussagen verknüpft.",
+      "previous": null
+    }
+  ]
+}

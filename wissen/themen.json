@@ -130,6 +130,26 @@
       ]
     },
     {
+      "id": "energie/erdgas",
+      "name": "Erdgas",
+      "level": "Unterthema",
+      "parent": "energie",
+      "aliases": [
+        "Gasnetz",
+        "Gasverteilung"
+      ],
+      "description": "Erdgasversorgung, Gasnetze und Interessenvertretung rund um die Gaswirtschaft.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-20",
+          "agent": "Codex",
+          "change": "Für den Faktencheck zu Gasnetzen und Interessenvertretung angelegt. Energiepreise und Versorgungssicherheit erfassen diesen Schwerpunkt nicht."
+        }
+      ]
+    },
+    {
       "id": "eigentum",
       "name": "Eigentum und Enteignung",
       "level": "Hauptthema",

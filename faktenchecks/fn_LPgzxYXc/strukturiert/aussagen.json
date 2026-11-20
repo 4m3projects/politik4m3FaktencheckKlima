@@ -1,0 +1,744 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "videoId": "fn_LPgzxYXc",
+    "videoUrl": "https://www.youtube.com/watch?v=fn_LPgzxYXc",
+    "kind": "Vollerfassung",
+    "asOf": "2026-11-20",
+    "durationSeconds": 130,
+    "coverageNote": "Der gesprochene Ausschnitt wurde vollständig anhand der deutschen Untertitel ausgewertet. Titel und Videobeschreibung sind im Bericht gesondert eingeordnet.",
+    "researchNote": "Automatische deutsche Untertitel des Ausschnitts und der vollständigen phoenix-Aufzeichnung abgeglichen. Der englische Untertitelabruf lieferte HTTP 429. Die Sachprüfung beruht auf den verlinkten Originalquellen."
+  },
+  "speakers": [
+    {
+      "id": "SP1",
+      "name": "Katherina Reiche",
+      "videoRole": "Bundesministerin für Wirtschaft und Energie",
+      "identityBasis": "Reiche wird in der Beschreibung der vollständigen phoenix-Aufzeichnung als Ministerin genannt."
+    },
+    {
+      "id": "SP2",
+      "name": "Tilo Jung",
+      "videoRole": "Fragesteller",
+      "identityBasis": "Die Moderation der vollständigen Aufzeichnung ruft Jung auf. Die Videobeschreibung nennt Tilo als Fragesteller."
+    }
+  ],
+  "sources": [
+    {
+      "id": "S001",
+      "title": "phoenix – Vollständige Pressekonferenz",
+      "url": "https://www.youtube.com/watch?v=3pKKVshuX4Y&t=4174s",
+      "details": "Wortwechsel vom 22. April 2026 ab 1:09:34. Automatische deutsche YouTube-Untertitel der vollständigen Aufzeichnung geprüft.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Originaluntertitel und Metadaten der vollständigen Aufzeichnung ausgewertet."
+    },
+    {
+      "id": "S002",
+      "title": "Bundesregierung – Lebenslauf",
+      "url": "https://www.bundesregierung.de/breg-de/bundesregierung/bundeskabinett/lebenslauf-2342728",
+      "details": "Ämter und Dienstzeiten bei VKU, Westenergie und Bundesregierung.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Abschnitte der Originalquelle gelesen."
+    },
+    {
+      "id": "S003",
+      "title": "Westenergie AG – Jahresabschluss 2024",
+      "url": "https://www.lobbyregister.bundestag.de/media/f0/3f/545691/Westenergie-JA-2024-Unternehmensregister.pdf",
+      "details": "Lagebericht und Tätigkeitsabschluss für die Gasverteilung, besonders Seiten 4, 9 und 58.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Abschnitte der Originalquelle gelesen."
+    },
+    {
+      "id": "S004",
+      "title": "Westenergie – Gasnetzkooperation Marl",
+      "url": "https://www.westenergie.de/newsroom/article/stadt-marl-und-westenergie-starten-gemeinsame-strom--und-gasnetzkooperation",
+      "details": "Von Reiche unterzeichneter Konsortialvertrag, Pacht durch die AG und Betriebsführung durch Westnetz.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Abschnitte der Originalquelle gelesen."
+    },
+    {
+      "id": "S005",
+      "title": "Westnetz – Netzausbauplan 2024",
+      "url": "https://www.vnbdigital.de/gateway/files?fileId=66309e6599abd27c97c7caa4&serviceName=vnb",
+      "details": "Seite 4 zum Bau und Betrieb von Strom- und Gasnetzen durch die hundertprozentige Westenergie-Tochter.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Abschnitte der Originalquelle gelesen."
+    },
+    {
+      "id": "S006",
+      "title": "VKU – Der Beitrag kommunaler Unternehmen",
+      "url": "https://www.vku.de/fileadmin/user_upload/Verbandsseite/Positionen/Allgemein/160906_VKU-Position_Der_Beitrag_kommunaler_Unternehmen.pdf",
+      "details": "Mitgezeichnetes Vorwort und Positionen des VKU von 2016 zu Erdgas und Gasnetzen, Seiten 18–21.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Abschnitte der Originalquelle gelesen."
+    },
+    {
+      "id": "S007",
+      "title": "Lobbyregister – Westenergie AG, Stand 8. November 2024",
+      "url": "https://www.lobbyregister.bundestag.de/suche/R001813/45773?backUrl=%2Fsuche%3Fpage%3D20%26pageSize%3D50%26filter%255Bfieldsofinterest%255D%255BFOI_ECONOMY%257CFOI_ECONOMY_OTHER%255D%3Dtrue%26sort%3DFINANCIALEXPENSES_ASC",
+      "details": "Reiche ist unter den Personen aufgeführt, die für Westenergie unmittelbar Interessenvertretung ausüben.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Abschnitte der Originalquelle gelesen."
+    },
+    {
+      "id": "S008",
+      "title": "Lobbyregister – VKU",
+      "url": "https://www.lobbyregister.bundestag.de/suche/R000098",
+      "details": "Der Kommunalverband vertritt verschiedene Branchen und führt Regelungsvorhaben zu Gasnetzen auf.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Abschnitte der Originalquelle gelesen."
+    },
+    {
+      "id": "S009",
+      "title": "Westnetz – Umspannanlage Cochem",
+      "url": "https://www.westnetz.de/newsroom/article/westnetz-erneuert-umspannanlage-cochem-zur-integration-erneuerbarer-energien",
+      "details": "Konkretes Beispiel für den Bau einer Hochspannungsleitung durch Westnetz und Amprion.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Abschnitte der Originalquelle gelesen."
+    },
+    {
+      "id": "S010",
+      "title": "Westenergie AG – Gleichbehandlungsbericht 2023",
+      "url": "https://www.westnetz.de/content/dam/revu-global/westnetz/documents/ueber-westnetz/unser-unternehmen/gleichbehandlungsbericht-2023.pdf",
+      "details": "Seiten 18–19 zu Netzanschlüssen und Inbetriebnahmen von Photovoltaik- und Windenergieanlagen.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Abschnitte der Originalquelle gelesen."
+    },
+    {
+      "id": "S011",
+      "title": "naturstrom – Umfrage zur Energiepolitik 2026",
+      "url": "https://www.naturstrom.de/blog/energiewende/umfrage-zur-energiepolitik-2026/",
+      "details": "Auftraggeber über Befragung im März 2026 zur Bewertung von Reiches Politik und energiepolitischen Plänen.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Abschnitte der Originalquelle gelesen."
+    },
+    {
+      "id": "S012",
+      "title": "Deutsche Umwelthilfe – Umfrage zu Gaskraftwerken",
+      "url": "https://www.duh.de/presse/pressemitteilungen/pressemitteilung/klare-mehrheit-der-deutschen-fuer-investitionen-in-die-energiewende-und-gegen-neue-gaskraftwerke/",
+      "details": "Auftraggeber über die pollytix-Befragung zu Energiewende und neuen Gaskraftwerken vom September 2025.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Abschnitte der Originalquelle gelesen."
+    },
+    {
+      "id": "S013",
+      "title": "BMWE-Pressestelle – Antwort vom 23. April 2026",
+      "url": "https://www.cleanthinking.de/katherina-reiche-westenergie-presseanfrage/",
+      "details": "Bei Cleanthinking im Wortlaut dokumentierte Stellungnahme. Die Pressestelle hebt Westenergies Infrastruktur- und Stromgeschäft hervor.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Abschnitte der Originalquelle gelesen."
+    },
+    {
+      "id": "S014",
+      "title": "Westenergie – Unternehmensmitteilung vom 7. November 2024",
+      "url": "https://www.westenergie.de/newsroom/article/julika-lendvai",
+      "details": "Nennung von Reiche als Vorstandsvorsitzende und Angaben zur Strom- und Gasnetzinfrastruktur der Westenergie-Gruppe.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Originalmitteilung aus Reiches Amtszeit gelesen."
+    }
+  ],
+  "claims": [
+    {
+      "id": "fn_LPgzxYXc-A0001",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "description": "In der Öffentlichkeit sei der Eindruck weit verbreitet, Reiche vertrete als Ministerin vorrangig Interessen der fossilen Lobby.",
+      "reason": "Die Umfragen zur Energiepolitik Reiches und zur Zustimmung zu neuen Gaskraftwerken messen diese konkrete Zuschreibung nicht. Wie verbreitet dieser Eindruck am 22. April 2026 war, bleibt offen.",
+      "shortReason": "Die gefundenen Umfragen messen die Zustimmung zur Energiepolitik und zu Gaskraftwerken, aber nicht die Verbreitung dieser konkreten Einschätzung.",
+      "assessmentBasis": "Fundstelle und zugeordnete Originalquellen abgeglichen.",
+      "occurrences": [
+        {
+          "startSeconds": 6,
+          "endSeconds": 15,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP2",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherwechsel anhand des Ausschnitts und des vollständigen Wortwechsels zugeordnet.",
+          "roleBasis": "Die Person bringt den Punkt im Wortwechsel als eigene Aussage vor.",
+          "timeBasis": "Automatische deutsche YouTube-Untertitel des Ausschnitts."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Wortwechsel vom 22. April 2026 ab 1:09:34. Automatische deutsche YouTube-Untertitel der vollständigen Aufzeichnung geprüft."
+        },
+        {
+          "sourceId": "S011",
+          "note": "Auftraggeber über Befragung im März 2026 zur Bewertung von Reiches Politik und energiepolitischen Plänen."
+        },
+        {
+          "sourceId": "S012",
+          "note": "Auftraggeber über die pollytix-Befragung zu Energiewende und neuen Gaskraftwerken vom September 2025."
+        }
+      ],
+      "openQuestions": [
+        "Gibt es eine zeitgenössische Umfrage mit der konkreten Frage und ausgewiesener Grundgesamtheit?"
+      ],
+      "research": {
+        "gap": "Recherche ohne ausreichendes Ergebnis",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Mit Reiches Namen, Gaslobby und Bevölkerungsmeinung nach Erhebungen gesucht.",
+            "sourceIds": [
+              "S011"
+            ],
+            "result": "Die Erhebung zur Ministerin fragt nach der Bewertung ihrer Politik."
+          },
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Mit Begriffen zu Lobbyeinfluss und Gaskraftwerken nach einschlägigen Umfragen gesucht.",
+            "sourceIds": [
+              "S012"
+            ],
+            "result": "Die pollytix-Erhebung fragt nach der Haltung zu neuen Gaskraftwerken. Keine passende Erhebung zur konkreten Zuschreibung gefunden."
+          }
+        ],
+        "missingInformation": "Eine Erhebung der konkreten öffentlichen Wahrnehmung zum Zeitpunkt des Videos.",
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Aus dem Wortwechsel erfasst.",
+        "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Die Aussage zur öffentlichen Wahrnehmung leitet die Frage ein.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (zweiter Agent)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die behauptete öffentliche Wahrnehmung rahmt die Frage ein und trägt den Streit über Reiches frühere Tätigkeit kaum."
+          }
+        ]
+      }
+    },
+    {
+      "id": "fn_LPgzxYXc-A0002",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Reiche war zum Zeitpunkt der Pressekonferenz Bundesministerin für Wirtschaft und Energie.",
+      "reason": "Der Lebenslauf der Bundesregierung nennt den 6. Mai 2025 als Amtsbeginn. Die Pressekonferenz fand am 22. April 2026 statt.",
+      "assessmentBasis": "Fundstelle und zugeordnete Originalquellen abgeglichen.",
+      "occurrences": [
+        {
+          "startSeconds": 27,
+          "endSeconds": 32,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherwechsel anhand des Ausschnitts und des vollständigen Wortwechsels zugeordnet.",
+          "roleBasis": "Die Person bringt den Punkt im Wortwechsel als eigene Aussage vor.",
+          "timeBasis": "Automatische deutsche YouTube-Untertitel des Ausschnitts."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Wortwechsel vom 22. April 2026 ab 1:09:34. Automatische deutsche YouTube-Untertitel der vollständigen Aufzeichnung geprüft."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Ämter und Dienstzeiten bei VKU, Westenergie und Bundesregierung."
+        }
+      ],
+      "openQuestions": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Zugeordnete Originalquellen auf die beschriebene Aussage geprüft.",
+            "sourceIds": [
+              "S001",
+              "S002"
+            ],
+            "result": "Der Lebenslauf der Bundesregierung nennt den 6. Mai 2025 als Amtsbeginn. Die Pressekonferenz fand am 22. April 2026 statt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Aus dem Wortwechsel erfasst.",
+        "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Die Amtsbezeichnung dient als Einstieg in Reiches Antwort.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (zweiter Agent)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die Amtsbezeichnung liefert den Rahmen für Reiches Antwort."
+          }
+        ]
+      }
+    },
+    {
+      "id": "fn_LPgzxYXc-A0003",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Reiche schließt in diesem Wortwechsel eine spätere Tätigkeit in der fossilen Energiebranche nicht ausdrücklich aus.",
+      "reason": "Reiche verweist auf ihre aktuelle Aufgabe und sagt sinngemäß, sie befasse sich derzeit nicht mit künftigen Tätigkeiten. Auch auf die Nachfrage folgt in diesem Wortwechsel keine ausdrückliche Absage an eine spätere Tätigkeit.",
+      "assessmentBasis": "Fundstelle und zugeordnete Originalquellen abgeglichen.",
+      "occurrences": [
+        {
+          "startSeconds": 60,
+          "endSeconds": 68,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP2",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherwechsel anhand des Ausschnitts und des vollständigen Wortwechsels zugeordnet.",
+          "roleBasis": "Die Person bringt den Punkt im Wortwechsel als eigene Aussage vor.",
+          "timeBasis": "Automatische deutsche YouTube-Untertitel des Ausschnitts."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Wortwechsel vom 22. April 2026 ab 1:09:34. Automatische deutsche YouTube-Untertitel der vollständigen Aufzeichnung geprüft."
+        }
+      ],
+      "openQuestions": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Zugeordnete Originalquellen auf die beschriebene Aussage geprüft.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Reiche verweist auf ihre aktuelle Aufgabe und sagt sinngemäß, sie befasse sich derzeit nicht mit künftigen Tätigkeiten. Auch auf die Nachfrage folgt in diesem Wortwechsel keine ausdrückliche Absage an eine spätere Tätigkeit."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Aus dem Wortwechsel erfasst.",
+        "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Der Punkt greift die Ausgangsfrage zum Wechsel nach dem Ministeramt auf.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (zweiter Agent)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die Aussage beantwortet die Ausgangsfrage zum möglichen späteren Wechsel und hat eine eigene, gegenüber dem Titel nachgeordnete Funktion."
+          }
+        ]
+      }
+    },
+    {
+      "id": "fn_LPgzxYXc-A0004",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "description": "Reiche sei nie für die Gaslobby tätig gewesen.",
+      "reason": "Der Begriff Gaslobby bleibt im Wortwechsel unscharf. Reiche leitete von 2015 bis 2019 den branchenübergreifenden VKU. Ein Verbandspapier aus ihrer Amtszeit mit von ihr mitgezeichnetem Vorwort vertritt auch Interessen im Gasbereich. Westenergie führte Reiche 2024 unter den Personen, die für das Unternehmen unmittelbar Interessenvertretung ausüben. Die pauschale Absage lässt die belegte Interessenvertretung mit Gasbezug weg. Eine Tätigkeit für einen ausschließlich auf Gas ausgerichteten Verband und konkrete persönliche Gaslobbygespräche ergeben sich aus den Unterlagen nicht.",
+      "shortReason": "Reiche leitete den VKU, der auch Gasinteressen vertrat, und war bei Westenergie für unmittelbare Interessenvertretung registriert.",
+      "assessmentBasis": "Fundstelle und zugeordnete Originalquellen abgeglichen.",
+      "occurrences": [
+        {
+          "startSeconds": 72,
+          "endSeconds": 76,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherwechsel anhand des Ausschnitts und des vollständigen Wortwechsels zugeordnet.",
+          "roleBasis": "Die Person bringt den Punkt im Wortwechsel als eigene Aussage vor.",
+          "timeBasis": "Automatische deutsche YouTube-Untertitel des Ausschnitts."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Ämter und Dienstzeiten bei VKU, Westenergie und Bundesregierung."
+        },
+        {
+          "sourceId": "S006",
+          "note": "Mitgezeichnetes Vorwort und Positionen des VKU von 2016 zu Erdgas und Gasnetzen, Seiten 18–21."
+        },
+        {
+          "sourceId": "S007",
+          "note": "Reiche ist unter den Personen aufgeführt, die für Westenergie unmittelbar Interessenvertretung ausüben."
+        },
+        {
+          "sourceId": "S008",
+          "note": "Der Kommunalverband vertritt verschiedene Branchen und führt Regelungsvorhaben zu Gasnetzen auf."
+        },
+        {
+          "sourceId": "S013",
+          "note": "Bei Cleanthinking im Wortlaut dokumentierte Stellungnahme. Die Pressestelle hebt Westenergies Infrastruktur- und Stromgeschäft hervor."
+        }
+      ],
+      "openQuestions": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Wissensdatenbanken mit Begriffen zu VKU, Gaslobby und Westenergie durchsucht, dann Lebenslauf und Verbandspapier gelesen.",
+            "sourceIds": [
+              "S002",
+              "S006",
+              "S008"
+            ],
+            "result": "Reiche leitete einen breiten Interessenverband, der auch Interessen im Gasbereich vertrat."
+          },
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Historischen Westenergie-Eintrag und Antwort der Ministeriumspressestelle geprüft.",
+            "sourceIds": [
+              "S007",
+              "S013"
+            ],
+            "result": "Westenergie war ein Infrastrukturunternehmen und meldete Reiches unmittelbare Interessenvertretung. Der Eintrag ordnet ihr keine einzelnen Gaslobbygespräche zu."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Aus dem Wortwechsel erfasst.",
+        "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 3,
+        "weightReason": "Das Dementi steht im Zentrum des Wortwechsels und ist der Bezugspunkt des Videotitels.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (zweiter Agent)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Das Dementi betrifft unmittelbar die frühere Gaslobbytätigkeit, den Gegenstand des Videotitels und des folgenden Streits."
+          }
+        ]
+      }
+    },
+    {
+      "id": "fn_LPgzxYXc-A0005",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Reiche stand an der Spitze eines Infrastrukturunternehmens, dessen Gruppe Stromleitungen baute.",
+      "reason": "Reiche war von 2020 bis 2025 Vorstandsvorsitzende der Westenergie AG. Die Tochter Westnetz plante, baute und betrieb Stromverteilnetze und dokumentiert mit der Leitung bei Cochem ein konkretes Bauprojekt.",
+      "assessmentBasis": "Fundstelle und zugeordnete Originalquellen abgeglichen.",
+      "occurrences": [
+        {
+          "startSeconds": 76,
+          "endSeconds": 82,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherwechsel anhand des Ausschnitts und des vollständigen Wortwechsels zugeordnet.",
+          "roleBasis": "Die Person bringt den Punkt im Wortwechsel als eigene Aussage vor.",
+          "timeBasis": "Automatische deutsche YouTube-Untertitel des Ausschnitts."
+        },
+        {
+          "startSeconds": 117,
+          "endSeconds": 124,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherwechsel anhand des Ausschnitts und des vollständigen Wortwechsels zugeordnet.",
+          "roleBasis": "Die Person bringt den Punkt im Wortwechsel als eigene Aussage vor.",
+          "timeBasis": "Automatische deutsche YouTube-Untertitel des Ausschnitts."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Ämter und Dienstzeiten bei VKU, Westenergie und Bundesregierung."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Seite 4 zum Bau und Betrieb von Strom- und Gasnetzen durch die hundertprozentige Westenergie-Tochter."
+        },
+        {
+          "sourceId": "S009",
+          "note": "Konkretes Beispiel für den Bau einer Hochspannungsleitung durch Westnetz und Amprion."
+        },
+        {
+          "sourceId": "S014",
+          "note": "Zeitgenössische Bestätigung des Vorstandsvorsitzes."
+        }
+      ],
+      "openQuestions": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Zugeordnete Originalquellen auf die beschriebene Aussage geprüft.",
+            "sourceIds": [
+              "S002",
+              "S005",
+              "S009"
+            ],
+            "result": "Reiche war von 2020 bis 2025 Vorstandsvorsitzende der Westenergie AG. Die Tochter Westnetz plante, baute und betrieb Stromverteilnetze und dokumentiert mit der Leitung bei Cochem ein konkretes Bauprojekt."
+          },
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Die Aussage ZV0uy_le-Uk-A0031 als verwandten Teilbefund ermittelt und die dort zitierte Originalmitteilung von Westenergie gelesen.",
+            "sourceIds": [
+              "S002",
+              "S014"
+            ],
+            "result": "Die Aussagen teilen den Tatsachenkern des früheren Vorstandsvorsitzes. Die beiden Aussagen nennen verschiedene zusätzliche Tatsachen. Verknüpfung in KL-K0006."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Aus dem Wortwechsel erfasst.",
+        "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Die Unternehmensrolle ist der erste sachliche Teil von Reiches Begründung für ihr Dementi.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (zweiter Agent)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die Beschreibung der Rolle und der Infrastruktur des Arbeitgebers stützt die wiederholte Abgrenzung zur Interessenvertretung."
+          }
+        ]
+      }
+    },
+    {
+      "id": "fn_LPgzxYXc-A0006",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Die Westenergie-Gruppe schloss während Reiches Amtszeit Solar- und Windenergieanlagen an.",
+      "reason": "Der Gleichbehandlungsbericht für 2023 nennt das Anschlusswesen der Tochter Westnetz sowie Inbetriebnahmen von Dach- und Freiflächen-Photovoltaik und von Windenergieanlagen.",
+      "assessmentBasis": "Fundstelle und zugeordnete Originalquellen abgeglichen.",
+      "occurrences": [
+        {
+          "startSeconds": 82,
+          "endSeconds": 89,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherwechsel anhand des Ausschnitts und des vollständigen Wortwechsels zugeordnet.",
+          "roleBasis": "Die Person bringt den Punkt im Wortwechsel als eigene Aussage vor.",
+          "timeBasis": "Automatische deutsche YouTube-Untertitel des Ausschnitts."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S010",
+          "note": "Seiten 18–19 zu Netzanschlüssen und Inbetriebnahmen von Photovoltaik- und Windenergieanlagen."
+        }
+      ],
+      "openQuestions": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Zugeordnete Originalquellen auf die beschriebene Aussage geprüft.",
+            "sourceIds": [
+              "S010"
+            ],
+            "result": "Der Gleichbehandlungsbericht für 2023 nennt das Anschlusswesen der Tochter Westnetz sowie Inbetriebnahmen von Dach- und Freiflächen-Photovoltaik und von Windenergieanlagen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Aus dem Wortwechsel erfasst.",
+        "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Die Anlagenanschlüsse sind ein eigenständiges Beispiel für das Stromnetzgeschäft.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (zweiter Agent)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Konkrete Netzanschlüsse sind ein zusätzliches Beispiel für das Stromgeschäft und eigenständig gegenüber dem Bau von Leitungen."
+          }
+        ]
+      }
+    },
+    {
+      "id": "fn_LPgzxYXc-A0007",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "description": "Das Geschäftsfeld der Westenergie umfasse kein Gasgeschäft.",
+      "reason": "Der Jahresabschluss der Westenergie AG für 2024 weist 123,0 Millionen Euro Umsatz in der Gasverteilung aus. Dazu gehören unter anderem die Verpachtung von Gasnetzen und Dienstleistungen für den regulierten Netzbetrieb. Die hundertprozentige Tochter Westnetz betreibt Gasverteilnetze. In Marl unterzeichnete Reiche als Vorstandsvorsitzende den Konsortialvertrag zur Strom- und Gasnetzkooperation.",
+      "shortReason": "Westenergie wies 2024 für die Gasverteilung 123 Millionen Euro Umsatz aus, und ihre Tochter Westnetz betrieb Gasnetze.",
+      "assessmentBasis": "Fundstelle und zugeordnete Originalquellen abgeglichen.",
+      "occurrences": [
+        {
+          "startSeconds": 88,
+          "endSeconds": 94,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherwechsel anhand des Ausschnitts und des vollständigen Wortwechsels zugeordnet.",
+          "roleBasis": "Die Person bringt den Punkt im Wortwechsel als eigene Aussage vor.",
+          "timeBasis": "Automatische deutsche YouTube-Untertitel des Ausschnitts."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Lagebericht und Tätigkeitsabschluss für die Gasverteilung, besonders Seiten 4, 9 und 58."
+        },
+        {
+          "sourceId": "S004",
+          "note": "Von Reiche unterzeichneter Konsortialvertrag, Pacht durch die AG und Betriebsführung durch Westnetz."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Seite 4 zum Bau und Betrieb von Strom- und Gasnetzen durch die hundertprozentige Westenergie-Tochter."
+        }
+      ],
+      "openQuestions": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Wissensdatenbanken nach Westenergie und Gasnetz durchsucht, dann Tätigkeitsabschluss und Netzausbauplan geprüft.",
+            "sourceIds": [
+              "S003",
+              "S005"
+            ],
+            "result": "Gasverteilung ist ein ausgewiesenes Geschäftsfeld der AG. Die Tochter ist operative Gasnetzbetreiberin."
+          },
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Projektmitteilung zur Gasnetzkooperation Marl auf die Rollen von AG und Tochter geprüft.",
+            "sourceIds": [
+              "S004"
+            ],
+            "result": "Reiche unterzeichnete den Konsortialvertrag. Die AG sollte das Gasnetz pachten, die Tochter den Betrieb übernehmen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Aus dem Wortwechsel erfasst.",
+        "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Die Aussage ist eine zentrale Begründung für Reiches Dementi und wird in der Beschreibung hervorgehoben. Der Titel bezieht sich auf das Dementi zur früheren Tätigkeit.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (zweiter Agent)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Faktor 2,0 bildet die hervorgehobene Rolle der Aussage zum Gasgeschäft in Reiches Begründung ab. Das Dementi zur früheren Interessenvertretung bleibt unmittelbar titeltragend. Der Änderungsverlauf zeigt die sachliche Begründung."
+          }
+        ],
+        "history": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-20",
+            "field": "weight",
+            "previous": 3,
+            "next": 2,
+            "reason": "Codex (zweiter Agent) schlug in der ersten Kontrolle Faktor 2,0 vor. Das Gasgeschäft ist ein zentraler Teil der Begründung. Unmittelbar titeltragend ist das Dementi zur früheren Lobbytätigkeit. Vorschlag übernommen und anschließend unabhängig bestätigt."
+          }
+        ]
+      }
+    }
+  ]
+}
