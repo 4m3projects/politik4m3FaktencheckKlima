@@ -6,6 +6,8 @@ Unabhängiger Faktencheck zu Aussagen über Klimawandel, Wetter, Umwelt, Atomkra
 
 Die Seite übernimmt zentrale Funktionen der Weboberfläche des Schwesterprojekts Ungeskriptet. Geprüfte Videos liegen unter `faktenchecks/<Video-ID>/` (Metadaten in `video.json`, Einzelprüfungen in `strukturiert/aussagen.json`, Berichte als Markdown). Neue Prüfungen werden erst nach Quellenprüfung aufgenommen.
 
+Jedes Video zeigt den gemeinsamen **Faktenindex** aller Politik4M3-Faktencheckseiten mit Ampel und Prüfabdeckung ([Regeln](docs/FAKTENINDEX.md)); er wird bei jedem Aufruf berechnet, nie gespeichert.
+
 Index und Statistik werden nie von Hand gepflegt, sondern mit `node scripts/build-index.js` aus den Prüfdaten erzeugt; der Workflow prüft mit `--check`, dass sie aktuell sind.
 
 ## Veröffentlichung
