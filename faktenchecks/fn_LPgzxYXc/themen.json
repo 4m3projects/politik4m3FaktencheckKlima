@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "videoId": "fn_LPgzxYXc",
+  "basis": "Zuordnung aus dem Wortwechsel über Gasnetze, Interessenvertretung und die Stromnetzaktivitäten von Westenergie.",
+  "topics": [
+    {
+      "topic": "energie",
+      "relevance": "Behandelt",
+      "basis": "Reiche stellt ihrer früheren Arbeit im Stromnetzgeschäft die Frage nach Tätigkeiten im Gassektor gegenüber.",
+      "segments": [
+        {
+          "startSeconds": 72,
+          "endSeconds": 130,
+          "note": "Strom- und Gasverteilnetze und Reiches Tätigkeit bei Westenergie."
+        }
+      ]
+    },
+    {
+      "topic": "energie/erdgas",
+      "relevance": "Schwerpunkt",
+      "basis": "Gasnetzgeschäft und frühere Interessenvertretung mit Gasbezug prägen den Wortwechsel.",
+      "segments": [
+        {
+          "startSeconds": 49,
+          "endSeconds": 130,
+          "note": "Frühere Tätigkeit und Gasnetzgeschäft."
+        }
+      ]
+    },
+    {
+      "topic": "energie/windkraft",
+      "relevance": "Erwähnt",
+      "basis": "Der Anschluss von Windparks ist ein Beispiel in Reiches Antwort.",
+      "segments": [
+        {
+          "startSeconds": 82,
+          "endSeconds": 89,
+          "note": "Anschluss von Solar- und Windenergieanlagen."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "fn_LPgzxYXc-A0001",
+      "topics": [
+        "energie/erdgas"
+      ]
+    },
+    {
+      "claimId": "fn_LPgzxYXc-A0002",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "fn_LPgzxYXc-A0003",
+      "topics": [
+        "energie/erdgas"
+      ]
+    },
+    {
+      "claimId": "fn_LPgzxYXc-A0004",
+      "topics": [
+        "energie/erdgas"
+      ]
+    },
+    {
+      "claimId": "fn_LPgzxYXc-A0005",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "fn_LPgzxYXc-A0006",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "fn_LPgzxYXc-A0007",
+      "topics": [
+        "energie/erdgas"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "agent": "Codex",
+      "change": "Erstzuordnung nach Aussagen und Fundstellen."
+    }
+  ]
+}
