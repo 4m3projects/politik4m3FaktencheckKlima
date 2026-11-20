@@ -8,6 +8,8 @@ Die Seite übernimmt zentrale Funktionen der Weboberfläche des Schwesterprojekt
 
 Jedes Video zeigt den gemeinsamen **Faktenindex** aller Politik4M3-Faktencheckseiten mit Ampel und Prüfabdeckung ([Regeln](docs/FAKTENINDEX.md)); er wird bei jedem Aufruf berechnet, nie gespeichert.
 
+Themen (`faktenchecks/<ID>/themen.json`, [Wissensdatenbank](docs/WISSENSDATENBANK.md)) werden je Video von den Agenten zugeordnet; der [Verlauf](docs/VERLAUF.md) wird aus der Git-Historie berechnet.
+
 Index und Statistik werden nie von Hand gepflegt, sondern mit `node scripts/build-index.js` aus den Prüfdaten erzeugt; der Workflow prüft mit `--check`, dass sie aktuell sind.
 
 ## Veröffentlichung

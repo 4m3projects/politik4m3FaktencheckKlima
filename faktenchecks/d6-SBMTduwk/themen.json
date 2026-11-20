@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "videoId": "d6-SBMTduwk",
+  "basis": "Zuordnung aus den erfassten Aussagen des strukturierten Faktenchecks (Beschreibung), nicht aus dem Titel. KI-gestützt von Claude erstellt; jede Aussage mit öffentlichem Sachthema ist zugeordnet.",
+  "topics": [
+    {
+      "topic": "energie/windkraft",
+      "relevance": "Schwerpunkt",
+      "basis": "6 von 8 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "eigentum",
+      "relevance": "Schwerpunkt",
+      "basis": "6 von 8 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "d6-SBMTduwk-A01",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "d6-SBMTduwk-A02",
+      "topics": [
+        "eigentum"
+      ]
+    },
+    {
+      "claimId": "d6-SBMTduwk-A03",
+      "topics": [
+        "eigentum"
+      ]
+    },
+    {
+      "claimId": "d6-SBMTduwk-A04",
+      "topics": [
+        "energie/windkraft",
+        "eigentum"
+      ]
+    },
+    {
+      "claimId": "d6-SBMTduwk-A05",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "d6-SBMTduwk-A06",
+      "topics": [
+        "energie/windkraft",
+        "eigentum"
+      ]
+    },
+    {
+      "claimId": "d6-SBMTduwk-A07",
+      "topics": [
+        "energie/windkraft",
+        "eigentum"
+      ]
+    },
+    {
+      "claimId": "d6-SBMTduwk-A08",
+      "topics": [
+        "energie/windkraft",
+        "eigentum"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "agent": "Claude",
+      "change": "Erstzuordnung von 8 von 8 Aussagen zu Themen (war beim Aufbau der Klimaseite vergessen worden); keine Bewertung geändert."
+    }
+  ]
+}

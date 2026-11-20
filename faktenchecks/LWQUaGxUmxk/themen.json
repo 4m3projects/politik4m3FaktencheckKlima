@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "videoId": "LWQUaGxUmxk",
+  "basis": "Zuordnung aus den erfassten Aussagen des strukturierten Faktenchecks (Beschreibung), nicht aus dem Titel. KI-gestützt von Claude erstellt; jede Aussage mit öffentlichem Sachthema ist zugeordnet.",
+  "topics": [
+    {
+      "topic": "energie/windkraft",
+      "relevance": "Schwerpunkt",
+      "basis": "25 von 25 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "LWQUaGxUmxk-A01",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A02",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A03",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A04",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A05",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A06",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A07",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A08",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A09",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A10",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A11",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A12",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A13",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A14",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A15",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A16",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A17",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A18",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A19",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A20",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A21",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A22",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A23",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A24",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "LWQUaGxUmxk-A25",
+      "topics": [
+        "energie/windkraft"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "agent": "Claude",
+      "change": "Erstzuordnung von 25 von 25 Aussagen zu Themen (war beim Aufbau der Klimaseite vergessen worden); keine Bewertung geändert."
+    }
+  ]
+}

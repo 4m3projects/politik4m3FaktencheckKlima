@@ -1,0 +1,305 @@
+{
+  "schemaVersion": 1,
+  "videoId": "5UboW16rU1w",
+  "basis": "Zuordnung aus den erfassten Aussagen des strukturierten Faktenchecks (Beschreibung), nicht aus dem Titel. KI-gestützt von Claude erstellt; jede Aussage mit öffentlichem Sachthema ist zugeordnet.",
+  "topics": [
+    {
+      "topic": "energie/atomkraft",
+      "relevance": "Schwerpunkt",
+      "basis": "34 von 43 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "energie/versorgungssicherheit",
+      "relevance": "Schwerpunkt",
+      "basis": "12 von 43 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "klima",
+      "relevance": "Behandelt",
+      "basis": "3 von 43 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "energie/preise",
+      "relevance": "Erwähnt",
+      "basis": "1 von 43 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "5UboW16rU1w-A01",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A02",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A03",
+      "topics": [
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A04",
+      "topics": [
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A05",
+      "topics": [
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A06",
+      "topics": [
+        "energie/versorgungssicherheit",
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A07",
+      "topics": [
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A08",
+      "topics": [
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A09",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A10",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A11",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A12",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A13",
+      "topics": [
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A14",
+      "topics": [
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A15",
+      "topics": [
+        "energie/atomkraft",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A16",
+      "topics": [
+        "energie/atomkraft",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A17",
+      "topics": [
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A18",
+      "topics": [
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A19",
+      "topics": [
+        "energie/atomkraft",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A20",
+      "topics": [
+        "energie/atomkraft",
+        "klima"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A21",
+      "topics": [
+        "energie/atomkraft",
+        "klima"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A22",
+      "topics": [
+        "energie/atomkraft",
+        "klima"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A23",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A24",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A25",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A26",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A27",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A28",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A29",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A30",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A31",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A32",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A33",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A34",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A35",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A36",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A37",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A38",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A39",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A40",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A41",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A42",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "5UboW16rU1w-A43",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "agent": "Claude",
+      "change": "Erstzuordnung von 43 von 43 Aussagen zu Themen (war beim Aufbau der Klimaseite vergessen worden); keine Bewertung geändert."
+    }
+  ]
+}
