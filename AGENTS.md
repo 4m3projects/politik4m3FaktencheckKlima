@@ -20,6 +20,10 @@ Das Frontend wurde aus dem Ungeskriptet-Schwesterprojekt adaptiert. Vor dem erst
 
 Die Seite „Verlauf“ wird beim Aufbau der Webseite aus der Git-Historie von `faktenchecks/<ID>/` berechnet (`scripts/verlauf.js`, [docs/VERLAUF.md](docs/VERLAUF.md)) und nie von Hand gepflegt. Voraussetzung: Änderungen an Videos kommen über Pull Requests nach `main`, `video.json` führt einen ehrlichen `workStatus`, und der Workflow checkt die volle Historie aus (`fetch-depth: 0`).
 
+## Rangliste (seit 20.11.2026)
+
+[docs/RANGLISTE.md](docs/RANGLISTE.md): Die Seite „Rangliste“ ordnet Videos ausschließlich nach dem berechneten Faktenindex (gute oben, schlechte unten); nur Videos mit Ampel Grün, Gelb oder Rot bekommen einen Platz. Kein Platz wird gespeichert oder von Hand gesetzt, keine Bewertung wird dafür geändert. Logik in `site/rangliste.js`, in allen drei Repositories gleich. Die Rangliste bewertet Videos, nicht Personen.
+
 ## Gleichstand mit dem Hauptprojekt (Lehre vom 20.11.2026)
 
 Diese Seite wurde aus dem Schwesterprojekt übernommen, aber ohne die Werkzeuge, die `daten/wissen.json` und `daten/verlauf.json` erzeugen. Weil die Oberfläche fehlende Daten still ausblendet, fehlten Themen und Verlauf, ohne dass ein Test anschlug. Deshalb gilt: Gemeinsame Funktionen (Faktenindex, Themen-Wissensdatenbank, Verlauf) werden **zuerst im Hauptprojekt** geändert und **unverändert** übernommen; die CI vergleicht diese Dateien mit `main` des Hauptprojekts und prüft, dass jede Datendatei existiert, die die Webseite lädt, und dass jedes Video in Themen und Verlauf vorkommt. Wer eine neue Funktion aus einem Schwesterprojekt übernimmt, übernimmt Datenerzeugung, Tests, CI-Schritte und Agentenregeln im selben Pull Request mit.
