@@ -300,6 +300,15 @@
   "claims": [
     {
       "id": "5UboW16rU1w-A01",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Friedrich Merz",
+        "presentation": "Einspieler",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Der Beitrag stellt die Frage nach einer Rückkehr zur Atomkraft und spielt anschließend Merz' Bewertung ein. Die Moderation prüft danach die wirtschaftlichen Vor- und Nachteile und überlässt das Urteil dem Publikum.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20"
+      },
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
