@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "KL-K0004",
+  "revision": 1,
+  "claim": "In Schipkau wurde auf 300 Metern im Mittel mehr Wind als in niedrigeren Messhöhen gemessen, und Schwachwindtage waren seltener als in 150 Metern.",
+  "topics": [
+    "energie/windkraft"
+  ],
+  "status": "Geprüft",
+  "verdict": "Belegt",
+  "reason": "Die Messkampagne zeigt in den ausgewerteten Monaten höhere Monatsmittel auf 300 als auf 150 und 200 Metern. Auch Tage mit einem Mittel unter 4 m/s waren auf 300 Metern seltener als auf 150 Metern. Das stützt den Begriff „stetiger“ im Sinn seltenerer Schwachwindtage.",
+  "validity": {
+    "asOf": "2026-11-20",
+    "timeScope": "Projektstand September bis November 2026",
+    "subjectScope": "Windmesskampagne in Schipkau",
+    "validUntil": null
+  },
+  "checkedOn": "2026-11-20",
+  "sources": [
+    {
+      "id": "S04",
+      "title": "SPRIND/beventum – Analyse der Windbedingungen in 300 m Höhe am Standort Schipkau",
+      "url": "https://cms.system.sprind.org/uploads/Analyse_der_Windbedingungen_in_300_m_Hoehe_am_Standort_Schipkau_anhand_der_Daten_des_Messmastes_d6e807ee10.pdf",
+      "details": "Originalauswertung der Windmessungen; Abb. 5 und 6, Tab. 4 bis 6. Die Ertragsrechnung verwendet eine Vestas V164 mit 9,5 MW.",
+      "accessedOn": "2026-11-20",
+      "kind": "Primärquelle"
+    }
+  ],
+  "dependsOn": [],
+  "supersededBy": null,
+  "links": [
+    {
+      "claimId": "_CVUhCARuqM-A0004",
+      "repo": null,
+      "relation": "gleichwertig",
+      "contextNote": "Die Auswertung konkretisiert die im Short beschriebene stärkere und beständigere Windressource am Standort.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-20"
+    }
+  ],
+  "lock": null,
+  "history": [
+    {
+      "revision": 1,
+      "date": "2026-11-20",
+      "agent": "Codex",
+      "change": "Erstpruefung; inhaltlicher Bezug zu LWQUaGxUmxk-A09. Fuer diese bestehende zweistellige ID erlaubt der gemeinsame Validator keine strukturierte Verknuepfung.",
+      "previous": null
+    }
+  ]
+}

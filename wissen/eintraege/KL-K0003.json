@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "KL-K0003",
+  "revision": 1,
+  "claim": "Die Projektpartner in Schipkau verfolgen das Konzept, Höhenwindräder in bestehenden Windparks als zweite Ebene zu ergänzen.",
+  "topics": [
+    "energie/windkraft"
+  ],
+  "status": "Geprüft",
+  "verdict": "Belegt",
+  "reason": "SPRIND beschreibt die Integration in bestehende Windparks als Ziel des Projekts. Die Anlage in Schipkau dient der Erprobung. Der Short nennt keinen genehmigten Ausbau oder verbindlichen Bauzeitplan für einen konkreten Windpark.",
+  "validity": {
+    "asOf": "2026-11-20",
+    "timeScope": "Projektstand September bis November 2026",
+    "subjectScope": "Höhenwindprojekt von SPRIND/beventum und GICON",
+    "validUntil": null
+  },
+  "checkedOn": "2026-11-20",
+  "sources": [
+    {
+      "id": "S02",
+      "title": "SPRIND – Das höchste Windrad der Welt steht",
+      "url": "https://www.sprind.org/worte/magazin/hoehenwindrad-rekord",
+      "details": "Projektpartner zu Rekordhöhe, Pilotanlage und Konzept einer zweiten Etage.",
+      "accessedOn": "2026-11-20",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "S05",
+      "title": "SPRIND – Die Binnenwindanlagen der Zukunft",
+      "url": "https://www.sprind.org/taten/projekte/beventum",
+      "details": "Projektbeschreibung zur Nutzung höherer Windschichten und zu Nachrüstungen in bestehenden Windparks.",
+      "accessedOn": "2026-11-20",
+      "kind": "Primärquelle"
+    }
+  ],
+  "dependsOn": [],
+  "supersededBy": null,
+  "links": [
+    {
+      "claimId": "_CVUhCARuqM-A0006",
+      "repo": null,
+      "relation": "gleichwertig",
+      "contextNote": "Der Liedtext nennt das Konzept als Plan.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-20"
+    }
+  ],
+  "lock": null,
+  "history": [
+    {
+      "revision": 1,
+      "date": "2026-11-20",
+      "agent": "Codex",
+      "change": "Erstpruefung; inhaltlicher Bezug zu LWQUaGxUmxk-A18. Fuer diese bestehende zweistellige ID erlaubt der gemeinsame Validator keine strukturierte Verknuepfung.",
+      "previous": null
+    }
+  ]
+}

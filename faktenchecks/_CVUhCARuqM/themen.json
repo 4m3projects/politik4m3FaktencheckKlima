@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "videoId": "_CVUhCARuqM",
+  "basis": "Inhalt aus Liedtext und Grafik zu einem Höhenwindrad, zur Windmessung und zum Ausbau von Windparks.",
+  "topics": [
+    {
+      "topic": "energie/windkraft",
+      "relevance": "Schwerpunkt",
+      "basis": "Der Short behandelt Höhe, Wind, zusätzlichen Stromertrag und Begleitwirkungen der Technologie.",
+      "segments": [
+        {
+          "startSeconds": 0,
+          "endSeconds": 48,
+          "note": "Höhenrekord, Ertragspotenzial, Ausbaukonzept und Umweltaspekte."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "_CVUhCARuqM-A0001",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "_CVUhCARuqM-A0002",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "_CVUhCARuqM-A0003",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "_CVUhCARuqM-A0004",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "_CVUhCARuqM-A0005",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "_CVUhCARuqM-A0006",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "_CVUhCARuqM-A0007",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "_CVUhCARuqM-A0008",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "_CVUhCARuqM-A0009",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "_CVUhCARuqM-A0010",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "_CVUhCARuqM-A0011",
+      "topics": [
+        "energie/windkraft"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "agent": "Codex",
+      "change": "Erstzuordnung aller erfassten Aussagen zu Windkraft."
+    },
+    {
+      "date": "2026-11-20",
+      "agent": "Codex",
+      "change": "Bestätigte Wiederholung zur Nabenhöhe in A0003 erfasst und separate Zuordnung zu A0012 entfernt."
+    }
+  ]
+}
