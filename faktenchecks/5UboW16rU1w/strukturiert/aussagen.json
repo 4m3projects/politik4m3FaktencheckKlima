@@ -419,6 +419,7 @@
       "verdict": "Teilweise belegt",
       "description": "Laut einer McKinsey-Prognose werden wir in den nächsten zehn Jahren bis zu 70 % mehr Strom benötigen.",
       "reason": "Die Zahl lässt sich nur aus dem ehrgeizigsten Szenario ableiten. McKinsey rechnet im „Transformationspfad“ (alle politischen Ziele werden erreicht) für 2035 mit 805 TWh Nettostrombedarf, gegenüber rund 464 TWh im Jahr 2024; das wären gut 70 % mehr. Die Kernaussage der Studie ist aber das Gegenteil: Im wahrscheinlicheren „Trendpfad“ steigt die Nachfrage nur um 1 bis 2 % pro Jahr auf 635 TWh (rund +37 %), deutlich weniger als in der staatlichen Planung angenommen. Das „bis zu“ ist formal richtig, die Studie wird aber einseitig wiedergegeben.",
+      "shortReason": "Gut 70 % ergibt nur das ehrgeizigste McKinsey-Szenario; im wahrscheinlicheren Trendpfad sind es rund 37 %.",
       "assessmentBasis": "Abgleich mit Pressemitteilung und Executive Summary der Studie (in der Videobeschreibung verlinkt); Prozentwert selbst nachgerechnet.",
       "occurrences": [
         {
@@ -655,6 +656,7 @@
       "verdict": "Teilweise belegt",
       "description": "Italien, das längst aus der Atomkraft ausgestiegen war, investiert jetzt wieder in Atomkraft.",
       "reason": "Im Kern zutreffend, aber zum Zeitpunkt des Videos (April 2026) verfrüht formuliert. Italien hatte nach dem Referendum 1987 alle Reaktoren abgeschaltet. Die Regierung Meloni bereitete die Rückkehr per Rahmengesetz vor; die Abgeordnetenkammer stimmte im Juni 2026 zu, der Senat erst am 23.09.2026. Gebaut oder konkret investiert in Reaktoren wird bisher nicht; das Gesetz erlaubt zunächst Durchführungsverordnungen, Schwerpunkt sind kleine modulare Reaktoren.",
+      "shortReason": "Italien bereitet die Rückkehr per Gesetz vor (endgültig erst im September 2026 beschlossen); gebaut oder investiert wird noch nicht.",
       "assessmentBasis": "Abgleich mit Presseberichten zum Gesetzgebungsverfahren.",
       "occurrences": [
         {
@@ -811,6 +813,7 @@
       "verdict": "Teilweise belegt",
       "description": "Schon jetzt muss Deutschland morgens immer wieder Strom importieren, weil der Verbrauch hochschießt, die Sonne aber noch nicht liefert.",
       "reason": "Teilweise richtig. Unsere Auswertung der Stromflüsse 2025 zeigt: Deutschland importiert im Mittel tatsächlich am meisten gegen 6 bis 7 Uhr (rund 5 GW). Fast genauso viel aber abends zwischen 19 und 20 Uhr und auch nachts; nur mittags wird exportiert. Zudem ist das „Muss“ verkürzt: Importe kommen vor allem zustande, weil Strom im Ausland zu diesen Zeiten billiger ist, nicht weil in Deutschland keine Kraftwerke zur Verfügung stünden.",
+      "shortReason": "Morgens wird tatsächlich viel importiert, abends und nachts aber ähnlich viel; Hauptgrund ist billigerer Auslandsstrom, kein Mangel.",
       "assessmentBasis": "Eigene Auswertung der physikalischen grenzüberschreitenden Stromflüsse 2025 (Energy-Charts) nach Tagesstunde.",
       "occurrences": [
         {
@@ -1287,6 +1290,7 @@
       "verdict": "Nicht ausreichend belegbar",
       "description": "Die Kosten für Brennstäbe und Betrieb von Atomstrom liegen bei 3 bis 6 Cent pro Kilowattstunde.",
       "reason": "Die Spanne ließ sich keiner der im Video genannten Quellen eindeutig zuordnen. Veröffentlichte Werte für reine Betriebskosten liegen eher darunter: Laut IEA/NEA (2020) betragen sie in Frankreich rund 14 US-Dollar je MWh (gut 1 Cent je kWh), in Japan rund 26 US-Dollar (gut 2 Cent). Abgeschriebene Altanlagen kommen inklusive Nachrüstung auf etwa 2,4 bis 2,7 Cent. Die Größenordnung „billig im Betrieb“ stimmt, die genaue Spanne ist nicht belegt.",
+      "shortReason": "Die Spanne ließ sich keiner Quelle zuordnen; veröffentlichte reine Betriebskosten liegen eher bei 1 bis 2,7 Cent je kWh.",
       "assessmentBasis": "Abgleich mit der Bundestagsausarbeitung (in der Videobeschreibung verlinkt), die mehrere Kostenstudien vergleicht.",
       "occurrences": [
         {
@@ -1323,6 +1327,7 @@
       "verdict": "Irreführend / Kontext fehlt",
       "description": "Zum Vergleich: Solarenergie kostet zwischen 4 und 12 Cent pro Kilowattstunde.",
       "reason": "Die Spanne ist etwas zu eng, vor allem aber ist der Vergleich schief. Laut Fraunhofer ISE (2024) liegen die Stromgestehungskosten von Photovoltaik zwischen 4,1 und 14,4 Cent je kWh. Das sind Vollkosten einschließlich Bau. Das Video stellt sie den reinen Betriebskosten von Atomstrom gegenüber; dadurch wirkt Atomstrom zunächst billiger als Solarstrom. Das Video korrigiert den Eindruck einige Sekunden später, indem es die Baukosten hinzunimmt.",
+      "shortReason": "Solar kostet laut Fraunhofer ISE 4,1 bis 14,4 Cent, und das sind Vollkosten, die hier mit reinen Betriebskosten verglichen werden.",
       "assessmentBasis": "Abgleich mit der Fraunhofer-Studie (in der Videobeschreibung verlinkt).",
       "occurrences": [
         {
@@ -1619,6 +1624,7 @@
       "verdict": "Teilweise belegt",
       "description": "Die Kosten für den Atommüll landen am Ende beim Steuerzahler, auch wenn sie nicht auf der Stromrechnung auftauchen.",
       "reason": "Teilweise richtig. Die Betreiber haben 2017 rund 24,1 Mrd. Euro (inklusive Risikoaufschlag) in den staatlichen Entsorgungsfonds KENFO eingezahlt; damit ging die Verantwortung für Zwischen- und Endlagerung auf den Bund über. Reicht das Geld samt Erträgen nicht, trägt der Staat den Rest. Teile der Kosten haben also die Stromkunden über die früheren Rückstellungen der Betreiber bezahlt; das Risiko weiterer Kosten liegt beim Steuerzahler.",
+      "shortReason": "Die Betreiber zahlten 24,1 Mrd. Euro in den Entsorgungsfonds; nur Kosten darüber hinaus trägt der Steuerzahler.",
       "assessmentBasis": "Abgleich mit dem Kostenbericht des Bundesumweltministeriums.",
       "occurrences": [
         {
