@@ -68,6 +68,30 @@
       }
     },
     {
+      "id": "ZV0uy_le-Uk",
+      "title": "Wirtschaftsministerin Reiche: Energiewende rückwärts? - MONITOR",
+      "structured": true,
+      "rhetoric": false,
+      "files": [
+        "README.md"
+      ],
+      "video": {
+        "schemaVersion": 1,
+        "videoId": "ZV0uy_le-Uk",
+        "role": "original",
+        "channel": "Monitor",
+        "title": "Wirtschaftsministerin Reiche: Energiewende rückwärts? - MONITOR",
+        "videoUrl": "https://www.youtube.com/watch?v=ZV0uy_le-Uk",
+        "publishedAt": "2026-03-30",
+        "workStatus": "Abgeschlossen",
+        "identification": {
+          "basis": "Video-ID, deutscher Titel und Laufzeit (6:21) auf YouTube geprüft. Veröffentlichungsdatum laut YouTube-Metadaten.",
+          "certainty": "Belegt",
+          "checkedOn": "2026-11-20"
+        }
+      }
+    },
+    {
       "id": "_CVUhCARuqM",
       "title": "Das höchste Windrad der Welt: Mehr Strom durch mehr Höhe #politik #windkraftanlage #windkraft #news",
       "structured": true,
