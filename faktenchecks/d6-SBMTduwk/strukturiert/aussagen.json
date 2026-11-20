@@ -102,6 +102,15 @@
   "claims": [
     {
       "id": "d6-SBMTduwk-A01",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Alice Weidel",
+        "presentation": "Vorgelesenes Zitat",
+        "creatorStance": "Distanziert",
+        "basis": "Das Lied führt die Äußerung von Weidel mit Ort und Anlass ein. Der restliche Liedtext kritisiert die Forderung wegen des damit verbundenen Eingriffs in privates Eigentum.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20"
+      },
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
