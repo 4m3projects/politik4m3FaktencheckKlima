@@ -1,0 +1,277 @@
+{
+  "schemaVersion": 1,
+  "videoId": "ZV0uy_le-Uk",
+  "basis": "Zuordnung aus dem deutschen YouTube-Transkript zu Netzanschluss, Windenergie und Strompreisen.",
+  "topics": [
+    {
+      "topic": "energie",
+      "relevance": "Schwerpunkt",
+      "basis": "Netzanschlusspaket und Auswirkungen auf Anlagen- und Netzbetreiber.",
+      "segments": [
+        {
+          "startSeconds": 70,
+          "endSeconds": 243,
+          "note": "Netzausbau, Redispatch und Koalitionsvertrag."
+        },
+        {
+          "startSeconds": 281,
+          "endSeconds": 377,
+          "note": "Netzregulierung und E.ON."
+        }
+      ]
+    },
+    {
+      "topic": "energie/windkraft",
+      "relevance": "Schwerpunkt",
+      "basis": "Windparkprojekte und Folgen für den Windkraftausbau.",
+      "segments": [
+        {
+          "startSeconds": 0,
+          "endSeconds": 32,
+          "note": "Windparkprojekte im Paderborner Land."
+        },
+        {
+          "startSeconds": 114,
+          "endSeconds": 172,
+          "note": "Mögliche Auswirkungen auf neue Windkraftprojekte."
+        }
+      ]
+    },
+    {
+      "topic": "energie/preise",
+      "relevance": "Behandelt",
+      "basis": "Erzeugungskosten, Börsenpreis und bezahlbarer Strom.",
+      "segments": [
+        {
+          "startSeconds": 244,
+          "endSeconds": 281,
+          "note": "Erzeugungskosten und Börsenpreise."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "ZV0uy_le-Uk-A0001",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0002",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0003",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0004",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0005",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0006",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0007",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0008",
+      "topics": [
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0009",
+      "topics": [
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0010",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0011",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0012",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0013",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0014",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0015",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0016",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0017",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0018",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0020",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0021",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0022",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0023",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0024",
+      "topics": [
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0025",
+      "topics": [
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0026",
+      "topics": [
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0027",
+      "topics": [
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0028",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0029",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0030",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0031",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0032",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0033",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0034",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0035",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZV0uy_le-Uk-A0036",
+      "topics": [
+        "energie"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "agent": "Codex",
+      "change": "Erstzuordnung anhand des YouTube-Transkripts."
+    },
+    {
+      "date": "2026-11-20",
+      "agent": "Codex",
+      "change": "Wiederholung zum finanziellen Abregelungsrisiko in A0016 zusammengeführt."
+    }
+  ]
+}

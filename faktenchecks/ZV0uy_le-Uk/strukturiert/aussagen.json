@@ -1,0 +1,2289 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "videoId": "ZV0uy_le-Uk",
+    "videoUrl": "https://www.youtube.com/watch?v=ZV0uy_le-Uk",
+    "kind": "Vollerfassung",
+    "asOf": "2026-11-20",
+    "durationSeconds": 381,
+    "coverageNote": "Das gesamte verfügbare deutsche YouTube-Transkript wurde ausgewertet. Projektpassagen und die Einblendung zum archivierten LinkedIn-Artikel wurden zusätzlich im Videobild geprüft. Die Urteilskategorien dokumentieren die Grenzen der Belege.",
+    "researchNote": "Zeitmarken aus der YouTube-Fassung, Sprecherzuordnung anhand des WDR-Manuskripts. Für Aussagen über die Pläne gilt der frühe Entwurfsstand, der im März diskutiert wurde."
+  },
+  "speakers": [
+    {
+      "id": "m",
+      "name": "MONITOR-Redaktion",
+      "videoRole": "Off-Kommentar",
+      "identityBasis": "Abgleich mit dem offiziellen WDR-Sendungsmanuskript."
+    },
+    {
+      "id": "l",
+      "name": "Steffen Lackmann",
+      "videoRole": "O-Ton",
+      "identityBasis": "Abgleich mit dem offiziellen WDR-Sendungsmanuskript."
+    },
+    {
+      "id": "r",
+      "name": "Katherina Reiche",
+      "videoRole": "O-Ton",
+      "identityBasis": "Abgleich mit dem offiziellen WDR-Sendungsmanuskript."
+    },
+    {
+      "id": "a",
+      "name": "Julia Bläsius",
+      "videoRole": "O-Ton",
+      "identityBasis": "Abgleich mit dem offiziellen WDR-Sendungsmanuskript."
+    },
+    {
+      "id": "s",
+      "name": "Nina Scheer",
+      "videoRole": "O-Ton",
+      "identityBasis": "Abgleich mit dem offiziellen WDR-Sendungsmanuskript."
+    },
+    {
+      "id": "g",
+      "name": "Michael Kellner",
+      "videoRole": "O-Ton",
+      "identityBasis": "Abgleich mit dem offiziellen WDR-Sendungsmanuskript."
+    }
+  ],
+  "sources": [
+    {
+      "id": "U",
+      "title": "HellwegWind – Über uns",
+      "url": "https://hellwegwind.de/ueber-uns/",
+      "details": "Rolle von Steffen Lackmann im Windparkbetrieb.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "H",
+      "title": "Kreis Paderborn – Amtsblatt vom 14. Januar 2026",
+      "url": "https://www.kreis-paderborn.de/kreis-paderborn-wAssets/docs/verwaltung/amtsblatt/2026/Amtsblatt-03-vom-14.01.2026-Mittwoch.pdf",
+      "details": "Genehmigung für Lackmann Green Invest in Altenbeken-Schwaney. Keine Zuordnung zur im Film gemeinten Anlage und kein Investitionsbetrag.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "Y",
+      "title": "YouTube – MONITOR",
+      "url": "https://www.youtube.com/watch?v=ZV0uy_le-Uk",
+      "details": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "YouTube-Seite geöffnet und deutsches Transkript exportiert."
+    },
+    {
+      "id": "M",
+      "title": "WDR – Sendungsmanuskript vom 26. März",
+      "url": "https://www1.wdr.de/daserste/monitor/sendungen/Katherina-Reiche-Energiewende-rueckwaerts-100.html",
+      "details": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "C",
+      "title": "Bundesregierung – Lebenslauf Katherina Reiche",
+      "url": "https://www.bundesregierung.de/breg-de/bundesregierung/bundeskabinett/katherina-reiche-2342740",
+      "details": "Amtsbeginn und frühere Tätigkeit als Vorstandsvorsitzende.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "V",
+      "title": "Bundestag – Plenarprotokoll 21/64",
+      "url": "https://dserver.bundestag.de/btp/21/21064.pdf",
+      "details": "Regierungsbefragung am 18. März 2026. Aussagen zur Bezahlbarkeit, Erzeugungsmix und Systemkosten.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "Z",
+      "title": "Bundesnetzagentur – Ausbau erneuerbarer Energien 2025",
+      "url": "https://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260108_EEG.html",
+      "details": "Vorläufiger Jahreszubau nach Energieträgern.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "N",
+      "title": "Bundesnetzagentur – Jahresbilanz Stromnetzausbau 2025",
+      "url": "https://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260102_NEtzausbau.html",
+      "details": "Genehmigte Leitungskilometer und Fortschritt großer Übertragungsnetzvorhaben.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "R",
+      "title": "Bundesnetzagentur – Methodenfestlegung Effizienzvergleich Strom",
+      "url": "https://bundesnetzagentur.de/DE/Beschlusskammern/1_GZ/GBK-GZ/2025/GBK-25-02-1x2_Eff_Strom/Downloads/FL_Eff_Strom_DL_BF.pdf",
+      "details": "Abschnitt 11.1.1 zum Umgang mit Redispatchkosten im Effizienzvergleich für Verteilnetzbetreiber.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "F",
+      "title": "Fachagentur Wind und Solar – Windenergie an Land 2025",
+      "url": "https://www.wind-energie.de/fileadmin/redaktion/dokumente/publikationen-oeffentlich/themen/06-zahlen-und-fakten/20260115_Status_des_Windenergieausbaus_an_Land_Jahr_2025.pdf",
+      "details": "Realisierungszeiten ab Genehmigung und Genehmigungsdauer nach Jahrgang, Abschn. 1.3 und Abb. 18.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "E",
+      "title": "Energiewirtschaftsgesetz – § 13a",
+      "url": "https://www.gesetze-im-internet.de/enwg_2005/__13a.html",
+      "details": "Erzeugungsanpassung und finanzieller Ausgleich, insbesondere Abs. 2.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "D",
+      "title": "BMWE – früher Arbeitsentwurf zum Netzanschlusspaket",
+      "url": "https://bundestagszusammenfasser.de/wp-content/uploads/rewp21/1149_referentenentwurf-netzanschlusspaket.pdf",
+      "details": "Originaldokument mit Bearbeitungsstand 13. Januar 2026. Art. 1 Nr. 3–4, Art. 2 zur Änderung von § 8 EEG, Begründung ab S. 22 und S. 33.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "J",
+      "title": "Lobbyregister – Stellungnahme zum frühen Entwurf",
+      "url": "https://www.lobbyregister.bundestag.de/media/9b/0e/706125/Lobbyregister-Registereintraege-Detailansicht-R000611-2026-03-16_09-56-23.pdf",
+      "details": "SG2602270016 dokumentiert den frühen Entwurf vom Februar 2026.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "B",
+      "title": "Bundestag – Drucksache 21/7866",
+      "url": "https://dserver.bundestag.de/btd/21/078/2107866.pdf",
+      "details": "Späterer Regierungsentwurf vom 7. September 2026. Vorgeschlagener § 14 Abs. 1d EnWG und § 8 Abs. 4 EEG.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "G",
+      "title": "Bundestag – Verfahrensübersicht zum Netzanschlusspaket",
+      "url": "https://dip.bundestag.de/vorgang/gesetz-zur-%C3%A4nderung-des-energiewirtschaftsrechts-zur-synchronisierung-des-anlagenzubaus-mit/338371",
+      "details": "Dokumentierter parlamentarischer Beratungsstand.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "A",
+      "title": "EEG – § 8",
+      "url": "https://www.gesetze-im-internet.de/eeg_2014/__8.html",
+      "details": "Vorrangiger Anschluss und Kapazitätserweiterung, Abs. 1 und 4.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "X",
+      "title": "EEG – § 12",
+      "url": "https://www.gesetze-im-internet.de/eeg_2014/__12.html",
+      "details": "Erweiterung der Netzkapazität und Zumutbarkeitsgrenze.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "K",
+      "title": "CDU, CSU und SPD – Koalitionsvertrag 2025",
+      "url": "https://www.cdu.de/app/uploads/2025/04/Koalitionsvertrag-%E2%80%93-barrierefreie-Version.pdf",
+      "details": "Abschnitt Energie und Netze zu beschleunigtem Erneuerbaren-Ausbau und Synchronisierung.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "S",
+      "title": "Bundesnetzagentur/SMARD – So funktioniert der Strommarkt",
+      "url": "https://www.smard.de/page/home/wiki-article/446/384/so-funktioniert-der-strommarkt",
+      "details": "Gebotsreihenfolge, variable Kosten, Grenzkraftwerk und Börsenpreis.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "P",
+      "title": "BMWE – Bestandteile des Strompreises",
+      "url": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Energie/strompreise-bestandteile.html",
+      "details": "Preisbestandteile für Haushalte und Großhandelspreis.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "I",
+      "title": "Fraunhofer ISE – Stromgestehungskosten 2024",
+      "url": "https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/DE2024_ISE_Studie_Stromgestehungskosten_Erneuerbare_Energien.pdf",
+      "details": "Stromgestehungskosten für neu errichtete Anlagen nach Technologie und Szenario.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "Q",
+      "title": "E.ON – Mitteilung zu zwei Millionen Anlagen im Verteilnetz",
+      "url": "https://cache.pressmailing.net/content/ef38ef52-1143-482f-b31a-af3e801b47fa/260304_E.ON_PM_2Mill~enEE-Anlagen_DE.pdf",
+      "details": "Unternehmensangaben vom 4. März 2026 zur angeschlossenen Windkraftleistung und Zahl der PV-Anlagen.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "W",
+      "title": "Westenergie – Unternehmensmitteilung vom 7. November 2024",
+      "url": "https://www.westenergie.de/newsroom/article/julika-lendvai",
+      "details": "Konzernzugehörigkeit der Westenergie AG und Vorstandsvorsitz.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "L",
+      "title": "Lobbyregister – E.ON-Stellungnahme vom Juli 2024",
+      "url": "https://www.lobbyregister.bundestag.de/inhalte-der-interessenvertretung/stellungnahmengutachtensuche/SG2406280163/340553",
+      "details": "Dokumentierte E.ON-Forderung nach regionaler Steuerung und einem Redispatch-Vorbehalt als möglichem Instrument.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "T",
+      "title": "E.ON – Geschäftsjahr 2025",
+      "url": "https://www.presseportal.de/pm/108695/6223264",
+      "details": "Originalmitteilung des Unternehmens zu Investitionen und Netzgeschäft.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Passagen der verlinkten Quelle geprüft."
+    },
+    {
+      "id": "AA",
+      "title": "NRW.Energy4Climate – Repowering im Windpark Lichtenau-Asseln",
+      "url": "https://www.energy4climate.nrw/praxisbeispiele/repowering-im-windpark-lichtenau-asseln",
+      "details": "Projektbeschreibung und Betreiberzuordnung. Sie nennt regionale Anlagen und Leistung, aber keine Investitionssumme oder Zuordnung zum MONITOR-Projekt.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Projektbeschreibung direkt gelesen."
+    },
+    {
+      "id": "NB",
+      "title": "Netze BW – Stellungnahme zu Engpässen im Stromnetz",
+      "url": "https://de.linkedin.com/posts/netze-bw-gmbh_in-vielen-regionen-baden-w%C3%BCrttembergs-haben-activity-7462473085577936896-Xfyz",
+      "details": "Betreiberangabe zu zehn bis fünfzehn Jahren für einzelne Netzprojekte.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Öffentlichen Beitrag des Verteilnetzbetreibers direkt gelesen."
+    },
+    {
+      "id": "GP",
+      "title": "Greenpeace – Dossier zu Reiches energiepolitischer Bilanz",
+      "url": "https://www.greenpeace.de/publikationen/20260430-greenpeace-report-reiche-bilanz.pdf",
+      "details": "Die Abbildung auf Seite 6 reproduziert einen Ausschnitt aus dem LinkedIn-Artikel mit den früheren Forderungen. Ausgewertet wird die Abbildung als Dokument des ursprünglichen Wortlauts.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Abbildung anhand der PDF-Darstellung und im YouTube-Originalbild abgeglichen."
+    }
+  ],
+  "claims": [
+    {
+      "id": "ZV0uy_le-Uk-A0001",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Steffen Lackmann betreibt Windparks im Raum Paderborn.",
+      "reason": "Der Unternehmensauftritt von HellwegWind weist Lackmann als Verantwortlichen für Planung, Umsetzung und Betrieb von Windparks aus. Der Kreis Paderborn dokumentiert ein Repoweringprojekt einer Lackmann-Gesellschaft vor Ort.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 0,
+          "endSeconds": 5,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "m",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "U",
+          "note": "Rolle von Steffen Lackmann im Windparkbetrieb."
+        },
+        {
+          "sourceId": "H",
+          "note": "Genehmigung für Lackmann Green Invest in Altenbeken-Schwaney. Keine Zuordnung zur im Film gemeinten Anlage und kein Investitionsbetrag."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Die Personalvorstellung liefert lokalen Kontext.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (Zweitprüfung)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die Personen- und Projektvorstellung liefert lokalen Kontext."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0002",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Lackmann hat im Paderborner Land 20 Millionen Euro in zwei neue Windräder investiert.",
+      "reason": "MONITOR nennt 20 Millionen Euro für zwei neue Anlagen. Weder die gesichtete Passage noch das WDR-Manuskript benennt die Anlagen eindeutig. Der Genehmigungsnachweis aus Schwaney und die Projektbeschreibung zu Asseln belegen regionale Vorhaben, enthalten aber keinen Nachweis für diese Investitionssumme bei dem im Video gemeinten Anlagenpaar.",
+      "assessmentBasis": "Abgleich mit Video, Originalunterlagen und dokumentierter Nachrecherche.",
+      "occurrences": [
+        {
+          "startSeconds": 5,
+          "endSeconds": 11,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "m",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "H",
+          "note": "Genehmigung für Lackmann Green Invest in Altenbeken-Schwaney. Keine Zuordnung zur im Film gemeinten Anlage und kein Investitionsbetrag."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        },
+        {
+          "sourceId": "AA",
+          "note": "Projektbeschreibung und Betreiberzuordnung. Sie nennt regionale Anlagen und Leistung, aber keine Investitionssumme oder Zuordnung zum MONITOR-Projekt."
+        }
+      ],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Ein lokaler Einzelfall illustriert die Debatte.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (Zweitprüfung)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die Investitionszahl illustriert den lokalen Einzelfall."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          },
+          {
+            "strategy": "Zuerst Kreisunterlagen und die Projektzuordnung geprüft. Anschließend YouTube-Passage, Unternehmensauftritt, Asselner Projektbeschreibung und regionale Repowering-Berichte nach einer Zuordnung und dem Betrag durchsucht."
+          }
+        ]
+      },
+      "verdict": "Nicht ausreichend belegbar",
+      "shortReason": "Die öffentlichen Projektunterlagen bestätigen keine Investitionssumme von 20 Millionen Euro für das im Video gemeinte Anlagenpaar."
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0003",
+      "chapter": 1,
+      "kind": "Prognose",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Die beiden neuen Windräder sollen etwa doppelt so viel Strom erzeugen wie ihre Vorgänger.",
+      "reason": "Der Beitrag nennt eine erwartete Erzeugungsmenge im Vergleich zum Altbestand. Dafür wären standortspezifische Prognosen und später gemessene Jahreserträge nötig.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 11,
+          "endSeconds": 15,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "m",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ]
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0004",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Lackmann plant zwei weitere Windräder.",
+      "reason": "MONITOR nennt zwei weitere geplante Anlagen. Das Video nennt keine Projektnamen. Amtliche Unterlagen belegen mehrere Vorhaben im Paderborner Land, darunter eine Anlage einer Lackmann-Gesellschaft in Schwaney. Daraus lässt sich die Zahl der im Video gemeinten Projekte zum Veröffentlichungszeitpunkt nicht ableiten.",
+      "assessmentBasis": "Abgleich mit Video, Originalunterlagen und dokumentierter Nachrecherche.",
+      "occurrences": [
+        {
+          "startSeconds": 15,
+          "endSeconds": 19,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "m",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "H",
+          "note": "Genehmigung für Lackmann Green Invest in Altenbeken-Schwaney. Keine Zuordnung zur im Film gemeinten Anlage und kein Investitionsbetrag."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        },
+        {
+          "sourceId": "AA",
+          "note": "Projektbeschreibung und Betreiberzuordnung. Sie nennt regionale Anlagen und Leistung, aber keine Investitionssumme oder Zuordnung zum MONITOR-Projekt."
+        }
+      ],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Die Zahl liefert lokalen Projektkontext.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (Zweitprüfung)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die Projektzahl bleibt ein lokaler Aufhänger."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          },
+          {
+            "strategy": "Zuerst Kreisunterlagen für Lackmann-Projekte geprüft. Anschließend die Videoeinblendung, den Unternehmensauftritt und öffentliche Projektbeschreibungen auf Namen und Anzahl der Anlagen abgeglichen."
+          }
+        ]
+      },
+      "verdict": "Nicht ausreichend belegbar",
+      "shortReason": "Die verfügbaren Genehmigungen lassen sich den zwei im Beitrag genannten Anlagen nicht eindeutig zuordnen."
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0005",
+      "chapter": 1,
+      "kind": "Prognose",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Lackmann erwartet, dass seine Projekte bei Umsetzung der diskutierten Pläne keine Finanzierung mehr erhalten.",
+      "reason": "Die Aussage ist eine bedingte Einschätzung des Betreibers. Standort, erwartete Abregelung und Finanzierungsbedingungen hängen vom Einzelfall ab.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 19,
+          "endSeconds": 32,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "l",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        },
+        {
+          "startSeconds": 218,
+          "endSeconds": 228,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "l",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        },
+        {
+          "startSeconds": 369,
+          "endSeconds": 377,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "l",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ]
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0006",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "description": "Katherina Reiche war im März 2026 seit gut einem Jahr Bundeswirtschaftsministerin.",
+      "reason": "Der amtliche Amtsbeginn war am 6. Mai 2025. Bei Veröffentlichung des Videos am 30. März 2026 waren knapp elf Monate vergangen.",
+      "shortReason": "Bei Veröffentlichung war Reiche seit knapp elf Monaten im Amt.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 36,
+          "endSeconds": 41,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "m",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "note": "Amtsbeginn und frühere Tätigkeit als Vorstandsvorsitzende."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Die Dauer dient der biografischen Einordnung.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (Zweitprüfung)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die Amtsdauer ist biografischer Kontext."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0007",
+      "chapter": 1,
+      "kind": "Meinung",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "MONITOR deutet Reiches Kurs als Abkehr vom bisherigen, auf raschen Ausbau ausgerichteten Ansatz.",
+      "reason": "Die Redaktion nutzt eine zugespitzte politische Einordnung. Einzelne Maßnahmen und die erwarteten Folgen werden separat geprüft.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 41,
+          "endSeconds": 45,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "m",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ]
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0008",
+      "chapter": 1,
+      "kind": "Meinung",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Reiche bewertet Bezahlbarkeit als entscheidend für die Akzeptanz der Energiewende.",
+      "reason": "Das Plenarprotokoll vom 18. März bestätigt die Wiedergabe der Einschätzung. Sie betrifft die erwartete gesellschaftliche Akzeptanz.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 45,
+          "endSeconds": 50,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "r",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V",
+          "note": "Regierungsbefragung am 18. März 2026. Aussagen zur Bezahlbarkeit, Erzeugungsmix und Systemkosten."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ]
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0009",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "description": "MONITOR schreibt Reiche die Auffassung zu, vor allem Wind- und Solarstrom seien für steigende Strompreise verantwortlich.",
+      "reason": "Reiche kritisierte am 18. März im Bundestag, dass Systemkosten beim Ausbau zu wenig berücksichtigt worden seien. In derselben Befragung befürwortete sie einen Mix mit Wind und Solar. Das Protokoll stützt die Kritik an Systemkosten, aber nicht die zugespitzte Zuschreibung, sie habe Wind- und Solarstrom selbst zur Hauptursache erklärt und Gas- oder Kohlekraftwerke als Preistreiber ausgeschlossen.",
+      "shortReason": "Im Bundestag sprach Reiche über Systemkosten und das Zusammenspiel mit den Netzen.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 50,
+          "endSeconds": 59,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "m",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V",
+          "note": "Regierungsbefragung am 18. März 2026. Aussagen zur Bezahlbarkeit, Erzeugungsmix und Systemkosten."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Die Zuschreibung liefert die Begründung für die im Beitrag diskutierte Gesetzesinitiative.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (Zweitprüfung)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die Preiszuschreibung dient als Begründung der Gesetzesinitiative."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0010",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Reiche kündigt an, den Ausbau erneuerbarer Energien besser mit dem Netzausbau abzustimmen.",
+      "reason": "Das Plenarprotokoll hält diese Ankündigung im Zusammenhang mit Wind, Solar und Stromnetzen fest.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 59,
+          "endSeconds": 66,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "r",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V",
+          "note": "Regierungsbefragung am 18. März 2026. Aussagen zur Bezahlbarkeit, Erzeugungsmix und Systemkosten."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Die Ankündigung ordnet den Zweck der Initiative ein.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (Zweitprüfung)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die Synchronisierungsabsicht ist ein eigenständiger Kontextbefund."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0011",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Windkraft und Photovoltaik wurden zuletzt zügig ausgebaut.",
+      "reason": "Für 2025 meldete die Bundesnetzagentur einen Zubau von 16,4 Gigawatt Solar- und 4,6 Gigawatt Windleistung. Der Solarzubau lag etwas unter 2024, der Windzubau deutlich über den 2,6 Gigawatt des Vorjahres.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 70,
+          "endSeconds": 74,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "m",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "Z",
+          "note": "Vorläufiger Jahreszubau nach Energieträgern."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Der Zubau ist Ausgangspunkt des Vergleichs mit den Netzen.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (Zweitprüfung)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die Zubaudaten liefern einen eigenständigen Vergleichspunkt."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0012",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Beim Ausbau der Stromnetze bestehen Rückstände gegenüber dem Zubau erneuerbarer Anlagen.",
+      "reason": "Die Bundesnetzagentur verweist auf weiteren Bedarf bei großen Leitungen. Ihre Methodenfestlegung zum Effizienzvergleich hält ausdrücklich fest, dass der Netzausbau mit dem Anschluss erneuerbarer Energien örtlich nicht Schritt hält. Sie nennt auch externe Verfahrensschritte als Ursache.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 74,
+          "endSeconds": 81,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "m",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "N",
+          "note": "Genehmigte Leitungskilometer und Fortschritt großer Übertragungsnetzvorhaben."
+        },
+        {
+          "sourceId": "R",
+          "note": "Abschnitt 11.1.1 zum Umgang mit Redispatchkosten im Effizienzvergleich für Verteilnetzbetreiber."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Die Netzengpässe begründen die im Beitrag diskutierte Regelung.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (Zweitprüfung)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Der Rückstand der Netze begründet den Regelungsvorschlag."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0013",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Für eine Windenergieanlage sind von der Antragstellung bis zur Inbetriebnahme etwa drei bis vier Jahre anzusetzen.",
+      "reason": "Die Fachagentur meldet für die 2025 erteilten Genehmigungen im Mittel 16,8 Monate Verfahrensdauer und für die 2025 in Betrieb genommenen Anlagen im Mittel 29 Monate ab Genehmigung. Die Größenordnungen sind mit Lackmanns Schätzung vereinbar. Die beiden Mittelwerte betreffen verschiedene Gruppen und messen zusammen keine beobachtete durchschnittliche Gesamtdauer.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 81,
+          "endSeconds": 88,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "l",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "F",
+          "note": "Realisierungszeiten ab Genehmigung und Genehmigungsdauer nach Jahrgang, Abschn. 1.3 und Abb. 18."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Die Zeitangabe macht den behaupteten Unterschied zur Netzplanung greifbar.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (Zweitprüfung)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die Laufzeit ist ein eigenständiger Vergleichspunkt."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0014",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Netzbetreiber benötigen für den Netzausbau zehn bis fünfzehn Jahre.",
+      "reason": "Netze BW nennt zehn bis fünfzehn Jahre für einzelne Ausbaumaßnahmen. Die Regierung nennt in der Begründung des Netzanschlusspakets dagegen häufige Realisierungsdauern von acht bis zwölf Jahren. Damit ist Lackmanns Spanne für einzelne Vorhaben plausibel. Als allgemeine Dauer über Netzebenen und Projektarten hinweg ist sie zu pauschal.",
+      "assessmentBasis": "Abgleich mit Video, Originalunterlagen und dokumentierter Nachrecherche.",
+      "occurrences": [
+        {
+          "startSeconds": 88,
+          "endSeconds": 92,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "l",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "N",
+          "note": "Genehmigte Leitungskilometer und Fortschritt großer Übertragungsnetzvorhaben."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        },
+        {
+          "sourceId": "NB",
+          "note": "Betreiberangabe zu zehn bis fünfzehn Jahren für einzelne Netzprojekte."
+        },
+        {
+          "sourceId": "B",
+          "note": "Späterer Regierungsentwurf vom 7. September 2026. Vorgeschlagener § 14 Abs. 1d EnWG und § 8 Abs. 4 EEG."
+        }
+      ],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Die Spanne trägt den Vergleich zwischen Wind- und Netzausbau.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (Zweitprüfung)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die Laufzeit ist ein eigenständiger Vergleichspunkt und bleibt unabhängig vom Urteil auf der Standardstufe."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          },
+          {
+            "strategy": "Zuerst amtliches Netzausbaumonitoring geprüft. Danach die Angaben des Verteilnetzbetreibers und die Problembeschreibung im Gesetzentwurf verglichen."
+          }
+        ]
+      },
+      "verdict": "Teilweise belegt",
+      "shortReason": "Einzelne Vorhaben dauern laut Netze BW zehn bis fünfzehn Jahre, der Regierungsentwurf nennt häufig acht bis zwölf Jahre."
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0015",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Netzbetreiber können bei Engpässen die Einspeisung reduzieren und leisten nach der geltenden Regelung grundsätzlich finanziellen Ausgleich.",
+      "reason": "§ 13a EnWG erlaubt die Anpassung der Erzeugung und regelt den finanziellen Ausgleich, einschließlich entgangener Einnahmen bei Reduzierung erneuerbarer Erzeugung. Redispatch kann eine Reduktion der Leistung bedeuten, bis hin zur Abschaltung.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 101,
+          "endSeconds": 114,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "m",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "E",
+          "note": "Erzeugungsanpassung und finanzieller Ausgleich, insbesondere Abs. 2."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Der bestehende Ausgleich erklärt den praktischen Unterschied zum Entwurf.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (Zweitprüfung)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Der bisherige Ausgleich erklärt die Tragweite der vorgeschlagenen Änderung."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0016",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Ein Anfang Februar öffentlich gewordener Entwurf sah für neue Anlagen in Engpassgebieten bis zu zehn Jahre ohne Entschädigung bei Abregelung vor.",
+      "reason": "Der frühe Entwurf sah bis zu zehn Jahre Ausweisung bei mehr als drei Prozent Abregelung im Vorjahr vor. Betroffen waren Neuanschlüsse über einen Vertrag mit Verzicht auf den finanziellen Redispatch-Ausgleich in ausgewiesenen Netzgebieten. Die Begründung nennt die Senkung der Redispatchkosten als Ziel. Der spätere Regierungsentwurf verwendet andere Schwellen und Fristen. Für diese Anlagen hätten die Betreiber die Einnahmeausfälle aus Abregelungen getragen.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 114,
+          "endSeconds": 131,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "m",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        },
+        {
+          "startSeconds": 179,
+          "endSeconds": 197,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "a",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "D",
+          "note": "Originaldokument mit Bearbeitungsstand 13. Januar 2026. Art. 1 Nr. 3–4, Art. 2 zur Änderung von § 8 EEG, Begründung ab S. 22 und S. 33."
+        },
+        {
+          "sourceId": "J",
+          "note": "SG2602270016 dokumentiert den frühen Entwurf vom Februar 2026."
+        },
+        {
+          "sourceId": "B",
+          "note": "Späterer Regierungsentwurf vom 7. September 2026. Vorgeschlagener § 14 Abs. 1d EnWG und § 8 Abs. 4 EEG."
+        },
+        {
+          "sourceId": "G",
+          "note": "Dokumentierter parlamentarischer Beratungsstand."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ],
+      "factIndex": {
+        "weight": 2.5,
+        "weightReason": "Der Redispatch-Vorbehalt ist die zentrale konkrete Regelung des Beitrags.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (Zweitprüfung)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Der Redispatch-Vorbehalt ist die zentrale Regelung des Beitrags."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0017",
+      "chapter": 2,
+      "kind": "Prognose",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Norddeutsche Küstenländer und Bayern wären nach den frühen Plänen besonders betroffen.",
+      "reason": "Die Prognose setzt voraus, dass konkrete Verteilnetzabschnitte die Abregelungsschwelle erreichen, ausgewiesen werden und dort Neuanschlüsse beantragt sind. Hohe installierte Leistung allein bestimmt die Betroffenheit nicht.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 134,
+          "endSeconds": 172,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "m",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "D",
+          "note": "Originaldokument mit Bearbeitungsstand 13. Januar 2026. Art. 1 Nr. 3–4, Art. 2 zur Änderung von § 8 EEG, Begründung ab S. 22 und S. 33."
+        },
+        {
+          "sourceId": "Z",
+          "note": "Vorläufiger Jahreszubau nach Energieträgern."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ]
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0018",
+      "chapter": 2,
+      "kind": "Prognose",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Lackmann erwartet im Fall der Umsetzung ein abruptes Ende des Windenergieausbaus.",
+      "reason": "Die Prognose geht über Lackmanns eigene Projekte hinaus. Der Entwurf ist räumlich begrenzt und lässt vertragliche Anschlüsse zu. Ein flächendeckender Stillstand folgt daraus nicht zwingend.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 148,
+          "endSeconds": 155,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "l",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "D",
+          "note": "Originaldokument mit Bearbeitungsstand 13. Januar 2026. Art. 1 Nr. 3–4, Art. 2 zur Änderung von § 8 EEG, Begründung ab S. 22 und S. 33."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ]
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0020",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "description": "Bisher folgt der Netzausbau dem Ausbau von Wind und Solar, während der Entwurf die Reihenfolge praktisch umkehren würde.",
+      "reason": "Nach §§ 8 und 12 EEG gibt es einen vorrangigen Anschluss und unter Voraussetzungen eine Netzausbaupflicht. Der Entwurf greift den unbedingten Anschlussanspruch in ausgewiesenen Engpassgebieten an, sieht dort aber einen vertraglichen Anschluss mit befristetem Entschädigungsverzicht vor. Die Netzausbaupflicht bleibt bestehen.",
+      "shortReason": "Der Entwurf sah in ausgewiesenen Engpassgebieten weiter einen Anschlussvertrag mit befristetem Entschädigungsverzicht vor.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 197,
+          "endSeconds": 215,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "m",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "note": "Vorrangiger Anschluss und Kapazitätserweiterung, Abs. 1 und 4."
+        },
+        {
+          "sourceId": "X",
+          "note": "Erweiterung der Netzkapazität und Zumutbarkeitsgrenze."
+        },
+        {
+          "sourceId": "D",
+          "note": "Originaldokument mit Bearbeitungsstand 13. Januar 2026. Art. 1 Nr. 3–4, Art. 2 zur Änderung von § 8 EEG, Begründung ab S. 22 und S. 33."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ],
+      "factIndex": {
+        "weight": 2.5,
+        "weightReason": "Die behauptete Umkehr ist die zentrale Antwort auf die Titelfrage.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (Zweitprüfung)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die behauptete Umkehr beantwortet die Titelfrage."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0021",
+      "chapter": 3,
+      "kind": "Prognose",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Scheer erwartet einen Stillstand der Energiewende infolge der Pläne.",
+      "reason": "Die Wirkung auf das Ausbautempo hängt von der Zahl der betroffenen Projekte ab. Der Arbeitsentwurf sah begrenzte Ausweisungen und weiter mögliche Netzanschlüsse vor.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 217,
+          "endSeconds": 223,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "s",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "D",
+          "note": "Originaldokument mit Bearbeitungsstand 13. Januar 2026. Art. 1 Nr. 3–4, Art. 2 zur Änderung von § 8 EEG, Begründung ab S. 22 und S. 33."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ]
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0022",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Der Koalitionsvertrag schreibt kein Warten des Erneuerbaren-Ausbaus auf den Netzausbau vor.",
+      "reason": "Der Vertrag sieht einen beschleunigten Ausbau erneuerbarer Energien sowie eine Synchronisierung mit dem Netzausbau vor. Eine generelle Wartepflicht steht im einschlägigen Abschnitt nicht.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 228,
+          "endSeconds": 236,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "s",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "K",
+          "note": "Abschnitt Energie und Netze zu beschleunigtem Erneuerbaren-Ausbau und Synchronisierung."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Der Vertragsinhalt ordnet den politischen Streit ein.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (Zweitprüfung)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Der Vertragsinhalt ordnet den Streit ein."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0023",
+      "chapter": 3,
+      "kind": "Prognose",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Die bestehenden Ausbauziele für Erneuerbare könnten verfehlt werden.",
+      "reason": "Die Aussage benennt ein Risiko für die Zielerreichung. Der Beitrag legt für diese Prognose keinen vollständigen Ausbaupfad mit Szenarien vor.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 239,
+          "endSeconds": 243,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "s",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ]
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0024",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Die Bundesregierung verfolgt mit der Netzanschlussreform das erklärte Ziel, Stromkosten zu senken.",
+      "reason": "Reiche nannte im Bundestag Bezahlbarkeit als Ziel. Der Arbeitsentwurf nennt die Senkung der Redispatchkosten und eine Entlastung der Letztverbraucher.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 244,
+          "endSeconds": 253,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "m",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V",
+          "note": "Regierungsbefragung am 18. März 2026. Aussagen zur Bezahlbarkeit, Erzeugungsmix und Systemkosten."
+        },
+        {
+          "sourceId": "D",
+          "note": "Originaldokument mit Bearbeitungsstand 13. Januar 2026. Art. 1 Nr. 3–4, Art. 2 zur Änderung von § 8 EEG, Begründung ab S. 22 und S. 33."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Das Ziel ist der Maßstab der Preisdebatte.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (Zweitprüfung)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Das erklärte Ziel liefert politischen Kontext."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0025",
+      "chapter": 4,
+      "kind": "Prognose",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Eine Verzögerung der Energiewende könnte unter Reiches Plänen zu höheren Strompreisen führen.",
+      "reason": "Der Bericht formuliert eine bedingte Entwicklung. Großhandels-, Netz- und Endkundenpreise reagieren auf verschiedene Faktoren. Eine Prognose des Nettoeffekts setzt ein Szenario für Erzeugung, Nachfrage und Netze voraus.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 253,
+          "endSeconds": 261,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "m",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S",
+          "note": "Gebotsreihenfolge, variable Kosten, Grenzkraftwerk und Börsenpreis."
+        },
+        {
+          "sourceId": "P",
+          "note": "Preisbestandteile für Haushalte und Großhandelspreis."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ]
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0026",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Wind- und Solarstrom sind deutlich günstiger als Strom aus Gas oder Kohle.",
+      "reason": "Die Fraunhofer-Studie weist für neue PV-Freiflächen- und Onshore-Windanlagen 4,1 bis 9,2 Cent je Kilowattstunde aus. Neue Gas- und Kohlekraftwerke liegen in den modellierten Szenarien höher, einzelne Bandbreiten anderer PV-Typen überlappen jedoch mit Gas. Der Vergleich betrifft Stromgestehungskosten neuer Anlagen. Er bildet Netze und übrige Strompreisbestandteile nicht ab.",
+      "shortReason": "Neue Wind- und Solarparks haben meist niedrigere Erzeugungskosten, während der Endkundenpreis weitere Bestandteile umfasst.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 261,
+          "endSeconds": 268,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "m",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "I",
+          "note": "Stromgestehungskosten für neu errichtete Anlagen nach Technologie und Szenario."
+        },
+        {
+          "sourceId": "P",
+          "note": "Preisbestandteile für Haushalte und Großhandelspreis."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Der Erzeugungskostenvergleich trägt die Preisargumentation der Redaktion.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (Zweitprüfung)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Der Kostenvergleich trägt das Preisargument."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0027",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Mehr Wind- und Solarstrom wirkt an der Börse preisdämpfend, während hohe Gaspreise den Börsenstrompreis erhöhen können.",
+      "reason": "Wind und Solar haben geringe variable Kosten und können teurere Erzeugung aus der Gebotsreihenfolge verdrängen. Wenn Gaskraftwerke den Preis setzen, können höhere Brennstoffkosten den Börsenpreis erhöhen. Endkundentarife enthalten weitere Bestandteile.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 268,
+          "endSeconds": 281,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "a",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S",
+          "note": "Gebotsreihenfolge, variable Kosten, Grenzkraftwerk und Börsenpreis."
+        },
+        {
+          "sourceId": "P",
+          "note": "Preisbestandteile für Haushalte und Großhandelspreis."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Der Marktmechanismus erklärt die erwartete Wirkung auf den Strompreis.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (Zweitprüfung)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Der Börsenmechanismus ist eine tragende Erklärung der Preiswirkung."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0028",
+      "chapter": 5,
+      "kind": "Prognose",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Netzbetreiber würden besonders profitieren, weil der Druck zum Netzausbau abnähme.",
+      "reason": "Der Entwurf hätte die Entschädigungskosten für bestimmte Neuanschlüsse gesenkt. Die wirtschaftliche Wirkung hängt auch von Regulierung, Verteilung der Kosten und tatsächlichen Engpässen ab. Die Pflicht zur Netzerweiterung bleibt bestehen.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 284,
+          "endSeconds": 291,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "a",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        },
+        {
+          "startSeconds": 303,
+          "endSeconds": 306,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "m",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "D",
+          "note": "Originaldokument mit Bearbeitungsstand 13. Januar 2026. Art. 1 Nr. 3–4, Art. 2 zur Änderung von § 8 EEG, Begründung ab S. 22 und S. 33."
+        },
+        {
+          "sourceId": "R",
+          "note": "Abschnitt 11.1.1 zum Umgang mit Redispatchkosten im Effizienzvergleich für Verteilnetzbetreiber."
+        },
+        {
+          "sourceId": "X",
+          "note": "Erweiterung der Netzkapazität und Zumutbarkeitsgrenze."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ]
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0029",
+      "chapter": 5,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "description": "Die geplante Neuregelung würde das Risiko geringerer regulierter Erlöse bei ineffizienten Netzbetreibern ausräumen.",
+      "reason": "Die Bundesnetzagentur setzt den Effizienzvergleich für Verteilnetzbetreiber gesondert fest und berücksichtigt darin auch bestimmte Redispatchkosten. Ein Ausgleichsverzicht für bestimmte Neuanschlüsse senkt möglicherweise einzelne Kosten. Der frühe Entwurf hebt den Effizienzvergleich oder die Netzausbaupflicht nicht auf.",
+      "shortReason": "Der Entwurf mindert mögliche Redispatchkosten einzelner Neuanschlüsse, während der regulatorische Effizienzvergleich bestehen bleibt.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 291,
+          "endSeconds": 303,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "m",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "D",
+          "note": "Originaldokument mit Bearbeitungsstand 13. Januar 2026. Art. 1 Nr. 3–4, Art. 2 zur Änderung von § 8 EEG, Begründung ab S. 22 und S. 33."
+        },
+        {
+          "sourceId": "R",
+          "note": "Abschnitt 11.1.1 zum Umgang mit Redispatchkosten im Effizienzvergleich für Verteilnetzbetreiber."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Die Behauptung stützt die These eines finanziellen Vorteils für Netzbetreiber.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (Zweitprüfung)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Das Erlösargument stützt den behaupteten Vorteil für Netzbetreiber."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0030",
+      "chapter": 5,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Ein großer Teil der deutschen Windkraft und Photovoltaik ist an E.ON-Verteilnetze angeschlossen.",
+      "reason": "E.ON bezifferte im März 2026 den Anteil an der installierten deutschen Windleistung an Land auf rund 70 Prozent und den Anteil an der Zahl der deutschen PV-Anlagen auf knapp 50 Prozent. Die Angaben messen bei Wind Leistung und bei PV Anlagenzahl.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 306,
+          "endSeconds": 312,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "m",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "Q",
+          "note": "Unternehmensangaben vom 4. März 2026 zur angeschlossenen Windkraftleistung und Zahl der PV-Anlagen."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Die Netzgröße begründet die besondere Aufmerksamkeit für E.ON.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (Zweitprüfung)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die Netzgröße begründet den Blick auf E.ON."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0031",
+      "chapter": 5,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Reiche war vor ihrem Ministeramt Vorstandsvorsitzende der E.ON-Tochter Westenergie.",
+      "reason": "Die Bundesregierung nennt den Vorstandsvorsitz von 2020 bis 2025. Westenergie bestätigt die Funktion und ihre Zugehörigkeit zum E.ON-Konzern.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 316,
+          "endSeconds": 321,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "m",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "note": "Amtsbeginn und frühere Tätigkeit als Vorstandsvorsitzende."
+        },
+        {
+          "sourceId": "W",
+          "note": "Konzernzugehörigkeit der Westenergie AG und Vorstandsvorsitz."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Die frühere Konzernfunktion ist für die im Beitrag aufgeworfene Interessenfrage zentral.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (Zweitprüfung)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die frühere Funktion trägt die Interessenfrage."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0032",
+      "chapter": 5,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Reiche forderte als Westenergie-Chefin in einem LinkedIn-Artikel dieselben Anschlussregeln, die im späteren Entwurf standen.",
+      "reason": "Der im Video gezeigte archivierte LinkedIn-Ausschnitt und der reproduzierte Ausschnitt im Greenpeace-Dossier dokumentieren frühere Forderungen nach einer Einschränkung von Netzanschlüssen an Engpässen und nach dem Redispatch-Vorbehalt. Der frühe Entwurf griff beide Ansätze auf, verpflichtete Netzbetreiber aber in ausgewiesenen Gebieten zu einem Vertragsangebot mit befristetem Verzicht und legte eine Schwelle sowie eine Höchstdauer fest. Die frühere Forderung knüpfte den Verzicht an die Beseitigung des Engpasses. Die Originalseite war öffentlich nicht verifizierbar. Wer den Beitrag entfernt hat, lässt sich aus der Archivfassung nicht bestimmen.",
+      "assessmentBasis": "Abgleich mit Video, Originalunterlagen und dokumentierter Nachrecherche.",
+      "occurrences": [
+        {
+          "startSeconds": 321,
+          "endSeconds": 336,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "m",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript und archivierter LinkedIn-Ausschnitt im Videobild um 5:26 bis 5:33 geprüft."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        },
+        {
+          "sourceId": "L",
+          "note": "Dokumentierte E.ON-Forderung nach regionaler Steuerung und einem Redispatch-Vorbehalt als möglichem Instrument."
+        },
+        {
+          "sourceId": "D",
+          "note": "Originaldokument mit Bearbeitungsstand 13. Januar 2026. Art. 1 Nr. 3–4, Art. 2 zur Änderung von § 8 EEG, Begründung ab S. 22 und S. 33."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "GP",
+          "note": "Die Abbildung auf Seite 6 reproduziert einen Ausschnitt aus dem LinkedIn-Artikel mit den früheren Forderungen. Ausgewertet wird die Abbildung als Dokument des ursprünglichen Wortlauts."
+        }
+      ],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Die behauptete Übereinstimmung begründet den Vorwurf der Bevorzugung.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (Zweitprüfung)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die politischen und beruflichen Positionen liefern einen tragenden Vergleich."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          },
+          {
+            "strategy": "Zuerst E.ON-Forderung im Lobbyregister mit dem Entwurf verglichen. Danach den archivierten Textausschnitt im YouTube-Bild und seine Wiedergabe im Greenpeace-Dossier geprüft."
+          }
+        ]
+      },
+      "verdict": "Teilweise belegt",
+      "shortReason": "Reiche schlug den Vorbehalt bereits 2024 vor, während der Entwurf zusätzlich ein Anschlussangebot und eine feste Höchstdauer regelte."
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0033",
+      "chapter": 5,
+      "kind": "Meinung",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Kellner wirft Reiche vor, Politik zugunsten von E.ON zu machen.",
+      "reason": "Die zitierte Äußerung ist ein politischer Vorwurf. Dokumentierte Übereinstimmung bei einem Vorhaben erlaubt für sich allein keine Aussage über das Motiv der Ministerin.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 336,
+          "endSeconds": 347,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "g",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "L",
+          "note": "Dokumentierte E.ON-Forderung nach regionaler Steuerung und einem Redispatch-Vorbehalt als möglichem Instrument."
+        },
+        {
+          "sourceId": "D",
+          "note": "Originaldokument mit Bearbeitungsstand 13. Januar 2026. Art. 1 Nr. 3–4, Art. 2 zur Änderung von § 8 EEG, Begründung ab S. 22 und S. 33."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ]
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0034",
+      "chapter": 5,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "description": "Ein E.ON-Vorschlag findet sich unverändert im Gesetz wieder.",
+      "reason": "E.ON regte 2024 einen Redispatch-Vorbehalt als Instrument regionaler Steuerung an. Der Entwurf griff diesen Ansatz auf, regelte aber unter anderem Schwelle, Gebietsausweisung, Frist und Vertragsangebot. Das Register und der Entwurf belegen die Übernahme des Ansatzes. Die Aussage einer wörtlichen oder unveränderten Übernahme geht darüber hinaus. Im Beitrag ging es um einen Entwurf.",
+      "shortReason": "E.ON regte den Vorbehalt an, der Arbeitsentwurf konkretisierte ihn unter anderem durch Schwelle, Laufzeit und Vertragsangebot.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 347,
+          "endSeconds": 353,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "g",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "L",
+          "note": "Dokumentierte E.ON-Forderung nach regionaler Steuerung und einem Redispatch-Vorbehalt als möglichem Instrument."
+        },
+        {
+          "sourceId": "D",
+          "note": "Originaldokument mit Bearbeitungsstand 13. Januar 2026. Art. 1 Nr. 3–4, Art. 2 zur Änderung von § 8 EEG, Begründung ab S. 22 und S. 33."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        }
+      ],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Die behauptete Identität verschärft den politischen Vorwurf.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (Zweitprüfung)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die behauptete Identität trägt den Vorwurf der Bevorzugung."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0035",
+      "chapter": 5,
+      "kind": "Tatsachenbehauptung",
+      "status": "Nicht überprüfbar",
+      "description": "MONITOR erhielt von der Ministerin keine Antwort auf seine Interviewanfrage.",
+      "reason": "Der Beitrag dokumentiert die Aussage der Redaktion. Die Anfrage und der Korrespondenzverlauf liegen öffentlich nicht vor.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 353,
+          "endSeconds": 359,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "m",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        }
+      ],
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ZV0uy_le-Uk-A0036",
+      "chapter": 5,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "E.ON verweist auf erhebliche Investitionen in seine Netze.",
+      "reason": "Die E.ON-Mitteilung zum Geschäftsjahr 2025 weist 8,5 Milliarden Euro Konzerninvestitionen aus, davon rund 7 Milliarden im Segment Energienetze. Die Angaben beziehen sich auf E.ONs Netzgeschäft insgesamt. Die Mitteilung belegt die Aussage zu Investitionen, der genaue Wortlaut gegenüber MONITOR ist im Sendungsmanuskript nur zusammengefasst.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "occurrences": [
+        {
+          "startSeconds": 361,
+          "endSeconds": 365,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "m",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Sprecherzuordnung anhand des WDR-Manuskripts.",
+          "roleBasis": "Off-Kommentar oder eigene Aussage im O-Ton.",
+          "timeBasis": "Deutsches YouTube-Transkript mit Zeitmarken."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "T",
+          "note": "Originalmitteilung des Unternehmens zu Investitionen und Netzgeschäft."
+        },
+        {
+          "sourceId": "M",
+          "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        },
+        {
+          "sourceId": "Y",
+          "note": "Deutsches YouTube-Transkript der 6:21 langen Veröffentlichung. Zeitmarken und Wortlaut."
+        }
+      ],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Die Antwort dient der Einordnung am Ende des Beitrags.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (Zweitprüfung)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die Investitionsantwort liefert am Ende zusätzlichen Kontext."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          }
+        ]
+      }
+    }
+  ]
+}

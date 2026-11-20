@@ -12,6 +12,14 @@ Themen (`faktenchecks/<ID>/themen.json`, [Wissensdatenbank](docs/WISSENSDATENBAN
 
 Index und Statistik werden nie von Hand gepflegt, sondern mit `node scripts/build-index.js` aus den Prüfdaten erzeugt; der Workflow prüft mit `--check`, dass sie aktuell sind.
 
+## YouTube-Transkript lokal importieren
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\Import-YouTubeTranscript.ps1 -Url "https://www.youtube.com/watch?v=VIDEO_ID"
+```
+
+Der Import nutzt externes [yt-dlp](https://github.com/yt-dlp/yt-dlp) und optional [Deno](https://github.com/denoland/deno). Das Skript sucht nach `yt-dlp.exe` unter `..\youtubedownload\.tools` und anschließend im PATH. Andere Installationen können mit `-YtDlpPath` und `-DenoPath` angegeben werden. Der Import legt Untertitel, Zeitstempel, Metadaten und Beschreibung in `..\.politik4m3-private\<Video-ID>\` ab. Die Quelldateien bleiben außerhalb des Git-Arbeitsbaums.
+
 ## Veröffentlichung
 GitHub Pages wird per GitHub Actions aus `site/` und `daten/` gebaut. In **Settings → Pages → Source: GitHub Actions** auswählen. Weitere Hinweise: [Deployment](docs/DEPLOYMENT.md).
 
