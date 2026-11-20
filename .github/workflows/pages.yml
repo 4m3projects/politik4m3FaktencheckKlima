@@ -14,6 +14,24 @@ jobs:
       - name: JavaScript Syntax prüfen
         run: |
           for f in site/*.js; do node --check "$f"; done
+      - name: Gemeinsamer Faktenindex identisch mit dem Hauptprojekt
+        # docs/FAKTENINDEX.md, Abschnitt 1: Regel, Anzeige, Tests und Doku sind in allen drei Faktencheck-Repositories
+        # bytegleich; maßgeblich ist politik4m3Facktencheck (main). Abweichung: Fehler im Pull Request, Warnung auf main.
+        run: |
+          set -uo pipefail
+          base=https://raw.githubusercontent.com/4m3projects/politik4m3Facktencheck/main
+          level=warning; [[ "${{ github.event_name }}" == "pull_request" ]] && level=error
+          bad=0
+          for f in site/faktenindex.js site/faktenindex-ui.js site/faktenindex-test.js scripts/faktenindex.js docs/FAKTENINDEX.md; do
+            if ! curl -fsSL --retry 3 "$base/$f" -o "$RUNNER_TEMP/ref"; then echo "::warning file=$f::$f im Hauptprojekt nicht abrufbar, Vergleich übersprungen"; continue; fi
+            if ! cmp -s "$RUNNER_TEMP/ref" "$f"; then echo "::$level file=$f::$f weicht vom Hauptprojekt ab; Änderungen dort vornehmen und unverändert übernehmen."; bad=1; fi
+          done
+          [[ $bad == 0 || $level == warning ]]
+
+      - name: Faktenindex und Ampel prüfen (gemeinsame Regel aller Faktencheckseiten)
+        run: |
+          node --test site/faktenindex-test.js
+          node scripts/faktenindex.js pruefen
       - name: Faktencheck-Daten prüfen
         run: node scripts/build-index.js --check
       - name: Index mit Commit erzeugen
@@ -21,7 +39,9 @@ jobs:
       - name: Website bauen
         run: |
           mkdir -p _site
-          cp site/*.html site/*.css site/*.js site/favicon.svg site/favicon.ico site/apple-touch-icon.png _site/
+          cp site/*.html site/*.css site/favicon.svg site/favicon.ico site/apple-touch-icon.png _site/
+          # Seitenskripte ohne Testdateien (*-test.js)
+          for f in site/*.js; do case "$f" in *-test.js) ;; *) cp "$f" _site/ ;; esac; done
           mkdir -p _site/daten
           cp daten/*.json _site/daten/
           if [ -d faktenchecks ]; then

@@ -15,6 +15,7 @@
 const fs = require('fs');
 const path = require('path');
 const FactRelations = require('../site/relations.js');
+const FactIndex = require('../site/faktenindex.js');
 
 const ROOT = path.resolve(__dirname, '..');
 const FC = path.join(ROOT, 'faktenchecks');
@@ -150,6 +151,8 @@ if (fs.existsSync(FC)) {
     if (structured) {
       const data = readJson(claimsFile);
       validateClaims(data, id);
+      /* Faktenindex-Felder (claims[].factIndex), gemeinsame Regel docs/FAKTENINDEX.md */
+      errors.push(...FactIndex.validateData(data).map(e => `aussagen.json (${id}): ${e}`));
       writeOrCheck(path.join(dir, 'strukturiert', 'statistik.json'), statistics(data));
     }
     const files = listFiles(dir).filter(f => f.endsWith('.md'));
