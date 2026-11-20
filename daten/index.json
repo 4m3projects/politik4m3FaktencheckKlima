@@ -68,6 +68,30 @@
       }
     },
     {
+      "id": "_CVUhCARuqM",
+      "title": "Das höchste Windrad der Welt: Mehr Strom durch mehr Höhe #politik #windkraftanlage #windkraft #news",
+      "structured": true,
+      "rhetoric": false,
+      "files": [
+        "README.md"
+      ],
+      "video": {
+        "schemaVersion": 1,
+        "videoId": "_CVUhCARuqM",
+        "role": "original",
+        "channel": "Politik4m3",
+        "title": "Das höchste Windrad der Welt: Mehr Strom durch mehr Höhe #politik #windkraftanlage #windkraft #news",
+        "videoUrl": "https://www.youtube.com/shorts/_CVUhCARuqM",
+        "workStatus": "Abgeschlossen",
+        "format": "short",
+        "identification": {
+          "basis": "Video-ID, Titel, Kanal, Upload-Datum (29.09.2026) und Länge (0:48) direkt auf der YouTube-Videoseite geprüft.",
+          "certainty": "Belegt",
+          "checkedOn": "2026-11-20"
+        }
+      }
+    },
+    {
       "id": "d6-SBMTduwk",
       "title": "Alice Weidel und die Enteignungpläne der AfD: Alle Windkraftwerke niederreißen!",
       "structured": true,

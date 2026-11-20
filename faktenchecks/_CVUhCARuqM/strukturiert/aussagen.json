@@ -1,0 +1,896 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "videoId": "_CVUhCARuqM",
+    "videoUrl": "https://www.youtube.com/shorts/_CVUhCARuqM",
+    "kind": "Vollerfassung",
+    "asOf": "2026-11-20",
+    "durationSeconds": 48,
+    "coverageNote": "Titel, eingeblendete Grafik und sämtliche Segmente des YouTube-Transkripts gesichtet. Wiederholungen sind zusammengeführt. Jens hat den Zahlenwortlaut im Schlussvers ab 0:39 bestätigt.",
+    "researchNote": "Liedtext und Zeitmarken aus dem automatisch erzeugten YouTube-Transkript. Jens hat die Zahl im Schlussvers als 300 bestätigt. Die Grafik wurde direkt im Video geprüft. Sachprüfung mit Originalmessbericht, Angaben der Projektpartner, Umweltbundesamt und Bundesamt für Naturschutz."
+  },
+  "speakers": [
+    {
+      "id": "SP1",
+      "name": "Politik4m3",
+      "videoRole": "Liedtext und eingeblendete Grafik",
+      "identityBasis": "Der Short ist dem YouTube-Kanal Politik4m3 zugeordnet. Die Gesangsstimme wurde keiner Person zugeordnet."
+    }
+  ],
+  "sources": [
+    {
+      "id": "S01",
+      "title": "GICON – Höhenwindturm erreicht Weltrekordhöhe von 365 Metern",
+      "url": "https://www.gicon.de/aktuelles/artikel/gicon-hoehenwindturm-erreicht-weltrekordhoehe-von-365-metern",
+      "details": "Mitteilung zum Erreichen der Endhöhe am 28.09.2026, zu den Bauwerksmaßen und zum damaligen Inbetriebnahmeplan.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Originalseite oder Originalmitteilung direkt gelesen."
+    },
+    {
+      "id": "S02",
+      "title": "SPRIND – Das höchste Windrad der Welt steht",
+      "url": "https://www.sprind.org/worte/magazin/hoehenwindrad-rekord",
+      "details": "Projektpartner zu Rekordhöhe, Pilotanlage und Konzept einer zweiten Etage.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Originalseite oder Originalmitteilung direkt gelesen."
+    },
+    {
+      "id": "S03",
+      "title": "Berliner Fernsehturm – Höhe des Bauwerks",
+      "url": "https://tv-turm.de/die-10-besten-aussichtsplattformen-in-berlin-%F0%9F%8C%87/",
+      "details": "Betreiberangabe von 368 Metern Gesamthöhe.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Originalseite oder Originalmitteilung direkt gelesen."
+    },
+    {
+      "id": "S04",
+      "title": "SPRIND/beventum – Analyse der Windbedingungen in 300 m Höhe am Standort Schipkau",
+      "url": "https://cms.system.sprind.org/uploads/Analyse_der_Windbedingungen_in_300_m_Hoehe_am_Standort_Schipkau_anhand_der_Daten_des_Messmastes_d6e807ee10.pdf",
+      "details": "Originalauswertung der Windmessungen; Abb. 5 und 6, Tab. 4 bis 6. Die Ertragsrechnung verwendet eine Vestas V164 mit 9,5 MW.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Abschnitte des Original-PDF gelesen."
+    },
+    {
+      "id": "S05",
+      "title": "SPRIND – Die Binnenwindanlagen der Zukunft",
+      "url": "https://www.sprind.org/taten/projekte/beventum",
+      "details": "Projektbeschreibung zur Nutzung höherer Windschichten und zu Nachrüstungen in bestehenden Windparks.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Originalseite oder Originalmitteilung direkt gelesen."
+    },
+    {
+      "id": "S06",
+      "title": "Umweltbundesamt – Lärm von Windenergieanlagen",
+      "url": "https://www.umweltbundesamt.de/themen/laerm/nachbarschaftslaerm-laerm-von-anlagen/laerm-von-windenergieanlagen",
+      "details": "Fachinformation zu Emissionsursachen und zur Gesamtbelastung am Immissionsort.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Originalseite oder Originalmitteilung direkt gelesen."
+    },
+    {
+      "id": "S07",
+      "title": "Umweltbundesamt – Grundlagen der Akustik",
+      "url": "https://www.umweltbundesamt.de/themen/laerm/verbraucherservice-laerm/grundlagen-der-akustik",
+      "details": "Abschnitt zum Messen und zur Prognose der Lärmbelastung an einem Immissionsort.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Originalseite oder Originalmitteilung direkt gelesen."
+    },
+    {
+      "id": "S08",
+      "title": "GICONcret 1/2025 – Fledermausmonitoring am Höhenwindmessmast",
+      "url": "https://www.gicon.de/files/GICON-Gruppe/Downloads/GICONcret_Archiv/GICONcret%201_2025.pdf",
+      "details": "Zusammenfassung der eigenen akustischen Messkampagne mit acht Horchboxen von April bis Oktober 2023.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Relevante Abschnitte des Original-PDF gelesen."
+    },
+    {
+      "id": "S09",
+      "title": "Bundesamt für Naturschutz – Forschung zu Windenergieanlagen und Fledermauskollisionen",
+      "url": "https://www.bfn.de/projektsteckbriefe/bewertung-der-auswirkung-von-windenergieanlagen-der-neuen-generation-auf-das",
+      "details": "Ergebnisse der Risikoanalyse nach Artengruppe, Rotordurchmesser und unterem Rotordurchlauf.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Originalseite oder Originalmitteilung direkt gelesen."
+    },
+    {
+      "id": "S10",
+      "title": "GICON – Höhenwindturm eingeweiht und am Netz",
+      "url": "https://w3.windmesse.de/windenergie/pm/49923-gicon-hohenwindturm-windenergie-schipkau-serienfertigung",
+      "details": "Originalmitteilung der GICON Holding vom 19.11.2026, veröffentlicht bei Windmesse.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Originalseite oder Originalmitteilung direkt gelesen."
+    }
+  ],
+  "claims": [
+    {
+      "id": "_CVUhCARuqM-A0001",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Das Windrad in Schipkau erreichte 365 Meter Gesamthöhe und war damit das höchste Windrad der Welt.",
+      "reason": "GICON meldete, dass die Anlage am 28. September 2026 die Endhöhe von 365 Metern erreichte. SPRIND bestätigt den Weltrekord. Die Höhe umfasst das nach oben zeigende Rotorblatt.",
+      "assessmentBasis": "Abgleich mit den in den Quellenverweisen benannten Originalquellen.",
+      "occurrences": [
+        {
+          "startSeconds": 0,
+          "endSeconds": 48,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eingeblendeter Text im Video von Politik4m3.",
+          "roleBasis": "Die Grafik präsentiert dies als eigene Aussage.",
+          "timeBasis": "Grafik während der Wiedergabe und an späterer Zeitmarke gesichtet."
+        },
+        {
+          "startSeconds": 0,
+          "endSeconds": 7,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Liedtext des Shorts laut YouTube-Transkript; Identität der Stimme nicht ermittelt.",
+          "roleBasis": "Der Liedtext bringt die Aussage selbst vor.",
+          "timeBasis": "Zeit aus dem automatischen YouTube-Transkript."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S01",
+          "note": "Endhöhe und Datum."
+        },
+        {
+          "sourceId": "S02",
+          "note": "Höhenrekord der Pilotanlage."
+        }
+      ],
+      "openQuestions": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Frühere Prüfung LWQUaGxUmxk-A01 und A02 im Klima-Repository gesucht und mit den hier erneut gelesenen Originalquellen abgeglichen.",
+            "sourceIds": [
+              "S01",
+              "S02"
+            ],
+            "result": "GICON meldete, dass die Anlage am 28. September 2026 die Endhöhe von 365 Metern erreichte. SPRIND bestätigt den Weltrekord. Die Höhe umfasst das nach oben zeigende Rotorblatt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Short erfasst.",
+        "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 3,
+        "weightReason": "Der Höhenrekord steht im Titel, eröffnet den Liedtext und ist die Hauptaussage der Grafik.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (zweiter Agent)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die Titelthese steht auch in der Grafik und eröffnet den Liedtext."
+          }
+        ]
+      }
+    },
+    {
+      "id": "_CVUhCARuqM-A0002",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Das Windrad ist fast so hoch wie der Berliner Fernsehturm.",
+      "reason": "Der Betreiber des Berliner Fernsehturms nennt 368 Meter. Die 365 Meter hohe Anlage ist damit rund drei Meter niedriger.",
+      "assessmentBasis": "Abgleich mit den in den Quellenverweisen benannten Originalquellen.",
+      "occurrences": [
+        {
+          "startSeconds": 0,
+          "endSeconds": 7,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Liedtext des Shorts laut YouTube-Transkript; Identität der Stimme nicht ermittelt.",
+          "roleBasis": "Der Liedtext bringt die Aussage selbst vor.",
+          "timeBasis": "Zeit aus dem automatischen YouTube-Transkript."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S01",
+          "note": "Gesamthöhe des Windrads."
+        },
+        {
+          "sourceId": "S03",
+          "note": "Höhe des Fernsehturms."
+        }
+      ],
+      "openQuestions": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Frühere Prüfung LWQUaGxUmxk-A02 im Klima-Repository gesucht und mit den hier erneut gelesenen Originalquellen abgeglichen.",
+            "sourceIds": [
+              "S01",
+              "S03"
+            ],
+            "result": "Der Betreiber des Berliner Fernsehturms nennt 368 Meter. Die 365 Meter hohe Anlage ist damit rund drei Meter niedriger."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Short erfasst.",
+        "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Der Vergleich veranschaulicht die Größe und ist für die Projektargumentation entbehrlich.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (zweiter Agent)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Der Größenvergleich veranschaulicht die Höhe und bleibt für die Argumentation beiläufig."
+          }
+        ]
+      }
+    },
+    {
+      "id": "_CVUhCARuqM-A0003",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Die Nabenhöhe des Höhenwindrads beträgt 300 Meter.",
+      "reason": "GICON und SPRIND geben für die Pilotanlage 300 Meter bis zur Rotornabe an. Die Gesamthöhe von 365 Metern schließt die Blattspitze ein.",
+      "assessmentBasis": "Abgleich mit den in den Quellenverweisen benannten Originalquellen.",
+      "occurrences": [
+        {
+          "startSeconds": 0,
+          "endSeconds": 48,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eingeblendeter Text im Video von Politik4m3.",
+          "roleBasis": "Die Grafik präsentiert dies als eigene Aussage.",
+          "timeBasis": "Grafik während der Wiedergabe und an späterer Zeitmarke gesichtet."
+        },
+        {
+          "startSeconds": 10,
+          "endSeconds": 14,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Liedtext des Shorts laut YouTube-Transkript; Identität der Stimme nicht ermittelt.",
+          "roleBasis": "Der Liedtext bringt die Aussage selbst vor.",
+          "timeBasis": "Zeit aus dem automatischen YouTube-Transkript."
+        },
+        {
+          "startSeconds": 39,
+          "endSeconds": 44,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Jens hat den Zahlenwortlaut im Schlussvers mit 300 Metern bestätigt.",
+          "roleBasis": "Der Schlussvers wiederholt die Angabe zur Nabenhöhe.",
+          "timeBasis": "Zeit aus dem automatischen YouTube-Transkript.",
+          "note": "Das automatische YouTube-Transkript gibt an dieser Stelle 200 Meter aus. Korrigiert nach Jens’ Bestätigung am 20.11.2026."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S01",
+          "note": "Nabenhöhe und Gesamthöhe."
+        },
+        {
+          "sourceId": "S02",
+          "note": "Maße der Pilotanlage."
+        }
+      ],
+      "openQuestions": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Frühere Prüfung LWQUaGxUmxk-A06 im Klima-Repository gesucht und mit den hier erneut gelesenen Originalquellen abgeglichen.",
+            "sourceIds": [
+              "S01",
+              "S02"
+            ],
+            "result": "GICON und SPRIND geben für die Pilotanlage 300 Meter bis zur Rotornabe an. Die Gesamthöhe von 365 Metern schließt die Blattspitze ein."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Short erfasst. Die zunächst offene Fundstelle A0012 wurde nach Bestätigung des Wortlauts mit A0003 zusammengeführt.",
+        "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Die Zahl ist in der Grafik prominent und erklärt, welche Windschicht die Anlage erschließt.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (zweiter Agent)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die hervorgehobene Nabenhöhe erklärt, welche Windschicht die Anlage erschließt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "_CVUhCARuqM-A0004",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "In Schipkau weht der Wind in 300 Metern Höhe im Mittel stärker und nutzbarer als in niedrigeren Höhen.",
+      "reason": "Die Messkampagne zeigt in den ausgewerteten Monaten höhere Monatsmittel auf 300 als auf 150 und 200 Metern. Auch Tage mit einem Mittel unter 4 m/s waren auf 300 Metern seltener als auf 150 Metern. Das stützt den Begriff „stetiger“ im Sinn seltenerer Schwachwindtage.",
+      "assessmentBasis": "Abgleich mit den in den Quellenverweisen benannten Originalquellen.",
+      "occurrences": [
+        {
+          "startSeconds": 0,
+          "endSeconds": 48,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eingeblendeter Text im Video von Politik4m3.",
+          "roleBasis": "Die Grafik präsentiert dies als eigene Aussage.",
+          "timeBasis": "Grafik während der Wiedergabe und an späterer Zeitmarke gesichtet."
+        },
+        {
+          "startSeconds": 10,
+          "endSeconds": 14,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Liedtext des Shorts laut YouTube-Transkript; Identität der Stimme nicht ermittelt.",
+          "roleBasis": "Der Liedtext bringt die Aussage selbst vor.",
+          "timeBasis": "Zeit aus dem automatischen YouTube-Transkript."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S04",
+          "note": "Abb. 5 und Tab. 4 vergleichen Windstärke und Schwachwindtage nach Höhe."
+        }
+      ],
+      "openQuestions": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Frühere Prüfung LWQUaGxUmxk-A09 im Klima-Repository gesucht und mit den hier erneut gelesenen Originalquellen abgeglichen.",
+            "sourceIds": [
+              "S04"
+            ],
+            "result": "Die Messkampagne zeigt in den ausgewerteten Monaten höhere Monatsmittel auf 300 als auf 150 und 200 Metern. Auch Tage mit einem Mittel unter 4 m/s waren auf 300 Metern seltener als auf 150 Metern. Das stützt den Begriff „stetiger“ im Sinn seltenerer Schwachwindtage."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Short erfasst.",
+        "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Der stärkere und stetigere Wind begründet im Short das Versprechen eines höheren Ertrags.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (zweiter Agent)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die Windbedingungen liefern die tragende Begründung für den erwarteten Mehrertrag."
+          }
+        ]
+      }
+    },
+    {
+      "id": "_CVUhCARuqM-A0005",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Bei schwachem Wind auf üblicher Anlagenhöhe kann eine höhere Anlage noch Strom erzeugen.",
+      "reason": "Das ist als Möglichkeit formuliert. Die Modellrechnung in Abschnitt 8 verwendet die Messungen in Schipkau und ergibt für dieselbe Beispielanlage auf 300 Metern weniger Zeit unter der Einschaltwindgeschwindigkeit als auf 150 Metern. Auch auf 300 Metern kommen solche Stillstandszeiten vor.",
+      "assessmentBasis": "Abgleich mit den in den Quellenverweisen benannten Originalquellen.",
+      "occurrences": [
+        {
+          "startSeconds": 14,
+          "endSeconds": 16,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Liedtext des Shorts laut YouTube-Transkript; Identität der Stimme nicht ermittelt.",
+          "roleBasis": "Der Liedtext bringt die Aussage selbst vor.",
+          "timeBasis": "Zeit aus dem automatischen YouTube-Transkript."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S04",
+          "note": "Abschnitt 8 und Tab. 6 berechnen die Zeit unterhalb der Einschaltwindgeschwindigkeit."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Short erfasst.",
+        "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Die Aussage beschreibt einen eigenständigen möglichen Betriebsvorteil bei Schwachwind.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (zweiter Agent)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die mögliche Stromproduktion bei Schwachwind ist eine eigenständige Folge neben der mittleren Windstärke und der Häufigkeit schwacher Winde."
+          }
+        ]
+      }
+    },
+    {
+      "id": "_CVUhCARuqM-A0006",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Die Projektpartner wollen Höhenwindräder künftig als zweite Ebene in bestehende Windparks integrieren.",
+      "reason": "SPRIND beschreibt die Integration in bestehende Windparks als Ziel des Projekts. Die Anlage in Schipkau dient der Erprobung. Der Short nennt keinen genehmigten Ausbau oder verbindlichen Bauzeitplan für einen konkreten Windpark.",
+      "assessmentBasis": "Abgleich mit den in den Quellenverweisen benannten Originalquellen.",
+      "occurrences": [
+        {
+          "startSeconds": 21,
+          "endSeconds": 23,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Liedtext des Shorts laut YouTube-Transkript; Identität der Stimme nicht ermittelt.",
+          "roleBasis": "Der Liedtext bringt die Aussage selbst vor.",
+          "timeBasis": "Zeit aus dem automatischen YouTube-Transkript."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S02",
+          "note": "Konzept einer perspektivischen zweiten Etage."
+        },
+        {
+          "sourceId": "S05",
+          "note": "Projektziel für bestehende Windparks."
+        }
+      ],
+      "openQuestions": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Frühere Prüfung LWQUaGxUmxk-A18 im Klima-Repository gesucht und mit den hier erneut gelesenen Originalquellen abgeglichen.",
+            "sourceIds": [
+              "S02",
+              "S05"
+            ],
+            "result": "SPRIND beschreibt die Integration in bestehende Windparks als Ziel des Projekts. Die Anlage in Schipkau dient der Erprobung. Der Short nennt keinen genehmigten Ausbau oder verbindlichen Bauzeitplan für einen konkreten Windpark."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Short erfasst.",
+        "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Das Ausbaukonzept erhält einen eigenen Vers und verbindet den Prototyp mit der Flächennutzung.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (zweiter Agent)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Der Ausbauplan verknüpft den einzelnen Pilotversuch mit der Nutzung bestehender Windparkflächen."
+          }
+        ]
+      }
+    },
+    {
+      "id": "_CVUhCARuqM-A0007",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Höhenwindräder können auf bestehenden Windparkflächen mehr Strom liefern.",
+      "reason": "Die Messdaten stützen das Potenzial. Die Beispielrechnung am Standort ergibt bei gleicher Vestas-Modellanlage rund 63 Prozent mehr modellierten Jahresbruttoertrag bei 300 gegenüber 150 Metern. Das ist eine Modellrechnung für einen anderen Turbinentyp. Wie hoch der Mehrertrag der Pilotanlage ausfällt, muss der Betrieb zeigen. Eine zweite Ebene setzt geeignete Standorte und eine Genehmigung voraus.",
+      "assessmentBasis": "Abgleich mit den in den Quellenverweisen benannten Originalquellen.",
+      "occurrences": [
+        {
+          "startSeconds": 0,
+          "endSeconds": 48,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eingeblendeter Text im Video von Politik4m3.",
+          "roleBasis": "Die Grafik präsentiert dies als eigene Aussage.",
+          "timeBasis": "Grafik während der Wiedergabe und an späterer Zeitmarke gesichtet."
+        },
+        {
+          "startSeconds": 16,
+          "endSeconds": 21,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Liedtext des Shorts laut YouTube-Transkript; Identität der Stimme nicht ermittelt.",
+          "roleBasis": "Der Liedtext bringt die Aussage selbst vor.",
+          "timeBasis": "Zeit aus dem automatischen YouTube-Transkript."
+        },
+        {
+          "startSeconds": 23,
+          "endSeconds": 34,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Liedtext des Shorts laut YouTube-Transkript; Identität der Stimme nicht ermittelt.",
+          "roleBasis": "Der Liedtext bringt die Aussage selbst vor.",
+          "timeBasis": "Zeit aus dem automatischen YouTube-Transkript."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S04",
+          "note": "Tab. 5 vergleicht modellierte Jahresbruttoerträge einer Vestas V164 in drei Höhen."
+        },
+        {
+          "sourceId": "S02",
+          "note": "Ertragspotenzial auf bestehenden Flächen."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Short erfasst.",
+        "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 2.5,
+        "weightReason": "Der zusätzliche Stromertrag auf vorhandener Fläche steht im Titelgedanken, in der Grafik und mehrfach im Lied.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (zweiter Agent)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die Ertragsthese erscheint im Titel, in der Grafik und mehrfach im Text."
+          }
+        ]
+      }
+    },
+    {
+      "id": "_CVUhCARuqM-A0008",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "description": "Die größere Höhe des Rotors verursacht am Boden weniger Lärm als eine niedrigere Anlage.",
+      "reason": "Der Abstand zur Schallquelle nimmt bei gleicher horizontaler Entfernung zu. Wie laut die Anlage an einem konkreten Ort ist, hängt auch von Schallemissionen, Betriebsweise, Ausbreitung und weiterer Belastung ab. Für den behaupteten Vorteil in Schipkau fand ich keine öffentlich zugängliche vergleichende Prognose oder Messung.",
+      "shortReason": "Ob es am Boden leiser ist, hängt auch von der Anlage und der Schallausbreitung ab und braucht einen Vergleich am Standort.",
+      "assessmentBasis": "Abgleich mit den in den Quellenverweisen benannten Originalquellen.",
+      "occurrences": [
+        {
+          "startSeconds": 0,
+          "endSeconds": 48,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eingeblendeter Text im Video von Politik4m3.",
+          "roleBasis": "Die Grafik präsentiert dies als eigene Aussage.",
+          "timeBasis": "Grafik während der Wiedergabe und an späterer Zeitmarke gesichtet."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S06",
+          "note": "Emissionen und Beurteilung am Immissionsort."
+        },
+        {
+          "sourceId": "S07",
+          "note": "Messung und Berechnung der Lärmbelastung."
+        }
+      ],
+      "openQuestions": [
+        "Vergleichende Schallimmissionsprognose für das Höhenwindrad oder Betriebsmessung für einen festgelegten Immissionsort prüfen."
+      ],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach standortbezogenen Angaben zum Schall des Höhenwindrads gesucht und die Fachseite des Umweltbundesamts zu Windenergieanlagen gelesen.",
+            "sourceIds": [
+              "S06"
+            ],
+            "result": "Allgemeine Kriterien für Schall am Immissionsort; kein belastbarer Vorher-nachher-Vergleich für Schipkau."
+          },
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Gezielt nach Schallimmissionsprognose und Genehmigungsunterlagen für Höhenwindturm und Klettwitz gesucht sowie die Akustik-Grundlagen des Umweltbundesamts geprüft.",
+            "sourceIds": [
+              "S07"
+            ],
+            "result": "Die Recherche ergab keine vergleichende Prognose oder Messung für die Pilotanlage; das UBA erläutert, wie die Belastung konkret zu bestimmen ist."
+          }
+        ],
+        "missingInformation": "Vergleichswerte für dieselben Immissionsorte, mit nachvollziehbaren Betriebs- und Vergleichsbedingungen.",
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Short erfasst.",
+        "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Der Lärmvorteil ist ein eigenständiges Argument der Grafik für die Anlage.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (zweiter Agent)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Der Lärmvergleich ist ein eigenständiges Zusatzargument in der Grafik."
+          }
+        ]
+      }
+    },
+    {
+      "id": "_CVUhCARuqM-A0009",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Am Messmast in Schipkau wurde in 300 Metern Höhe weniger Fledermausaktivität als weiter unten registriert.",
+      "reason": "GICON berichtet über acht akustische Erfassungsgeräte in verschiedenen Höhen von April bis Oktober 2023. Auch auf 300 Metern wurden Fledermäuse erfasst, dort jedoch deutlich seltener als in niedrigeren Höhen. Der Befund betrifft die Aktivität am Messmast. Für das Kollisionsrisiko an laufenden Anlagen sind laut BfN unter anderem Art und überstrichener Rotorbereich relevant.",
+      "assessmentBasis": "Abgleich mit den in den Quellenverweisen benannten Originalquellen.",
+      "occurrences": [
+        {
+          "startSeconds": 0,
+          "endSeconds": 48,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eingeblendeter Text im Video von Politik4m3.",
+          "roleBasis": "Die Grafik präsentiert dies als eigene Aussage.",
+          "timeBasis": "Grafik während der Wiedergabe und an späterer Zeitmarke gesichtet."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S08",
+          "note": "Ergebnis der akustischen Standortmessungen."
+        },
+        {
+          "sourceId": "S09",
+          "note": "Faktoren für das Kollisionsrisiko."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Short erfasst.",
+        "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Die Grafik führt das Messergebnis als eigenständigen Umweltaspekt an.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (zweiter Agent)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Die gemessene Fledermausaktivität ist ein eigenständiges Zusatzargument in der Grafik."
+          }
+        ]
+      }
+    },
+    {
+      "id": "_CVUhCARuqM-A0010",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Für die Pilotanlage war die Inbetriebnahme im November 2026 vorgesehen.",
+      "reason": "Die bei Veröffentlichung bestehende Planung steht in GICONs Mitteilung vom 29. September. Am 19. November 2026 meldete GICON die Einweihung und den Netzanschluss sowie laufende Stromproduktion.",
+      "assessmentBasis": "Abgleich mit den in den Quellenverweisen benannten Originalquellen.",
+      "occurrences": [
+        {
+          "startSeconds": 39,
+          "endSeconds": 48,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Liedtext des Shorts laut YouTube-Transkript; Identität der Stimme nicht ermittelt.",
+          "roleBasis": "Der Liedtext bringt die Aussage selbst vor.",
+          "timeBasis": "Zeit aus dem automatischen YouTube-Transkript."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S01",
+          "note": "Zeitgenössische Ankündigung für November."
+        },
+        {
+          "sourceId": "S10",
+          "note": "Späterer Netzanschluss am 19. November."
+        }
+      ],
+      "openQuestions": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Frühere Prüfung LWQUaGxUmxk-A01 im Klima-Repository gesucht und mit den hier erneut gelesenen Originalquellen abgeglichen.",
+            "sourceIds": [
+              "S01",
+              "S10"
+            ],
+            "result": "Die bei Veröffentlichung bestehende Planung steht in GICONs Mitteilung vom 29. September. Am 19. November 2026 meldete GICON die Einweihung und den Netzanschluss sowie laufende Stromproduktion."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Short erfasst.",
+        "assessmentChange": "Erstbewertung"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Der Termin ist eine eigenständige Projektinformation am Ende des Shorts.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (zweiter Agent)",
+            "date": "2026-11-20",
+            "result": "Bestätigt",
+            "reason": "Der vorgesehene Betriebsbeginn ist eine eigenständige Projektinformation."
+          }
+        ]
+      }
+    },
+    {
+      "id": "_CVUhCARuqM-A0011",
+      "chapter": 1,
+      "kind": "Meinung",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Entscheidend für die Technik ist der Ertrag im Dauerbetrieb.",
+      "reason": "Der Short setzt einen Maßstab für den Erfolg und fragt nach dem künftigen Betriebsertrag. Er gibt hier keinen bereits gemessenen Dauerertrag an.",
+      "assessmentBasis": "Einordnung nach Funktion im Schlussvers.",
+      "occurrences": [
+        {
+          "startSeconds": 34,
+          "endSeconds": 39,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Bewertung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Liedtext des Shorts laut YouTube-Transkript; Identität der Stimme nicht ermittelt.",
+          "roleBasis": "Der Liedtext bewertet die Bedeutung des Dauerbetriebs.",
+          "timeBasis": "Zeit aus dem automatischen YouTube-Transkript."
+        }
+      ],
+      "sourceRefs": [],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Direkt aus dem Short erfasst.",
+        "assessmentChange": "Erstbewertung"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "KL-K0002",
+  "revision": 1,
+  "claim": "Die Pilotanlage des Höhenwindrads in Schipkau hat eine Nabenhöhe von 300 Metern.",
+  "topics": [
+    "energie/windkraft"
+  ],
+  "status": "Geprüft",
+  "verdict": "Belegt",
+  "reason": "GICON und SPRIND geben für die Pilotanlage 300 Meter bis zur Rotornabe an. Die Gesamthöhe von 365 Metern schließt die Blattspitze ein.",
+  "validity": {
+    "asOf": "2026-11-20",
+    "timeScope": "Projektstand September bis November 2026",
+    "subjectScope": "GICON-Pilotanlage in Schipkau",
+    "validUntil": null
+  },
+  "checkedOn": "2026-11-20",
+  "sources": [
+    {
+      "id": "S01",
+      "title": "GICON – Höhenwindturm erreicht Weltrekordhöhe von 365 Metern",
+      "url": "https://www.gicon.de/aktuelles/artikel/gicon-hoehenwindturm-erreicht-weltrekordhoehe-von-365-metern",
+      "details": "Mitteilung zum Erreichen der Endhöhe am 28.09.2026, zu den Bauwerksmaßen und zum damaligen Inbetriebnahmeplan.",
+      "accessedOn": "2026-11-20",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "S02",
+      "title": "SPRIND – Das höchste Windrad der Welt steht",
+      "url": "https://www.sprind.org/worte/magazin/hoehenwindrad-rekord",
+      "details": "Projektpartner zu Rekordhöhe, Pilotanlage und Konzept einer zweiten Etage.",
+      "accessedOn": "2026-11-20",
+      "kind": "Primärquelle"
+    }
+  ],
+  "dependsOn": [],
+  "supersededBy": null,
+  "links": [
+    {
+      "claimId": "_CVUhCARuqM-A0003",
+      "repo": null,
+      "relation": "gleichwertig",
+      "contextNote": "Die Grafik gibt dieselbe Nabenhöhe an.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-20"
+    }
+  ],
+  "lock": null,
+  "history": [
+    {
+      "revision": 1,
+      "date": "2026-11-20",
+      "agent": "Codex",
+      "change": "Erstpruefung; inhaltlicher Bezug zu LWQUaGxUmxk-A06. Fuer diese bestehende zweistellige ID erlaubt der gemeinsame Validator keine strukturierte Verknuepfung.",
+      "previous": null
+    }
+  ]
+}
