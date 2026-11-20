@@ -27,7 +27,8 @@ jobs:
           bad=0
           # Seit 20.11.2026 auch Themen-Wissensdatenbank und Verlauf: Sie fehlten hier beim Aufbau der Seite unbemerkt.
           for f in site/faktenindex.js site/faktenindex-ui.js site/faktenindex-test.js scripts/faktenindex.js docs/FAKTENINDEX.md \
-                   site/wissen.js site/wissen-test.js site/themen.js scripts/wissen.js site/verlauf-test.js scripts/verlauf.js docs/VERLAUF.md; do
+                   site/wissen.js site/wissen-test.js site/themen.js scripts/wissen.js site/verlauf-test.js scripts/verlauf.js docs/VERLAUF.md \
+                   site/rangliste.js site/rangliste-test.js docs/RANGLISTE.md; do
             if ! curl -fsSL --retry 3 "$base/$f" -o "$RUNNER_TEMP/ref"; then echo "::warning file=$f::$f im Hauptprojekt nicht abrufbar, Vergleich übersprungen"; continue; fi
             if ! cmp -s "$RUNNER_TEMP/ref" "$f"; then echo "::$level file=$f::$f weicht vom Hauptprojekt ab; Änderungen dort vornehmen und unverändert übernehmen."; bad=1; fi
           done
@@ -41,6 +42,9 @@ jobs:
         run: node scripts/build-index.js --check
       - name: Verlauf prüfen (aus der Git-Historie berechnet)
         run: node --test site/verlauf-test.js
+
+      - name: Rangliste prüfen (nur aus dem Faktenindex berechnet)
+        run: node --test site/rangliste-test.js
       - name: Themen-Wissensdatenbank prüfen (jedes Video braucht themen.json, AGENTS.md „Themen bei jedem Video prüfen“)
         run: |
           set -euo pipefail
