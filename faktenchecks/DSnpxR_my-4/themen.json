@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "videoId": "DSnpxR_my-4",
-  "basis": "Zuordnung aus den erfassten Untertitelaussagen, nicht allein aus dem Titel; Sachurteile teilweise noch in Bearbeitung.",
+  "basis": "Inhaltliche Zuordnung aus dem vollständigen Captionkontext; Klimaphysik als Schwerpunkt, Energie und Energiepreise eigenständig behandelt.",
   "topics": [
     {
       "topic": "klima",
@@ -197,6 +197,43 @@
     },
     {
       "claimId": "DSnpxR_my-4-A0024",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0025",
+      "topics": [
+        "klima",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0026",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0027",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0028",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0029",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0030",
       "topics": [
         "klima"
       ]

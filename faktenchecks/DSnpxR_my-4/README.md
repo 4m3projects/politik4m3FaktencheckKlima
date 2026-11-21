@@ -1,41 +1,22 @@
-# Zwischenstand: Klimakrise, Energiewende und Markus Krall
+# Klimakrise, Energiewende und Markus Krall: Ergebnis des ChatGPT-Durchlaufs
 
-**Prüfung läuft.** Dieses Video wird auf Wunsch von Jens durch ChatGPT geprüft; Zwischenstände werden veröffentlicht. Die Erfassung umfasst alle verfügbaren deutschen Originaluntertitel. Die Sachprüfung ist in diesem Stand nur teilweise abgeschlossen. Offene Punkte sind als „In Bearbeitung“ ausgewiesen und zählen nicht als widerlegt oder ungeklärt.
+**Die zentrale Gegenposition des Videos zur Klimaleugnung ist wissenschaftlich gestützt.** Treibhauswirkung und menschliche Hauptursache der heutigen Erwärmung sind belegt. Das bestätigt jedoch nicht automatisch alle verwendeten Nebenargumente: Die übernommene Datierung des Industrialisierungsbeginns auf 1880 ist falsch; die zeitliche Beschreibung einer beschleunigten Erwärmung ist nur teilweise belegt. [IPCC-Synthesebericht](https://www.bundestag.de/resource/blob/980222/2ed39f64aacf9ae58559eff0fc445f53/Anlage_zur_62_Sitzung.pdf) · [Deutsches Historisches Museum](https://www.dhm.de/lemo/kapitel/reaktionszeit/industrie) · [Foster und Rahmstorf 2026](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025GL118804)
 
-| Angabe | Stand |
-| --- | --- |
-| Video | „Klimakrise erlogen?“ Markus Krall im Gen-Z-Faktencheck |
-| Kanal | Janek Fischer \| SOLARZAN |
-| Veröffentlichung | 6. November 2026 laut Videometadaten |
-| Dauer | 8:20 Minuten |
-| Prüfdatum | 21. November 2026 |
-| Arbeitsstand | In Bearbeitung; erfasste Aussagekomplexe und erste Quellenbefunde |
-| Darstellungsprüfung | Teilweise geprüft; keine unmittelbare eigene Bild-/Tonsichtung |
+Geprüft wird [„Klimakrise erlogen?“ Markus Krall im Gen-Z-Faktencheck](https://www.youtube.com/watch?v=DSnpxR_my-4) von **Janek Fischer | SOLARZAN**, veröffentlicht am **6. November 2026**, Dauer **8:20 Minuten**. Der Sachstand wird auf den Videozeitpunkt bezogen; recherchiert wurde am **21. November 2026**.
 
-[Originalvideo](https://www.youtube.com/watch?v=DSnpxR_my-4) · [Aussagen mit Quellen und Recherchedokumentation](strukturiert/aussagen.json)
+Auch bei Energiefragen fällt das Ergebnis differenziert aus. Ladestrom aus einer günstigen Dach-PV kann für 100 Kilometer weniger als 1,50 Euro kosten. Bei Next2Sun sind Insolvenzanträge für zwei Tochtergesellschaften dokumentiert. Auftragsbestand, Bankfinanzierung und politische Mitursachen müssen jeweils getrennt belegt werden. [Fraunhofer ISE](https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/DE2024_ISE_Studie_Stromgestehungskosten_Erneuerbare_Energien.pdf) · [ADAC-Verbrauchstest](https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/tesla/model-3/1generation-facelift/329535/) · [Next2Sun-Mitteilung](https://next2sun.com/trotz-breiter-unterstuetzung-next2sun-beantragt-insolvenzverfahren-fuer-teile-der-unternehmensgruppe/)
 
-## Erste gesicherte Befunde
+## Umfang und Grenzen
 
-**Unter 1,50 Euro Ladestrom für 100 Kilometer sind möglich.** Fraunhofer ISE nennt für kleine Dach-PV Stromgestehungskosten von 6,3 bis 14,4 Cent/kWh einschließlich Komponenten und Installation. ADAC misst beim Tesla Model 3 17,2 kWh/100 km einschließlich Ladeverlusten. Bei angenommenen 8 Cent/kWh ergibt die eigene Rechnung **1,376 Euro/100 km**. Das bestätigt die Möglichkeitsaussage unter günstigen Bedingungen; Autokauf, zusätzliche Hausspeicherung und sämtliche Mobilitätskosten sind damit nicht bezahlt. [Fraunhofer ISE](https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/DE2024_ISE_Studie_Stromgestehungskosten_Erneuerbare_Energien.pdf) · [ADAC-Test](https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/tesla/model-3/1generation-facelift/329535/)
+**Arbeitsstand: Teilbestand geprüft.** Erfasst sind 30 Einträge: 26 Tatsachenbehauptungen, davon 22 sachlich eingeordnet und vier offen, sowie vier Meinungen oder Prognosen. Der Datensatz enthält 42 Quellen. Offen bleiben die genaue Zuordnung der Milliardenangabe, der gemeinte Produktbesteuerungsplan, Reiches konkrete Zusage samt Gesetzesbezug und der Referent der Trump-Aussage. Milliardengroße Ausgangsdatenbestände sind positiv belegt; offen ist ihre genaue Verbindung zur Videodarstellung. [Berkeley Earth](https://berkeleyearth.org/archive/about-data-set/) · [ERA5-Fachartikel](https://confluence.ecmwf.int/download/attachments/37264204/%5B15200477%20-%20Bulletin%20of%20the%20American%20Meteorological%20Society%5D%20The%20Copernicus%20Climate%20Change%20Service_%20Climate%20Science%20in%20Action.pdf?api=v2)
 
-**Die Insolvenzanträge bei Next2Sun sind belegt.** Die Mitteilung vom 5. Oktober 2026 betrifft zwei Tochtergesellschaften, nicht sämtliche Gesellschaften der Gruppe. Dokumentiert sind Finanzierungsprobleme trotz vorhandener Projekte. Wie stark politische Unsicherheit die konkreten Bankentscheidungen verursachte, lässt sich aus den gelesenen öffentlichen Quellen nicht unabhängig bestimmen. [Next2Sun zu den Insolvenzanträgen](https://next2sun.com/trotz-breiter-unterstuetzung-next2sun-beantragt-insolvenzverfahren-fuer-teile-der-unternehmensgruppe/) · [Finanzierungsmitteilung](https://next2sun.com/technologie-gefragt-wie-nie-kapital-knapp-wie-selten-next2sun-kaempft-um-seine-zukunft/)
+Alle 32 verfügbaren Captionblöcke wurden gelesen, zusätzlich relevante Passagen des [Krall-Originalinterviews](https://www.youtube.com/watch?v=7LZiS2b7_Ns). **Eine unmittelbare eigene Bild-/Tonsichtung fand in diesem Durchlauf nicht statt; die Darstellungsprüfung bleibt teilweise.** Zeitmarken sind ungefähre Untertitelintervalle. Automatische Szenennotizen ersetzen keine eigene Sichtung.
 
-**Kompensation verdient eine differenzierte Prüfung.** Eine Originalstudie findet erhebliche Qualitätsprobleme bei Emissionsgutschriften. Daraus ergibt sich aber kein pauschaler Betrugsnachweis gegen jedes Angebot. Freiwillige Klimabeiträge sind außerdem nicht dasselbe wie staatliche Steuern. [Probst et al., Nature Communications 2024](https://www.nature.com/articles/s41467-024-53645-z.pdf) · [Umweltbundesamt](https://www.umweltbundesamt.de/themen/freiwillige-co2-kompensation)
+Für sämtliche Sprecher gelten dieselben Belegregeln. Nur wiedergegebene oder zurückgewiesene Fremdaussagen werden dem Reaktionsvideo nicht als eigene Fehler angerechnet. Übernommene Beiträge von Goldbach und Benecke werden ihm zugerechnet. Faktenindex, Ampel und Abdeckung stehen ausschließlich in der berechneten Webseitenanzeige. Der Durchlauf ist kein kontrollierter Leistungsvergleich zwischen ChatGPT, Codex und Claude.
 
-**Der Steueranteil am Benzinpreis ist keine feste Größe.** Preis, Datum und die Abgrenzung der CO₂-Kosten sind entscheidend. Die Energiesteuer beträgt vom 1. Oktober bis 31. Dezember 2026 51,41 Cent je Liter Benzin. Eine pauschale Halbierungsaussage ersetzt keine konkrete Rechnung. [§ 68 EnergieStG](https://www.gesetze-im-internet.de/energiestg/__68.html)
+## Berichte und Nachprüfung
 
-## Was noch geprüft wird
-
-Die Klimaprüfung zu CO₂-Konzentration, Treibhausphysik, Temperaturentwicklung, Industrialisierungsbeginn und natürlichen Zyklen wird ergänzt. Quellen, Gewichte und Sprecherzuordnung werden zusätzlich gegengeprüft. Einige politische Sätze nennen keinen eindeutigen Maßnahme- oder Gesetzesbezug; diese Grenze wird ausdrücklich dokumentiert.
-
-## Wer sagt was?
-
-Janek Fischer moderiert und kommentiert Ausschnitte von Markus Krall, Felix Goldbach und Mark Benecke. **Fremde Aussagen werden dem Host nur zugerechnet, wenn er sie erkennbar übernimmt.** Zurückgewiesene oder lediglich wiedergegebene Krall-Aussagen bleiben sachlich sichtbar, verschlechtern aber nicht automatisch den Faktenindex dieses Reaktionsvideos. Positive Einspieler erhalten dieselbe sachliche Prüfung.
-
-## Umfang und Grenzen dieses ChatGPT-Durchlaufs
-
-Die Grundlage sind Videometadaten, sämtliche 32 verfügbaren deutschen Captionblöcke und unabhängig geöffnete Originalquellen. Öffentliche Berichte enthalten eigene Paraphrasen, keine Volltranskripte. Die Zeitmarken bezeichnen ungefähr die Captionintervalle, keine sekundengenau bestätigten Sprecherwechsel. Automatische Untertitel enthalten einzelne erkennbare Namensfehler.
-
-Bild, Ton, Schnitt und sämtliche Einblendungen sind noch nicht unmittelbar vollständig kontrolliert. Deshalb bleibt die Darstellung als teilweise geprüft markiert. Werbung, Selbstauskünfte, Wünsche und Zukunftszuspitzungen werden von prüfbaren Tatsachen getrennt. Ein fehlender Nachweis wird nicht automatisch als Widerlegung behandelt.
-
-Dieser Durchlauf dokumentiert die Arbeit von ChatGPT und getrennte Prüfaufgaben innerhalb dieses Durchlaufs. Er ist **kein kontrollierter Vergleich unterschiedlicher Modelle**: Dafür wären identische Eingaben, Zugänge, Zeitbudgets und unabhängige Bewertungskriterien nötig. Der Faktenindex und die Prüfabdeckung werden ausschließlich aus den strukturierten Daten berechnet; eine Zielnote wird nicht vorgegeben.
+- [Kurzfassung](01_kurz.md), [ausführliche Analyse](02_analyse.md), [alle 30 Einträge mit Quellen](03_faktencheck.md).
+- Kapitel: [Klima](kapitel/01_klima.md), [natürliche Zyklen](kapitel/02_zyklen.md), [Steuern und Klimabeiträge](kapitel/03_politik.md), [Effizienz und PV](kapitel/04_effizienz.md), [Next2Sun und Politik](kapitel/05_next2sun.md), [Schlusswarnung](kapitel/06_schluss.md).
+- [Strukturierter Datensatz](strukturiert/aussagen.json) und [Prüfprotokoll](PRUEFPROTOKOLL.md).
+- [Bereits veröffentlichter Erststand: PR 32](https://github.com/4m3projects/politik4m3FaktencheckKlima/pull/32). Der [Weiterprüfauftrag in Issue 31](https://github.com/4m3projects/politik4m3FaktencheckKlima/issues/31) bleibt offen.
