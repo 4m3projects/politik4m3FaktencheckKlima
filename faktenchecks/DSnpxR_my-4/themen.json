@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "videoId": "DSnpxR_my-4",
+  "basis": "Zuordnung aus den erfassten Untertitelaussagen, nicht allein aus dem Titel; Sachurteile teilweise noch in Bearbeitung.",
+  "topics": [
+    {
+      "topic": "klima",
+      "relevance": "Schwerpunkt",
+      "basis": "CO₂, Treibhauseffekt, Erwärmung und natürliche Zyklen bilden die zentrale Kontroverse.",
+      "segments": [
+        {
+          "startSeconds": 0,
+          "endSeconds": 253,
+          "note": "Klimakrise, Treibhausphysik und Temperaturentwicklung."
+        },
+        {
+          "startSeconds": 456,
+          "endSeconds": 487,
+          "note": "Erwärmungsfolgen im Schluss."
+        }
+      ]
+    },
+    {
+      "topic": "energie",
+      "relevance": "Behandelt",
+      "basis": "Elektrifizierung, E-Auto, Solarstrom und Agri-PV werden mit eigenständigen Sachbehauptungen behandelt.",
+      "segments": [
+        {
+          "startSeconds": 364,
+          "endSeconds": 440,
+          "note": "Effizienz, PV-Laden und Next2Sun."
+        }
+      ]
+    },
+    {
+      "topic": "energie/preise",
+      "relevance": "Behandelt",
+      "basis": "Benzinabgaben, CO₂-Einnahmen und Ladestromkosten bilden eigene Prüfpunkte.",
+      "segments": [
+        {
+          "startSeconds": 253,
+          "endSeconds": 284,
+          "note": "Benzinpreis und Steuern."
+        },
+        {
+          "startSeconds": 332,
+          "endSeconds": 394,
+          "note": "Klimabeiträge, Einnahmen und PV-Ladekosten."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "DSnpxR_my-4-A0001",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0002",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0003",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0004",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0005",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0006",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0007",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0008",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0009",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0010",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0011",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0012",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0013",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0014",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0015",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0016",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0017",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0018",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0019",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0020",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0021",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0022",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0023",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "DSnpxR_my-4-A0024",
+      "topics": [
+        "klima"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "agent": "ChatGPT",
+      "change": "Erstzuordnung für den öffentlich gekennzeichneten Zwischenstand."
+    }
+  ]
+}
