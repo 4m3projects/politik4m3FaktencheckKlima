@@ -1,25 +1,35 @@
-# Alfred erklärt Wärmepumpen – erster veröffentlichter Prüfstand
+# Alfred und die Wärmepumpe – ausführlicher Faktencheck
 
-- Video: [Warum regt das Wort Wärmepumpe so viele auf?](https://www.youtube.com/watch?v=ZhSNJw1HNUw)
-- Kanal: Alfred räumt auf
-- Veröffentlichung: 2026-11-21
-- Laufzeit: 21:08
-- Prüfstichtag: 2026-11-21
-- Prüf-Agent: ChatGPT
-- Status: **In Bearbeitung – veröffentlichte Teilprüfung**
+**Video:** [Warum regt das Wort Wärmepumpe so viele auf?](https://www.youtube.com/watch?v=ZhSNJw1HNUw) · Alfred räumt auf · 21. November 2026 · 21:08  
+**Prüfstand:** 21. November 2026 · Erfasste Sachargumente über die gesamte Captionlaufzeit bearbeitet; Darstellung teilweise geprüft.
 
-## Bisheriges Ergebnis
+## Ergebnis
 
-Der technische Erklärkern ist belastbar. Propandaten, COP-Beispiel und Zürcher Rathausgeschichte sind belegt. Die 90-Prozent-Näherung, Nebenverbraucher und Frost-Betriebsgrenzen benötigen Präzisierungen. Eine fachsprachliche Vereinfachung am absoluten Nullpunkt wird erläutert und nicht künstlich zum grundlegenden Fehler erklärt.
+Das Video ist in seinen zentralen Sachargumenten überwiegend belastbar. Der Kältekreislauf, die genannten Propandrücke und COP-Werte, Fraunhofer-Messdaten, Energiepreise und große Teile der politischen Chronologie lassen sich nachvollziehen. Wichtige Ergänzungen betreffen Fördervoraussetzungen, Gasnutzungsgrad, Frostgrenzen und die genaue Reichweite einzelner Rechtsregeln.
 
-Dieser erste Teilstand umfasst 29 Einträge und ist **keine abschließende Bilanz des gesamten Videos**. Kosten, Förderung, CO₂, Medienforschung, Recht, Absatzstatistiken und Umfragen werden in der Folgefassung ergänzt. Die aktuelle Förderung und die Rechtsänderung 2026 sind bereits in den Originalquellen bestätigt; ihre genaue Reichweite wird weiter geprüft.
+| Einordnung | Anzahl |
+|---|---:|
+| Belegt | 69 |
+| Teilweise belegt | 8 |
+| Widerlegt | 0 |
+| Irreführend / Kontext fehlt | 0 |
+| Nicht ausreichend belegbar | 0 |
+| Meinung / Prognose | 6 |
+| Nicht überprüfbar | 2 |
+| Zusammengeführte Einträge insgesamt | 85 |
 
-## Material und Grenzen
+Die Zahlen stammen aus der automatisch erzeugten Statistik. Wiederholungen wurden zusammengeführt; der abschließende Kosten-/Klimasatz bekommt keinen zusätzlichen positiven Beitrag. Zwei ausdrücklich wiedergegebene Verbandsdeutungen werden Alfred nicht als eigene Kausalbehauptungen zugerechnet. Der Faktenindex wird von der gemeinsamen Projektlogik berechnet und nicht von der Redaktion gesetzt.
 
-Das vollständige deutsche Transkript und die 37 Quellenangaben liegen vor. Zeitspannen sind ungefähre Captionintervalle. Der Originalplayer blieb trotz Startversuch und einmaligem Neuladen bei 0:00. Automatische Szenennotizen dienen nur als Suchhilfe. Keine vollständige eigene Bild-/Tonprüfung. Die private Tokenzählung ist ohne veröffentlichtes Protokoll nicht unabhängig überprüfbar und zählt nicht negativ im Faktenindex.
+**Die angezeigte Prüfabdeckung bezieht sich auf den erfassten Aussagenbestand. Sie bedeutet keine vollständige Sichtung aller Videobilder.** Der Originalplayer blieb trotz erneuten Startversuchs und einmaligen Neuladens bei 0:00. Der volle Captiontext, die Beschreibung und Quellen waren zugänglich. Zusätzliche Bildeinblendungen, Originalton, Schnitt und Musik bleiben nicht vollständig kontrolliert. Auch die Bedeutungskontrolle erfolgte innerhalb desselben ChatGPT-Durchlaufs, nicht durch ein unabhängiges Modell.
 
-Die [strukturierte Aussagenliste](strukturiert/aussagen.json) enthält sämtliche Einzelbegründungen und Quellen. Gewichte bleiben vorläufig; Index, Statistik und Ampel berechnet ausschließlich die gemeinsame Projektlogik.
+## Lesen
 
-## Weitere Prüfung
+- [Kurzfassung und die acht Präzisierungen](01_kurzfassung.md)
+- [Ausführliche Analyse: Physik, Kosten, Klima, Recht und Medien](02_analyse.md)
+- [Alle 85 Einzelprüfungen mit Fundstellen und Quellen](03_einzelpruefungen.md)
+- [Prüfprotokoll, Grenzen und konkrete Restaufgaben](04_pruefprotokoll.md)
+- [Abgleich der 37 Quellenangaben des Videos](05_quellenabgleich.md)
 
-Der [Prüfauftrag #34](https://github.com/4m3projects/politik4m3FaktencheckKlima/issues/34) dokumentiert Zwischenbefunde und Aufgaben für weitere Prüfer. Direkte Bild-/Tonsichtung kann den Durchlauf ergänzen. Externe KI-Sitzungen wurden durch das Issue nicht gestartet. Veröffentlicht werden ausschließlich eigene Texte und Quellenlinks, keine Rohuntertitel oder fremden Medien.
+## Verlauf dieser Prüfung
+
+Ein erster Teilstand mit 29 technischen und einleitenden Einträgen wurde über [PR 35](https://github.com/4m3projects/politik4m3FaktencheckKlima/pull/35) veröffentlicht. Der erweiterte Stand ergänzt die wirtschaftlichen und politischen Abschnitte nach Fachrecherche, redaktioneller Gegenprüfung und Zusammenführung von Wiederholungen. Der Arbeits- und Nachprüfauftrag bleibt unter [Issue 34](https://github.com/4m3projects/politik4m3FaktencheckKlima/issues/34) nachvollziehbar.

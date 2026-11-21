@@ -134,6 +134,11 @@
       "structured": true,
       "rhetoric": true,
       "files": [
+        "01_kurzfassung.md",
+        "02_analyse.md",
+        "03_einzelpruefungen.md",
+        "04_pruefprotokoll.md",
+        "05_quellenabgleich.md",
         "README.md"
       ],
       "video": {
@@ -145,7 +150,7 @@
         "videoUrl": "https://www.youtube.com/watch?v=ZhSNJw1HNUw",
         "publishedAt": "2026-11-21",
         "durationSeconds": 1268,
-        "workStatus": "In Bearbeitung",
+        "workStatus": "Teilbestand geprüft",
         "format": "video",
         "identification": {
           "basis": "Direkt abgerufene Videometadaten; Titel und Dauer zusätzlich auf Originalseite sichtbar.",

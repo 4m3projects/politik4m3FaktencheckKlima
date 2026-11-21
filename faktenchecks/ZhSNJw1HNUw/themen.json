@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "videoId": "ZhSNJw1HNUw",
-  "basis": "Inhaltliche Zuordnung aus vollständigem Captiontext; technische Teilprüfung zuerst.",
+  "basis": "Zuordnung anhand aller erfassten Sachargumente über die gesamte Captionlaufzeit; audiovisuelle Zusatzinformationen bleiben offen.",
   "topics": [
     {
       "topic": "energie",
@@ -10,32 +10,37 @@
       "segments": [
         {
           "startSeconds": 178,
-          "endSeconds": 793,
-          "note": "Heiztechnik und Heizungsvergleich."
+          "endSeconds": 788,
+          "note": "Heiztechnik, Effizienz, Praxis und Kosten."
+        },
+        {
+          "startSeconds": 788,
+          "endSeconds": 1197,
+          "note": "Heizungsgesetz, politische Debatte und Heizungsmarkt."
         }
       ]
     },
     {
       "topic": "energie/preise",
       "relevance": "Behandelt",
-      "basis": "Heizkosten und Förderung; Detailprüfung folgt.",
+      "basis": "Geprüfter Heizkostenvergleich, Investitionskosten und Förderung.",
       "segments": [
         {
-          "startSeconds": 639,
-          "endSeconds": 793,
-          "note": "Kostenvergleich."
+          "startSeconds": 644,
+          "endSeconds": 788,
+          "note": "Preise, Förderung und Wirtschaftlichkeit."
         }
       ]
     },
     {
       "topic": "klima",
       "relevance": "Behandelt",
-      "basis": "Quantitativer CO₂-Vergleich; Detailprüfung folgt.",
+      "basis": "Geprüfte direkte Betriebs-CO₂-Rechnung mit benannter Bilanzgrenze.",
       "segments": [
         {
           "startSeconds": 582,
-          "endSeconds": 639,
-          "note": "Emissionen."
+          "endSeconds": 644,
+          "note": "Emissionsvergleich im Jahresmixmodell."
         }
       ]
     }
@@ -188,7 +193,8 @@
     {
       "claimId": "ZhSNJw1HNUw-A0025",
       "topics": [
-        "energie"
+        "energie",
+        "energie/preise"
       ]
     },
     {
@@ -214,6 +220,360 @@
       "topics": [
         "energie"
       ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0030",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0031",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0032",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0033",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0034",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0035",
+      "topics": [
+        "energie",
+        "klima"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0036",
+      "topics": [
+        "energie",
+        "klima"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0037",
+      "topics": [
+        "energie",
+        "klima"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0038",
+      "topics": [
+        "energie",
+        "klima"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0039",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0040",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0041",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0042",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0043",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0044",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0045",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0046",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0047",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0048",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0049",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0050",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0051",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0052",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0053",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0054",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0055",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0056",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0057",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0058",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0059",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0060",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0061",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0062",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0063",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0064",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0065",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0066",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0067",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0068",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0069",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0070",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0071",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0072",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0073",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0074",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0075",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0076",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0077",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0078",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0079",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0080",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0081",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0082",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0083",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0084",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0085",
+      "topics": [
+        "energie"
+      ]
     }
   ],
   "history": [
@@ -221,6 +581,16 @@
       "date": "2026-11-21",
       "agent": "ChatGPT",
       "change": "Erstzuordnung für öffentlichen Teilstand."
+    },
+    {
+      "date": "2026-11-21",
+      "agent": "ChatGPT",
+      "change": "Wirtschafts-, Klima- und Politikteil ergänzt; vorhandene Themen weiterverwendet, keine neue globale Kategorie nötig."
+    },
+    {
+      "date": "2026-11-21",
+      "agent": "ChatGPT",
+      "change": "Wirtschafts-, Klima- und Politikteil ergänzt; vorhandene Themen weiterverwendet, keine neue globale Kategorie nötig."
     }
   ]
 }
