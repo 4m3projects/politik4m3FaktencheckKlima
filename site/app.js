@@ -711,7 +711,8 @@ function ampelOverview(all) {
 async function pageHome() {
   const all = await Promise.all(state.index.videos.map(v => loadVideo(v.id).catch(() => ({ ...v, meta: {}, data: null }))));
   all.sort(FactRelations.compareVideoRecency);
-  const shown = all.filter(v => v.video?.role !== 'reaction');
+  // Reaktionen ohne verknüpftes Ausgangsvideo brauchen eine eigene Startseitenkarte.
+  const shown = all.filter(v => v.video?.role !== 'reaction' || !state.rel?.byReaction.get(v.id)?.length);
   const allClaims = shown.flatMap(v => v.data?.claims || []);
   const done = allClaims.filter(c => c.status === 'Abgeschlossen').length;
   const sources = shown.reduce((n, v) => n + (v.data?.sources?.length || 0), 0);
@@ -722,7 +723,7 @@ async function pageHome() {
     return `<a class="card" href="#/video/${esc(v.id)}">
       ${thumbImg(v.id, v.video?.videoUrl || scope?.videoUrl, 'card-thumb')}
       ${ampelView(v)}
-      <div class="claim-top">${shortBadge(v)}${scope ? `<span class="badge kind">${esc(scope.kind)}</span>` : '<span class="badge kind">Bericht</span>'}</div>
+      <div class="claim-top">${shortBadge(v)}${v.video?.role === 'reaction' ? '<span class="badge kind">Reaktion</span>' : ''}${scope ? `<span class="badge kind">${esc(scope.kind)}</span>` : '<span class="badge kind">Bericht</span>'}</div>
       <h3>${esc(v.title)}</h3>
       <ul class="facts">${videoFacts(v)}</ul>
       ${claims.length ? `<div>${distribution(claims)}</div><p class="meta">${claims.length} strukturierte Aussagen · ${claims.filter(c => c.status === 'Abgeschlossen').length} abgeschlossen</p>` : '<p class="meta">Noch keine strukturierten Aussagen.</p>'}
