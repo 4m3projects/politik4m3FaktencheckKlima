@@ -5,19 +5,166 @@
     "status": "Teilweise geprüft",
     "checkedOn": "2026-11-21",
     "by": "ChatGPT",
-    "basis": "Captiontext und sichtbares Vorschaubild; Szenennotizen nur Suchhilfe.",
-    "coverage": "Sprachlicher Kontext gelesen; keine direkte Bild-/Tonvollprüfung.",
+    "basis": "Vollständiger Captiontext und sichtbares Vorschaubild; Originalplayer ohne laufende Wiedergabe. Automatische Szenennotizen nur Suchhilfe.",
+    "coverage": "Sprachliche Darstellung über die volle zugängliche Captionlaufzeit geprüft; fünf beschreibende Hinweise. Keine audiovisuelle Vollprüfung.",
     "limits": [
-      "Originalplayer blieb bei 0:00.",
-      "Einblendungen und Originalton innerhalb des Videos nicht unmittelbar kontrolliert."
+      "Originalton, Stimmführung und genaue Sprecherwechsel nicht unmittelbar kontrolliert.",
+      "Schnitt, Musik, Animationen und ausschließlich eingeblendete Informationen nicht vollständig geprüft.",
+      "Aus Captionvollständigkeit folgt keine vollständige grafische Faktenabdeckung, etwa für eine möglicherweise mit Q11 belegte Europagrafik."
     ],
     "history": [
       {
         "date": "2026-11-21",
         "by": "ChatGPT",
         "change": "Materialgrenzen für Zwischenstand dokumentiert."
+      },
+      {
+        "date": "2026-11-21",
+        "by": "ChatGPT",
+        "change": "Sprachliche Gesamtlektüre und redaktionelle Gegenprüfung ergänzt; fünf Hinweise ohne Einfluss auf die Sachbewertung."
       }
     ]
   },
-  "annotations": []
+  "annotations": [
+    {
+      "id": "ZhSNJw1HNUw-R0001",
+      "claimId": "ZhSNJw1HNUw-A0002",
+      "feature": "ironie",
+      "startSeconds": 130,
+      "endSeconds": 161,
+      "speaker": {
+        "id": "SP2",
+        "attribution": "Plausibel",
+        "basis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörvollkontrolle."
+      },
+      "observation": "Alfred beschreibt sich selbst als sprechende Heizung und das Rechnen als Umweg zur Wärme.",
+      "reason": "Selbstironie verbindet eine sachliche Energiebilanz mit der vermenschlichten Kanalfigur; keine Zusage kostenloser oder nutzbar bereitgestellter Raumwärme.",
+      "context": "Eigenes Erklärformat; sprachlicher Befund, von Faktenstatus und Audiowirkung getrennt.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Ungefähre Captionzeit; Tonfall, Schnittwirkung und genaue Bildfolge nicht unmittelbar kontrolliert.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Vollständige Captionlektüre und redaktioneller Abgleich; keine automatische Übernahme von Szenennotizen.",
+      "history": [
+        {
+          "date": "2026-11-21",
+          "by": "ChatGPT",
+          "change": "Sprachlichen Hinweis mit offengelegter Materialgrenze erfasst."
+        }
+      ]
+    },
+    {
+      "id": "ZhSNJw1HNUw-R0002",
+      "claimId": "ZhSNJw1HNUw-A0046",
+      "feature": "gegenposition",
+      "startSeconds": 707,
+      "endSeconds": 788,
+      "speaker": {
+        "id": "SP2",
+        "attribution": "Plausibel",
+        "basis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörvollkontrolle."
+      },
+      "observation": "Alfred führt nach den Vorteilen hohe Anschaffungskosten, Temperaturempfindlichkeit und Planungsanforderungen an.",
+      "reason": "Der Text enthält konkrete Gegenargumente zum eigenen positiven Vergleich. Die Wirtschaftlichkeit wird bedingt formuliert.",
+      "context": "Eigenes Erklärformat; sprachlicher Befund, von Faktenstatus und Audiowirkung getrennt.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Ungefähre Captionzeit; Tonfall, Schnittwirkung und genaue Bildfolge nicht unmittelbar kontrolliert.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Vollständige Captionlektüre und redaktioneller Abgleich; keine automatische Übernahme von Szenennotizen.",
+      "history": [
+        {
+          "date": "2026-11-21",
+          "by": "ChatGPT",
+          "change": "Sprachlichen Hinweis mit offengelegter Materialgrenze erfasst."
+        }
+      ]
+    },
+    {
+      "id": "ZhSNJw1HNUw-R0003",
+      "claimId": "ZhSNJw1HNUw-A0060",
+      "feature": "gegenposition",
+      "startSeconds": 901,
+      "endSeconds": 980,
+      "speaker": {
+        "id": "SP2",
+        "attribution": "Plausibel",
+        "basis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörvollkontrolle."
+      },
+      "observation": "Zwei Medienanalysen und deren Finanzierung werden gegenübergestellt; Alfred trennt gleichzeitiges Geschehen von kausaler Erklärung.",
+      "reason": "Unterschiedliche Forschungsfragen begrenzen den Vergleich. Die Gegenüberstellung allein beweist weder einen Widerspruch noch Manipulation durch Auftraggeber.",
+      "context": "Eigenes Erklärformat; sprachlicher Befund, von Faktenstatus und Audiowirkung getrennt.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Ungefähre Captionzeit; Tonfall, Schnittwirkung und genaue Bildfolge nicht unmittelbar kontrolliert.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Vollständige Captionlektüre und redaktioneller Abgleich; keine automatische Übernahme von Szenennotizen.",
+      "history": [
+        {
+          "date": "2026-11-21",
+          "by": "ChatGPT",
+          "change": "Sprachlichen Hinweis mit offengelegter Materialgrenze erfasst."
+        }
+      ]
+    },
+    {
+      "id": "ZhSNJw1HNUw-R0004",
+      "claimId": "ZhSNJw1HNUw-A0077",
+      "feature": "emotionalisierung",
+      "startSeconds": 1100,
+      "endSeconds": 1116,
+      "speaker": {
+        "id": "SP2",
+        "attribution": "Plausibel",
+        "basis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörvollkontrolle."
+      },
+      "observation": "Der Vergleich zwischen Handwerker und Behörde gibt Austausch bei Defekt und allgemeinem Verbot unterschiedliche Alltagsassoziationen.",
+      "reason": "Sprachliche Rahmung der Akzeptanz; keine zusätzliche Tatsachenbehauptung über einen isoliert gemessenen Wortwahleffekt.",
+      "context": "Eigenes Erklärformat; sprachlicher Befund, von Faktenstatus und Audiowirkung getrennt.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Ungefähre Captionzeit; Tonfall, Schnittwirkung und genaue Bildfolge nicht unmittelbar kontrolliert.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Vollständige Captionlektüre und redaktioneller Abgleich; keine automatische Übernahme von Szenennotizen.",
+      "history": [
+        {
+          "date": "2026-11-21",
+          "by": "ChatGPT",
+          "change": "Sprachlichen Hinweis mit offengelegter Materialgrenze erfasst."
+        }
+      ]
+    },
+    {
+      "id": "ZhSNJw1HNUw-R0005",
+      "claimId": "ZhSNJw1HNUw-A0029",
+      "feature": "ironie",
+      "startSeconds": 1197,
+      "endSeconds": 1268,
+      "speaker": {
+        "id": "SP2",
+        "attribution": "Plausibel",
+        "basis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörvollkontrolle."
+      },
+      "observation": "Der Schluss kehrt zu Rechenwärme, Rechnung und der 63-jährigen Rathausanlage zurück.",
+      "reason": "Selbstironie und Unterstützungsaufruf verbinden Anfang und Ende; daraus folgt keine überprüfte Token-Energiekonversion oder Lebensdauergarantie.",
+      "context": "Eigenes Erklärformat; sprachlicher Befund, von Faktenstatus und Audiowirkung getrennt.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Ungefähre Captionzeit; Tonfall, Schnittwirkung und genaue Bildfolge nicht unmittelbar kontrolliert.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Vollständige Captionlektüre und redaktioneller Abgleich; keine automatische Übernahme von Szenennotizen.",
+      "history": [
+        {
+          "date": "2026-11-21",
+          "by": "ChatGPT",
+          "change": "Sprachlichen Hinweis mit offengelegter Materialgrenze erfasst."
+        }
+      ]
+    }
+  ]
 }
