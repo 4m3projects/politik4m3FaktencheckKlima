@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "videoId": "ZhSNJw1HNUw",
+  "basis": "Inhaltliche Zuordnung aus vollständigem Captiontext; technische Teilprüfung zuerst.",
+  "topics": [
+    {
+      "topic": "energie",
+      "relevance": "Schwerpunkt",
+      "basis": "Heiztechnik, Effizienz und Energiebedarf.",
+      "segments": [
+        {
+          "startSeconds": 178,
+          "endSeconds": 793,
+          "note": "Heiztechnik und Heizungsvergleich."
+        }
+      ]
+    },
+    {
+      "topic": "energie/preise",
+      "relevance": "Behandelt",
+      "basis": "Heizkosten und Förderung; Detailprüfung folgt.",
+      "segments": [
+        {
+          "startSeconds": 639,
+          "endSeconds": 793,
+          "note": "Kostenvergleich."
+        }
+      ]
+    },
+    {
+      "topic": "klima",
+      "relevance": "Behandelt",
+      "basis": "Quantitativer CO₂-Vergleich; Detailprüfung folgt.",
+      "segments": [
+        {
+          "startSeconds": 582,
+          "endSeconds": 639,
+          "note": "Emissionen."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "ZhSNJw1HNUw-A0001",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0002",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0003",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0004",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0005",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0006",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0007",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0008",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0009",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0010",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0011",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0012",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0013",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0014",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0015",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0016",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0017",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0018",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0019",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0020",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0021",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0022",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0023",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0024",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0025",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0026",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0027",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0028",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "ZhSNJw1HNUw-A0029",
+      "topics": [
+        "energie"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "agent": "ChatGPT",
+      "change": "Erstzuordnung für öffentlichen Teilstand."
+    }
+  ]
+}
