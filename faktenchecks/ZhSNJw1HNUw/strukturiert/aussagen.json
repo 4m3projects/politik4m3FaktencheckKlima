@@ -1,0 +1,1748 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "videoId": "ZhSNJw1HNUw",
+    "videoUrl": "https://www.youtube.com/watch?v=ZhSNJw1HNUw",
+    "kind": "Teilbestand",
+    "asOf": "2026-11-21",
+    "durationSeconds": 1268,
+    "coverageNote": "Vollständiges deutsches Transkript gelesen. Dieser erste Teilstand enthält 29 technische und einleitende Einträge; Wirtschafts-, Medien- und Politikprüfung folgen. Keine Gesamtvideostatistik oder eigene audiovisuelle Vollprüfung.",
+    "researchNote": "Getrennte Rechercheaufgaben zu Physik, Ökonomie und Politik. Wissensdatenbanken KL, HP und UG gezielt durchsucht. Szenennotizen nur Suchhilfe; Originalplayer blieb trotz Startversuch und einmaligem Neuladen bei 0:00."
+  },
+  "speakers": [
+    {
+      "id": "SP1",
+      "name": "Sinan",
+      "videoRole": "Projektverantwortlicher / Einleitung",
+      "identityBasis": "Selbstbezug und Namensnennung im Captionkontext und in Kanalmetadaten."
+    },
+    {
+      "id": "SP2",
+      "name": "Alfred",
+      "videoRole": "KI-Kanalfigur / Erklärstimme",
+      "identityBasis": "Einleitung, Selbstvorstellung und Captionkontext."
+    }
+  ],
+  "sources": [
+    {
+      "id": "S001",
+      "title": "Alfred räumt auf: Warum regt das Wort Wärmepumpe so viele auf?",
+      "url": "https://www.youtube.com/watch?v=ZhSNJw1HNUw",
+      "details": "21.11.2026; 21:08. Zielvideo und vollständige deutsche Captiongrundlage.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Metadaten und vollständiges Transkript über vidIQ gelesen. Automatische Szenennotizen nur als Suchhilfe. Originalplayer blieb bei 0:00; keine eigene Bild-/Tonvollsichtung."
+    },
+    {
+      "id": "PH-S01",
+      "title": "NIST: SI Units – Temperature",
+      "url": "https://www.nist.gov/pml/owm/si-units-temperature",
+      "details": "Kelvin-Definition und Celsius-Umrechnung; 0 K entspricht −273,15 °C.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Original-/Fachtext durch ChatGPT-Teilaufgabe Physik an den angegebenen Fundstellen ausgewertet. Zugängliche Textgrundlage; keine vollständige Sichtung aller Originalseiten behauptet."
+    },
+    {
+      "id": "PH-S02",
+      "title": "NIST: About Cryogenics",
+      "url": "https://www.nist.gov/mml/acmd/cryogenic-technologies-project/about-cryogenics",
+      "details": "Absatz zum absoluten Nullpunkt; Materie im niedrigsten Energiezustand bedeutet nicht notwendig Gesamtenergie null.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Original-/Fachtext durch ChatGPT-Teilaufgabe Physik an den angegebenen Fundstellen ausgewertet. Zugängliche Textgrundlage; keine vollständige Sichtung aller Originalseiten behauptet."
+    },
+    {
+      "id": "PH-S03",
+      "title": "OpenStax: Work, Heat, and Internal Energy",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-2-work-heat-and-internal-energy",
+      "details": "Gleichung 3.6 und Umgebung; Innere Energie einer festen Stoffmenge idealen Gases ist an absolute Temperatur gebunden; Wärme ist Energieübertragung.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Original-/Fachtext durch ChatGPT-Teilaufgabe Physik an den angegebenen Fundstellen ausgewertet. Zugängliche Textgrundlage; keine vollständige Sichtung aller Originalseiten behauptet."
+    },
+    {
+      "id": "PH-S04",
+      "title": "OpenStax: Heat Capacities of an Ideal Gas",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/3-5-heat-capacities-of-an-ideal-gas",
+      "details": "Gleichungen 3.9–3.10; dU = n Cv dT; Behandlung auch zweiatomiger verdünnter Gase.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Original-/Fachtext durch ChatGPT-Teilaufgabe Physik an den angegebenen Fundstellen ausgewertet. Zugängliche Textgrundlage; keine vollständige Sichtung aller Originalseiten behauptet."
+    },
+    {
+      "id": "PH-S05",
+      "title": "BFE/EnergieSchweiz: Wärmepumpen – planen, optimieren, betreiben, warten",
+      "url": "https://pubdb.bfe.admin.ch/de/publication/download/3188",
+      "details": "6. Auflage Mai 2026; gedruckte S. 5–9, 21–24; Vier Prozessschritte; innere Energie und Wärme; Bilanzgrenzen für Verdichter, Pumpen, Ventilatoren und weitere Verbraucher.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Original-/Fachtext durch ChatGPT-Teilaufgabe Physik an den angegebenen Fundstellen ausgewertet. Zugängliche Textgrundlage; keine vollständige Sichtung aller Originalseiten behauptet."
+    },
+    {
+      "id": "PH-S06",
+      "title": "Physik Journal: Wenn’s schnell gehen muss",
+      "url": "https://pro-physik.de/zeitschriften/download/21006",
+      "details": "21 (2022), Nr. 8/9, S. 80–81, besonders S. 81; 75 kPa Überdruck ergeben im Beispiel rund 116 °C Siedetemperatur.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Original-/Fachtext durch ChatGPT-Teilaufgabe Physik an den angegebenen Fundstellen ausgewertet. Zugängliche Textgrundlage; keine vollständige Sichtung aller Originalseiten behauptet."
+    },
+    {
+      "id": "PH-S07",
+      "title": "Climalife: HC R-290 – thermodynamic properties",
+      "url": "https://climalife.com/wp-content/uploads/2022/09/uploadsproductmediadocumenthc-r-290-en.pdf",
+      "details": "PDF S. 2; Saturated state, Absolutdrücke; −42,12 °C: 1,013 bar; −10 °C: 3,453 bar; 40 °C: 13,694 bar; 45 °C: 15,343 bar.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Original-/Fachtext durch ChatGPT-Teilaufgabe Physik an den angegebenen Fundstellen ausgewertet. Zugängliche Textgrundlage; keine vollständige Sichtung aller Originalseiten behauptet."
+    },
+    {
+      "id": "PH-S08",
+      "title": "Viessmann VITOCAL 250-A, Hersteller-Datenblatt 6195458 DE 4/2025",
+      "url": "https://www.viessmann.de/content/dam/public-brands/master/products/heat-pump/vitocal-250-a/DB-6195458-vitocal-250-a.pdf",
+      "details": "Typ 251.A10, technische Daten S. 9–11; Anlagenaufbau S. 2–6; R290-Monoblock; A−7/W35 COP 3,16; A−7/W55 COP 2,13; Heizbetrieb ab −20 °C; Nebenverbraucher ausgewiesen.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Original-/Fachtext durch ChatGPT-Teilaufgabe Physik an den angegebenen Fundstellen ausgewertet. Zugängliche Textgrundlage; keine vollständige Sichtung aller Originalseiten behauptet."
+    },
+    {
+      "id": "PH-S09",
+      "title": "Viessmann VITOCAL 250-A, im Video verlinkte Händlerfassung",
+      "url": "https://documents.unidomo.de/de/viessmann/6195458VDP00006_1.pdf",
+      "details": "PDF S. 8, vierte Modellspalte 251.A10; COP 3,16 und 2,1; erste Modellspalte A04 dagegen 3,2 und 2,2.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Original-/Fachtext durch ChatGPT-Teilaufgabe Physik an den angegebenen Fundstellen ausgewertet. Zugängliche Textgrundlage; keine vollständige Sichtung aller Originalseiten behauptet."
+    },
+    {
+      "id": "PH-S10",
+      "title": "Vaillant aroTHERM plus Produktinformation",
+      "url": "https://documents.unidomo.de/de/vaillant/produktinfo-arotherm-plus-81-04.pdf",
+      "details": "Produktbeschreibung PDF S. 1; R290; Raumheizung, Kühlung und Warmwasserbereitung.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Original-/Fachtext durch ChatGPT-Teilaufgabe Physik an den angegebenen Fundstellen ausgewertet. Zugängliche Textgrundlage; keine vollständige Sichtung aller Originalseiten behauptet."
+    },
+    {
+      "id": "PH-S11",
+      "title": "Natural Resources Canada: Heating and cooling with a heat pump",
+      "url": "https://natural-resources.canada.ca/energy-efficiency/energy-star/heating-cooling-heat-pump",
+      "details": "The heating cycle; Definitions; Offizieller Primärtext in Suchausgabe; Direktöffnung 403. Erklärt die vier Prozessschritte, Flüssigkeits-Dampf-Gemisch, Umkehrventil und Temperaturgrenzen.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Original-/Fachtext durch ChatGPT-Teilaufgabe Physik an den angegebenen Fundstellen ausgewertet. Direktöffnung 403; zugänglicher Primärtext im Suchergebnis gelesen."
+    },
+    {
+      "id": "PH-S12",
+      "title": "AHRI: Air Source Heat Pumps",
+      "url": "https://www.ahrinet.org/scholarships-education/education/homeowners/how-things-work/air-source-heat-pumps",
+      "details": "Cooling; Heating; Types; Original-Fachtext des Branchenverbands über Kreislauf und Split-/Kompaktbauarten.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Original-/Fachtext durch ChatGPT-Teilaufgabe Physik an den angegebenen Fundstellen ausgewertet. Zugängliche Textgrundlage; keine vollständige Sichtung aller Originalseiten behauptet."
+    },
+    {
+      "id": "PH-S13",
+      "title": "Martin Zogg: Meilensteine der Wärmepumpengeschichte",
+      "url": "https://www.zogg-engineering.ch/Publi/GeschichteWP_Z_Zogg.pdf",
+      "details": "PDF S. 5–6, Tabelle 1, Rathausabsatz; 1937/38 Bau als Holzöfenersatz, Start 1938, Limmatwärme, 63 Jahre bis Ersatz 2001.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Original-/Fachtext durch ChatGPT-Teilaufgabe Physik an den angegebenen Fundstellen ausgewertet. Zugängliche Textgrundlage; keine vollständige Sichtung aller Originalseiten behauptet."
+    },
+    {
+      "id": "PH-S14",
+      "title": "Kanton Zürich: Faktenblatt Ersatz des Wärmeerzeugers",
+      "url": "https://www.zh.ch/content/dam/zhweb/bilder-dokumente/footer/news/2021/09/Abstimmung%20Energiegesetz%2C%20Faktenblatt%20W%C3%A4rmeerzeugerersatz.pdf",
+      "details": "Wärmepumpen – Entwicklung und Aussichten; Bestätigt Rathausanlage 1938 und Wärme aus der Limmat.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Original-/Fachtext durch ChatGPT-Teilaufgabe Physik an den angegebenen Fundstellen ausgewertet. Zugängliche Textgrundlage; keine vollständige Sichtung aller Originalseiten behauptet."
+    },
+    {
+      "id": "PH-S15",
+      "title": "US DOE: Electric Resistance Heating (archivierter Behörden-Originaltext)",
+      "url": "https://webarchive-beta.loc.gov/playback-services/general/20240224010919mp_/https%3A/www.energy.gov/energysaver/electric-resistance-heating",
+      "details": "Einleitung; Electric Furnaces; Strom am Widerstandsheizer vollständig in Wärme umgewandelt; Nutzwärme-/Verteilverluste getrennt.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Original-/Fachtext durch ChatGPT-Teilaufgabe Physik an den angegebenen Fundstellen ausgewertet. Zugängliche Textgrundlage; keine vollständige Sichtung aller Originalseiten behauptet."
+    },
+    {
+      "id": "PH-S16",
+      "title": "US DOE: Mindestwirkungsgrade von Heizgeräten",
+      "url": "https://www.energy.gov/cmei/femp/incorporate-minimum-efficiency-requirements-heating-and-cooling-products-federal",
+      "details": "Gas- and Oil-Fired Boilers; Fußnoten; Jahresnutzungsgrad, Abgas-, Stillstands- und Gehäuseverluste.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Original-/Fachtext durch ChatGPT-Teilaufgabe Physik an den angegebenen Fundstellen ausgewertet. Zugängliche Textgrundlage; keine vollständige Sichtung aller Originalseiten behauptet."
+    },
+    {
+      "id": "PH-S17",
+      "title": "JLL: Abwärme aus Rechenzentren",
+      "url": "https://www.jll.com/de-de/insights/abwarme-aus-rechenzentren",
+      "details": "21. Juli 2026, Einleitung; Nahezu gesamte aufgenommene elektrische Energie fällt am Ende als Wärme an.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Original-/Fachtext durch ChatGPT-Teilaufgabe Physik an den angegebenen Fundstellen ausgewertet. Zugängliche Textgrundlage; keine vollständige Sichtung aller Originalseiten behauptet."
+    },
+    {
+      "id": "PH-S18",
+      "title": "US DOE: Cooling Water Efficiency Opportunities for Federal Data Centers",
+      "url": "https://www.energy.gov/cmei/femp/cooling-water-efficiency-opportunities-federal-data-centers",
+      "details": "Wärmelast und Kühlung; IT und andere elektrische Verbraucher erzeugen abzuführende Wärmelast.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Original-/Fachtext durch ChatGPT-Teilaufgabe Physik an den angegebenen Fundstellen ausgewertet. Zugängliche Textgrundlage; keine vollständige Sichtung aller Originalseiten behauptet."
+    },
+    {
+      "id": "PH-S19",
+      "title": "ENERGY STAR: Air-Source Heat Pumps",
+      "url": "https://www.energystar.gov/products/air_source_heat_pumps",
+      "details": "Einleitung, Mini Split, Cold Climate Considerations; Wärmetransport, Heizen und Kühlen; Mini-Split mit Innen- und Außeneinheit.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Original-/Fachtext durch ChatGPT-Teilaufgabe Physik an den angegebenen Fundstellen ausgewertet. Zugängliche Textgrundlage; keine vollständige Sichtung aller Originalseiten behauptet."
+    }
+  ],
+  "claims": [
+    {
+      "id": "ZhSNJw1HNUw-A0001",
+      "chapter": 1,
+      "kind": "Meinung",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Sinan beschreibt Installationsplan, eigenen Wissensstand und Interesse.",
+      "reason": "Persönliche Absichten, Selbstauskünfte und Wertungen. Konkrete Anlage und formale Qualifikation wurden nicht extern geprüft; dies begründet keine negative Bewertung.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 2,
+          "endSeconds": 113,
+          "precision": "Ungefähr",
+          "speakerId": "SP1",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-01; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0002",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Rechnen setzt nahezu den gesamten verbrauchten Strom letztlich in Wärme um.",
+      "reason": "Als Energiebilanz der Hardware richtig. Kleine Signalenergien ändern die Näherung nicht. Wärme fällt dadurch noch nicht bedarfsgerecht in der Wohnung an. Die Heizungsmetapher ist verständlich.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 130,
+          "endSeconds": 145,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        },
+        {
+          "startSeconds": 1197,
+          "endSeconds": 1215,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S17",
+          "note": "21. Juli 2026, Einleitung; Nahezu gesamte aufgenommene elektrische Energie fällt am Ende als Wärme an."
+        },
+        {
+          "sourceId": "PH-S18",
+          "note": "Wärmelast und Kühlung; IT und andere elektrische Verbraucher erzeugen abzuführende Wärmelast."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-02; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Anschauungsbeispiel oder Anekdote; Hauptargumentation hängt nicht von dieser Einzelheit ab.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0003",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Auch kalte Außenluft kann Wärmequelle einer Heizung sein.",
+      "reason": "Ein noch kälterer Verdampfer nimmt Energie aus der Außenluft auf; auch unter null Grad Celsius innerhalb der Geräte-Betriebsgrenzen.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 176,
+          "endSeconds": 209,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S11",
+          "note": "The heating cycle; Definitions; Offizieller Primärtext in Suchausgabe; Direktöffnung 403. Erklärt die vier Prozessschritte, Flüssigkeits-Dampf-Gemisch, Umkehrventil und Temperaturgrenzen."
+        },
+        {
+          "sourceId": "PH-S19",
+          "note": "Einleitung, Mini Split, Cold Climate Considerations; Wärmetransport, Heizen und Kühlen; Mini-Split mit Innen- und Außeneinheit."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-03; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende Erklärung des Heizungs- oder Energieprinzips.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0004",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Der absolute Nullpunkt liegt rund bei −273 °C; dort sei etwas ohne Wärme.",
+      "reason": "Der absolute Nullpunkt liegt bei −273,15 °C, gerundet also −273 °C. Im Kontext ist dies eine vereinfachte Einführung in die absolute Temperaturskala, keine präzise Behauptung über alle quantenmechanischen Energieanteile. Wärme ist fachsprachlich Energieübertragung; die Alltagssprache verlangt hier eine begriffliche Erläuterung, keine Widerlegung des Erklärkerns.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 193,
+          "endSeconds": 209,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S01",
+          "note": "Kelvin-Definition und Celsius-Umrechnung; 0 K entspricht −273,15 °C."
+        },
+        {
+          "sourceId": "PH-S02",
+          "note": "Absatz zum absoluten Nullpunkt; Materie im niedrigsten Energiezustand bedeutet nicht notwendig Gesamtenergie null."
+        },
+        {
+          "sourceId": "PH-S03",
+          "note": "Gleichung 3.6 und Umgebung; Innere Energie einer festen Stoffmenge idealen Gases ist an absolute Temperatur gebunden; Wärme ist Energieübertragung."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-04; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger normaler Sachpunkt innerhalb der technischen Erklärung; unabhängig vom Urteil gewichtet.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0005",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Luft bei −10 °C enthalte rund 90 % der Wärme von Zimmerluft.",
+      "reason": "263,15/293,15 = 0,8977. Als Idealnäherung für dieselbe Luftmenge und Zusammensetzung ist das Verhältnis thermischer innerer Energie plausibel. Bedingungen fehlen; es ist keine Aussage über nutzbare Heizwärme oder Effizienz. Gleiches Volumen bei gleichem Druck ist wegen anderer Dichte ein anderer Vergleich.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 209,
+          "endSeconds": 225,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S01",
+          "note": "Kelvin-Definition und Celsius-Umrechnung; 0 K entspricht −273,15 °C."
+        },
+        {
+          "sourceId": "PH-S03",
+          "note": "Gleichung 3.6 und Umgebung; Innere Energie einer festen Stoffmenge idealen Gases ist an absolute Temperatur gebunden; Wärme ist Energieübertragung."
+        },
+        {
+          "sourceId": "PH-S04",
+          "note": "Gleichungen 3.9–3.10; dU = n Cv dT; Behandlung auch zweiatomiger verdünnter Gase."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-05; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "shortReason": "Die 90-Prozent-Näherung braucht dieselbe Luftmenge und meint innere Energie, nicht direkt nutzbare Heizwärme.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger normaler Sachpunkt innerhalb der technischen Erklärung; unabhängig vom Urteil gewichtet.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0006",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Wärme fließt ohne Antrieb vom wärmeren zum kälteren System.",
+      "reason": "Richtig für den spontanen Netto-Wärmetransport. Gegen dieses Gefälle benötigt die Wärmepumpe Arbeit.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 209,
+          "endSeconds": 241,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S05",
+          "note": "6. Auflage Mai 2026; gedruckte S. 5–9, 21–24; Vier Prozessschritte; innere Energie und Wärme; Bilanzgrenzen für Verdichter, Pumpen, Ventilatoren und weitere Verbraucher."
+        },
+        {
+          "sourceId": "PH-S11",
+          "note": "The heating cycle; Definitions; Offizieller Primärtext in Suchausgabe; Direktöffnung 403. Erklärt die vier Prozessschritte, Flüssigkeits-Dampf-Gemisch, Umkehrventil und Temperaturgrenzen."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-06; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende Erklärung des Heizungs- oder Energieprinzips.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0007",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Außen muss der Wärmetauscher kälter als die Wärmequelle, innen wärmer als die Senke sein.",
+      "reason": "So wird Wärme an beiden Stellen in die gewünschte Richtung übertragen. Die folgenden Zahlen sind Beispiel-Betriebspunkte, keine Konstanten jeder Anlage.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 225,
+          "endSeconds": 241,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S11",
+          "note": "The heating cycle; Definitions; Offizieller Primärtext in Suchausgabe; Direktöffnung 403. Erklärt die vier Prozessschritte, Flüssigkeits-Dampf-Gemisch, Umkehrventil und Temperaturgrenzen."
+        },
+        {
+          "sourceId": "PH-S12",
+          "note": "Cooling; Heating; Types; Original-Fachtext des Branchenverbands über Kreislauf und Split-/Kompaktbauarten."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-07; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger normaler Sachpunkt innerhalb der technischen Erklärung; unabhängig vom Urteil gewichtet.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0008",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Druck erhöht Siedetemperaturen; im Schnellkochtopf sind etwa 116 °C möglich.",
+      "reason": "Die zitierte Physikfachquelle rechnet mit 75 kPa Überdruck und 116 °C. Nicht jeder Topf und jede Druckstufe hat genau diesen Wert. Wasser siedet nahe 100 °C bei Normaldruck.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 241,
+          "endSeconds": 273,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S06",
+          "note": "21 (2022), Nr. 8/9, S. 80–81, besonders S. 81; 75 kPa Überdruck ergeben im Beispiel rund 116 °C Siedetemperatur."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-08; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Anschauungsbeispiel oder Anekdote; Hauptargumentation hängt nicht von dieser Einzelheit ab.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0009",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Die zitierten Geräte nutzen Propan, dessen Normal-Siedepunkt etwa −42 °C beträgt.",
+      "reason": "Herstellerdaten nennen R290; die Stofftabelle nennt −42,12 °C bei 1,013 bar. Die Aussage ist ausdrücklich auf die gelesenen Geräte beschränkt.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 273,
+          "endSeconds": 290,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S07",
+          "note": "PDF S. 2; Saturated state, Absolutdrücke; −42,12 °C: 1,013 bar; −10 °C: 3,453 bar; 40 °C: 13,694 bar; 45 °C: 15,343 bar."
+        },
+        {
+          "sourceId": "PH-S08",
+          "note": "Typ 251.A10, technische Daten S. 9–11; Anlagenaufbau S. 2–6; R290-Monoblock; A−7/W35 COP 3,16; A−7/W55 COP 2,13; Heizbetrieb ab −20 °C; Nebenverbraucher ausgewiesen."
+        },
+        {
+          "sourceId": "PH-S10",
+          "note": "Produktbeschreibung PDF S. 1; R290; Raumheizung, Kühlung und Warmwasserbereitung."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-09; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger normaler Sachpunkt innerhalb der technischen Erklärung; unabhängig vom Urteil gewichtet.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0010",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Bei etwas über dreifachem Atmosphärendruck siedet Propan bei −10 °C.",
+      "reason": "Die Tabelle nennt 3,453 bar absolut. Verdampfung nimmt Energie aus der wärmeren Außenluft auf. Dies ist ein ausgewählter Betriebspunkt.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 290,
+          "endSeconds": 323,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S07",
+          "note": "PDF S. 2; Saturated state, Absolutdrücke; −42,12 °C: 1,013 bar; −10 °C: 3,453 bar; 40 °C: 13,694 bar; 45 °C: 15,343 bar."
+        },
+        {
+          "sourceId": "PH-S11",
+          "note": "The heating cycle; Definitions; Offizieller Primärtext in Suchausgabe; Direktöffnung 403. Erklärt die vier Prozessschritte, Flüssigkeits-Dampf-Gemisch, Umkehrventil und Temperaturgrenzen."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-10; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger normaler Sachpunkt innerhalb der technischen Erklärung; unabhängig vom Urteil gewichtet.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0011",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Verdichtung erwärmt das Gas; die Fahrradpumpe illustriert es.",
+      "reason": "Der Verdichter führt Arbeit zu und erhöht bei diesem Prozess Temperatur und Druck. Sonderfall isothermer Kompression widerlegt diese Einführung nicht.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 323,
+          "endSeconds": 338,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S11",
+          "note": "The heating cycle; Definitions; Offizieller Primärtext in Suchausgabe; Direktöffnung 403. Erklärt die vier Prozessschritte, Flüssigkeits-Dampf-Gemisch, Umkehrventil und Temperaturgrenzen."
+        },
+        {
+          "sourceId": "PH-S12",
+          "note": "Cooling; Heating; Types; Original-Fachtext des Branchenverbands über Kreislauf und Split-/Kompaktbauarten."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-11; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger normaler Sachpunkt innerhalb der technischen Erklärung; unabhängig vom Urteil gewichtet.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0012",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Ungefähr vierfacher Druck hebt den Propan-Siedepunkt von −10 °C auf 45 °C.",
+      "reason": "3,453 zu 15,343 bar ergibt Faktor 4,44. 'Ungefähr vierfach' ist vertretbare Rundung. Exakt vierfach wäre eher rund 40 °C, daher kein Präzisionsmesswert.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 323,
+          "endSeconds": 355,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S07",
+          "note": "PDF S. 2; Saturated state, Absolutdrücke; −42,12 °C: 1,013 bar; −10 °C: 3,453 bar; 40 °C: 13,694 bar; 45 °C: 15,343 bar."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-12; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger normaler Sachpunkt innerhalb der technischen Erklärung; unabhängig vom Urteil gewichtet.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0013",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Das Gas kann nach Verdichtung über 50 °C heiß sein und bei etwa 45 °C kondensieren.",
+      "reason": "Ein überhitzter Dampf über der druckabhängigen Kondensationstemperatur ist im Beispielprozess plausibel. Kein gemessener universeller Wert oder Nachweis an Sinans Anlage.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 338,
+          "endSeconds": 371,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S07",
+          "note": "PDF S. 2; Saturated state, Absolutdrücke; −42,12 °C: 1,013 bar; −10 °C: 3,453 bar; 40 °C: 13,694 bar; 45 °C: 15,343 bar."
+        },
+        {
+          "sourceId": "PH-S11",
+          "note": "The heating cycle; Definitions; Offizieller Primärtext in Suchausgabe; Direktöffnung 403. Erklärt die vier Prozessschritte, Flüssigkeits-Dampf-Gemisch, Umkehrventil und Temperaturgrenzen."
+        },
+        {
+          "sourceId": "PH-S12",
+          "note": "Cooling; Heating; Types; Original-Fachtext des Branchenverbands über Kreislauf und Split-/Kompaktbauarten."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-13; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger normaler Sachpunkt innerhalb der technischen Erklärung; unabhängig vom Urteil gewichtet.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0014",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Der Verflüssiger gibt Umweltenergie plus Verdichterarbeit als Wärme ab.",
+      "reason": "Richtige idealisierte Energiebilanz. Bei genauen Messungen müssen Bilanzgrenzen und Verluste berücksichtigt werden.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 355,
+          "endSeconds": 389,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S05",
+          "note": "6. Auflage Mai 2026; gedruckte S. 5–9, 21–24; Vier Prozessschritte; innere Energie und Wärme; Bilanzgrenzen für Verdichter, Pumpen, Ventilatoren und weitere Verbraucher."
+        },
+        {
+          "sourceId": "PH-S11",
+          "note": "The heating cycle; Definitions; Offizieller Primärtext in Suchausgabe; Direktöffnung 403. Erklärt die vier Prozessschritte, Flüssigkeits-Dampf-Gemisch, Umkehrventil und Temperaturgrenzen."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-14; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende Erklärung des Heizungs- oder Energieprinzips.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0015",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Am Expansionsventil sinken Druck und Temperatur zurück zum kalten Betriebspunkt.",
+      "reason": "Beim Drosseln entsteht ein kälteres Flüssigkeits-Dampf-Gemisch. Teilverdampfung und näherungsweise konstante Enthalpie werden ausgelassen, die Funktion jedoch richtig erklärt.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 389,
+          "endSeconds": 404,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S05",
+          "note": "6. Auflage Mai 2026; gedruckte S. 5–9, 21–24; Vier Prozessschritte; innere Energie und Wärme; Bilanzgrenzen für Verdichter, Pumpen, Ventilatoren und weitere Verbraucher."
+        },
+        {
+          "sourceId": "PH-S11",
+          "note": "The heating cycle; Definitions; Offizieller Primärtext in Suchausgabe; Direktöffnung 403. Erklärt die vier Prozessschritte, Flüssigkeits-Dampf-Gemisch, Umkehrventil und Temperaturgrenzen."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-15; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger normaler Sachpunkt innerhalb der technischen Erklärung; unabhängig vom Urteil gewichtet.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0016",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Strom werde ausschließlich für die Verdichtung benötigt.",
+      "reason": "Der Verdichter ist der Hauptantrieb. Reale Geräte benötigen außerdem Strom für Ventilatoren, Pumpen, Regelung und gegebenenfalls Zusatzheizung. Diese Verbraucher stehen in den verlinkten Datenblättern.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 404,
+          "endSeconds": 421,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S05",
+          "note": "6. Auflage Mai 2026; gedruckte S. 5–9, 21–24; Vier Prozessschritte; innere Energie und Wärme; Bilanzgrenzen für Verdichter, Pumpen, Ventilatoren und weitere Verbraucher."
+        },
+        {
+          "sourceId": "PH-S08",
+          "note": "Typ 251.A10, technische Daten S. 9–11; Anlagenaufbau S. 2–6; R290-Monoblock; A−7/W35 COP 3,16; A−7/W55 COP 2,13; Heizbetrieb ab −20 °C; Nebenverbraucher ausgewiesen."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-16; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "shortReason": "Auch Ventilatoren, Pumpen, Regelung und gegebenenfalls eine Zusatzheizung benötigen Strom.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger normaler Sachpunkt innerhalb der technischen Erklärung; unabhängig vom Urteil gewichtet.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0017",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Ein Kühlschrank arbeitet nach demselben Grundprinzip und gibt Innenwärme an die Küche ab.",
+      "reason": "Das gewünschte Ergebnis ist dort die Kühlung statt Raumheizung. Nicht jeder heutige Kühlschrank hat eine offene warme Rückwand; das betrifft die Bauform, nicht die richtige Analogie.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 404,
+          "endSeconds": 437,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S05",
+          "note": "6. Auflage Mai 2026; gedruckte S. 5–9, 21–24; Vier Prozessschritte; innere Energie und Wärme; Bilanzgrenzen für Verdichter, Pumpen, Ventilatoren und weitere Verbraucher."
+        },
+        {
+          "sourceId": "PH-S12",
+          "note": "Cooling; Heating; Types; Original-Fachtext des Branchenverbands über Kreislauf und Split-/Kompaktbauarten."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-17; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger normaler Sachpunkt innerhalb der technischen Erklärung; unabhängig vom Urteil gewichtet.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0018",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Luft-Luft erwärmt direkt Raumluft, Luft-Wasser einen Wasser-Heizkreis und ggf. Warmwasser.",
+      "reason": "Der namensgebende Unterschied ist richtig. Die Aussage vom Unterschied nur an der dritten Station bezieht sich auf den gemeinsamen Grundprozess. Praktische Verteilung und Regelung unterscheiden sich zusätzlich.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 437,
+          "endSeconds": 469,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S08",
+          "note": "Typ 251.A10, technische Daten S. 9–11; Anlagenaufbau S. 2–6; R290-Monoblock; A−7/W35 COP 3,16; A−7/W55 COP 2,13; Heizbetrieb ab −20 °C; Nebenverbraucher ausgewiesen."
+        },
+        {
+          "sourceId": "PH-S10",
+          "note": "Produktbeschreibung PDF S. 1; R290; Raumheizung, Kühlung und Warmwasserbereitung."
+        },
+        {
+          "sourceId": "PH-S19",
+          "note": "Einleitung, Mini Split, Cold Climate Considerations; Wärmetransport, Heizen und Kühlen; Mini-Split mit Innen- und Außeneinheit."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-18; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende Erklärung des Heizungs- oder Energieprinzips.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0019",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Bei den genannten R290-Monoblocks liegt der Kältekreis außen; Heizwasser führt ins Haus.",
+      "reason": "Die Vitocal-Dokumentation bestätigt dies. Die vorherige allgemeine 'drinnen'-Skizze wird hier ausdrücklich für Monoblocks eingeordnet; keinen Widerspruch ohne Kontext konstruieren.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 454,
+          "endSeconds": 469,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S08",
+          "note": "Typ 251.A10, technische Daten S. 9–11; Anlagenaufbau S. 2–6; R290-Monoblock; A−7/W35 COP 3,16; A−7/W55 COP 2,13; Heizbetrieb ab −20 °C; Nebenverbraucher ausgewiesen."
+        },
+        {
+          "sourceId": "PH-S09",
+          "note": "PDF S. 8, vierte Modellspalte 251.A10; COP 3,16 und 2,1; erste Modellspalte A04 dagegen 3,2 und 2,2."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-19; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger normaler Sachpunkt innerhalb der technischen Erklärung; unabhängig vom Urteil gewichtet.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0020",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Typische reversible Splitgeräte führen Kältemittel zum Innengerät und können im Sommer kühlen.",
+      "reason": "Richtig für die gemeinte Geräteart. 'Rückwärts' bedeutet umgeschalteter Kältemittelweg; nicht rückwärts laufender Verdichter. Das konkrete Modell von Sinan bleibt unbekannt.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 469,
+          "endSeconds": 485,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S11",
+          "note": "The heating cycle; Definitions; Offizieller Primärtext in Suchausgabe; Direktöffnung 403. Erklärt die vier Prozessschritte, Flüssigkeits-Dampf-Gemisch, Umkehrventil und Temperaturgrenzen."
+        },
+        {
+          "sourceId": "PH-S12",
+          "note": "Cooling; Heating; Types; Original-Fachtext des Branchenverbands über Kreislauf und Split-/Kompaktbauarten."
+        },
+        {
+          "sourceId": "PH-S19",
+          "note": "Einleitung, Mini Split, Cold Climate Considerations; Wärmetransport, Heizen und Kühlen; Mini-Split mit Innen- und Außeneinheit."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-20; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger normaler Sachpunkt innerhalb der technischen Erklärung; unabhängig vom Urteil gewichtet.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0021",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Zürcher Rathaus: seit 1938 Limmatwärmepumpe als Holzöfenersatz; 63 Jahre bis 2001.",
+      "reason": "Fachhistorischer Originalbericht und Kanton Zürich stimmen überein. Einzelfall, keine Lebensdauerzusage für heutige Geräte. Am Schluss erkennbar ein Wunsch.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 485,
+          "endSeconds": 500,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        },
+        {
+          "startSeconds": 1230,
+          "endSeconds": 1268,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S13",
+          "note": "PDF S. 5–6, Tabelle 1, Rathausabsatz; 1937/38 Bau als Holzöfenersatz, Start 1938, Limmatwärme, 63 Jahre bis Ersatz 2001."
+        },
+        {
+          "sourceId": "PH-S14",
+          "note": "Wärmepumpen – Entwicklung und Aussichten; Bestätigt Rathausanlage 1938 und Wärme aus der Limmat."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-21; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Anschauungsbeispiel oder Anekdote; Hauptargumentation hängt nicht von dieser Einzelheit ab.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0022",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "2.000 Watt während einer halben Stunde sind eine Kilowattstunde.",
+      "reason": "Eigene Rechnung: 2 kW × 0,5 h = 1 kWh. Annahme ist durchgehende Nennleistung; tatsächliches Abschalten eines Wasserkochers ändert die Einheitenerklärung nicht.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 500,
+          "endSeconds": 515,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-22; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Anschauungsbeispiel oder Anekdote; Hauptargumentation hängt nicht von dieser Einzelheit ab.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0023",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Nachtspeicher-/Widerstandsheizung wandelt Strom ungefähr 1:1 in Wärme um.",
+      "reason": "Am Gerät richtige Energieumwandlung. Bedarfsgerecht nutzbare Wärme kann durch ungewollte Wärmeabgabe oder Regelung geringer sein. Nicht als perfekte gesamte Gebäudebilanz lesen.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 515,
+          "endSeconds": 533,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S15",
+          "note": "Einleitung; Electric Furnaces; Strom am Widerstandsheizer vollständig in Wärme umgewandelt; Nutzwärme-/Verteilverluste getrennt."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-23; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende Erklärung des Heizungs- oder Energieprinzips.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0024",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Gas-/Ölheizungen liefern weniger nutzbare Wärme als vollständige Brennstoffenergie.",
+      "reason": "Bei Brennwertbilanz richtig. Verluste bestehen nicht nur im Abgas. Für Jahreskosten braucht es einen Nutzungsgrad. Scheinbar über 100 % bei Heizwertbezug sind kein Verstoß gegen Energieerhaltung.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 515,
+          "endSeconds": 533,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S16",
+          "note": "Gas- and Oil-Fired Boilers; Fußnoten; Jahresnutzungsgrad, Abgas-, Stillstands- und Gehäuseverluste."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-24; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger normaler Sachpunkt innerhalb der technischen Erklärung; unabhängig vom Urteil gewichtet.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0025",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Höheres Heizwasser senkt bei sonst gleichen Bedingungen die Leistungszahl.",
+      "reason": "Der größere Temperaturhub erhöht den erforderlichen Arbeitsaufwand. Herstellervergleichspunkte bestätigen den Zusammenhang.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 739,
+          "endSeconds": 772,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S05",
+          "note": "6. Auflage Mai 2026; gedruckte S. 5–9, 21–24; Vier Prozessschritte; innere Energie und Wärme; Bilanzgrenzen für Verdichter, Pumpen, Ventilatoren und weitere Verbraucher."
+        },
+        {
+          "sourceId": "PH-S08",
+          "note": "Typ 251.A10, technische Daten S. 9–11; Anlagenaufbau S. 2–6; R290-Monoblock; A−7/W35 COP 3,16; A−7/W55 COP 2,13; Heizbetrieb ab −20 °C; Nebenverbraucher ausgewiesen."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-25; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende Erklärung des Heizungs- oder Energieprinzips.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0026",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Bei −7 °C außen erreicht ein Gerät COP 3,2 bei 35 °C und 2,1 bei 55 °C Heizwasser.",
+      "reason": "Typ Viessmann 251.A10 passt: 3,16 und 2,13 im Originaldatenblatt, gerundet 3,2/2,1. Händlerfassung nennt 3,16/2,1. Nicht versehentlich A04 (3,2/2,2) vergleichen.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 756,
+          "endSeconds": 772,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S08",
+          "note": "Typ 251.A10, technische Daten S. 9–11; Anlagenaufbau S. 2–6; R290-Monoblock; A−7/W35 COP 3,16; A−7/W55 COP 2,13; Heizbetrieb ab −20 °C; Nebenverbraucher ausgewiesen."
+        },
+        {
+          "sourceId": "PH-S09",
+          "note": "PDF S. 8, vierte Modellspalte 251.A10; COP 3,16 und 2,1; erste Modellspalte A04 dagegen 3,2 und 2,2."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-26; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger normaler Sachpunkt innerhalb der technischen Erklärung; unabhängig vom Urteil gewichtet.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0027",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Bei Frost arbeitet die Wärmepumpe weiter, nur mit geringerer Effizienz.",
+      "reason": "Für −7 °C im Beispiel richtig. Allgemein fehlen Leistungsgrenzen, Abtauung und ggf. Zusatzheizbedarf. Hersteller nennt für das Gerät Heizbetrieb ab −20 °C; keine unbegrenzte Frostzusage.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 756,
+          "endSeconds": 772,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        },
+        {
+          "sourceId": "PH-S08",
+          "note": "Typ 251.A10, technische Daten S. 9–11; Anlagenaufbau S. 2–6; R290-Monoblock; A−7/W35 COP 3,16; A−7/W55 COP 2,13; Heizbetrieb ab −20 °C; Nebenverbraucher ausgewiesen."
+        },
+        {
+          "sourceId": "PH-S11",
+          "note": "The heating cycle; Definitions; Offizieller Primärtext in Suchausgabe; Direktöffnung 403. Erklärt die vier Prozessschritte, Flüssigkeits-Dampf-Gemisch, Umkehrventil und Temperaturgrenzen."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-27; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "shortReason": "Frostbetrieb bleibt durch Heizleistung, Abtauung und den Betriebsbereich des konkreten Geräts begrenzt.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger normaler Sachpunkt innerhalb der technischen Erklärung; unabhängig vom Urteil gewichtet.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – Redaktion",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0028",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Nicht überprüfbar",
+      "verdict": null,
+      "description": "Drei Hilfsprogramme hätten für die Recherche rund 790.000 Tokens verarbeitet.",
+      "reason": "Nicht überprüfbar – Kein öffentliches Sitzungsprotokoll zur unabhängigen Reproduktion verfügbar. Beschreibung nennt eine Sitzungszählung. Unbekannt sind Ein-/Ausgabe-, Cache- und Wiederverwendungsanteile; kein Beleg gegen die Zahl.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 1197,
+          "endSeconds": 1215,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        }
+      ],
+      "openQuestions": [
+        "Kann ein anonymisiertes Sitzungsprotokoll die Tokenzählung reproduzierbar belegen?"
+      ],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-28; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      },
+      "research": {
+        "gap": "Derzeit nicht überprüfbar",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Physik",
+            "strategy": "Selbstauskunft im Schluss mit der Erläuterung in der Beschreibung abgeglichen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Interne Zählung; keine veröffentlichte reproduzierbare Berechnungsgrundlage."
+          }
+        ],
+        "missingInformation": "Anonymisierte Sitzungszählung mit Ein-/Ausgabe-, Cache- und Wiederverwendungsanteilen.",
+        "conflicts": null
+      }
+    },
+    {
+      "id": "ZhSNJw1HNUw-A0029",
+      "chapter": 4,
+      "kind": "Meinung",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Tokenverarbeitung wird bildhaft als Wärmeproduktion beschrieben.",
+      "reason": "Erkennbare Wiederaufnahme der Heizungsmetapher. Keine konkrete Token-zu-Joule-Umrechnung behauptet. Strom-zu-Wärme-Bilanz ist bereits geprüft. Ein Energieverbrauch pro Token ließe sich ohne weitere Betriebsdaten nicht beziffern.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "occurrences": [
+        {
+          "startSeconds": 1197,
+          "endSeconds": 1215,
+          "precision": "Ungefähr",
+          "speakerId": "SP2",
+          "attributionStatus": "Plausibel",
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "attributionBasis": "Namensnennungen und zusammenhängender Captionkontext; keine eigene Hörkontrolle.",
+          "roleBasis": "Aussage der Projektbeteiligten im eigenen Erklärformat.",
+          "timeBasis": "Captionintervall; keine sekundengenaue audiovisuelle Bestätigung."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
+        }
+      ],
+      "openQuestions": [],
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "PHY-29; Wiederholungen als weitere Fundstellen.",
+        "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
+      }
+    }
+  ]
+}

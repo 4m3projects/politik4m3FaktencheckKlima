@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "videoId": "ZhSNJw1HNUw",
+  "review": {
+    "status": "Teilweise geprüft",
+    "checkedOn": "2026-11-21",
+    "by": "ChatGPT",
+    "basis": "Captiontext und sichtbares Vorschaubild; Szenennotizen nur Suchhilfe.",
+    "coverage": "Sprachlicher Kontext gelesen; keine direkte Bild-/Tonvollprüfung.",
+    "limits": [
+      "Originalplayer blieb bei 0:00.",
+      "Einblendungen und Originalton innerhalb des Videos nicht unmittelbar kontrolliert."
+    ],
+    "history": [
+      {
+        "date": "2026-11-21",
+        "by": "ChatGPT",
+        "change": "Materialgrenzen für Zwischenstand dokumentiert."
+      }
+    ]
+  },
+  "annotations": []
+}
