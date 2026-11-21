@@ -1,3 +1,5 @@
+> **Abschlussnachtrag Codex, 21.11.2026:** Q11 ist bei 08:00 unmittelbar als Quellenetikett der Luft-Luft-/Luft-Wasser-Darstellung beobachtet. Die frühere Vermutung einer möglicherweise ungeprüften Europagrafik ist an dieser Stelle nicht bestätigt. Weitere Bildbeobachtungen und Grenzen: [06_abschluss.md](06_abschluss.md).
+
 # Abgleich der 37 Quellenangaben des Videos
 
 Stand: 21. November 2026. Q01 bis Q37 enthalten insgesamt 39 Original-URLs. Geprüft wird, welche Aussage eine Quelle tatsächlich trägt. Eine zugängliche Quelle oder ein Förderhinweis allein macht eine Aussage weder wahr noch falsch. Die konkrete Einblendung jeder Q-Nummer ist nicht frameweise verifiziert.
@@ -249,7 +251,7 @@ Q11 bleibt hinsichtlich seiner konkreten Verwendung im Bild offen. Q25 ist als r
 
 **Interessen und Finanzierung:** EHPA ist der europäische Wärmepumpenverband und benennt sein Interesse am Ausbau der Technologie. Eigene Marktstatistik ist von politischen Schlussfolgerungen zu unterscheiden.
 
-**Offen:** Welche Q11-Einblendung gehört zu welcher Bild- oder Tonbehauptung? Ohne frameweise Sichtprüfung nicht abschließend festgelegt.
+**Abschlussnachprüfung:** Bei 08:00 steht Q11 an der Darstellung von Luft-Luft, Luft-Wasser und sommerlicher Kühlung. Dort ist keine europäische Absatzgrafik sichtbar. Diese Quellenzuordnung ist damit unmittelbar beobachtet; eine zusätzliche Marktzahl wird daraus nicht erfunden.
 
 **Zuordnung:** Im gesprochenen Transkript keine eindeutige einzelne Detailaussage zuordenbar. Thematischer Abgleich mit Transkript und Befunden; Einblendung der Q-Nummer nicht frameweise verifiziert.
 

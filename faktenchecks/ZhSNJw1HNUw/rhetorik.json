@@ -4,13 +4,12 @@
   "review": {
     "status": "Teilweise geprüft",
     "checkedOn": "2026-11-21",
-    "by": "ChatGPT",
-    "basis": "Vollständiger Captiontext und sichtbares Vorschaubild; Originalplayer ohne laufende Wiedergabe. Automatische Szenennotizen nur Suchhilfe.",
-    "coverage": "Sprachliche Darstellung über die volle zugängliche Captionlaufzeit geprüft; fünf beschreibende Hinweise. Keine audiovisuelle Vollprüfung.",
+    "by": "ChatGPT; Abschlussnachprüfung Codex",
+    "basis": "Vollständiger Captiontext und sichtbares Vorschaubild; Originalplayer ohne laufende Wiedergabe. Automatische Szenennotizen nur Suchhilfe. Ergänzung: Originalwiedergabe diesmal zugänglich; direkte Standbildkontrolle in 45-Sekunden-Schritten sowie bei 08:00 und 15:55.",
+    "coverage": "Sprachliche Darstellung über die vollständige zugängliche Captionlaufzeit geprüft; fünf beschreibende Hinweise. Direkte Standbild-Stichprobe über alle Kapitel, keine kontinuierliche Hör-/Sichtkontrolle.",
     "limits": [
-      "Originalton, Stimmführung und genaue Sprecherwechsel nicht unmittelbar kontrolliert.",
-      "Schnitt, Musik, Animationen und ausschließlich eingeblendete Informationen nicht vollständig geprüft.",
-      "Aus Captionvollständigkeit folgt keine vollständige grafische Faktenabdeckung, etwa für eine möglicherweise mit Q11 belegte Europagrafik."
+      "Originalton, Stimmführung, Musik und Schnittverlauf nicht lückenlos unmittelbar kontrolliert.",
+      "Standbilder ergänzen die Captionprüfung, sichern aber nicht sämtliche kurzen Einblendungen zwischen den Stichproben ab."
     ],
     "history": [
       {
@@ -22,6 +21,11 @@
         "date": "2026-11-21",
         "by": "ChatGPT",
         "change": "Sprachliche Gesamtlektüre und redaktionelle Gegenprüfung ergänzt; fünf Hinweise ohne Einfluss auf die Sachbewertung."
+      },
+      {
+        "date": "2026-11-21",
+        "by": "Codex",
+        "change": "Standbildkontrolle ergänzt; Q11 bei 08:00 und eng begrenzte 93-Prozent-Grafik bei 15:55 unmittelbar festgestellt. Teilweise geprüft bleibt wegen der fehlenden kontinuierlichen Hör-/Sichtprüfung bestehen."
       }
     ]
   },

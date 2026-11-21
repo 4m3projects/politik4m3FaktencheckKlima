@@ -2,7 +2,7 @@
 
 **Das Video ist im Kern belastbar.** Im erfassten Bestand stehen 69 belegte Sachangaben und acht teilweise belegte Aussagen; hinzu kommen sechs Meinungen beziehungsweise Deutungen und zwei nicht unabhängig prüfbare Selbstauskünfte. Kein erfasster Sachpunkt ist widerlegt.
 
-Das ist ein Urteil über die geprüften Aussagen, keine Garantie für jedes Gerät, jeden Förderfall oder jede noch nicht kontrollierte Einblendung. Die eigene audiovisuelle Vollsichtung fehlt, weil der Originalplayer nicht über 0:00 hinaus abspielte.
+Das ist ein Urteil über die geprüften Aussagen, keine Garantie für jedes Gerät, jeden Förderfall oder jede noch nicht kontrollierte Einblendung. In der Abschlussnachprüfung funktionierte die Wiedergabe; eine Standbild-Stichprobe ergänzt die Sachprüfung. Eine lückenlose eigene Hör-/Sichtprüfung ist weiterhin nicht belegt.
 
 ## Was die Prüfung bestätigt
 
@@ -33,6 +33,6 @@ Die ersten drei technischen und mehrere rechtliche Punkte sind überwiegend begr
 
 Die zwei Medienanalysen untersuchen unterschiedliche Fragen. Alfreds Hinweis auf unterschiedliche Ergebnisse ist deshalb nicht schon falsch. Er nennt bei der Umfrage auch die zwei unterschiedlichen Regeln; ihm ein kontrolliertes Experiment über bloße Wortwahl zu unterstellen, wäre zu streng. Herstellerbeteiligung oder Forschungsfinanzierung allein widerlegen keine Messung. Ein günstiger, ausdrücklich als solcher benannter Tarif ist kein vorgetäuschter Marktmittelwert.
 
-Offen bleiben die audiovisuelle Kontrolle, ausschließlich eingeblendete Daten, die interne Tokenzählung und die Reproduzierbarkeit des Kampagnen-Nichtfunds. Im DPZ-Originalbericht sind zudem Bezugsgrößen klärungsbedürftig. Alfreds korrekte Wiedergabe des dort veröffentlichten 93-Prozent-Ergebnisses wird dadurch nicht automatisch falsch.
+Die Sachrecherche ist abgeschlossen. Interne Tokenzählung und Suchumfang des Kampagnen-Nichtfunds bleiben ohne interne Protokolle nicht überprüfbar. Die erneute öffentliche Recherche löst die widersprüchlichen Studiennenner nicht auf; Alfreds eng begrenzte Wiedergabe der veröffentlichten 93 Prozent ist auch im Bild bestätigt. Eine kontinuierliche Hör-/Sichtprüfung bleibt durch die Standbildkontrolle unersetzt; deshalb ist die Darstellung weiterhin teilweise geprüft. Einzelheiten stehen in der [Abschlussnachprüfung](06_abschluss.md).
 
 Vollständige Begründungen und Quellen: [Analyse](02_analyse.md) und [Einzelprüfungen](03_einzelpruefungen.md).

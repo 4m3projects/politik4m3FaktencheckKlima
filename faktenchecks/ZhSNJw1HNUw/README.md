@@ -1,7 +1,7 @@
 # Alfred und die Wärmepumpe – ausführlicher Faktencheck
 
 **Video:** [Warum regt das Wort Wärmepumpe so viele auf?](https://www.youtube.com/watch?v=ZhSNJw1HNUw) · Alfred räumt auf · 21. November 2026 · 21:08  
-**Prüfstand:** 21. November 2026 · Erfasste Sachargumente über die gesamte Captionlaufzeit bearbeitet; Darstellung teilweise geprüft.
+**Prüfstand:** 21. November 2026 · Sachrecherche abgeschlossen; ergänzende Bildkontrolle durchgeführt, Darstellung weiterhin teilweise geprüft.
 
 ## Ergebnis
 
@@ -20,15 +20,17 @@ Das Video ist in seinen zentralen Sachargumenten überwiegend belastbar. Der Kä
 
 Die Zahlen stammen aus der automatisch erzeugten Statistik. Wiederholungen wurden zusammengeführt; der abschließende Kosten-/Klimasatz bekommt keinen zusätzlichen positiven Beitrag. Zwei ausdrücklich wiedergegebene Verbandsdeutungen werden Alfred nicht als eigene Kausalbehauptungen zugerechnet. Der Faktenindex wird von der gemeinsamen Projektlogik berechnet und nicht von der Redaktion gesetzt.
 
-**Die angezeigte Prüfabdeckung bezieht sich auf den erfassten Aussagenbestand. Sie bedeutet keine vollständige Sichtung aller Videobilder.** Der Originalplayer blieb trotz erneuten Startversuchs und einmaligen Neuladens bei 0:00. Der volle Captiontext, die Beschreibung und Quellen waren zugänglich. Zusätzliche Bildeinblendungen, Originalton, Schnitt und Musik bleiben nicht vollständig kontrolliert. Auch die Bedeutungskontrolle erfolgte innerhalb desselben ChatGPT-Durchlaufs, nicht durch ein unabhängiges Modell.
+**Die Sachrecherche ist abgeschlossen, eine lückenlose audiovisuelle Vollprüfung bleibt unbestätigt.** Die berechnete Abdeckung gilt für den erfassten Bestand. Die Wiedergabe funktionierte in der Abschlussnachprüfung; Standbilder über alle Kapitel und gezielte Grafiken wurden geprüft. Originalton, Musik, Schnitt und kurze Einblendungen wurden damit nicht lückenlos kontrolliert. Die Darstellungsebene bleibt deshalb teilweise geprüft. Die interne Tokenzählung, der Recherche-Nichtfund und die nicht reproduzierbaren Studiennenner sind abschließend als Erkenntnisgrenzen dokumentiert.
 
 ## Lesen
 
 - [Kurzfassung und die acht Präzisierungen](01_kurzfassung.md)
 - [Ausführliche Analyse: Physik, Kosten, Klima, Recht und Medien](02_analyse.md)
 - [Alle 85 Einzelprüfungen mit Fundstellen und Quellen](03_einzelpruefungen.md)
-- [Prüfprotokoll, Grenzen und konkrete Restaufgaben](04_pruefprotokoll.md)
+- [Prüfprotokoll und dokumentierte Grenzen](04_pruefprotokoll.md)
 - [Abgleich der 37 Quellenangaben des Videos](05_quellenabgleich.md)
+
+- [Abschlussnachprüfung mit direkter Bildkontrolle](06_abschluss.md)
 
 ## Verlauf dieser Prüfung
 

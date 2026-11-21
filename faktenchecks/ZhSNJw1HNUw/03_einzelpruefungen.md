@@ -665,13 +665,13 @@ Originalangabe 2036 Beiträge,19 Medien.
 
 **Fundstellen:** 15:47–16:04. **Einordnung:** Belegt.
 
-Das Video grenzt die Zahl auf den geprüften Gegenstand ein. Die Quote bezieht sich auf Austausch/Weiterbetrieb, nicht auf die Wahrheit von 93 Prozent sämtlicher Medieninhalte. Quellen-Nachprüfung offen: Der Bericht nennt zugleich 2.036 Gesamtbeiträge, 378 Beiträge mit einschlägiger Information sowie 6 Prozent richtige und 0,5 Prozent irreführende Darstellungen unter allen Beiträgen. Ohne weitere Erklärung sind diese Bezugsgrößen schwer vereinbar (378/2.036 = 18,57 Prozent; 6 + 0,5 = 6,5 Prozent). Möglich sind ein Nennerwechsel oder ein redaktioneller Fehler. Das widerlegt die veröffentlichte 93-Prozent-Quote nicht; ihre vollständige Reproduktion aus Rohdaten bleibt offen.
+Alfred gibt das im Originalbericht veröffentlichte 93-Prozent-Ergebnis zum Weiterbetrieb alter Heizungen korrekt wieder; auch die Grafik bei 15:55 begrenzt es ausdrücklich darauf. Es ist keine Quote für sämtliche Medieninhalte. Die erneute Quellenprüfung bestätigt eine interne Unklarheit: 378/2.036 = 18,57 Prozent, während 6 Prozent und 0,5 Prozent zusammen 6,5 Prozent ergeben. Ohne Rohdaten oder Erläuterung ist die vollständige Nachrechnung nicht möglich; eine gezielte Suche nach Codebuch, Replikationsdaten und Berichtigung fand keine zugängliche Auflösung. Ergebnis: korrekte Studienwiedergabe belegt, interne Konsistenz der Studie nicht unabhängig bestätigt. Die Quellenunsicherheit ist kein nachgewiesener Fehler des Videos.
 
 **Quellen und Fundstellen:**
 
 - [DPZ/Mainz: Aufgeheizte Debatte? 2024](https://www.progressives-zentrum.org/wp-content/uploads/2024/04/240418_DPZ_Studie_Aufgeheizte-Debatte.pdf): PDF S.4–5,11–12,17–19,29,40; Stichprobe, enges Richtigkeitskriterium, Förderung, Auftrag.
 
-**Offen:** Wie erklären sich die Bezugsgrößen im DPZ-Bericht, und lässt sich die 93-Prozent-Quote aus Daten und Codebuch reproduzieren?
+**Abschluss:** Öffentliche Nachsuche durchgeführt; fehlende Replikationsdaten als Quellenbegrenzung dokumentiert.
 
 ## 0065 · Irreführende Aussagen fanden sich besonders bei BILD und den untersuchten linken und rechten Randmedien; bei den untersuchten rechten Randmedien überwogen sie.
 
@@ -744,7 +744,7 @@ Nicht überprüfbar – Alfred berichtet begrenzt über seine eigene Recherche u
 
 - [Lobbyregister Zukunft Gas GuV2023](https://www.lobbyregister.bundestag.de/media/43/a3/451384/GuV-2023.pdf): Allgemeine Finanzdaten, keine konkrete Anti-Wärmepumpenkampagne nachgewiesen.
 
-**Offen:** Welche Datenbanken, Zeiträume und Suchbegriffe umfasste Alfreds Suche nach dieser Kampagne?
+**Prüfgrenze:** Ohne internes Suchprotokoll nicht vollständig reproduzierbar; abgeschlossene Einordnung ohne Wahr/Falsch-Urteil.
 
 ## 0072 · Hersteller verkauften 2023 über 1,3 Millionen Heizgeräte, darunter rund 790.000 Gasgeräte.
 
@@ -908,7 +908,7 @@ Nicht überprüfbar – Kein öffentliches Sitzungsprotokoll zur unabhängigen R
 
 - [Zielvideo](https://www.youtube.com/watch?v=ZhSNJw1HNUw); eigene rechnerische bzw. sprachliche Einordnung, soweit im Urteil erläutert.
 
-**Offen:** Kann ein anonymisiertes Sitzungsprotokoll die Tokenzählung reproduzierbar belegen?
+**Prüfgrenze:** Ohne veröffentlichtes internes Zählprotokoll nicht unabhängig reproduzierbar; abgeschlossene Einordnung ohne Wahr/Falsch-Urteil.
 
 ## 0029 · Tokenverarbeitung wird bildhaft als Wärmeproduktion beschrieben.
 

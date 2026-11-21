@@ -1,3 +1,5 @@
+> **Abschlussnachtrag, 21.11.2026:** Die Sachrecherche ist abgeschlossen. Die ergänzende direkte Standbildkontrolle und der erneute Quellenabgleich stehen in [06_abschluss.md](06_abschluss.md). Eine lückenlose audiovisuelle Vollprüfung wird weiterhin nicht behauptet.
+
 # Ausführliche Analyse des Wärmepumpen-Videos
 
 **Alfred räumt auf: Warum regt das Wort Wärmepumpe so viele auf?**  

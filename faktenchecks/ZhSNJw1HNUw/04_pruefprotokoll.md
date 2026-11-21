@@ -1,3 +1,5 @@
+> **Abschlussnachtrag Codex, 21.11.2026:** Sachrecherche abgeschlossen; dieser Text dokumentiert den vorherigen Prüfstand. Die aktuelle Behandlung der damaligen Restaufgaben, direkte Bildbeobachtungen und verbleibende Prüfgrenzen stehen in [06_abschluss.md](06_abschluss.md). Die Darstellung bleibt teilweise geprüft.
+
 # Prüfprotokoll und verbleibende Grenzen
 
 **Video:** ZhSNJw1HNUw, Alfred räumt auf, 21. November 2026, 21:08.  
