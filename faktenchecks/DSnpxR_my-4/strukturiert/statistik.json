@@ -5,14 +5,14 @@
   "statusCounts": {
     "Abgeschlossen": 9,
     "In Bearbeitung": 12,
-    "Offen": 0,
-    "Nicht überprüfbar": 3
+    "Offen": 3,
+    "Nicht überprüfbar": 0
   },
   "factClaims": 22,
   "completedFacts": 7,
-  "openFacts": 0,
+  "openFacts": 3,
   "inProgressFacts": 12,
-  "unverifiableFacts": 3,
+  "unverifiableFacts": 0,
   "percentageDenominator": 7,
   "categories": [
     {

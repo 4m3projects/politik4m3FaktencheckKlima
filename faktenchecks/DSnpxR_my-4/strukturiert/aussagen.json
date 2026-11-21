@@ -1225,10 +1225,10 @@
       "id": "DSnpxR_my-4-A0014",
       "chapter": 3,
       "kind": "Tatsachenbehauptung",
-      "status": "Nicht überprüfbar",
+      "status": "Offen",
       "verdict": null,
       "description": "Alle Produkte sollten besteuert werden.",
-      "reason": "Nicht überprüfbar – der Ausschnitt benennt keinen konkreten Urheber, kein Gesetz, keine Steuerart und keinen Zeitraum des behaupteten Plans. Nationaler Brennstoffemissionshandel und europäischer CO₂-Grenzausgleich haben jeweils definierte Anwendungsbereiche; beides darf nicht ohne Beleg zum gemeinten Vorhaben erklärt werden. Auch die indirekte Weitergabe von Energiekosten über viele Produkte wäre etwas anderes als eine neue Steuer auf jedes Produkt.",
+      "reason": "Noch nicht geprüft – der konkrete Maßnahme- oder Gesetzesbezug ist im verfügbaren Untertitelkontext nicht eindeutig identifiziert. Die noch ausstehende unmittelbare Bild-/Tonprüfung könnte ihn klären. Eine Zugriffslücke ist kein abschließendes Urteil über die Überprüfbarkeit.",
       "assessmentBasis": "Untertitelkontext mit unabhängig direkt geöffneten Primärquellen abgeglichen; Grenzen und Systembezüge in der Begründung ausgewiesen.",
       "occurrences": [
         {
@@ -1262,7 +1262,7 @@
         "Im Originalgespräch prüfen, ob Krall unmittelbar davor ein konkretes Gesetz oder Programm nennt."
       ],
       "research": {
-        "gap": "Derzeit nicht überprüfbar",
+        "gap": "Bezugsobjekt durch unmittelbare audiovisuelle Kontrolle identifizieren; bis dahin kein abschließendes Sachurteil.",
         "confidence": "Hoch",
         "rounds": [
           {
@@ -1299,7 +1299,7 @@
       "migration": {
         "changeType": "Neu erfasst",
         "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M14.",
-        "assessmentChange": "Erstbewertung im ChatGPT-Zwischenstand nach Quellenprüfung."
+        "assessmentChange": "Vor Veröffentlichung redaktionell als offen eingeordnet, weil fehlende Bild-/Tonkontrolle nicht als sachliche Unüberprüfbarkeit behandelt wird."
       },
       "attribution": {
         "statementBy": "Zitierte Person",
@@ -1903,10 +1903,10 @@
       "id": "DSnpxR_my-4-A0022",
       "chapter": 5,
       "kind": "Tatsachenbehauptung",
-      "status": "Nicht überprüfbar",
+      "status": "Offen",
       "verdict": null,
       "description": "Reiche verspreche Sicherheit, die dazugehörige Gesetzesformulierung enthalte aber nichts Entsprechendes.",
-      "reason": "Nicht überprüfbar – im vorliegenden Ausschnitt werden weder Reiches konkrete Zusage noch das Gesetz und die verglichene Fassung bezeichnet. Eine eindeutige Zuordnung ist dadurch nicht möglich. Als mögliche Kontextquelle wurde die EEG-Novelle 2027 gelesen: Sie enthält Agri-PV-Förderregeln und Übergangsbestimmungen; der BEE kritisiert zugleich erhebliche Finanzierungsrisiken und lobt einzelne Vertrauensschutzregeln. Daraus lässt sich die präzise Behauptung des Hosts ohne sichere Referenz weder bestätigen noch widerlegen. Die Bezeichnung als Gaspolitik ist eine politische Wertung, keine getrennte Tatsachenmessung.",
+      "reason": "Noch nicht geprüft – der konkrete Maßnahme- oder Gesetzesbezug ist im verfügbaren Untertitelkontext nicht eindeutig identifiziert. Die noch ausstehende unmittelbare Bild-/Tonprüfung könnte ihn klären. Eine Zugriffslücke ist kein abschließendes Urteil über die Überprüfbarkeit.",
       "assessmentBasis": "Untertitelkontext mit unabhängig direkt geöffneten Primärquellen abgeglichen; Grenzen und Systembezüge in der Begründung ausgewiesen.",
       "occurrences": [
         {
@@ -1940,7 +1940,7 @@
         "In Bild, Videobeschreibung oder Ausgangsmaterial nach benannter Zusage und Gesetzesfassung suchen; erst dann Rechtsvergleich."
       ],
       "research": {
-        "gap": "Derzeit nicht überprüfbar",
+        "gap": "Bezugsobjekt durch unmittelbare audiovisuelle Kontrolle identifizieren; bis dahin kein abschließendes Sachurteil.",
         "confidence": "Hoch",
         "rounds": [
           {
@@ -1977,17 +1977,17 @@
       "migration": {
         "changeType": "Neu erfasst",
         "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M22.",
-        "assessmentChange": "Erstbewertung im ChatGPT-Zwischenstand nach Quellenprüfung."
+        "assessmentChange": "Vor Veröffentlichung redaktionell als offen eingeordnet, weil fehlende Bild-/Tonkontrolle nicht als sachliche Unüberprüfbarkeit behandelt wird."
       }
     },
     {
       "id": "DSnpxR_my-4-A0023",
       "chapter": 5,
       "kind": "Tatsachenbehauptung",
-      "status": "Nicht überprüfbar",
+      "status": "Offen",
       "verdict": null,
       "description": "Trump habe die zuvor erwähnten Klimamaßnahmen in den USA abgeschafft.",
-      "reason": "Nicht überprüfbar – das Bezugwort bezeichnet im Ausschnitt keine eindeutig identifizierbare Maßnahme. Tatsächlich ordnete Trump die Umsetzung gekürzter Steuerförderung für Wind/Solar an; dies ist keine Abschaffung aller CO₂-Preise. Ein pauschaler Schluss auf das Ende sämtlicher US-Klimabepreisung wäre nachweislich falsch: Washington versteigerte im September 2026 weiterhin Emissionszertifikate. Da der Sprecher keinen präzisen Gegenstand nennt, wird ihm diese maximale Lesart nicht als gesicherter Wortlaut zugeschrieben.",
+      "reason": "Noch nicht geprüft – der konkrete Maßnahme- oder Gesetzesbezug ist im verfügbaren Untertitelkontext nicht eindeutig identifiziert. Die noch ausstehende unmittelbare Bild-/Tonprüfung könnte ihn klären. Eine Zugriffslücke ist kein abschließendes Urteil über die Überprüfbarkeit.",
       "assessmentBasis": "Untertitelkontext mit unabhängig direkt geöffneten Primärquellen abgeglichen; Grenzen und Systembezüge in der Begründung ausgewiesen.",
       "occurrences": [
         {
@@ -2025,7 +2025,7 @@
         "Den unmittelbaren Kontext im Originalgespräch bestimmen; anschließend die dort tatsächlich bezeichnete Maßnahme prüfen."
       ],
       "research": {
-        "gap": "Derzeit nicht überprüfbar",
+        "gap": "Bezugsobjekt durch unmittelbare audiovisuelle Kontrolle identifizieren; bis dahin kein abschließendes Sachurteil.",
         "confidence": "Hoch",
         "rounds": [
           {
@@ -2063,7 +2063,7 @@
       "migration": {
         "changeType": "Neu erfasst",
         "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M23.",
-        "assessmentChange": "Erstbewertung im ChatGPT-Zwischenstand nach Quellenprüfung."
+        "assessmentChange": "Vor Veröffentlichung redaktionell als offen eingeordnet, weil fehlende Bild-/Tonkontrolle nicht als sachliche Unüberprüfbarkeit behandelt wird."
       },
       "attribution": {
         "statementBy": "Zitierte Person",
