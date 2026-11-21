@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "videoId": "DSnpxR_my-4",
+  "review": {
+    "status": "Teilweise geprüft",
+    "checkedOn": "2026-11-21",
+    "by": "ChatGPT",
+    "basis": "Vollständige Lektüre deutscher Originaluntertitel und der Videobeschreibung; keine unmittelbare eigene Bild- oder Tonsichtung.",
+    "coverage": "Sprachlicher Zusammenhang über alle 32 Captionblöcke gesichtet; gesonderte Darstellungsannotation noch in Bearbeitung.",
+    "limits": [
+      "Originalton, Stimmführung und genaue Sprecherwechsel sind nicht unmittelbar kontrolliert.",
+      "Schnitt, Einblendungen, gezeigte Grafiken und Quellen sind nicht vollständig visuell geprüft.",
+      "Automatische Untertitel und zusammengefasste Sichtungsnotizen ersetzen keine eigene audiovisuelle Vollkontrolle."
+    ],
+    "history": [
+      {
+        "date": "2026-11-21",
+        "by": "ChatGPT",
+        "change": "Zwischenstand mit offengelegten Darstellungsgrenzen angelegt; keine vollständige Prüfung behauptet."
+      }
+    ]
+  },
+  "annotations": []
+}

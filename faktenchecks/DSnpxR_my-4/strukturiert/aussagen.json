@@ -1,0 +1,2143 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "videoId": "DSnpxR_my-4",
+    "videoUrl": "https://www.youtube.com/watch?v=DSnpxR_my-4",
+    "kind": "Teilbestand",
+    "asOf": "2026-11-21",
+    "durationSeconds": 500,
+    "coverageNote": "Alle 32 verfügbaren deutschen Captionblöcke über den gesprochenen Inhalt erfasst und zu 24 Aussagekomplexen zusammengeführt. In diesem Zwischenstand ist nur ein Teil sachlich abgeschlossen; keine Vollprüfung des Bildes oder Tons. Zeitmarken sind Captionintervalle.",
+    "researchNote": "ChatGPT-Durchlauf mit gesonderter Material-, Energie-/Politik- und Klimarecherche. Dieser Stand enthält abgeschlossene Energie-/Politikbefunde und laufende Klimaprüfpunkte. Rohtranskripte werden nicht veröffentlicht. Sachurteile beziehen sich auf den Wissensstand zum Upload 06.11.2026, Recherche am 21.11.2026. Video-watch-Notizen wurden nicht als bestätigte Bild-/Tonbelege verwendet."
+  },
+  "speakers": [
+    {
+      "id": "SP1",
+      "name": "Janek Fischer",
+      "videoRole": "Host / Ersteller",
+      "identityBasis": "Kanalmetadaten, Namensnennungen und Zusammenhang der deutschen Untertitel; unmittelbare Bild-/Tonkontrolle steht aus."
+    },
+    {
+      "id": "SP2",
+      "name": "Markus Krall",
+      "videoRole": "Zitierte Person in einem Einspieler",
+      "identityBasis": "Kanalmetadaten, Namensnennungen und Zusammenhang der deutschen Untertitel; unmittelbare Bild-/Tonkontrolle steht aus."
+    },
+    {
+      "id": "SP3",
+      "name": "Felix Goldbach",
+      "videoRole": "Zitierte Person in einem Einspieler",
+      "identityBasis": "Kanalmetadaten, Namensnennungen und Zusammenhang der deutschen Untertitel; unmittelbare Bild-/Tonkontrolle steht aus."
+    },
+    {
+      "id": "SP4",
+      "name": "Mark Benecke",
+      "videoRole": "Zitierte Person in einem Einspieler",
+      "identityBasis": "Kanalmetadaten, Namensnennungen und Zusammenhang der deutschen Untertitel; unmittelbare Bild-/Tonkontrolle steht aus."
+    }
+  ],
+  "sources": [
+    {
+      "id": "S001",
+      "title": "Janek Fischer | SOLARZAN – „Klimakrise erlogen?“ Markus Krall im Gen-Z-Faktencheck",
+      "url": "https://www.youtube.com/watch?v=DSnpxR_my-4",
+      "details": "Video vom 06.11.2026, Laufzeit 8:20. Deutsche Originaluntertitel und Videometadaten über vidIQ abgerufen; keine unmittelbare Bild-/Tonsichtung.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Metadaten und alle 32 deutschen Captionblöcke ausgewertet; für Sachurteile zusätzlich unabhängig gelesene Quellen."
+    },
+    {
+      "id": "S101",
+      "title": "Energiesteuergesetz § 68 – zeitlich begrenzte Fassungen",
+      "url": "https://www.gesetze-im-internet.de/energiestg/__68.html",
+      "details": "geltende Fassung nach Änderung 25.09.2026. Vom 01.10. bis 31.12.2026 beträgt die Energiesteuer für schwefelarmes Benzin 514,10 Euro je 1.000 Liter, also 51,41 ct/L. Gesetz direkt gelesen.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Relevante Abschnitte der verlinkten Originalquelle direkt geöffnet und gelesen.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "S102",
+      "title": "ADAC: Benzinpreis und Dieselpreis – So entstehen die Spritpreise",
+      "url": "https://www.adac.de/verkehr/tanken-kraftstoff-antrieb/tipps-zum-tanken/7-fragen-zum-benzinpreis/",
+      "details": "Fassung ab Oktober 2026; konkrete Vergleichstage im Text. ADAC-eigene Berechnung: Steuer- und Abgabenanteil Benzin im Juli 2026 rund 57 %, am 11.10.2026 rund 47 %; CO2-Kosten sind mitgerechnet. Kein exakter Preisbeleg für 06.11.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Relevante Abschnitte der verlinkten Originalquelle direkt geöffnet und gelesen.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "S103",
+      "title": "Umweltbundesamt: Freiwillige CO2-Kompensation",
+      "url": "https://www.umweltbundesamt.de/themen/freiwillige-co2-kompensation",
+      "details": "23.07.2019. Fluggesellschaften und Reiseportale bieten teils Kompensation direkt beim Kauf an. Freiwilliger Beitrag finanziert Minderungsprojekte; Zusätzlichkeit und Qualität sind Voraussetzungen.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Relevante Abschnitte der verlinkten Originalquelle direkt geöffnet und gelesen.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "S104",
+      "title": "Probst et al.: Systematic assessment of the achieved emission reductions of carbon crediting projects",
+      "url": "https://www.nature.com/articles/s41467-024-53645-z.pdf",
+      "details": "14.11.2024. Originalanalyse: 14 Studien zu 2346 Projekten, 51 Studien zu vergleichbaren Interventionen; weniger als 16% der untersuchten Credits entsprechen geschätzten realen Reduktionen. Große Qualitätsprobleme, stark variierende Projektarten; keine Erhebung strafrechtlichen Betrugs bei allen Anbietern.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Relevante Abschnitte der verlinkten Originalquelle direkt geöffnet und gelesen.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "S105",
+      "title": "Prognos: Q&A – Bezifferung von Klimafolgekosten in Deutschland",
+      "url": "https://www.prognos.com/de/qa-bezifferung-klimafolgekosten-deutschland",
+      "details": "Studienkontext 2023. Studienautoren erläutern 145 Mrd. Euro Extremwetterschäden seit 2000; nicht jeder Euro ist eindeutig dem Klimawandel zurechenbar. Detailereignisse Hitze/Dürre 2018/19 und Ahr/Erft-Flut 2021 sind untersucht; Zukunftswerte sind Szenarien, keine Prognose.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Relevante Abschnitte der verlinkten Originalquelle direkt geöffnet und gelesen.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "S106",
+      "title": "Umweltbundesamt: Emissionshandel – 21 Milliarden Euro fließen in den Klima- und Transformationsfonds",
+      "url": "https://www.umweltbundesamt.de/presse/pressemitteilungen/emissionshandel-21-milliarden-euro-fliessen-in-den",
+      "details": "Januar 2026, Rückblick 2025. Erlöse EU-ETS und nationaler Emissionshandel fließen in KTF. 2026 nationaler Preiskorridor 55–65 Euro je Tonne. Historische Erlöse nicht mit Haushaltssoll verwechseln.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Relevante Abschnitte der verlinkten Originalquelle direkt geöffnet und gelesen.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "S107",
+      "title": "KTFG § 4 – Einnahmen des Sondervermögens",
+      "url": "https://www.gesetze-im-internet.de/ekfg/__4.html",
+      "details": "am 21.11.2026 geltende Fassung. § 4 Abs. 1 Nr. 1/2 ordnet Emissionshandelseinnahmen dem KTF zu, abzüglich der zur Finanzierung der DEHSt benötigten Einnahmen.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Relevante Abschnitte der verlinkten Originalquelle direkt geöffnet und gelesen.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "S108",
+      "title": "KTFG § 2 – Zweck des Sondervermögens",
+      "url": "https://www.gesetze-im-internet.de/ekfg/__2.html",
+      "details": "am 21.11.2026 geltende Fassung. Förderzwecke umfassen klimaneutrale Transformation, Mikroelektronik, Schienenwege, internationalen Klimaschutz sowie u.a. Strompreiskompensation, Kohleausstieg und Strom-/Gaspreisentlastung. Keine Ausschließlichkeit zugunsten Erneuerbarer.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Relevante Abschnitte der verlinkten Originalquelle direkt geöffnet und gelesen.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "S109",
+      "title": "Bundesfinanzministerium: Finanzbericht 2026",
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/Broschueren_Bestellservice/finanzbericht-2026.pdf?__blob=publicationFile&v=2",
+      "details": "Finanzbericht 2026. Abschnitt 1.3.3.4.1: Seit 2025 werden EEG-Ausgaben im Kernhaushalt statt KTF etatisiert; für 2026 im Bericht 17,2 Mrd. Euro. Keine Behauptung direkter KTF-EEG-Finanzierung 2026.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Relevante Abschnitte der verlinkten Originalquelle direkt geöffnet und gelesen.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "S110",
+      "title": "US Department of Energy: Fact of the Week #1360 – vehicle efficiency",
+      "url": "https://www.energy.gov/cmei/vehicles/articles/fotw-1360-sept-16-2024-typical-ev-87-91-efficient-compared-30-conventional",
+      "details": "16.09.2024. Typisches Elektroauto 87–91% inklusive zurückgewonnener Bremsenergie gegenüber ca.30% Benzinauto; unmittelbare Energie zu Rädern 65–69%, zusätzlich ca.22% Rekuperation, EPA-Mischzyklus. Keine Kraftwerks-/Herstellungsbilanz.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Relevante Abschnitte der verlinkten Originalquelle direkt geöffnet und gelesen.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "S111",
+      "title": "Fraunhofer ISE: Stromgestehungskosten erneuerbare Energien 2024",
+      "url": "https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/DE2024_ISE_Studie_Stromgestehungskosten_Erneuerbare_Energien.pdf",
+      "details": "Juli 2024. Abschnitt PV und Abbildung 7: kleine Dach-PV 6,3–14,4 ct/kWh in Deutschland, einschließlich Komponenten und Installation. Kosten variieren nach Standort/Investition; separates Batteriesystem erhöht Kosten.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Relevante Abschnitte der verlinkten Originalquelle direkt geöffnet und gelesen.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "S112",
+      "title": "ADAC Ecotest: Tesla Model 3 (09/23–10/25)",
+      "url": "https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/tesla/model-3/1generation-facelift/329535/",
+      "details": "Testdatum 12/2023; Testbericht Februar 2024. Ecotest 17,2 kWh/100 km einschließlich Ladeverlusten bei 11 kW-Wechselstromladung. Kälte und Geschwindigkeit erhöhen Bedarf.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Relevante Abschnitte der verlinkten Originalquelle direkt geöffnet und gelesen.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "S113",
+      "title": "Next2Sun: Insolvenzverfahren für Teile der Unternehmensgruppe",
+      "url": "https://next2sun.com/trotz-breiter-unterstuetzung-next2sun-beantragt-insolvenzverfahren-fuer-teile-der-unternehmensgruppe/",
+      "details": "05.10.2026. Insolvenzanträge für Next2Sun Technology GmbH und Next2Sun Mounting Systems GmbH. Next2Sun AG und Projekt GmbH nach damaligem Stand nicht betroffen; laufende Projektgesellschaften nicht insolvent. Finanzierung trotz Zusagen nicht hinreichend verbindlich gesichert.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Relevante Abschnitte der verlinkten Originalquelle direkt geöffnet und gelesen.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "S114",
+      "title": "Next2Sun: Technologie gefragt wie nie, Kapital knapp wie selten",
+      "url": "https://next2sun.com/technologie-gefragt-wie-nie-kapital-knapp-wie-selten-next2sun-kaempft-um-seine-zukunft/",
+      "details": "18.09.2026. Unternehmensangabe: starke Projektpipeline, nicht genehmigte Agri-PV-Förderung 2025, Zurückhaltung von Investoren/Banken, institutionelle Finanzierung im damaligen Umfeld nicht zugänglich. Als interessengeleitete Selbstauskunft, nicht unabhängige Bilanz-/Kausalanalyse behandeln.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Relevante Abschnitte der verlinkten Originalquelle direkt geöffnet und gelesen.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "S115",
+      "title": "Bundestagsdrucksache 21/7867 – Entwurf EEG-Novelle",
+      "url": "https://dserver.bundestag.de/btd/21/078/2107867.pdf",
+      "details": "07.09.2026. S. 208 Begründung zu § 38a: bestimmte vertikale/hochaufgeständerte Agri-PV erhalten 0,5 ct/kWh Bonus; neues System enthält Förder- und Übergangsregelungen. Ob dies ausreichende Investitionssicherheit schafft, ist eine andere Frage als völlige Abwesenheit von Vorschriften.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Relevante Abschnitte der verlinkten Originalquelle direkt geöffnet und gelesen.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "S116",
+      "title": "Bundesverband Erneuerbare Energie: Stellungnahme EEG-Novelle 2027",
+      "url": "https://www.bee-ev.de/service/publikationen-medien/beitrag/stellungnahme-zur-eeg-novelle-2027-entwurf-der-bundesregierung-vom-07092026",
+      "details": "Stellungnahme zum Entwurf 07.09.2026, veröffentlicht Oktober 2026. Original-Stellungnahme eines Interessenverbands kritisiert Förderkürzungen/Finanzierungsrisiken; begrüßt zugleich Teile des Vertrauensschutzes und der Übergangsregeln (§ 100). Belegt Streit über Sicherheit, nicht konkrete Ursache aller Next2Sun-Probleme.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Relevante Abschnitte der verlinkten Originalquelle direkt geöffnet und gelesen.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "S117",
+      "title": "Washington Department of Ecology: Auction #15 September 2026 Public Proceeds Report",
+      "url": "https://apps.ecology.wa.gov/publications/documents/2614064.pdf",
+      "details": "30.09.2026; Auktion 02.09.2026. 2026 fortgeführter Emissionshandel: 6.284.205 Zertifikate verkauft, Preis 39,50 USD, Auktionserlös 248.226.097,50 USD (davon 110,6 Mio. USD Staat). Widerlegt pauschale Abschaffung aller US-CO2-Bepreisung, belegt nicht unbenannten Referenten im Video.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Relevante Abschnitte der verlinkten Originalquelle direkt geöffnet und gelesen.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "S118",
+      "title": "White House: Ending Market Distorting Subsidies for Unreliable, Foreign-Controlled Energy Sources",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/07/ending-market-distorting-subsidies-for-unreliable-foreign%E2%80%91controlled-energy-sources/",
+      "details": "07.07.2025. Präsidialanordnung zur Umsetzung beendeter/geänderter Steuervergünstigungen für Wind/Solar im OBBBA; Abbau von Förder-Steuergutschriften ist keine Abschaffung aller CO2-Preise.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Relevante Abschnitte der verlinkten Originalquelle direkt geöffnet und gelesen.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "S119",
+      "title": "White House: Protecting American Energy From State Overreach",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/04/protecting-american-energy-from-state-overreach/",
+      "details": "08.04.2025. Anweisung an Attorney General, Landesklimarecht zu prüfen und gegen als rechtswidrig bewertete Regeln vorzugehen; der Text selbst setzt nicht sämtliche Landesprogramme außer Kraft.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Relevante Abschnitte der verlinkten Originalquelle direkt geöffnet und gelesen.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "S120",
+      "title": "BEHG § 2 – Anwendungsbereich",
+      "url": "https://www.gesetze-im-internet.de/behg/__2.html",
+      "details": "geltende Fassung abgerufen 21.11.2026. Nationaler Emissionshandel gilt für Brennstoffemissionen und definierte Inverkehrbringung, nicht als pauschal benannte Steuer auf jedes beliebige Produkt.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Relevante Abschnitte der verlinkten Originalquelle direkt geöffnet und gelesen.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "S121",
+      "title": "European Commission: CBAM definitive regime",
+      "url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-definitive-regime_en",
+      "details": "laufende Informationsseite abgerufen 21.11.2026. Regime betrifft ausgewählte Waren in Sektoren Zement, Eisen/Stahl, Aluminium, Dünger, Elektrizität, Wasserstoff. Kein Beleg für unbestimmten universalen Besteuerungsplan.",
+      "accessedOn": "2026-11-21",
+      "accessBasis": "Relevante Abschnitte der verlinkten Originalquelle direkt geöffnet und gelesen.",
+      "kind": "Primärquelle"
+    }
+  ],
+  "claims": [
+    {
+      "id": "DSnpxR_my-4-A0001",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "description": "Die Klimakrise sei erfunden; klimapolitische Maßnahmen dienten allein der finanziellen Ausplünderung.",
+      "reason": "Prüfung läuft – der Aussagekomplex ist aus den vollständigen Untertiteln erfasst; die eigenständige Sachrecherche und Gegenprüfung werden im nächsten Stand ergänzt.",
+      "assessmentBasis": "Eigene Paraphrase der deutschen Originaluntertitel; Zeitmarken ungefähr, Sprecherzuordnung plausibel.",
+      "occurrences": [
+        {
+          "startSeconds": 0,
+          "endSeconds": 15,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP2",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        },
+        {
+          "startSeconds": 253,
+          "endSeconds": 268,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP2",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        },
+        {
+          "startSeconds": 425,
+          "endSeconds": 456,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP2",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        }
+      ],
+      "openQuestions": [
+        "Existenz, anthropogene Ursache und Folgen der aktuellen Erwärmung",
+        "Belegbarkeit der pauschalen Täuschungs- und Bereicherungsabsicht"
+      ],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Sämtliche deutschen Captionblöcke gelesen und die Behauptung mit Kontext, Sprecher und Wiederholungen erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Aussagekomplex erfasst; noch kein Sachurteil in diesem Zwischenstand."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M01.",
+        "assessmentChange": "Erfassung im veröffentlichten Zwischenstand; offene Sachprüfung wird nicht als Ergebnis ausgegeben."
+      },
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Markus Krall",
+        "presentation": "Einspieler",
+        "creatorStance": "Distanziert",
+        "basis": "Die einleitende Krisenleugnung wird als Anlass der Reaktion vorgeführt; der Host stellt anschließend die Treibhaus-/Erwärmungserklärungen als Gegenbegründung dar und kritisiert den Betrugsvorwurf.",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21"
+      },
+      "factIndex": {
+        "weight": 3,
+        "weightReason": "Die titelgebende Behauptung bildet die direkte Streitfrage des Videos und kehrt im Fazit wieder.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": true
+      }
+    },
+    {
+      "id": "DSnpxR_my-4-A0002",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "description": "Die meisten Menschen, die über CO₂ und Klima sprechen, wüssten nicht, wie hoch der atmosphärische CO₂-Anteil ist, und nannten etwa zehn Prozent.",
+      "reason": "Prüfung läuft – der Aussagekomplex ist aus den vollständigen Untertiteln erfasst; die eigenständige Sachrecherche und Gegenprüfung werden im nächsten Stand ergänzt.",
+      "assessmentBasis": "Eigene Paraphrase der deutschen Originaluntertitel; Zeitmarken ungefähr, Sprecherzuordnung plausibel.",
+      "occurrences": [
+        {
+          "startSeconds": 61,
+          "endSeconds": 76,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP2",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        }
+      ],
+      "openQuestions": [
+        "Gibt es eine passende repräsentative Erhebung für die behauptete Mehrheit?"
+      ],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Sämtliche deutschen Captionblöcke gelesen und die Behauptung mit Kontext, Sprecher und Wiederholungen erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Aussagekomplex erfasst; noch kein Sachurteil in diesem Zwischenstand."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M02.",
+        "assessmentChange": "Erfassung im veröffentlichten Zwischenstand; offene Sachprüfung wird nicht als Ergebnis ausgegeben."
+      },
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Markus Krall",
+        "presentation": "Einspieler",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Die Verallgemeinerung über das Wissen anderer Menschen bleibt Teil des vorgespielten Gegenarguments. Der Host bestätigt keine Mehrheitszahl oder eigene Erhebung.",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21"
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Die angebliche Unkenntnis einer Mehrheit dient als beiläufige Charakterisierung der Gegenseite; die Klimafrage hängt nicht von ihr ab.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": true
+      }
+    },
+    {
+      "id": "DSnpxR_my-4-A0003",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "description": "Die Atmosphäre enthalte weniger als 400 ppm CO₂.",
+      "reason": "Prüfung läuft – der Aussagekomplex ist aus den vollständigen Untertiteln erfasst; die eigenständige Sachrecherche und Gegenprüfung werden im nächsten Stand ergänzt.",
+      "assessmentBasis": "Eigene Paraphrase der deutschen Originaluntertitel; Zeitmarken ungefähr, Sprecherzuordnung plausibel.",
+      "occurrences": [
+        {
+          "startSeconds": 76,
+          "endSeconds": 92,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP2",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        }
+      ],
+      "openQuestions": [
+        "Globale und Mauna-Loa-Messdaten zum Veröffentlichungszeitpunkt November 2026",
+        "ppm korrekt in Prozent umrechnen"
+      ],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Sämtliche deutschen Captionblöcke gelesen und die Behauptung mit Kontext, Sprecher und Wiederholungen erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Aussagekomplex erfasst; noch kein Sachurteil in diesem Zwischenstand."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M03.",
+        "assessmentChange": "Erfassung im veröffentlichten Zwischenstand; offene Sachprüfung wird nicht als Ergebnis ausgegeben."
+      },
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Markus Krall",
+        "presentation": "Einspieler",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Der Host erläutert anschließend, wie Krall mit der kleinen Zahl argumentiert, und kennzeichnet dies ausdrücklich als dessen Sicht. Er macht die konkrete Grenze von 400 ppm nicht als eigenen Messbefund geltend.",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Die konkrete CO₂-Zahl bildet eine tragende numerische Begründung im zentralen Streit um die Treibhauswirkung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": true
+      }
+    },
+    {
+      "id": "DSnpxR_my-4-A0004",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "description": "Treibhausgase nehmen einen Teil der Energie auf und geben ihn wieder ab; CO₂, Wasserdampf und Methan gehören dazu; zusätzliche Treibhausgase können die Erde erwärmen.",
+      "reason": "Prüfung läuft – der Aussagekomplex ist aus den vollständigen Untertiteln erfasst; die eigenständige Sachrecherche und Gegenprüfung werden im nächsten Stand ergänzt.",
+      "assessmentBasis": "Eigene Paraphrase der deutschen Originaluntertitel; Zeitmarken ungefähr, Sprecherzuordnung plausibel.",
+      "occurrences": [
+        {
+          "startSeconds": 92,
+          "endSeconds": 124,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP3",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        }
+      ],
+      "openQuestions": [
+        "Absorption und Emission langwelliger Strahlung",
+        "Natürlicher Treibhauseffekt",
+        "Wasserdampf überwiegend Rückkopplung, CO₂/Methan als Antriebe"
+      ],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Sämtliche deutschen Captionblöcke gelesen und die Behauptung mit Kontext, Sprecher und Wiederholungen erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Aussagekomplex erfasst; noch kein Sachurteil in diesem Zwischenstand."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M04.",
+        "assessmentChange": "Erfassung im veröffentlichten Zwischenstand; offene Sachprüfung wird nicht als Ergebnis ausgegeben."
+      },
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Felix Goldbach",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "Der Host setzt die Treibhaus-Erklärung als sachliche Gegenposition zur Krisenleugnung ein und schließt sich im späteren Zwischenfazit dieser Richtung an.",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Der Treibhausmechanismus ist eine tragende Erklärung zur Hauptfrage. Die Aufzählung einzelner Gase ist unterstützendes Detail.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": true
+      }
+    },
+    {
+      "id": "DSnpxR_my-4-A0005",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "description": "Milliarden von Datensätzen zeigten, dass die Erwärmung schneller werde.",
+      "reason": "Prüfung läuft – der Aussagekomplex ist aus den vollständigen Untertiteln erfasst; die eigenständige Sachrecherche und Gegenprüfung werden im nächsten Stand ergänzt.",
+      "assessmentBasis": "Eigene Paraphrase der deutschen Originaluntertitel; Zeitmarken ungefähr, Sprecherzuordnung plausibel.",
+      "occurrences": [
+        {
+          "startSeconds": 124,
+          "endSeconds": 139,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP4",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        }
+      ],
+      "openQuestions": [
+        "Unbenannter Datenbestand und Zählweise",
+        "Unterscheidung Datensätze vs. einzelne Messwerte"
+      ],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Sämtliche deutschen Captionblöcke gelesen und die Behauptung mit Kontext, Sprecher und Wiederholungen erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Aussagekomplex erfasst; noch kein Sachurteil in diesem Zwischenstand."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M05.",
+        "assessmentChange": "Erfassung im veröffentlichten Zwischenstand; offene Sachprüfung wird nicht als Ergebnis ausgegeben."
+      },
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Mark Benecke",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "Der Host kündigt Beneckes Studien und Fakten als vertrauenswürdige Begründung an und verwendet den anschließenden Ausschnitt für seine eigene Position.",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21"
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Die Zahl der Datensätze ist eine beiläufige Größenangabe zur Datenbasis und kein eigenständiger Temperaturbefund.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": true
+      }
+    },
+    {
+      "id": "DSnpxR_my-4-A0006",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "description": "Die Erwärmung beschleunige sich, und besonders seit etwa 1980 werde der Anstieg immer steiler.",
+      "reason": "Prüfung läuft – der Aussagekomplex ist aus den vollständigen Untertiteln erfasst; die eigenständige Sachrecherche und Gegenprüfung werden im nächsten Stand ergänzt.",
+      "assessmentBasis": "Eigene Paraphrase der deutschen Originaluntertitel; Zeitmarken ungefähr, Sprecherzuordnung plausibel.",
+      "occurrences": [
+        {
+          "startSeconds": 124,
+          "endSeconds": 155,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP4",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        }
+      ],
+      "openQuestions": [
+        "Globale Temperaturzeitreihen",
+        "Trendfenster und wissenschaftliche Belege für Beschleunigung",
+        "Kurzfristige Schwankungen nicht als dauerhafte Beschleunigung überdeuten"
+      ],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Sämtliche deutschen Captionblöcke gelesen und die Behauptung mit Kontext, Sprecher und Wiederholungen erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Aussagekomplex erfasst; noch kein Sachurteil in diesem Zwischenstand."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M06.",
+        "assessmentChange": "Erfassung im veröffentlichten Zwischenstand; offene Sachprüfung wird nicht als Ergebnis ausgegeben."
+      },
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Mark Benecke",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "Die Temperaturdarstellung wird als Begründung für die eigene klimapolitische Position eingesetzt und im unmittelbar folgenden Zwischenfazit unterstützt.",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Die beschriebene Temperaturentwicklung und Beschleunigung tragen die zentrale Begründung für Handlungsbedarf.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": true
+      }
+    },
+    {
+      "id": "DSnpxR_my-4-A0007",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "description": "1880 werde als Beginn der Temperaturdarstellung gewählt, weil damals die Industrialisierung begonnen habe.",
+      "reason": "Prüfung läuft – der Aussagekomplex ist aus den vollständigen Untertiteln erfasst; die eigenständige Sachrecherche und Gegenprüfung werden im nächsten Stand ergänzt.",
+      "assessmentBasis": "Eigene Paraphrase der deutschen Originaluntertitel; Zeitmarken ungefähr, Sprecherzuordnung plausibel.",
+      "occurrences": [
+        {
+          "startSeconds": 139,
+          "endSeconds": 155,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP4",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        }
+      ],
+      "openQuestions": [
+        "Historischer Beginn der Industrialisierung",
+        "Warum NASA GISTEMP 1880 beginnt",
+        "IPCC-Referenz 1850–1900"
+      ],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Sämtliche deutschen Captionblöcke gelesen und die Behauptung mit Kontext, Sprecher und Wiederholungen erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Aussagekomplex erfasst; noch kein Sachurteil in diesem Zwischenstand."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M07.",
+        "assessmentChange": "Erfassung im veröffentlichten Zwischenstand; offene Sachprüfung wird nicht als Ergebnis ausgegeben."
+      },
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Mark Benecke",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "Die historische Nebenbemerkung steht innerhalb des als Begründung verwendeten Benecke-Ausschnitts; sie wird nicht relativiert. Der Host unterstützt anschließend den gezeigten Erklärungsabschnitt insgesamt.",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21"
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Die Jahreszahl und historische Erläuterung sind eine Nebenbemerkung zur Darstellung der Messreihe; der Hauptschluss hängt nicht davon ab.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": true
+      }
+    },
+    {
+      "id": "DSnpxR_my-4-A0008",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "description": "Die gegenwärtige globale Erwärmung sei sicher menschengemacht.",
+      "reason": "Prüfung läuft – der Aussagekomplex ist aus den vollständigen Untertiteln erfasst; die eigenständige Sachrecherche und Gegenprüfung werden im nächsten Stand ergänzt.",
+      "assessmentBasis": "Eigene Paraphrase der deutschen Originaluntertitel; Zeitmarken ungefähr, Sprecherzuordnung plausibel.",
+      "occurrences": [
+        {
+          "startSeconds": 155,
+          "endSeconds": 172,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP4",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        }
+      ],
+      "openQuestions": [
+        "IPCC-Attribution menschlicher Einflüsse",
+        "Korrelation einer Kurve allein vs. vollständige Attributionsforschung"
+      ],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Sämtliche deutschen Captionblöcke gelesen und die Behauptung mit Kontext, Sprecher und Wiederholungen erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Aussagekomplex erfasst; noch kein Sachurteil in diesem Zwischenstand."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M08.",
+        "assessmentChange": "Erfassung im veröffentlichten Zwischenstand; offene Sachprüfung wird nicht als Ergebnis ausgegeben."
+      },
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Mark Benecke",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "Die menschliche Verursachung bildet den Kern des unterstützten Benecke-Ausschnitts und der anschließenden Zustimmung des Hosts.",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21"
+      },
+      "factIndex": {
+        "weight": 2.5,
+        "weightReason": "Die menschliche Verursachung der aktuellen Erwärmung beantwortet die zentrale im Titel gestellte Klimafrage unmittelbar.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": true
+      }
+    },
+    {
+      "id": "DSnpxR_my-4-A0009",
+      "chapter": 1,
+      "kind": "Prognose",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Elektrifizierung sei effizienter; alles werde Strom.",
+      "reason": "Der universale Zukunftssatz ist eine zugespitzte Prognose, keine Behauptung eines schon erreichten Zustands. Der konkrete Wirkungsgradvergleich beim Auto wird unter M18 sachlich geprüft; denselben Effizienzvorteil nicht zweimal als bestätigten Fakt zählen.",
+      "assessmentBasis": "Untertitelkontext mit unabhängig direkt geöffneten Primärquellen abgeglichen; Grenzen und Systembezüge in der Begründung ausgewiesen.",
+      "occurrences": [
+        {
+          "startSeconds": 172,
+          "endSeconds": 188,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        },
+        {
+          "sourceId": "S110",
+          "note": "Typisches Elektroauto 87–91% inklusive zurückgewonnener Bremsenergie gegenüber ca.30% Benzinauto; unmittelbare Energie zu Rädern 65–69%, zusätzlich ca.22% Rekuperation, EPA-Mischzyklus. Keine Kraftwerks-/Herstellungsbilanz."
+        }
+      ],
+      "openQuestions": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Vollständige deutsche Originaluntertitel gelesen; Aussage und Haltung im Satzkontext erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Wortlautgrundlage sinngemäß erfasst; keine sekundengenaue audiovisuelle Bestätigung."
+          },
+          {
+            "strategy": "Gezielte Primärquellenrecherche und unabhängige Gegenprüfung der aus dem vollständigen Captionkontext bestimmten Behauptung. Wissensdatenbanken KL, HP und UG gezielt durchsucht; keine gleichwertigen Vorprüfungen übernommen.",
+            "sourceIds": [
+              "S110"
+            ],
+            "result": "Der universale Zukunftssatz ist eine zugespitzte Prognose, keine Behauptung eines schon erreichten Zustands. Der konkrete Wirkungsgradvergleich beim Auto wird unter M18 sachlich geprüft; denselben Effizienzvorteil nicht zweimal als bestätigten Fakt zählen.",
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Energie-/Politikrecherche"
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M09.",
+        "assessmentChange": "Erstbewertung im ChatGPT-Zwischenstand nach Quellenprüfung."
+      }
+    },
+    {
+      "id": "DSnpxR_my-4-A0010",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "description": "Erdbahn, Erdachsenorientierung und Sonnenaktivität ändern sich zyklisch und haben Klimaänderungen über sehr lange Zeiträume beeinflusst.",
+      "reason": "Prüfung läuft – der Aussagekomplex ist aus den vollständigen Untertiteln erfasst; die eigenständige Sachrecherche und Gegenprüfung werden im nächsten Stand ergänzt.",
+      "assessmentBasis": "Eigene Paraphrase der deutschen Originaluntertitel; Zeitmarken ungefähr, Sprecherzuordnung plausibel.",
+      "occurrences": [
+        {
+          "startSeconds": 188,
+          "endSeconds": 221,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP2",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        }
+      ],
+      "openQuestions": [
+        "Exzentrizität, Obliquität, Präzession und deren Zeitskalen",
+        "Sonnenaktivitätszyklen",
+        "Bedeutung für Eiszeitzyklen sowie Grenzen über Millionen Jahre"
+      ],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Sämtliche deutschen Captionblöcke gelesen und die Behauptung mit Kontext, Sprecher und Wiederholungen erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Aussagekomplex erfasst; noch kein Sachurteil in diesem Zwischenstand."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M10.",
+        "assessmentChange": "Erfassung im veröffentlichten Zwischenstand; offene Sachprüfung wird nicht als Ergebnis ausgegeben."
+      },
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Markus Krall",
+        "presentation": "Einspieler",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Die Existenz der Zyklen wird im Gegenpositionsausschnitt referiert. Das folgende beiläufige Anerkennen des gehörten Inhalts und die Forderung nach Daten sind keine belastbare Übernahme sämtlicher naturwissenschaftlicher Einzelheiten.",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Die Existenz und langfristige Wirkung natürlicher Zyklen ist eine eigenständige Sachaussage; der Transfer auf die heutige Erwärmung wird separat unter M12 erfasst.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": true
+      }
+    },
+    {
+      "id": "DSnpxR_my-4-A0011",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "description": "Die Veränderung der Neigung der Erdachse relativ zur Sonne sei Präzession.",
+      "reason": "Prüfung läuft – der Aussagekomplex ist aus den vollständigen Untertiteln erfasst; die eigenständige Sachrecherche und Gegenprüfung werden im nächsten Stand ergänzt.",
+      "assessmentBasis": "Eigene Paraphrase der deutschen Originaluntertitel; Zeitmarken ungefähr, Sprecherzuordnung plausibel.",
+      "occurrences": [
+        {
+          "startSeconds": 188,
+          "endSeconds": 204,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP2",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        }
+      ],
+      "openQuestions": [
+        "Präzession = Änderung der Ausrichtung; Obliquität = Änderung des Neigungswinkels"
+      ],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Sämtliche deutschen Captionblöcke gelesen und die Behauptung mit Kontext, Sprecher und Wiederholungen erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Aussagekomplex erfasst; noch kein Sachurteil in diesem Zwischenstand."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M11.",
+        "assessmentChange": "Erfassung im veröffentlichten Zwischenstand; offene Sachprüfung wird nicht als Ergebnis ausgegeben."
+      },
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Markus Krall",
+        "presentation": "Einspieler",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Die konkrete Fachbenennung stammt allein aus dem Gegenpositionsausschnitt; der Host übernimmt oder wiederholt diese Zuordnung nicht als eigene Erklärung.",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21"
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Die Benennung der Erdachsenbewegung ist ein terminologisches Detail innerhalb der Erklärung natürlicher Zyklen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": true
+      }
+    },
+    {
+      "id": "DSnpxR_my-4-A0012",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "description": "Die erwähnten natürlichen Zyklen werden als Erklärung der Erwärmung und Gegenargument gegen CO₂ präsentiert.",
+      "reason": "Prüfung läuft – der Aussagekomplex ist aus den vollständigen Untertiteln erfasst; die eigenständige Sachrecherche und Gegenprüfung werden im nächsten Stand ergänzt.",
+      "assessmentBasis": "Eigene Paraphrase der deutschen Originaluntertitel; Zeitmarken ungefähr, Sprecherzuordnung plausibel.",
+      "occurrences": [
+        {
+          "startSeconds": 188,
+          "endSeconds": 221,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP2",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        }
+      ],
+      "openQuestions": [
+        "Richtung und Größe heutiger orbitaler und solarer Antriebe",
+        "Zeitskalen gegenüber Erwärmung seit Industrialisierung"
+      ],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Sämtliche deutschen Captionblöcke gelesen und die Behauptung mit Kontext, Sprecher und Wiederholungen erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Aussagekomplex erfasst; noch kein Sachurteil in diesem Zwischenstand."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M12.",
+        "assessmentChange": "Erfassung im veröffentlichten Zwischenstand; offene Sachprüfung wird nicht als Ergebnis ausgegeben."
+      },
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Markus Krall",
+        "presentation": "Einspieler",
+        "creatorStance": "Distanziert",
+        "basis": "Der Host stellt die angebotene Erklärung im Kontext ausdrücklich infrage, vermisst Daten und positioniert sich anschließend für die andere Argumentationslinie.",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21"
+      },
+      "factIndex": {
+        "weight": 2.5,
+        "weightReason": "Die Erklärung heutiger Erwärmung durch natürliche Zyklen ist die direkte kausale Gegenposition zur Hauptthese und prägt die zentrale Kontroverse.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": true
+      }
+    },
+    {
+      "id": "DSnpxR_my-4-A0013",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "description": "Benzin koste ohne Steuern weniger als die Hälfte des Endpreises.",
+      "reason": "Hohe staatliche Preisbestandteile sind real, die Behauptung gilt aber nicht unabhängig von Kraftstoffpreis und Stichtag. Am Veröffentlichungstag gilt § 68 EnergieStG mit 51,41 ct Energiesteuer je Liter. Bei Bruttopreis P und 19 % Umsatzsteuer beträgt der reine Steueranteil 19/119 + 0,5141/P. Er überschreitet 50 % nur für P<1,5105 €/L. Werden umgangssprachlich auch die CO₂-Zertifikatskosten C netto einbezogen, lautet die Grenze P<(0,5141+C)/(0,5-19/119). ADAC meldet inklusive CO₂-Kosten 57 % für Juli, aber 47 % für 11.10.2026. Das ist ein Gegenbeispiel zur zeitlosen Verallgemeinerung, kein exakter Nachweis des Anteils am 06.11.2026. Ohne konkret bezeichneten Preis keine stärkere Widerlegung. Eine vollständige Weitergabe wegfallender Abgaben ist zudem eine Annahme, kein automatisch geltender neuer Marktpreis.",
+      "assessmentBasis": "Untertitelkontext mit unabhängig direkt geöffneten Primärquellen abgeglichen; Grenzen und Systembezüge in der Begründung ausgewiesen.",
+      "occurrences": [
+        {
+          "startSeconds": 253,
+          "endSeconds": 268,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP2",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        },
+        {
+          "sourceId": "S101",
+          "note": "Vom 01.10. bis 31.12.2026 beträgt die Energiesteuer für schwefelarmes Benzin 514,10 Euro je 1.000 Liter, also 51,41 ct/L. Gesetz direkt gelesen."
+        },
+        {
+          "sourceId": "S102",
+          "note": "ADAC-eigene Berechnung: Steuer- und Abgabenanteil Benzin im Juli 2026 rund 57 %, am 11.10.2026 rund 47 %; CO2-Kosten sind mitgerechnet. Kein exakter Preisbeleg für 06.11."
+        }
+      ],
+      "openQuestions": [
+        "Bei Bedarf Preis und Datum des originalen Krall-Ausschnitts ermitteln; erwartete Inzidenz einer vollständigen Abschaffung ist nicht mit bloßem Rechenabzug identisch."
+      ],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Vollständige deutsche Originaluntertitel gelesen; Aussage und Haltung im Satzkontext erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Wortlautgrundlage sinngemäß erfasst; keine sekundengenaue audiovisuelle Bestätigung."
+          },
+          {
+            "strategy": "Gezielte Primärquellenrecherche und unabhängige Gegenprüfung der aus dem vollständigen Captionkontext bestimmten Behauptung. Wissensdatenbanken KL, HP und UG gezielt durchsucht; keine gleichwertigen Vorprüfungen übernommen.",
+            "sourceIds": [
+              "S101",
+              "S102"
+            ],
+            "result": "Hohe staatliche Preisbestandteile sind real, die Behauptung gilt aber nicht unabhängig von Kraftstoffpreis und Stichtag. Am Veröffentlichungstag gilt § 68 EnergieStG mit 51,41 ct Energiesteuer je Liter. Bei Bruttopreis P und 19 % Umsatzsteuer beträgt der reine Steueranteil 19/119 + 0,5141/P. Er überschreitet 50 % nur für P<1,5105 €/L. Werden umgangssprachlich auch die CO₂-Zertifikatskosten C netto einbezogen, lautet die Grenze P<(0,5141+C)/(0,5-19/119). ADAC meldet inklusive CO₂-Kosten 57 % für Juli, aber 47 % für 11.10.2026. Das ist ein Gegenbeispiel zur zeitlosen Verallgemeinerung, kein exakter Nachweis des Anteils am 06.11.2026. Ohne konkret bezeichneten Preis keine stärkere Widerlegung. Eine vollständige Weitergabe wegfallender Abgaben ist zudem eine Annahme, kein automatisch geltender neuer Marktpreis.",
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Energie-/Politikrecherche"
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M13.",
+        "assessmentChange": "Erstbewertung im ChatGPT-Zwischenstand nach Quellenprüfung."
+      },
+      "shortReason": "Der Anteil hängt von Preis und Datum ab; seit Oktober 2026 gilt eine niedrigere Energiesteuer, und CO₂-Kosten sind keine Steuer.",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Markus Krall",
+        "presentation": "Einspieler",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Der Host reagiert mit dem Wunsch nach günstigem Benzin und wechselt zu E-Autos. Ein Wunsch nach einem Euro je Liter bestätigt weder Kralls genaue Steuerrechnung noch deren Bezugszeitraum. Die Zahl wird nicht zur eigenen Argumentationsstütze weiterverwendet.",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Der Steueranteil am Benzinpreis ist eine eigenständige ökonomische Nebenfrage und trägt den Abschnitt über Klimapolitik, nicht den klimaphysikalischen Hauptschluss.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": true
+      }
+    },
+    {
+      "id": "DSnpxR_my-4-A0014",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Offen",
+      "verdict": null,
+      "description": "Alle Produkte sollten besteuert werden.",
+      "reason": "Noch nicht geprüft – der konkrete Maßnahme- oder Gesetzesbezug ist im verfügbaren Untertitelkontext nicht eindeutig identifiziert. Die noch ausstehende unmittelbare Bild-/Tonprüfung könnte ihn klären. Eine Zugriffslücke ist kein abschließendes Urteil über die Überprüfbarkeit.",
+      "assessmentBasis": "Untertitelkontext mit unabhängig direkt geöffneten Primärquellen abgeglichen; Grenzen und Systembezüge in der Begründung ausgewiesen.",
+      "occurrences": [
+        {
+          "startSeconds": 332,
+          "endSeconds": 348,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP2",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        },
+        {
+          "sourceId": "S120",
+          "note": "Nationaler Emissionshandel gilt für Brennstoffemissionen und definierte Inverkehrbringung, nicht als pauschal benannte Steuer auf jedes beliebige Produkt."
+        },
+        {
+          "sourceId": "S121",
+          "note": "Regime betrifft ausgewählte Waren in Sektoren Zement, Eisen/Stahl, Aluminium, Dünger, Elektrizität, Wasserstoff. Kein Beleg für unbestimmten universalen Besteuerungsplan."
+        }
+      ],
+      "openQuestions": [
+        "Im Originalgespräch prüfen, ob Krall unmittelbar davor ein konkretes Gesetz oder Programm nennt."
+      ],
+      "research": {
+        "gap": "Bezugsobjekt durch unmittelbare audiovisuelle Kontrolle identifizieren; bis dahin kein abschließendes Sachurteil.",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Vollständige deutsche Originaluntertitel gelesen; Aussage und Haltung im Satzkontext erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Wortlautgrundlage sinngemäß erfasst; keine sekundengenaue audiovisuelle Bestätigung."
+          },
+          {
+            "strategy": "Transkriptbezug und Klimabepreisung im deutschen BEHG geprüft.",
+            "sourceIds": [
+              "S120"
+            ],
+            "result": "Kein universaler Produktsteuerplan; spezifischer Referent im Ausschnitt fehlt.",
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Energie-/Politikrecherche"
+          },
+          {
+            "strategy": "Alternative Lesart eines EU-Grenzausgleichs anhand Kommissionsdarstellung geprüft.",
+            "sourceIds": [
+              "S121"
+            ],
+            "result": "Ausgewählte Warensektoren; keine sichere Zuordnung dieser Regel zum Videosatz.",
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Energie-/Politikrecherche"
+          }
+        ],
+        "missingInformation": "Identifizierbarer Besteuerungsplan samt zuständigem Akteur, Land und Zeitraum.",
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M14.",
+        "assessmentChange": "Vor Veröffentlichung redaktionell als offen eingeordnet, weil fehlende Bild-/Tonkontrolle nicht als sachliche Unüberprüfbarkeit behandelt wird."
+      },
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Markus Krall",
+        "presentation": "Einspieler",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Die unbestimmte Aussage zur Besteuerung aller Produkte ist Teil des eingespielten Gegenarguments; der Host bestätigt keinen bestimmten steuerlichen Plan.",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21"
+      }
+    },
+    {
+      "id": "DSnpxR_my-4-A0015",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "description": "Freiwillige Klimabeiträge beim Fliegen seien pauschal Betrug.",
+      "reason": "Freiwillige Klimabeiträge werden angeboten; sie sind keine staatliche Steuer. Die grundsätzliche Kritik an überhöhten Minderungsversprechen hat wissenschaftliche Grundlage: Probst et al. 2024 schätzen bei den untersuchten Projekten weniger als 16% der ausgegebenen Credits als reale Reduktionen ein. Die Untersuchung umfasst etwa ein Fünftel des damaligen Creditvolumens und zeigt große Unterschiede nach Projekttyp, nicht die Wirkung jedes Flugangebots. Mangelhafte Zusätzlichkeit oder überbewertete Emissionsminderung ist außerdem nicht automatisch vorsätzlicher, strafrechtlich belegter Betrug. UBA nennt Kriterien für prüfbare, zusätzliche Klimabeiträge. Ein pauschales Urteil über sämtliche Anbieter lässt die notwendige Einzelfallprüfung weg.",
+      "assessmentBasis": "Untertitelkontext mit unabhängig direkt geöffneten Primärquellen abgeglichen; Grenzen und Systembezüge in der Begründung ausgewiesen.",
+      "occurrences": [
+        {
+          "startSeconds": 332,
+          "endSeconds": 348,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP2",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        },
+        {
+          "sourceId": "S103",
+          "note": "Fluggesellschaften und Reiseportale bieten teils Kompensation direkt beim Kauf an. Freiwilliger Beitrag finanziert Minderungsprojekte; Zusätzlichkeit und Qualität sind Voraussetzungen."
+        },
+        {
+          "sourceId": "S104",
+          "note": "Originalanalyse: 14 Studien zu 2346 Projekten, 51 Studien zu vergleichbaren Interventionen; weniger als 16% der untersuchten Credits entsprechen geschätzten realen Reduktionen. Große Qualitätsprobleme, stark variierende Projektarten; keine Erhebung strafrechtlichen Betrugs bei allen Anbietern."
+        }
+      ],
+      "openQuestions": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Vollständige deutsche Originaluntertitel gelesen; Aussage und Haltung im Satzkontext erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Wortlautgrundlage sinngemäß erfasst; keine sekundengenaue audiovisuelle Bestätigung."
+          },
+          {
+            "strategy": "Gezielte Primärquellenrecherche und unabhängige Gegenprüfung der aus dem vollständigen Captionkontext bestimmten Behauptung. Wissensdatenbanken KL, HP und UG gezielt durchsucht; keine gleichwertigen Vorprüfungen übernommen.",
+            "sourceIds": [
+              "S103",
+              "S104"
+            ],
+            "result": "Freiwillige Klimabeiträge werden angeboten; sie sind keine staatliche Steuer. Die grundsätzliche Kritik an überhöhten Minderungsversprechen hat wissenschaftliche Grundlage: Probst et al. 2024 schätzen bei den untersuchten Projekten weniger als 16% der ausgegebenen Credits als reale Reduktionen ein. Die Untersuchung umfasst etwa ein Fünftel des damaligen Creditvolumens und zeigt große Unterschiede nach Projekttyp, nicht die Wirkung jedes Flugangebots. Mangelhafte Zusätzlichkeit oder überbewertete Emissionsminderung ist außerdem nicht automatisch vorsätzlicher, strafrechtlich belegter Betrug. UBA nennt Kriterien für prüfbare, zusätzliche Klimabeiträge. Ein pauschales Urteil über sämtliche Anbieter lässt die notwendige Einzelfallprüfung weg.",
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Energie-/Politikrecherche"
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M15.",
+        "assessmentChange": "Erstbewertung im ChatGPT-Zwischenstand nach Quellenprüfung."
+      },
+      "shortReason": "Kompensationsprojekte haben erhebliche Qualitätsprobleme; daraus folgt weder, dass alle wirkungslos sind, noch ein pauschaler Betrugsnachweis.",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Markus Krall",
+        "presentation": "Einspieler",
+        "creatorStance": "Distanziert",
+        "basis": "Der Host bezeichnet die pauschale Zurückweisung der Klimabeiträge als starke Aussage und argumentiert anschließend mit Klimaschäden und Effizienz dagegen. Die sachliche Existenz freiwilliger Beiträge bleibt bei Aufteilung ein nur wiedergegebenes Teilstück.",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Der pauschale Betrugsvorwurf gegenüber Klimabeiträgen ist eine tragende Begründung der klimapolitischen Ablehnung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": true
+      }
+    },
+    {
+      "id": "DSnpxR_my-4-A0016",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Klimabedingte Katastrophen können sehr hohe wirtschaftliche Schäden verursachen.",
+      "reason": "Die allgemeine Möglichkeit hoher Schäden ist belastbar. Die Autoren der deutschen Klimafolgekostenstudie beziffern erfasste Extremwetterschäden seit 2000 auf etwa 145 Milliarden Euro; sie warnen ausdrücklich davor, diese gesamte Summe dem menschengemachten Klimawandel zuzuschreiben. Ereignisbezogene Attribution und zukünftige Szenarien sind getrennt zu behandeln. Der Host nennt keinen konkreten Betrag und behauptet keine vollständige Klimaattribution aller Wetterverluste. Seine vorsichtige allgemeine Aussage wird durch die vorliegenden Untersuchungen gestützt.",
+      "assessmentBasis": "Untertitelkontext mit unabhängig direkt geöffneten Primärquellen abgeglichen; Grenzen und Systembezüge in der Begründung ausgewiesen.",
+      "occurrences": [
+        {
+          "startSeconds": 348,
+          "endSeconds": 364,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        },
+        {
+          "sourceId": "S105",
+          "note": "Studienautoren erläutern 145 Mrd. Euro Extremwetterschäden seit 2000; nicht jeder Euro ist eindeutig dem Klimawandel zurechenbar. Detailereignisse Hitze/Dürre 2018/19 und Ahr/Erft-Flut 2021 sind untersucht; Zukunftswerte sind Szenarien, keine Prognose."
+        }
+      ],
+      "openQuestions": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Vollständige deutsche Originaluntertitel gelesen; Aussage und Haltung im Satzkontext erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Wortlautgrundlage sinngemäß erfasst; keine sekundengenaue audiovisuelle Bestätigung."
+          },
+          {
+            "strategy": "Gezielte Primärquellenrecherche und unabhängige Gegenprüfung der aus dem vollständigen Captionkontext bestimmten Behauptung. Wissensdatenbanken KL, HP und UG gezielt durchsucht; keine gleichwertigen Vorprüfungen übernommen.",
+            "sourceIds": [
+              "S105"
+            ],
+            "result": "Die allgemeine Möglichkeit hoher Schäden ist belastbar. Die Autoren der deutschen Klimafolgekostenstudie beziffern erfasste Extremwetterschäden seit 2000 auf etwa 145 Milliarden Euro; sie warnen ausdrücklich davor, diese gesamte Summe dem menschengemachten Klimawandel zuzuschreiben. Ereignisbezogene Attribution und zukünftige Szenarien sind getrennt zu behandeln. Der Host nennt keinen konkreten Betrag und behauptet keine vollständige Klimaattribution aller Wetterverluste. Seine vorsichtige allgemeine Aussage wird durch die vorliegenden Untersuchungen gestützt.",
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Energie-/Politikrecherche"
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M16.",
+        "assessmentChange": "Erstbewertung im ChatGPT-Zwischenstand nach Quellenprüfung."
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Hohe Klimafolgekosten dienen als tragendes Argument für klimapolitisches Handeln und die Abwägung von Ausgaben.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": true
+      }
+    },
+    {
+      "id": "DSnpxR_my-4-A0017",
+      "chapter": 3,
+      "kind": "Meinung",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Der Host vermutet bzw. wünscht die Förderung Erneuerbarer aus CO₂-Einnahmen.",
+      "reason": "Die Formulierungen sind als Vermutung und politischer Wunsch markiert, nicht als exakte Haushaltsbehauptung. Zur Einordnung: Nach §4 KTFG fließen nationale und deutsche EU-ETS-Einnahmen dem KTF zu, soweit sie nicht für die DEHSt benötigt werden. §2 erlaubt breitere Transformationszwecke einschließlich Infrastruktur und Preisentlastungen; ein Euro aus CO₂-Bepreisung ist daher nicht automatisch ein Euro für Solar- oder Windförderung. Der BMF-Finanzbericht 2026 verortet die EEG-Ausgaben seit 2025 im Kernhaushalt, nicht im KTF. Die freiwilligen Flugbeiträge aus dem vorangegangenen Zitat sind wiederum kein staatliches KTF-Aufkommen.",
+      "assessmentBasis": "Untertitelkontext mit unabhängig direkt geöffneten Primärquellen abgeglichen; Grenzen und Systembezüge in der Begründung ausgewiesen.",
+      "occurrences": [
+        {
+          "startSeconds": 348,
+          "endSeconds": 364,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        },
+        {
+          "startSeconds": 379,
+          "endSeconds": 394,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        },
+        {
+          "sourceId": "S106",
+          "note": "Erlöse EU-ETS und nationaler Emissionshandel fließen in KTF. 2026 nationaler Preiskorridor 55–65 Euro je Tonne. Historische Erlöse nicht mit Haushaltssoll verwechseln."
+        },
+        {
+          "sourceId": "S107",
+          "note": "§ 4 Abs. 1 Nr. 1/2 ordnet Emissionshandelseinnahmen dem KTF zu, abzüglich der zur Finanzierung der DEHSt benötigten Einnahmen."
+        },
+        {
+          "sourceId": "S108",
+          "note": "Förderzwecke umfassen klimaneutrale Transformation, Mikroelektronik, Schienenwege, internationalen Klimaschutz sowie u.a. Strompreiskompensation, Kohleausstieg und Strom-/Gaspreisentlastung. Keine Ausschließlichkeit zugunsten Erneuerbarer."
+        },
+        {
+          "sourceId": "S109",
+          "note": "Abschnitt 1.3.3.4.1: Seit 2025 werden EEG-Ausgaben im Kernhaushalt statt KTF etatisiert; für 2026 im Bericht 17,2 Mrd. Euro. Keine Behauptung direkter KTF-EEG-Finanzierung 2026."
+        },
+        {
+          "sourceId": "S103",
+          "note": "Fluggesellschaften und Reiseportale bieten teils Kompensation direkt beim Kauf an. Freiwilliger Beitrag finanziert Minderungsprojekte; Zusätzlichkeit und Qualität sind Voraussetzungen."
+        }
+      ],
+      "openQuestions": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Vollständige deutsche Originaluntertitel gelesen; Aussage und Haltung im Satzkontext erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Wortlautgrundlage sinngemäß erfasst; keine sekundengenaue audiovisuelle Bestätigung."
+          },
+          {
+            "strategy": "Gezielte Primärquellenrecherche und unabhängige Gegenprüfung der aus dem vollständigen Captionkontext bestimmten Behauptung. Wissensdatenbanken KL, HP und UG gezielt durchsucht; keine gleichwertigen Vorprüfungen übernommen.",
+            "sourceIds": [
+              "S106",
+              "S107",
+              "S108",
+              "S109",
+              "S103"
+            ],
+            "result": "Die Formulierungen sind als Vermutung und politischer Wunsch markiert, nicht als exakte Haushaltsbehauptung. Zur Einordnung: Nach §4 KTFG fließen nationale und deutsche EU-ETS-Einnahmen dem KTF zu, soweit sie nicht für die DEHSt benötigt werden. §2 erlaubt breitere Transformationszwecke einschließlich Infrastruktur und Preisentlastungen; ein Euro aus CO₂-Bepreisung ist daher nicht automatisch ein Euro für Solar- oder Windförderung. Der BMF-Finanzbericht 2026 verortet die EEG-Ausgaben seit 2025 im Kernhaushalt, nicht im KTF. Die freiwilligen Flugbeiträge aus dem vorangegangenen Zitat sind wiederum kein staatliches KTF-Aufkommen.",
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Energie-/Politikrecherche"
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M17.",
+        "assessmentChange": "Erstbewertung im ChatGPT-Zwischenstand nach Quellenprüfung."
+      }
+    },
+    {
+      "id": "DSnpxR_my-4-A0018",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Ein Verbrenner sei eine fahrende Heizung; E-Autos nutzen Antriebsenergie effizienter.",
+      "reason": "Als Metapher für den Verbrenner ist der technische Kern richtig: Im vom US-Energieministerium beschriebenen Mischzyklus wird nur etwa 30% der im Benzin gespeicherten Energie für den Antrieb genutzt. Der Rest fällt weitgehend als Wärme und sonstige Verluste an. Beim E-Auto sind es 65–69% direkt zu den Rädern plus rund 22% zurückgewonnene Bremsenergie, zusammen 87–91%. Diese Zahlen gelten für die Energie im Fahrzeug und den bezeichneten Fahrzyklus, nicht für die komplette Herstellung oder jede denkbare Stromerzeugung.",
+      "assessmentBasis": "Untertitelkontext mit unabhängig direkt geöffneten Primärquellen abgeglichen; Grenzen und Systembezüge in der Begründung ausgewiesen.",
+      "occurrences": [
+        {
+          "startSeconds": 364,
+          "endSeconds": 379,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        },
+        {
+          "sourceId": "S110",
+          "note": "Typisches Elektroauto 87–91% inklusive zurückgewonnener Bremsenergie gegenüber ca.30% Benzinauto; unmittelbare Energie zu Rädern 65–69%, zusätzlich ca.22% Rekuperation, EPA-Mischzyklus. Keine Kraftwerks-/Herstellungsbilanz."
+        }
+      ],
+      "openQuestions": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Vollständige deutsche Originaluntertitel gelesen; Aussage und Haltung im Satzkontext erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Wortlautgrundlage sinngemäß erfasst; keine sekundengenaue audiovisuelle Bestätigung."
+          },
+          {
+            "strategy": "Gezielte Primärquellenrecherche und unabhängige Gegenprüfung der aus dem vollständigen Captionkontext bestimmten Behauptung. Wissensdatenbanken KL, HP und UG gezielt durchsucht; keine gleichwertigen Vorprüfungen übernommen.",
+            "sourceIds": [
+              "S110"
+            ],
+            "result": "Als Metapher für den Verbrenner ist der technische Kern richtig: Im vom US-Energieministerium beschriebenen Mischzyklus wird nur etwa 30% der im Benzin gespeicherten Energie für den Antrieb genutzt. Der Rest fällt weitgehend als Wärme und sonstige Verluste an. Beim E-Auto sind es 65–69% direkt zu den Rädern plus rund 22% zurückgewonnene Bremsenergie, zusammen 87–91%. Diese Zahlen gelten für die Energie im Fahrzeug und den bezeichneten Fahrzyklus, nicht für die komplette Herstellung oder jede denkbare Stromerzeugung.",
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Energie-/Politikrecherche"
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M18.",
+        "assessmentChange": "Erstbewertung im ChatGPT-Zwischenstand nach Quellenprüfung."
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Der Effizienzvergleich zwischen Verbrennungs- und Elektroantrieb stützt die zentrale praktische Begründung für die Energiewende.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": true
+      }
+    },
+    {
+      "id": "DSnpxR_my-4-A0019",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Mit Dach-PV können die Ladestromkosten für 100 km unter 1,50 Euro liegen.",
+      "reason": "Als Möglichkeitsaussage stimmt das. Fraunhofer ISE ermittelt 2024 für kleine deutsche Dach-PV Stromgestehungskosten von 6,3–14,4 ct/kWh einschließlich Anlagenkomponenten und Installation. ADAC misst beim Tesla Model 3 17,2 kWh/100 km inklusive Ladeverlusten. Bei angenommenen 8 ct/kWh ergibt die eigene Rechnung 17,2×0,08=1,376 Euro/100 km; die 1,50-Euro-Grenze wird bei diesem Verbrauch unter rund 8,72 ct/kWh erreicht. Bei 14,4 ct wären es 2,48 Euro. Voraussetzung sind günstige Anlage/Standort, passende Fahrbedingungen und direkte Nutzung ohne zusätzlichen Hausspeicher. Dies sind Ladestromkosten, keine gesamten Autokosten; die Investition in die PV ist in der gewählten Gestehungskostenrechnung bereits enthalten. Der Host behauptet keine universelle Garantie.",
+      "assessmentBasis": "Untertitelkontext mit unabhängig direkt geöffneten Primärquellen abgeglichen; Grenzen und Systembezüge in der Begründung ausgewiesen.",
+      "occurrences": [
+        {
+          "startSeconds": 379,
+          "endSeconds": 394,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        },
+        {
+          "sourceId": "S111",
+          "note": "Abschnitt PV und Abbildung 7: kleine Dach-PV 6,3–14,4 ct/kWh in Deutschland, einschließlich Komponenten und Installation. Kosten variieren nach Standort/Investition; separates Batteriesystem erhöht Kosten."
+        },
+        {
+          "sourceId": "S112",
+          "note": "Ecotest 17,2 kWh/100 km einschließlich Ladeverlusten bei 11 kW-Wechselstromladung. Kälte und Geschwindigkeit erhöhen Bedarf."
+        }
+      ],
+      "openQuestions": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Vollständige deutsche Originaluntertitel gelesen; Aussage und Haltung im Satzkontext erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Wortlautgrundlage sinngemäß erfasst; keine sekundengenaue audiovisuelle Bestätigung."
+          },
+          {
+            "strategy": "Gezielte Primärquellenrecherche und unabhängige Gegenprüfung der aus dem vollständigen Captionkontext bestimmten Behauptung. Wissensdatenbanken KL, HP und UG gezielt durchsucht; keine gleichwertigen Vorprüfungen übernommen.",
+            "sourceIds": [
+              "S111",
+              "S112"
+            ],
+            "result": "Als Möglichkeitsaussage stimmt das. Fraunhofer ISE ermittelt 2024 für kleine deutsche Dach-PV Stromgestehungskosten von 6,3–14,4 ct/kWh einschließlich Anlagenkomponenten und Installation. ADAC misst beim Tesla Model 3 17,2 kWh/100 km inklusive Ladeverlusten. Bei angenommenen 8 ct/kWh ergibt die eigene Rechnung 17,2×0,08=1,376 Euro/100 km; die 1,50-Euro-Grenze wird bei diesem Verbrauch unter rund 8,72 ct/kWh erreicht. Bei 14,4 ct wären es 2,48 Euro. Voraussetzung sind günstige Anlage/Standort, passende Fahrbedingungen und direkte Nutzung ohne zusätzlichen Hausspeicher. Dies sind Ladestromkosten, keine gesamten Autokosten; die Investition in die PV ist in der gewählten Gestehungskostenrechnung bereits enthalten. Der Host behauptet keine universelle Garantie.",
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Energie-/Politikrecherche"
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M19.",
+        "assessmentChange": "Erstbewertung im ChatGPT-Zwischenstand nach Quellenprüfung."
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Die konkrete Ladekosten-Zahl ist das hervorgehobene Rechenbeispiel für den wirtschaftlichen Nutzen der Elektrifizierung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": true
+      }
+    },
+    {
+      "id": "DSnpxR_my-4-A0020",
+      "chapter": 5,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Bei Next2Sun wurden bereits Insolvenzanträge gestellt.",
+      "reason": "Der Kern ist zum Uploaddatum belegt: Next2Sun teilte am 05.10.2026 Insolvenzanträge in Eigenverwaltung für Technology GmbH und Mounting Systems GmbH mit. Der Gruppenname im Video ist verkürzt: AG, Projekt GmbH und Betreibergesellschaften bestehender Anlagen waren laut damaliger Mitteilung nicht betroffen. Diese Präzisierung ist erforderlich; der Host sagt aber nicht ausdrücklich, jede Gesellschaft der Gruppe sei insolvent. Spätere Ereignisse nach dem 06.11.2026 ändern die Bewertung des damaligen Ausschnitts nicht.",
+      "assessmentBasis": "Untertitelkontext mit unabhängig direkt geöffneten Primärquellen abgeglichen; Grenzen und Systembezüge in der Begründung ausgewiesen.",
+      "occurrences": [
+        {
+          "startSeconds": 394,
+          "endSeconds": 425,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        },
+        {
+          "sourceId": "S113",
+          "note": "Insolvenzanträge für Next2Sun Technology GmbH und Next2Sun Mounting Systems GmbH. Next2Sun AG und Projekt GmbH nach damaligem Stand nicht betroffen; laufende Projektgesellschaften nicht insolvent. Finanzierung trotz Zusagen nicht hinreichend verbindlich gesichert."
+        }
+      ],
+      "openQuestions": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Vollständige deutsche Originaluntertitel gelesen; Aussage und Haltung im Satzkontext erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Wortlautgrundlage sinngemäß erfasst; keine sekundengenaue audiovisuelle Bestätigung."
+          },
+          {
+            "strategy": "Gezielte Primärquellenrecherche und unabhängige Gegenprüfung der aus dem vollständigen Captionkontext bestimmten Behauptung. Wissensdatenbanken KL, HP und UG gezielt durchsucht; keine gleichwertigen Vorprüfungen übernommen.",
+            "sourceIds": [
+              "S113"
+            ],
+            "result": "Der Kern ist zum Uploaddatum belegt: Next2Sun teilte am 05.10.2026 Insolvenzanträge in Eigenverwaltung für Technology GmbH und Mounting Systems GmbH mit. Der Gruppenname im Video ist verkürzt: AG, Projekt GmbH und Betreibergesellschaften bestehender Anlagen waren laut damaliger Mitteilung nicht betroffen. Diese Präzisierung ist erforderlich; der Host sagt aber nicht ausdrücklich, jede Gesellschaft der Gruppe sei insolvent. Spätere Ereignisse nach dem 06.11.2026 ändern die Bewertung des damaligen Ausschnitts nicht.",
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Energie-/Politikrecherche"
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M20.",
+        "assessmentChange": "Erstbewertung im ChatGPT-Zwischenstand nach Quellenprüfung."
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Der behauptete Insolvenzantrag ist ein eigenständiges aktuelles Beispiel aus der Branche, ohne die allgemeine Klimathese allein zu tragen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": true
+      }
+    },
+    {
+      "id": "DSnpxR_my-4-A0021",
+      "chapter": 5,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Trotz Projekten fehlte Next2Sun Finanzierung; politische Unsicherheit verhindere Bankkredite.",
+      "reason": "Next2Sun berichtete im September von einer starken Projektpipeline, Belastungen aus nicht genehmigter Agri-PV-Förderung 2025 sowie zurückhaltenden Banken/Investoren. Im Oktober waren Zusagen nicht hinreichend verbindlich, um den Kapitalbedarf zu sichern. Das belegt eine Finanzierungslücke und eine Unternehmensdarstellung der Gründe. Verbandsstellungnahmen und der EEG-Entwurf dokumentieren reale Auseinandersetzungen über künftige Förderung. Öffentlich gelesene Quellen legen aber keine vollständige Kreditanalyse oder Bankentscheidung offen und isolieren den politischen Einfluss nicht von betriebswirtschaftlichen Faktoren. Die monokausale Erklärung des Hosts reicht deshalb weiter als die Beweislage.",
+      "assessmentBasis": "Untertitelkontext mit unabhängig direkt geöffneten Primärquellen abgeglichen; Grenzen und Systembezüge in der Begründung ausgewiesen.",
+      "occurrences": [
+        {
+          "startSeconds": 410,
+          "endSeconds": 425,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        },
+        {
+          "sourceId": "S113",
+          "note": "Insolvenzanträge für Next2Sun Technology GmbH und Next2Sun Mounting Systems GmbH. Next2Sun AG und Projekt GmbH nach damaligem Stand nicht betroffen; laufende Projektgesellschaften nicht insolvent. Finanzierung trotz Zusagen nicht hinreichend verbindlich gesichert."
+        },
+        {
+          "sourceId": "S114",
+          "note": "Unternehmensangabe: starke Projektpipeline, nicht genehmigte Agri-PV-Förderung 2025, Zurückhaltung von Investoren/Banken, institutionelle Finanzierung im damaligen Umfeld nicht zugänglich. Als interessengeleitete Selbstauskunft, nicht unabhängige Bilanz-/Kausalanalyse behandeln."
+        },
+        {
+          "sourceId": "S115",
+          "note": "S. 208 Begründung zu § 38a: bestimmte vertikale/hochaufgeständerte Agri-PV erhalten 0,5 ct/kWh Bonus; neues System enthält Förder- und Übergangsregelungen. Ob dies ausreichende Investitionssicherheit schafft, ist eine andere Frage als völlige Abwesenheit von Vorschriften."
+        },
+        {
+          "sourceId": "S116",
+          "note": "Original-Stellungnahme eines Interessenverbands kritisiert Förderkürzungen/Finanzierungsrisiken; begrüßt zugleich Teile des Vertrauensschutzes und der Übergangsregeln (§ 100). Belegt Streit über Sicherheit, nicht konkrete Ursache aller Next2Sun-Probleme."
+        }
+      ],
+      "openQuestions": [
+        "Kreditentscheidungen, konkrete Auftragseingänge und Liquiditätsplanung oder Bericht des Sachwalters wären nötig, um die Ursache unabhängig zu bestimmen."
+      ],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Vollständige deutsche Originaluntertitel gelesen; Aussage und Haltung im Satzkontext erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Wortlautgrundlage sinngemäß erfasst; keine sekundengenaue audiovisuelle Bestätigung."
+          },
+          {
+            "strategy": "Unternehmensmeldungen vom September und Oktober sowie Finanzierungskampagne auf Bestand, Zusagen und betroffene Gesellschaften geprüft.",
+            "sourceIds": [
+              "S113",
+              "S114"
+            ],
+            "result": "Projekte und Kapitalbedarf bestätigt als Unternehmensangaben; kein unabhängiger Kausalnachweis.",
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Energie-/Politikrecherche"
+          },
+          {
+            "strategy": "Rechts- und Förderkontext über Original-EEG-Entwurf und BEE-Stellungnahme gegengeprüft.",
+            "sourceIds": [
+              "S115",
+              "S116"
+            ],
+            "result": "Politische Unsicherheit plausibel und kritisiert; individueller Einfluss auf Bankentscheidungen nicht quantifiziert.",
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Energie-/Politikrecherche"
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M21.",
+        "assessmentChange": "Erstbewertung im ChatGPT-Zwischenstand nach Quellenprüfung."
+      },
+      "shortReason": "Projektbestand und Finanzierungslücke sind dokumentiert; dass fehlende politische Sicherheit die entscheidende Ursache der Kreditprobleme war, ist nicht belegt.",
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Die Ursache der Finanzierungsschwierigkeiten trägt die anschließende politische Kritik und deren praktische Folgen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": true
+      }
+    },
+    {
+      "id": "DSnpxR_my-4-A0022",
+      "chapter": 5,
+      "kind": "Tatsachenbehauptung",
+      "status": "Offen",
+      "verdict": null,
+      "description": "Reiche verspreche Sicherheit, die dazugehörige Gesetzesformulierung enthalte aber nichts Entsprechendes.",
+      "reason": "Noch nicht geprüft – der konkrete Maßnahme- oder Gesetzesbezug ist im verfügbaren Untertitelkontext nicht eindeutig identifiziert. Die noch ausstehende unmittelbare Bild-/Tonprüfung könnte ihn klären. Eine Zugriffslücke ist kein abschließendes Urteil über die Überprüfbarkeit.",
+      "assessmentBasis": "Untertitelkontext mit unabhängig direkt geöffneten Primärquellen abgeglichen; Grenzen und Systembezüge in der Begründung ausgewiesen.",
+      "occurrences": [
+        {
+          "startSeconds": 425,
+          "endSeconds": 440,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        },
+        {
+          "sourceId": "S115",
+          "note": "S. 208 Begründung zu § 38a: bestimmte vertikale/hochaufgeständerte Agri-PV erhalten 0,5 ct/kWh Bonus; neues System enthält Förder- und Übergangsregelungen. Ob dies ausreichende Investitionssicherheit schafft, ist eine andere Frage als völlige Abwesenheit von Vorschriften."
+        },
+        {
+          "sourceId": "S116",
+          "note": "Original-Stellungnahme eines Interessenverbands kritisiert Förderkürzungen/Finanzierungsrisiken; begrüßt zugleich Teile des Vertrauensschutzes und der Übergangsregeln (§ 100). Belegt Streit über Sicherheit, nicht konkrete Ursache aller Next2Sun-Probleme."
+        }
+      ],
+      "openQuestions": [
+        "In Bild, Videobeschreibung oder Ausgangsmaterial nach benannter Zusage und Gesetzesfassung suchen; erst dann Rechtsvergleich."
+      ],
+      "research": {
+        "gap": "Bezugsobjekt durch unmittelbare audiovisuelle Kontrolle identifizieren; bis dahin kein abschließendes Sachurteil.",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Vollständige deutsche Originaluntertitel gelesen; Aussage und Haltung im Satzkontext erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Wortlautgrundlage sinngemäß erfasst; keine sekundengenaue audiovisuelle Bestätigung."
+          },
+          {
+            "strategy": "Nach Reiche, Next2Sun, Sicherheitszusagen und Investitionssicherheit gesucht; EEG-Entwurf identifiziert und gelesen.",
+            "sourceIds": [
+              "S115"
+            ],
+            "result": "Plausibler politischer Zusammenhang, aber keine gesicherte Identität des gemeinten Gesetzes.",
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Energie-/Politikrecherche"
+          },
+          {
+            "strategy": "Original-Stellungnahme zur EEG-Novelle einschließlich Kritik und begrüßter Übergangsregeln geprüft.",
+            "sourceIds": [
+              "S116"
+            ],
+            "result": "Kontroverse Sicherheitsbewertung, keine eindeutige Referenz des Videos.",
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Energie-/Politikrecherche"
+          }
+        ],
+        "missingInformation": "Datum/Wortlaut/Anlass von Reiches Zusage sowie Name, Fassung und einschlägiger Paragraph des verglichenen Gesetzes.",
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M22.",
+        "assessmentChange": "Vor Veröffentlichung redaktionell als offen eingeordnet, weil fehlende Bild-/Tonkontrolle nicht als sachliche Unüberprüfbarkeit behandelt wird."
+      }
+    },
+    {
+      "id": "DSnpxR_my-4-A0023",
+      "chapter": 5,
+      "kind": "Tatsachenbehauptung",
+      "status": "Offen",
+      "verdict": null,
+      "description": "Trump habe die zuvor erwähnten Klimamaßnahmen in den USA abgeschafft.",
+      "reason": "Noch nicht geprüft – der konkrete Maßnahme- oder Gesetzesbezug ist im verfügbaren Untertitelkontext nicht eindeutig identifiziert. Die noch ausstehende unmittelbare Bild-/Tonprüfung könnte ihn klären. Eine Zugriffslücke ist kein abschließendes Urteil über die Überprüfbarkeit.",
+      "assessmentBasis": "Untertitelkontext mit unabhängig direkt geöffneten Primärquellen abgeglichen; Grenzen und Systembezüge in der Begründung ausgewiesen.",
+      "occurrences": [
+        {
+          "startSeconds": 440,
+          "endSeconds": 456,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP2",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        },
+        {
+          "sourceId": "S117",
+          "note": "2026 fortgeführter Emissionshandel: 6.284.205 Zertifikate verkauft, Preis 39,50 USD, Auktionserlös 248.226.097,50 USD (davon 110,6 Mio. USD Staat). Widerlegt pauschale Abschaffung aller US-CO2-Bepreisung, belegt nicht unbenannten Referenten im Video."
+        },
+        {
+          "sourceId": "S118",
+          "note": "Präsidialanordnung zur Umsetzung beendeter/geänderter Steuervergünstigungen für Wind/Solar im OBBBA; Abbau von Förder-Steuergutschriften ist keine Abschaffung aller CO2-Preise."
+        },
+        {
+          "sourceId": "S119",
+          "note": "Anweisung an Attorney General, Landesklimarecht zu prüfen und gegen als rechtswidrig bewertete Regeln vorzugehen; der Text selbst setzt nicht sämtliche Landesprogramme außer Kraft."
+        }
+      ],
+      "openQuestions": [
+        "Den unmittelbaren Kontext im Originalgespräch bestimmen; anschließend die dort tatsächlich bezeichnete Maßnahme prüfen."
+      ],
+      "research": {
+        "gap": "Bezugsobjekt durch unmittelbare audiovisuelle Kontrolle identifizieren; bis dahin kein abschließendes Sachurteil.",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Vollständige deutsche Originaluntertitel gelesen; Aussage und Haltung im Satzkontext erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Wortlautgrundlage sinngemäß erfasst; keine sekundengenaue audiovisuelle Bestätigung."
+          },
+          {
+            "strategy": "Präsidialanordnungen zu Förder-Steuergutschriften und Vorgehen gegen Landesklimarecht im Original gelesen.",
+            "sourceIds": [
+              "S118",
+              "S119"
+            ],
+            "result": "Konkrete Rücknahmen vorhanden, aber keine vollständige Abschaffung aller Klimamaßnahmen.",
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Energie-/Politikrecherche"
+          },
+          {
+            "strategy": "Gegenprüfung auf fortbestehende CO₂-Bepreisung durch amtlichen Washington-Auktionsbericht September 2026.",
+            "sourceIds": [
+              "S117"
+            ],
+            "result": "Fortbestehender Emissionshandel belegt; unbenannter Referent im Video bleibt ungeklärt.",
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Energie-/Politikrecherche"
+          }
+        ],
+        "missingInformation": "Welche US-Steuer, Subvention, Abgabe oder Klimamaßnahme mit dem Bezugwort gemeint ist.",
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M23.",
+        "assessmentChange": "Vor Veröffentlichung redaktionell als offen eingeordnet, weil fehlende Bild-/Tonkontrolle nicht als sachliche Unüberprüfbarkeit behandelt wird."
+      },
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Markus Krall",
+        "presentation": "Einspieler",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Die Trump-Behauptung wird im Schlussausschnitt wiedergegeben. Der Host bemängelt anschließend fehlenden Widerspruch, bestätigt jedoch keine konkrete abgeschaffte US-Regel. Der pauschale Betrugsrahmen ist separat M01/M15 zugeordnet.",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21"
+      }
+    },
+    {
+      "id": "DSnpxR_my-4-A0024",
+      "chapter": 6,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "description": "Zusätzliche Treibhausgase und Erwärmung könnten schwere Überflutungen und gravierende Folgen verursachen.",
+      "reason": "Prüfung läuft – der Aussagekomplex ist aus den vollständigen Untertiteln erfasst; die eigenständige Sachrecherche und Gegenprüfung werden im nächsten Stand ergänzt.",
+      "assessmentBasis": "Eigene Paraphrase der deutschen Originaluntertitel; Zeitmarken ungefähr, Sprecherzuordnung plausibel.",
+      "occurrences": [
+        {
+          "startSeconds": 456,
+          "endSeconds": 487,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Namensnennungen, Einleitungen und Sprecherkontext der deutschen Originaluntertitel; nicht durch eigene audiovisuelle Sichtung bestätigt.",
+          "roleBasis": "Die benannte Person bringt die paraphrasierte Aussage vor; bei Einspielern kennzeichnet attribution getrennt die Haltung des Hosts.",
+          "timeBasis": "Anfang und Ende des zugehörigen Captionblocks; tatsächlicher Satzbeginn und Sprecherwechsel können innerhalb dieses Blocks liegen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle und Sprecherkontext in den deutschen Originaluntertiteln."
+        }
+      ],
+      "openQuestions": [
+        "IPCC-Aussagen zu Starkniederschlägen/Hochwasser und regionalen Unterschieden",
+        "Risiko- und Bedingungsformulierung"
+      ],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "ChatGPT – Materialprüfung",
+            "strategy": "Sämtliche deutschen Captionblöcke gelesen und die Behauptung mit Kontext, Sprecher und Wiederholungen erfasst.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Aussagekomplex erfasst; noch kein Sachurteil in diesem Zwischenstand."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "migration": {
+        "changeType": "Neu erfasst",
+        "mapping": "Erster ChatGPT-Durchlauf, stabile Zuordnung aus Aussageninventar M24.",
+        "assessmentChange": "Erfassung im veröffentlichten Zwischenstand; offene Sachprüfung wird nicht als Ergebnis ausgegeben."
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Das Risiko schwerer Erwärmungsfolgen wird im Schluss ausdrücklich hervorgehoben und begründet den Handlungsappell.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "ChatGPT – unabhängige Materialprüfung",
+        "assessedOn": "2026-11-21",
+        "assessedBeforeVerdict": true
+      }
+    }
+  ]
+}
