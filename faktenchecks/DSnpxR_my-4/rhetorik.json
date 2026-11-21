@@ -6,7 +6,7 @@
     "checkedOn": "2026-11-21",
     "by": "ChatGPT",
     "basis": "Vollständige Lektüre deutscher Originaluntertitel und der Videobeschreibung; keine unmittelbare eigene Bild- oder Tonsichtung.",
-    "coverage": "Sprachlicher Zusammenhang über alle 32 Captionblöcke gesichtet; gesonderte Darstellungsannotation noch in Bearbeitung.",
+    "coverage": "Sprachliche Muster über die vollständigen Captions geprüft; sechs vorsichtige Hinweise. Keine vollständige Beurteilung von Ton, Schnitt, Musik, Grafiken oder Werbekennzeichnung.",
     "limits": [
       "Originalton, Stimmführung und genaue Sprecherwechsel sind nicht unmittelbar kontrolliert.",
       "Schnitt, Einblendungen, gezeigte Grafiken und Quellen sind nicht vollständig visuell geprüft.",
@@ -17,8 +17,182 @@
         "date": "2026-11-21",
         "by": "ChatGPT",
         "change": "Zwischenstand mit offengelegten Darstellungsgrenzen angelegt; keine vollständige Prüfung behauptet."
+      },
+      {
+        "date": "2026-11-21",
+        "by": "ChatGPT",
+        "change": "Sprachliche Hinweise ergänzt; audiovisuelle Grenzen bleiben offen und beeinflussen den Faktenindex nicht."
       }
     ]
   },
-  "annotations": []
+  "annotations": [
+    {
+      "id": "DSnpxR_my-4-R0001",
+      "claimId": null,
+      "feature": "emotionalisierung",
+      "startSeconds": 0,
+      "endSeconds": 23,
+      "speaker": {
+        "id": "SP1",
+        "attribution": "Plausibel",
+        "basis": "Namensnennungen und Captionkontext; keine eigene audiovisuelle Bestätigung."
+      },
+      "observation": "Die Einleitung eröffnet mit einer zugespitzten Lügenfrage einen Konflikt zwischen Gegenpositionen.",
+      "reason": "Die sprachliche Rahmung hebt den Streit hervor; die fremde Leugnungsbehauptung wird dadurch nicht zur eigenen Aussage des Hosts.",
+      "context": "Reaktionsvideo mit wechselnden Einspielern; Sprecher und Haltung sind von der Sachbewertung getrennt.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Sprachlicher Captionbefund; Tonfall, Schnittwirkung und genaue Sekunden nicht unmittelbar kontrolliert.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Captionlektüre und getrennte Redaktion; automatischer Szenenindex nicht als eigener Sichtungsbeleg.",
+      "history": [
+        {
+          "date": "2026-11-21",
+          "by": "ChatGPT",
+          "change": "Sprachlichen Hinweis mit offengelegter Materialgrenze erfasst."
+        }
+      ]
+    },
+    {
+      "id": "DSnpxR_my-4-R0002",
+      "claimId": "DSnpxR_my-4-A0002",
+      "feature": "pauschalisierung",
+      "startSeconds": 61,
+      "endSeconds": 92,
+      "speaker": {
+        "id": "SP2",
+        "attribution": "Plausibel",
+        "basis": "Namensnennungen und Captionkontext; keine eigene audiovisuelle Bestätigung."
+      },
+      "observation": "Der Einspieler schreibt einer großen unbestimmten Gruppe von Klimadiskutierenden grundlegende Unkenntnis zu.",
+      "reason": "Von beispielhaften Antworten wird auf eine Mehrheit geschlossen; die tatsächliche Wissensverteilung wird gesondert geprüft.",
+      "context": "Reaktionsvideo mit wechselnden Einspielern; Sprecher und Haltung sind von der Sachbewertung getrennt.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Sprachlicher Captionbefund; Tonfall, Schnittwirkung und genaue Sekunden nicht unmittelbar kontrolliert.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Captionlektüre und getrennte Redaktion; automatischer Szenenindex nicht als eigener Sichtungsbeleg.",
+      "history": [
+        {
+          "date": "2026-11-21",
+          "by": "ChatGPT",
+          "change": "Sprachlichen Hinweis mit offengelegter Materialgrenze erfasst."
+        }
+      ]
+    },
+    {
+      "id": "DSnpxR_my-4-R0003",
+      "claimId": "DSnpxR_my-4-A0025",
+      "feature": "emotionalisierung",
+      "startSeconds": 253,
+      "endSeconds": 268,
+      "speaker": {
+        "id": "SP2",
+        "attribution": "Plausibel",
+        "basis": "Namensnennungen und Captionkontext; keine eigene audiovisuelle Bestätigung."
+      },
+      "observation": "Klimapolitik wird im Einspieler als gezielter Zugriff auf das Geld der Bevölkerung gerahmt.",
+      "reason": "Die Motiv- und Bedrohungsrahmung betont Empörung; sie ist von konkreten Geldflussbehauptungen zu trennen.",
+      "context": "Reaktionsvideo mit wechselnden Einspielern; Sprecher und Haltung sind von der Sachbewertung getrennt.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Sprachlicher Captionbefund; Tonfall, Schnittwirkung und genaue Sekunden nicht unmittelbar kontrolliert.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Captionlektüre und getrennte Redaktion; automatischer Szenenindex nicht als eigener Sichtungsbeleg.",
+      "history": [
+        {
+          "date": "2026-11-21",
+          "by": "ChatGPT",
+          "change": "Sprachlichen Hinweis mit offengelegter Materialgrenze erfasst."
+        }
+      ]
+    },
+    {
+      "id": "DSnpxR_my-4-R0004",
+      "claimId": "DSnpxR_my-4-A0015",
+      "feature": "pauschalisierung",
+      "startSeconds": 332,
+      "endSeconds": 348,
+      "speaker": {
+        "id": "SP2",
+        "attribution": "Plausibel",
+        "basis": "Namensnennungen und Captionkontext; keine eigene audiovisuelle Bestätigung."
+      },
+      "observation": "Freiwillige Flugbeiträge werden ohne erkennbare Unterscheidung nach Anbieter oder Projekt verworfen.",
+      "reason": "Eine einheitliche negative Zuschreibung ersetzt die Einzelfallunterscheidung; Qualitätsprobleme werden unabhängig davon geprüft.",
+      "context": "Reaktionsvideo mit wechselnden Einspielern; Sprecher und Haltung sind von der Sachbewertung getrennt.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Sprachlicher Captionbefund; Tonfall, Schnittwirkung und genaue Sekunden nicht unmittelbar kontrolliert.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Captionlektüre und getrennte Redaktion; automatischer Szenenindex nicht als eigener Sichtungsbeleg.",
+      "history": [
+        {
+          "date": "2026-11-21",
+          "by": "ChatGPT",
+          "change": "Sprachlichen Hinweis mit offengelegter Materialgrenze erfasst."
+        }
+      ]
+    },
+    {
+      "id": "DSnpxR_my-4-R0005",
+      "claimId": "DSnpxR_my-4-A0018",
+      "feature": "emotionalisierung",
+      "startSeconds": 364,
+      "endSeconds": 394,
+      "speaker": {
+        "id": "SP1",
+        "attribution": "Plausibel",
+        "basis": "Namensnennungen und Captionkontext; keine eigene audiovisuelle Bestätigung."
+      },
+      "observation": "Der Host beschreibt Verbrenner-Abwärme bildhaft als Heizung und günstiges PV-Laden mit begeisterter Wortwahl.",
+      "reason": "Metapher und positive Wertung verstärken den Nutzenappell; daraus folgt allein kein Fehler im Effizienz- oder Kostenbefund.",
+      "context": "Reaktionsvideo mit wechselnden Einspielern; Sprecher und Haltung sind von der Sachbewertung getrennt.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Sprachlicher Captionbefund; Tonfall, Schnittwirkung und genaue Sekunden nicht unmittelbar kontrolliert.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Captionlektüre und getrennte Redaktion; automatischer Szenenindex nicht als eigener Sichtungsbeleg.",
+      "history": [
+        {
+          "date": "2026-11-21",
+          "by": "ChatGPT",
+          "change": "Sprachlichen Hinweis mit offengelegter Materialgrenze erfasst."
+        }
+      ]
+    },
+    {
+      "id": "DSnpxR_my-4-R0006",
+      "claimId": "DSnpxR_my-4-A0024",
+      "feature": "emotionalisierung",
+      "startSeconds": 471,
+      "endSeconds": 487,
+      "speaker": {
+        "id": "SP1",
+        "attribution": "Plausibel",
+        "basis": "Namensnennungen und Captionkontext; keine eigene audiovisuelle Bestätigung."
+      },
+      "observation": "Der Schluss verbindet mögliche Hitze- und Überflutungsfolgen mit einer drastischen Zukunftswarnung.",
+      "reason": "Die Möglichkeit wird zugespitzt, ohne eine sichere Katastrophe an einem bestimmten Ort und Datum zu benennen.",
+      "context": "Reaktionsvideo mit wechselnden Einspielern; Sprecher und Haltung sind von der Sachbewertung getrennt.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Sprachlicher Captionbefund; Tonfall, Schnittwirkung und genaue Sekunden nicht unmittelbar kontrolliert.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Captionlektüre und getrennte Redaktion; automatischer Szenenindex nicht als eigener Sichtungsbeleg.",
+      "history": [
+        {
+          "date": "2026-11-21",
+          "by": "ChatGPT",
+          "change": "Sprachlichen Hinweis mit offengelegter Materialgrenze erfasst."
+        }
+      ]
+    }
+  ]
 }

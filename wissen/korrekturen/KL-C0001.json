@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "KL-C0001",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-21",
+  "reportedBy": "ChatGPT",
+  "trigger": {
+    "claimId": "DSnpxR_my-4-A0021",
+    "entryId": null,
+    "description": "Next2Sun-Sammelbewertung präzisiert: Projektpipeline, Auftragsbestand, Finanzierung und politischer Ursachenbeitrag müssen sauber abgegrenzt werden."
+  },
+  "evidence": [
+    {
+      "title": "Next2Sun: Finanzierungsmitteilung vom 18.09.2026",
+      "url": "https://next2sun.com/technologie-gefragt-wie-nie-kapital-knapp-wie-selten-next2sun-kaempft-um-seine-zukunft/",
+      "accessedOn": "2026-11-21",
+      "finding": "Primärquelle beschreibt Pipeline, Kapitalbedarf und Unternehmenssicht; sie klärt nicht ausdrücklich, ob die Projekte bereits erteilte Kundenaufträge sind, und enthält keine konkreten Bankentscheidungen."
+    },
+    {
+      "title": "Next2Sun: Insolvenzanträge, Mitteilung vom 05.10.2026",
+      "url": "https://next2sun.com/trotz-breiter-unterstuetzung-next2sun-beantragt-insolvenzverfahren-fuer-teile-der-unternehmensgruppe/",
+      "accessedOn": "2026-11-21",
+      "finding": "Kapitalbedarf nicht verbindlich gedeckt; politische Kausalität nicht unabhängig isoliert."
+    },
+    {
+      "title": "Next2Sun: Aktienemission,24.08.2026",
+      "url": "https://next2sun.com/next2sun-ag-startet-aktienemission-zur-finanzierung-des-naechsten-wachstumsschritts/",
+      "accessedOn": "2026-11-21",
+      "finding": "Erwartete Auslieferungen und eigene Projektentwicklung werden beschrieben; die einfache Existenzbehauptung zu Kundenaufträgen wird damit nicht ausdrücklich geklärt."
+    }
+  ],
+  "affected": [
+    {
+      "target": "DSnpxR_my-4-A0021",
+      "reason": "Ursprünglicher Sammelpunkt beziehungsweise daraus abgegrenzter Teil; andere Aussagen teilen lediglich die Videoquelle und sind sachlich nicht betroffen."
+    },
+    {
+      "target": "DSnpxR_my-4-A0027",
+      "reason": "Ursprünglicher Sammelpunkt beziehungsweise daraus abgegrenzter Teil; andere Aussagen teilen lediglich die Videoquelle und sind sachlich nicht betroffen."
+    },
+    {
+      "target": "DSnpxR_my-4-A0028",
+      "reason": "Ursprünglicher Sammelpunkt beziehungsweise daraus abgegrenzter Teil; andere Aussagen teilen lediglich die Videoquelle und sind sachlich nicht betroffen."
+    }
+  ],
+  "decision": {
+    "by": "Regel:Einzelkorrektur nach AGENTEN_WISSEN Abschnitt 4",
+    "date": "2026-11-21",
+    "basis": "Im laufenden Prüfauftrag für öffentliche Zwischenstände eine begrenzte Sammelbewertung nach erneutem Lesen der Originalquellen aufgeteilt. Kein fremdes Video oder Wissenseintragsurteil geändert. Fehlende kausale Bestätigung nicht als Widerlegung behandelt. Automatische Betroffenheitsliste geprüft und auf die sachlich betroffenen drei Einträge begrenzt."
+  },
+  "changes": [
+    {
+      "target": "DSnpxR_my-4-A0021",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Nicht ausreichend belegbar"
+    },
+    {
+      "target": "DSnpxR_my-4-A0021",
+      "field": "description",
+      "before": "Trotz Projekten fehlte Next2Sun Finanzierung; politische Unsicherheit verhindere Bankkredite.",
+      "after": "Politische Unsicherheit habe dazu beigetragen, dass Next2Sun keine Bankfinanzierung mehr erhielt."
+    },
+    {
+      "target": "DSnpxR_my-4-A0027",
+      "field": "verdict",
+      "before": null,
+      "after": "Nicht ausreichend belegbar"
+    },
+    {
+      "target": "DSnpxR_my-4-A0028",
+      "field": "verdict",
+      "before": null,
+      "after": "Teilweise belegt"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-21",
+      "agent": "ChatGPT",
+      "change": "Sammelpunkt des ersten Live-Zwischenstands nach Material- und Quellengegenprüfung aufgeteilt; frühere Bewertung und Begründung bleiben im Git-Verlauf."
+    }
+  ]
+}
