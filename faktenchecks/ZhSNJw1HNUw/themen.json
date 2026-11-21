@@ -591,6 +591,11 @@
       "date": "2026-11-21",
       "agent": "ChatGPT",
       "change": "Wirtschafts-, Klima- und Politikteil ergänzt; vorhandene Themen weiterverwendet, keine neue globale Kategorie nötig."
+    },
+    {
+      "date": "2026-11-21",
+      "agent": "Codex",
+      "change": "Themen beim Sachabschluss erneut geprüft: Energie, Preise und Klima unverändert zutreffend; keine neuen Sachbehauptungen oder Themen, keine Änderung anderer Videozuordnungen erforderlich. Bildkontrolle ergänzt, ohne daraus ein neues Thema zu erfinden."
     }
   ]
 }

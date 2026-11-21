@@ -6,8 +6,8 @@
     "kind": "Teilbestand",
     "asOf": "2026-11-21",
     "durationSeconds": 1268,
-    "coverageNote": "Der vollständige zugängliche Captiontext über 21:08 wurde gelesen; alle daraus erfassten Sachargumente zu Technik, Kosten, Emissionen, Recht, Medien und Umfragen sind bearbeitet. 85 zusammengeführte Einträge einschließlich Meinungen und nicht überprüfbarer Selbstauskünfte. Zusätzliche reine Bildeinblendungen und Originalton sind nicht vollständig geprüft. Die rechnerische Abdeckung gilt ausschließlich für diesen erfassten Bestand.",
-    "researchNote": "Drei fachliche Teilaufgaben, danach gesonderte redaktionelle Gegenprüfung kritischer Paraphrasen und Bedeutungsprüfung. Alle Teilaufgaben gehören zu demselben ChatGPT-Durchlauf; keine Prüfung durch ein unabhängig ausgewähltes Modell. Primärquellen, aktuelle Rechts-/Fördertexte und eigene Nachrechnungen. Wissensdatenbanken KL, HP und UG durchsucht. Originalplayer blieb bei 0:00; automatische Szenennotizen nur Suchhilfe."
+    "coverageNote": "Recherche abgeschlossen für den erfassten Aussagenbestand: 85 zusammengeführte Einträge über die gesamte zugängliche Captionlaufzeit, einschließlich Meinungen und nicht überprüfbarer Selbstauskünfte. Die ergänzende Bildkontrolle prüfte Standbilder in 45-Sekunden-Schritten sowie gezielt Q11 und die 93-Prozent-Grafik. Keine offenen erfassten Sachprüfungen. Keine Behauptung einer lückenlosen eigenen Hör- und Sichtprüfung; die Darstellung bleibt teilweise geprüft.",
+    "researchNote": "Drei fachliche Teilaufgaben, danach gesonderte redaktionelle Gegenprüfung kritischer Paraphrasen und Bedeutungsprüfung. Alle Teilaufgaben gehören zu demselben ChatGPT-Durchlauf; keine Prüfung durch ein unabhängig ausgewähltes Modell. Primärquellen, aktuelle Rechts-/Fördertexte und eigene Nachrechnungen. Wissensdatenbanken KL, HP und UG durchsucht. Originalplayer blieb bei 0:00; automatische Szenennotizen nur Suchhilfe. Abschlussnachprüfung durch Codex am 21.11.2026: acht Teilbewertungen mit ihren Originalquellen erneut abgeglichen, DPZ-Publikation und gezielte Suche nach Daten/Codebuch/Klarstellung geprüft; keine öffentlich auffindbare Replikationsgrundlage gefunden. Die Wiedergabe funktionierte diesmal, kontrollierte Standbilder sind in 06_abschluss.md protokolliert. 77 Bedeutungsfaktoren durch einen zweiten Codex-Teilagenten einzeln kontrolliert; keine unabhängige Modellreplikation."
   },
   "speakers": [
     {
@@ -30,7 +30,7 @@
       "url": "https://www.youtube.com/watch?v=ZhSNJw1HNUw",
       "details": "21.11.2026; 21:08. Zielvideo und vollständige deutsche Captiongrundlage.",
       "accessedOn": "2026-11-21",
-      "accessBasis": "Metadaten und vollständiges Transkript über vidIQ gelesen. Automatische Szenennotizen nur als Suchhilfe. Originalplayer blieb bei 0:00; keine eigene Bild-/Tonvollsichtung."
+      "accessBasis": "Metadaten und vollständiges Transkript über vidIQ gelesen. Automatische Szenennotizen nur als Suchhilfe. Originalplayer blieb bei 0:00; keine eigene Bild-/Tonvollsichtung. Ergänzung Codex: Wiedergabe am 21.11.2026 möglich; Standbildkontrolle in 45-Sekunden-Schritten und gezielte Kontrolle bei 08:00 und 15:55. Kein eigener lückenloser Hör-/Sichtdurchlauf."
     },
     {
       "id": "PH-S01",
@@ -619,6 +619,13 @@
             "result": "Bestätigt",
             "proposedWeight": 0.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Computerabwärme dient vor allem als persönliche Einleitung und als wiederkehrender Scherz; der Heizungsvergleich hängt nicht von dieser Anwendung ab. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Der Computerrahmen dient Einleitung und Schlusswitz; seine Wiederholung macht ihn nicht zur tragenden Heizungsbehauptung. R 0,5 passt zum Beiwerk. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -681,6 +688,13 @@
             "result": "Bestätigt",
             "proposedWeight": 2,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Nutzbarkeit kalter Außenluft ist die zentrale Antwort auf die technische Ausgangsfrage und trägt die gesamte Erklärung des Wärmepumpenprinzips. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 2,
+            "reason": "Die Möglichkeit, kalte Luft als Wärmequelle zu nutzen, beantwortet die technische Ausgangsfrage. R 2 ist gegenüber Einzelbeispielen angemessen hervorgehoben. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": [
@@ -756,6 +770,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Temperaturgrenze ist eine eigenständige physikalische Einordnung innerhalb der Erklärung, aber nicht deren Hauptschluss. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die absolute Temperaturskala liefert Hintergrundwissen, ohne die Gesamtfolgerung allein zu tragen. R 1 passt zum normalen Erklärungsschritt. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -823,6 +844,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Der Prozentvergleich ist ein veranschaulichendes Zwischenargument für Energie in kalter Luft; die gesamte Funktionserklärung hängt nicht von genau dieser Zahl ab. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die 90-Prozent-Analogie veranschaulicht die bereits etablierte Wärmequelle; sie ist keine notwendige quantitative Grundlage der späteren Kostenrechnung. R 1 ist konsistent. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -885,6 +913,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Richtung des spontanen Wärmeflusses erklärt, weshalb die Maschine zwei Temperaturniveaus und einen Antrieb benötigt. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die Wärmeflussrichtung begründet den notwendigen Antrieb des Kreisprozesses. Als tragender physikalischer Zusammenhang ist R 1,5 angemessen. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -947,6 +982,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die notwendigen Temperaturunterschiede an beiden Wärmetauschern bilden einen tragenden Schritt der Funktionsbeschreibung. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die Temperaturabstände erklären beide Wärmeübergänge. R 1,5 entspricht den übrigen tragenden Prozessschritten. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": [
@@ -1014,6 +1056,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Abhängigkeit der Siedetemperatur vom Druck ist ein zentrales Erklärungsprinzip des gesamten Kältekreises; der Schnellkochtopf illustriert dieses Prinzip. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Nicht der Küchenwert allein, sondern die Druckabhängigkeit des Siedens trägt den folgenden Kältekreis. R 1,5 passt zu dieser Argumentfunktion. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": [
@@ -1089,6 +1138,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Stoffwahl und Normal-Siedepunkt sind konkrete technische Beispieldaten, nicht die Hauptthese. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Kältemittelwahl und normaler Siedepunkt sind konkrete Beispieldaten; R 1 hält sie unterhalb des Funktionsprinzips. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -1151,6 +1207,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Druck-Temperatur-Zuordnung konkretisiert den gewählten Verdampferbetriebspunkt als Einzelbeispiel. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Der einzelne Verdampferbetriebspunkt veranschaulicht die Druckabhängigkeit und erhält passend R 1. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -1213,6 +1276,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Erwärmung durch Verdichtung beantwortet ausdrücklich Sinans Verständnisfrage und ermöglicht den folgenden Wärmeabgabeschritt. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die Verdichtung beantwortet die Verständnisfrage nach der höheren Abgabetemperatur. R 1,5 ist parallel zu den anderen notwendigen Kreisschritten vertretbar. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": [
@@ -1280,6 +1350,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die konkrete Vervierfachung des Drucks und die Temperaturwerte veranschaulichen das bereits eingeführte Funktionsprinzip. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Das konkrete Druckverhältnis ist ein Zahlenbeispiel des schon erklärten Zusammenhangs; R 1 passt zu A0010 und A0013. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -1346,6 +1423,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Temperaturen nach Verdichtung und bei Kondensation beschreiben einen bestimmten Beispielbetriebspunkt. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die beiden Temperaturen beschreiben den gewählten Betriebspunkt, keine allgemeine Leistungszusage. R 1 ist konsistent mit den Nachbarbeispielen. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -1424,6 +1508,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Wärmebilanz aus Umweltenergie und elektrischer Arbeit ist die tragende Begründung dafür, dass mehr Wärme als eingesetzte elektrische Energie bereitsteht. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Umweltwärme plus Antriebsarbeit erklärt den energetischen Vorteil; R 1,5 ist tragend. Die zweite Fundstelle ist bereits im selben Eintrag zusammengeführt. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -1486,6 +1577,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Druckabsenkung schließt den Kreisprozess und ist für die zusammenhängende Funktionserklärung erforderlich. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die Rückkehr zum kalten Betriebspunkt schließt den erklärten Prozess. R 1,5 ist gegenüber bloßen Stoffdaten angemessen. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": [
@@ -1558,9 +1656,42 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Zuordnung des Strombedarfs zu Anlagenteilen ist eine normale technische Aussage innerhalb der vereinfachten Erklärung; sie ist kein selbständiger Hauptschluss. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die Verteilung des Strombedarfs ist eine konkrete technische Teilangabe; R 1 ist neben den tatsächlich gemessenen Gesamtleistungszahlen vertretbar und unabhängig von ihrem Urteil. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Anteile p=0,75/f=0,25/u=0 bestätigt: Im Viessmann-Original 6195458 DE 4/2025, S. 2–6, sind neben dem Verdichter elektrische Umwälzpumpen, Ventilatoren, Regelung und Zusatzheizung erkennbar. Der Ausschluss aller Nebenverbraucher ist damit falsch, nicht bloß ungeklärt. 75/25 ist für den vereinfachten Kreisprozess eine vertretbare redaktionelle Aufteilung zwischen Hauptantrieb und zu weiter Ausschließlichkeit; keine gemessene Stromaufteilung. Gesonderte Kontrolle im selben Codex-Auftrag; keine unabhängige Modellreplikation. Gewichte und Kategorie bleiben unberührt."
           }
         ],
-        "history": []
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "shares",
+            "previous": null,
+            "next": {
+              "p": 0.75,
+              "f": 0.25,
+              "u": 0
+            },
+            "reason": "Originalquelle erneut geprüft; nachweislich zu weiter Teil wird als widerlegt statt ungeklärt erfasst. Kategorie und Gewicht bleiben unverändert. Der Hauptantrieb durch den Verdichter ist belegt; der ausdrückliche Ausschluss anderer elektrischer Verbraucher ist durch den Anlagenaufbau widerlegt. Redaktionelle Inhaltsanteile 75/25, keine gemessene Aufteilung des Stromverbrauchs."
+          }
+        ],
+        "shares": {
+          "p": 0.75,
+          "f": 0.25,
+          "u": 0
+        },
+        "sharesReason": "Der Hauptantrieb durch den Verdichter ist belegt; der ausdrückliche Ausschluss anderer elektrischer Verbraucher ist durch den Anlagenaufbau widerlegt. Redaktionelle Inhaltsanteile 75/25, keine gemessene Aufteilung des Stromverbrauchs."
       }
     },
     {
@@ -1620,6 +1751,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Der Kühlschrank ist eine eigenständige Alltagsanalogie, die das Funktionsverständnis unterstützt. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die Kühlschrankanalogie ergänzt das bereits erklärte Prinzip; R 1 ist gegenüber den tragenden Prozessschritten angemessen. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -1686,6 +1824,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Unterscheidung der beiden Wärmepumpentypen ist für Sinans geplantes Gerät und die richtige Übertragung späterer Ergebnisse wesentlich. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die Typenunterscheidung bestimmt die Übertragbarkeit späterer Mess- und Kostenbeispiele auf Sinans Vorhaben. R 1,5 passt zur praktischen Bedeutung. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -1748,6 +1893,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Aufstellung des Kältekreises bei den konkreten Monoblock-Geräten ist eine normale technische Bauformangabe. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die Monoblockaufstellung ist ein normales Bauformdetail; R 1 entspricht der gleichrangigen Splitbeschreibung in A0020. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -1814,6 +1966,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Leitungsführung und Kühlfunktion reversibler Splitgeräte ergänzen den Typenvergleich als eigenständige Sachangaben. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Leitungsführung und Umkehrbetrieb ergänzen den Typenvergleich als eigenständige Einzelangaben. R 1 passt zu A0019. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -1888,6 +2047,13 @@
             "result": "Bestätigt",
             "proposedWeight": 0.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Das Zürcher Rathaus ist eine historische Anekdote und ein Schlussmotiv; die allgemeine Erklärung und Wirtschaftlichkeitsaussage hängen nicht von diesem Einzelbeispiel ab. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Das Rathaus ist ein historisches Einzelbeispiel und Schlussmotiv, kein allgemeiner Lebensdauerbeleg. R 0,5 bleibt auch bei Wiederholung passend. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -1942,6 +2108,13 @@
             "result": "Bestätigt",
             "proposedWeight": 0.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Das Wasserkocherbeispiel erläutert lediglich die Maßeinheit und gehört zum didaktischen Beiwerk. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Die Umrechnung führt eine Einheit ein, ohne eine eigene wirtschaftliche Schlussfolgerung zu tragen. R 0,5 ist didaktisches Beiwerk. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -2000,6 +2173,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Umwandlung von Strom in Widerstandswärme bildet die zentrale energetische Vergleichsbasis für den Vorteil der Wärmepumpe. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die Direktstromheizung bildet einen wesentlichen Vergleichsmaßstab der Effizienzargumentation. R 1,5 ist angemessen; ihre Emissionsfolge in A0037 ist ein zusätzlicher Rechenschritt. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -2058,6 +2238,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Brennstoffbilanz ist eine normale technische Voraussetzung des anschließenden Heizungsvergleichs. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die Brennstoffbilanz ergänzt den Systemvergleich, ohne einen bestimmten Nutzungsgrad als zentrale Ergebniszahl festzulegen. R 1 ist vertretbar. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -2124,6 +2311,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Der Einfluss der Heizwassertemperatur erklärt eine zentrale praktische Bedingung für Effizienz und Kosten. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die Vorlauftemperatur bestimmt eine zentrale praktische Effizienzbedingung. R 1,5 ist gegenüber dem einzelnen Datenblattbeispiel A0026 angemessen. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -2186,6 +2380,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die zwei COP-Werte sind ein konkretes Herstellerbeispiel für den bereits genannten Temperatureinfluss. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die zwei COP-Werte illustrieren A0025 an einem Gerät. R 1 hält die konkrete Zahl unterhalb des allgemeinen Wirkzusammenhangs. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -2249,6 +2450,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Aussage über Frost ist eine hervorgehobene praktische Schlussfolgerung zur Einsatzfähigkeit und daher bedeutender als ein einzelner Datenblattwert. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die Einsatzfähigkeit bei Frost ist eine hervorgehobene Antwort auf den technischen Einwand. R 1,5 passt zur praktischen Reichweite unabhängig vom Faktenstatus. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": [
@@ -2270,7 +2478,7 @@
       "status": "Nicht überprüfbar",
       "verdict": null,
       "description": "Drei Hilfsprogramme hätten für die Recherche rund 790.000 Tokens verarbeitet.",
-      "reason": "Nicht überprüfbar – Kein öffentliches Sitzungsprotokoll zur unabhängigen Reproduktion verfügbar. Beschreibung nennt eine Sitzungszählung. Unbekannt sind Ein-/Ausgabe-, Cache- und Wiederverwendungsanteile; kein Beleg gegen die Zahl.",
+      "reason": "Nicht überprüfbar – Kein öffentliches Sitzungsprotokoll zur unabhängigen Reproduktion verfügbar. Beschreibung nennt eine Sitzungszählung. Unbekannt sind Ein-/Ausgabe-, Cache- und Wiederverwendungsanteile; kein Beleg gegen die Zahl. Abschlussnachprüfung Codex: Die fehlende interne Dokumentation bleibt eine Erkenntnisgrenze dieser abgeschlossenen Einordnung, keine unbearbeitete öffentliche Sachprüfung.",
       "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
       "occurrences": [
         {
@@ -2292,9 +2500,7 @@
           "note": "Behauptung und Kontext aus vollständiger Captionlektüre; ungefähre Zeiten."
         }
       ],
-      "openQuestions": [
-        "Kann ein anonymisiertes Sitzungsprotokoll die Tokenzählung reproduzierbar belegen?"
-      ],
+      "openQuestions": [],
       "migration": {
         "changeType": "Neu erfasst",
         "mapping": "PHY-28; Wiederholungen als weitere Fundstellen.",
@@ -2411,6 +2617,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Umfang und Dauer des Feldtests beschreiben die empirische Grundlage; es handelt sich um normale Studienmetadaten. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Laufzeit und Zahl der Anlagen sind normale Metadaten der Feldstudie; R 1 passt zum ebenfalls so behandelten Stichprobenumfang A0063. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -2473,6 +2686,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die mittlere Jahresarbeitszahl ist die zentrale Kennzahl für die folgenden Energie-, Emissions- und Kostenrechnungen. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die mittlere JAZ geht unmittelbar in die folgenden Kosten- und Emissionsrechnungen ein. R 1,5 ist als tragende Eingangsgröße angemessen. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -2547,6 +2767,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Bandbreite beschreibt die Streuung der Messwerte und ergänzt den Mittelwert; der wiederholte Bestwert ist keine zweite Aussage. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Minimum und Maximum beschreiben die Streuung um A0031. R 1 ist passend; die spätere Wiederholung des Bestwerts wird bereits zusammengeführt. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -2609,6 +2836,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Aussage zur Baujahrkorrelation stützt die praktische Nutzbarkeit im Gebäudebestand und kann die Einordnung von Altbauten wesentlich beeinflussen. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Der Baujahrbefund betrifft die verbreitete Einschränkung auf Neubauten und stützt die Übertragbarkeit auf den Bestand. R 1,5 ist angemessen. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -2671,6 +2905,13 @@
             "result": "Bestätigt",
             "proposedWeight": 0.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Zahl beteiligter Hersteller ist ein Transparenzhinweis zur Quellenherkunft und keine eigenständige technische oder wirtschaftliche Hauptthese. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Die Herstellerzahl dient der Transparenz der Studienherkunft, nicht dem Effizienzbeweis. R 0,5 entspricht den Finanzierungshinweisen A0062 und A0067. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -2733,6 +2974,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Der Emissionsfaktor ist eine tragende Eingangsgröße des quantitativen Klimavergleichs. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Der Stromfaktor ist eine tragende Eingangsgröße des Klimavergleichs; R 1,5 stimmt mit der Gasreferenz A0036 überein. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -2792,6 +3040,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Der Emissionsfaktor der Gaswärme ist die zweite tragende Eingangsgröße desselben Klimavergleichs und erhält deshalb denselben Faktor wie die Stromreferenz. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die Gasreferenz ist für denselben Emissionsvergleich ebenso bedeutend wie A0035. R 1,5 zeigt keine Bevorzugung des Vergleichssystems. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -2850,6 +3105,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Nachtspeicherbilanz bildet einen wesentlichen der ausdrücklich angefragten Heizungs- und Klimavergleiche. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Der Nachtspeicher erhält als eigener angefragter Heizungstyp eine Emissionsrechnung. R 1,5 passt zu A0038; Rechenanwendung und allgemeine 1:1-Bilanz sind unterscheidbare Prüfpunkte. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -2916,6 +3178,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Der berechnete Wärmepumpenwert ist die zentrale Ergebnisgröße des Emissionsvergleichs; eng mit dem anschließenden relativen Vergleich verbunden. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Der berechnete Wärmepumpenwert und sein Gasvergleich sind bereits zusammengeführt. R 1,5 entspricht der Ergebnisrolle im Klimavergleich. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -2978,6 +3247,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Der Haushaltsstrompreis ist eine tragende Eingangsgröße der Kostenrechnung. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Der Strompreis bestimmt den Betriebskostenvergleich unmittelbar. R 1,5 ist parallel zum Gaspreis A0040 angemessen. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -3040,6 +3316,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Der Gaspreis ist die zweite tragende Eingangsgröße derselben Kostenrechnung und erhält denselben Faktor wie der Strompreis. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Der Gaspreis ist eine gleichrangige Eingangsgröße derselben Rechnung. R 1,5 vermeidet eine Gewichtung nach dem bevorzugten System. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -3098,6 +3381,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Das Verhältnis der Betriebskosten bei Haushaltsstrom ist eine zentrale wirtschaftliche Vergleichsaussage. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die Betriebskostenfolgerung beantwortet einen wesentlichen Teil der wirtschaftlichen Frage. R 1,5 ist oberhalb eines bloßen Tarifbeispiels angemessen. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -3156,6 +3446,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die allgemeine Tarifdifferenz ist eine eigenständige Orientierung; die konkrete Rechnung wird anschließend mit einem ausdrücklich abgegrenzten Beispiel durchgeführt. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die allgemeine Tarifspanne ergänzt die Kostenrechnung ohne Garantie für einen Einzelfall. R 1 passt zu den folgenden begrenzten Preisbeispielen. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -3226,6 +3523,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Der günstige Neukundentarif ist ein einzelnes, ausdrücklich begrenztes Marktbeispiel und keine allgemeine Preisgarantie. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Der ausdrücklich begrenzte Neukundentarif mit seiner Umrechnung ist schon in einem Eintrag verbunden. R 1 ist als Beispiel angemessen. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -3284,6 +3588,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Der örtliche Nachtspeichertarif ist ein konkretes Vergleichsbeispiel und kein bundesweiter Kennwert. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Ein einzelner örtlicher Tarif ist ein Vergleichsbeispiel. R 1 ist konsistent mit A0043 und keine deutschlandweite Hauptkennzahl. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -3350,6 +3661,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Rangfolge ist eine hervorgehobene Zusammenfassung des angefragten Betriebskostenvergleichs. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die Rangfolge fasst den angefragten Betriebskostenvergleich zusammen. R 1,5 passt zu dessen anderen Ergebnisbehauptungen. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -3424,6 +3742,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Investitionssumme ist die zentrale Zahl für den Anschaffungsnachteil und die folgende Förderrechnung. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Der Angebotsmedian beziffert den hervorgehobenen Anschaffungsnachteil und begründet die Förderrechnung. R 1,5 ist angemessen. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -3487,6 +3812,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Fördersatz und Kostenobergrenze beeinflussen die tatsächliche Eigenbelastung und haben unmittelbare praktische Bedeutung für die Kostenargumentation. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Fördersatz und Obergrenze bestimmen die mögliche Eigenbelastung unmittelbar. R 1,5 entspricht der Investitionszahl A0046 und hängt nicht vom Teilurteil ab. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -3545,6 +3877,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Der Hinweis auf eine mögliche höhere Einkommensförderung ergänzt die Förderdarstellung, enthält jedoch keine eigene quantitative Hauptaussage. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die mögliche Einkommensförderung ist ein ergänzender Hinweis ohne eigene zentrale Rechnung. R 1 passt neben der konkreten Rechnung A0047. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -3603,6 +3942,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Bedeutung der Planung begründet die wesentliche Bedingung des abschließenden Vorteilsversprechens. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Planung und Einbau begrenzen die praktische Vorteilsbehauptung. R 1,5 ist wie die Frost- und Vorlaufbedingungen angemessen. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -3709,6 +4055,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Entstehungsjahr und damalige Regierungskoalition sind normale historische Rahmenangaben. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Entstehungsjahr und Regierungskoalition bilden historische Orientierung. R 1 entspricht den nachfolgenden Zeitschritten A0052 und A0053. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -3767,6 +4120,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die ursprüngliche Koalitionsvereinbarung ist eine eigenständige historische Rahmenangabe zur Entwicklung der Regeln. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die ursprüngliche Koalitionsvereinbarung ist ein eigenständiger historischer Schritt; R 1 ist passend. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -3829,6 +4189,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Vorziehung des Zeitplans ist ein normaler historischer Entwicklungsschritt. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die Vorziehung des Starts ergänzt die politische Chronologie. R 1 passt zu den benachbarten historischen Rahmenangaben. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -3887,6 +4254,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Unterscheidung zwischen neuen und bereits laufenden Heizungen ist zentral für die Erklärung der damaligen Verbotsdebatte. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die Trennung von neuen und laufenden Anlagen ist tragend für die Reichweite der Verbotsdebatte. R 1,5 ist wie A0057 und A0080 angemessen. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -3950,9 +4324,42 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die langfristige Regel betrifft die Reichweite des Verbots und kann das Verständnis von Pflichten erheblich beeinflussen. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die langfristige Grenze kann das Verständnis tatsächlicher Pflichten verändern. R 1,5 entspricht den anderen relevanten Rechtsbedingungen unabhängig vom Urteil. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Anteile p=0,75/f=0,25/u=0 bestätigt: BT-Drs. 20/7619, S. 60 und 81, begrenzt fossilen Brennstoffeinsatz bis Ende 2044. Die Frist ist der tragende richtige Kern; ein bauartbezogenes Totalverbot wäre zu weit. 75/25 ist im dokumentierten Alltagskontext eine vertretbare redaktionelle Aufteilung und keine statistische Quote von Anlagen oder Brennstoffen. Gesonderte Kontrolle im selben Codex-Auftrag; keine unabhängige Modellreplikation. Gewichte und Kategorie bleiben unberührt."
           }
         ],
-        "history": []
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "shares",
+            "previous": null,
+            "next": {
+              "p": 0.75,
+              "f": 0.25,
+              "u": 0
+            },
+            "reason": "Originalquelle erneut geprüft; nachweislich zu weiter Teil wird als widerlegt statt ungeklärt erfasst. Kategorie und Gewicht bleiben unverändert. Das Ende fossiler Brennstoffe ist der belegte Kern; ein ausnahmsloses Verbot der Gas-/Ölbauart ist widerlegt. Redaktionelle Inhaltsanteile 75/25 für Kern und zu weite technische Verallgemeinerung."
+          }
+        ],
+        "shares": {
+          "p": 0.75,
+          "f": 0.25,
+          "u": 0
+        },
+        "sharesReason": "Das Ende fossiler Brennstoffe ist der belegte Kern; ein ausnahmsloses Verbot der Gas-/Ölbauart ist widerlegt. Redaktionelle Inhaltsanteile 75/25 für Kern und zu weite technische Verallgemeinerung."
       }
     },
     {
@@ -4008,6 +4415,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Zeitpunkt und Präsentation des geleakten Entwurfs sind konkrete historische Ereignisangaben. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Zeitpunkt und Überschrift des Leaks sind ein konkretes Ereignis; R 1 trennt dieses von der stärker gewichteten Reichweitenbewertung A0057. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -4070,6 +4484,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Reichweite der Schlagzeile ist ein tragendes Argument dafür, wie die öffentliche Wahrnehmung des Gesetzes entstehen konnte. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die sachliche Reichweite der Schlagzeile ist ein tragender Einordnungsschritt der Medienkritik. R 1,5 ist angemessen. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -4128,6 +4549,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Artikelzahl quantifiziert einen einzelnen Begriff in der Presseberichterstattung, beweist aber für sich keine Gesamtursache der Kontroverse. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die Begriffshäufigkeit ist eine deskriptive Einzelkennzahl. R 1 passt zu A0059 und vermeidet ein zusätzliches Kausalgewicht. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -4186,6 +4614,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Häufigkeit eines Schlagworts ist eine eigenständige deskriptive Medienkennzahl, kein selbständiger Hauptschluss. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die Hammerzählung beschreibt eine weitere Häufigkeit derselben Untersuchung. R 1 ist mit A0058 konsistent; die Aussagen sind verschiedene Messgrößen. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -4248,6 +4683,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Der behauptete Unterschied zwischen den Studien strukturiert die gesamte Abwägung des Medien- und Regierungseinflusses. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Der Studienvergleich strukturiert die Einordnung medialer und politischer Verantwortung. R 1,5 ist oberhalb bloßer Studienmetadaten angemessen. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -4306,6 +4748,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Trennung von zeitlicher Begleitung und nachgewiesener Verursachung ist zentral für die Antwort auf die Kampagnenfrage. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die Grenze kausaler Schlussfolgerungen trägt die Antwort auf die Kampagnenfrage. R 1,5 ist gegenüber bloßer Begriffszählung angemessen. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -4364,6 +4813,13 @@
             "result": "Bestätigt",
             "proposedWeight": 0.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die teilweise Finanzierung ist ein Transparenzhinweis zur Herkunft der Studie, keine eigenständige Erklärung des Konflikts. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Die Förderherkunft dient Transparenz und ist kein eigener Nachweis des Medieneinflusses. R 0,5 passt zu A0034 und A0067. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -4422,6 +4878,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Umfang und Medienauswahl sind normale Studienmetadaten und werden entsprechend den anderen untersuchten Studienumfängen gewichtet. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Anzahl der Beiträge und Medien sind normale Stichprobenmetadaten. R 1 entspricht dem Feldstudienumfang A0030. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -4434,7 +4897,7 @@
       "status": "Abgeschlossen",
       "verdict": "Belegt",
       "description": "Bei der speziellen Frage nach dem Weiterbetrieb alter Heizungen waren 93 Prozent der untersuchten Aussagen richtig.",
-      "reason": "Das Video grenzt die Zahl auf den geprüften Gegenstand ein. Die Quote bezieht sich auf Austausch/Weiterbetrieb, nicht auf die Wahrheit von 93 Prozent sämtlicher Medieninhalte. Quellen-Nachprüfung offen: Der Bericht nennt zugleich 2.036 Gesamtbeiträge, 378 Beiträge mit einschlägiger Information sowie 6 Prozent richtige und 0,5 Prozent irreführende Darstellungen unter allen Beiträgen. Ohne weitere Erklärung sind diese Bezugsgrößen schwer vereinbar (378/2.036 = 18,57 Prozent; 6 + 0,5 = 6,5 Prozent). Möglich sind ein Nennerwechsel oder ein redaktioneller Fehler. Das widerlegt die veröffentlichte 93-Prozent-Quote nicht; ihre vollständige Reproduktion aus Rohdaten bleibt offen.",
+      "reason": "Alfred gibt das im Originalbericht veröffentlichte 93-Prozent-Ergebnis zum Weiterbetrieb alter Heizungen korrekt wieder; auch die Grafik bei 15:55 begrenzt es ausdrücklich darauf. Es ist keine Quote für sämtliche Medieninhalte. Die erneute Quellenprüfung bestätigt eine interne Unklarheit: 378/2.036 = 18,57 Prozent, während 6 Prozent und 0,5 Prozent zusammen 6,5 Prozent ergeben. Ohne Rohdaten oder Erläuterung ist die vollständige Nachrechnung nicht möglich; eine gezielte Suche nach Codebuch, Replikationsdaten und Berichtigung fand keine zugängliche Auflösung. Ergebnis: korrekte Studienwiedergabe belegt, interne Konsistenz der Studie nicht unabhängig bestätigt. Die Quellenunsicherheit ist kein nachgewiesener Fehler des Videos.",
       "assessmentBasis": "Vollständige Captionlektüre, getrennte Fachrecherche und redaktioneller Kontextabgleich; kritische Paraphrasen gesondert gegengelesen. Keine eigene audiovisuelle Vollsichtung.",
       "occurrences": [
         {
@@ -4460,13 +4923,11 @@
           "note": "PDF S.4–5,11–12,17–19,29,40; Stichprobe, enges Richtigkeitskriterium, Förderung, Auftrag."
         }
       ],
-      "openQuestions": [
-        "Wie erklären sich die Bezugsgrößen im DPZ-Bericht, und lässt sich die 93-Prozent-Quote aus Daten und Codebuch reproduzieren?"
-      ],
+      "openQuestions": [],
       "migration": {
         "changeType": "Neu erfasst",
         "mapping": "POL15; sinngemäße eigene Formulierung.",
-        "assessmentChange": "Erstveröffentlichung nach Fachprüfung und redaktioneller Gegenprüfung am 21.11.2026."
+        "assessmentChange": "Erstveröffentlichung nach Fachprüfung und redaktioneller Gegenprüfung am 21.11.2026. Codex 21.11.2026: Quellen-Nachprüfung abgeschlossen, Materialgrenze präzisiert; Urteil unverändert."
       },
       "factIndex": {
         "weight": 1.5,
@@ -4482,9 +4943,43 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Der Anteil korrekter Aussagen bildet einen tragenden Gegenakzent zur pauschalen Annahme umfassender Falschberichterstattung. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die Quote ist ein tragender Gegenakzent zur pauschalen Falschberichterstattung. R 1,5 beschreibt diese Rolle und bestätigt weder Nenner noch Reproduzierbarkeit der Studie. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Wissenssuche KL, HP und UG nach 93 Prozent/Weiterbetrieb; Originalbericht S. 16–17 und Publikationsseite erneut geöffnet, Videografik bei 15:55 selbst kontrolliert.",
+            "sourceIds": [
+              "S001",
+              "PO-P05"
+            ],
+            "result": "Eng begrenzte Wiedergabe stimmt mit der veröffentlichten Zahl überein; Bezugsgrößen des Berichts bleiben intern unklar."
+          },
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche nach Aufgeheizte Debatte mit Codebuch, Daten, Replikation und Korrektur; Herausgeberseite auf ergänzendes Material geprüft.",
+            "sourceIds": [
+              "PO-P05"
+            ],
+            "result": "Keine öffentlich auffindbare Auflösung ermittelt; keine eigene Reproduktion der Rohdaten behauptet."
+          }
+        ],
+        "missingInformation": "Öffentlich zugängliche Replikationsdaten oder Erläuterung der unterschiedlichen Bezugsgrößen fehlen; abschließend dokumentierte Quellenbegrenzung.",
+        "conflicts": null
       }
     },
     {
@@ -4540,6 +5035,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Zuordnung irreführender Berichterstattung zu Mediengruppen ist ein wesentliches Ergebnis für die öffentliche und politische Einordnung. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die Verteilung nach Mediengruppen ist ein wesentliches Ergebnis der Medienpassage. R 1,5 ist neben A0064 angemessen. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -4598,6 +5100,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Aussage über ein Hauptproblem der Regierung trägt die Erklärung des Konflikts; der mitgenannte Auftraggeber ist nur ein zusätzlicher Herkunftshinweis. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die Verantwortungsdeutung trägt die politische Einordnung; der enthaltene Auftraggeberhinweis allein würde R 1,5 nicht rechtfertigen. Die Gesamtbehauptung ist so vertretbar. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -4656,6 +5165,13 @@
             "result": "Bestätigt",
             "proposedWeight": 0.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Selbstbeschreibung von Campact ergänzt die Transparenz über einen Auftraggeber und ist für die Heizungsargumentation nebensächlich. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Campacts Selbstbeschreibung ist ein ergänzender Herkunftshinweis. R 0,5 entspricht den gleichrangigen Transparenzhinweisen. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -4714,6 +5230,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Der Zeitpunkt der Förderausarbeitung ist ein konkreter Entwicklungsschritt, der die Kommunikationseinordnung unterstützt. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Der Zeitpunkt der Förderausarbeitung ist ein konkretes Chronologiedetail. R 1 ist neben den stärker gewichteten Verantwortungsdeutungen angemessen. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -4776,6 +5299,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die dokumentierten Parteikampagnen beantworten einen wesentlichen Teil der ausdrücklich gestellten Kampagnenfrage. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die Parteikampagnen beantworten die explizite Kampagnenfrage. R 1,5 passt zur öffentlichen Kampagne A0070 ohne parteiliche Asymmetrie. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -4834,6 +5364,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die öffentliche Wärmepumpenkampagne ergänzt dieselbe Kampagnenfrage um die andere politische Richtung und wird deshalb ebenso gewichtet wie die Parteikampagnen. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die öffentlich finanzierte Veranstaltungskampagne beantwortet dieselbe Frage aus anderer Richtung. R 1,5 ist konsistent mit A0069. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -4846,7 +5383,7 @@
       "status": "Nicht überprüfbar",
       "verdict": null,
       "description": "Alfred konnte keine bezahlte Anti-Wärmepumpenkampagne der Gasindustrie nachweisen.",
-      "reason": "Nicht überprüfbar – Alfred berichtet begrenzt über seine eigene Recherche und erklärt selbst, dass fehlender Nachweis keinen fehlenden Einfluss belegt. Die Vollständigkeit seiner Suche ist ohne Suchprotokoll nicht reproduzierbar. Das Lobbyregisterdokument enthält allgemeine Finanzangaben; daraus folgt weder Nachweis noch Widerlegung einer konkreten bezahlten Anti-Wärmepumpenkampagne. Kein negatives Faktenurteil.",
+      "reason": "Nicht überprüfbar – Alfred berichtet begrenzt über seine eigene Recherche und erklärt selbst, dass fehlender Nachweis keinen fehlenden Einfluss belegt. Die Vollständigkeit seiner Suche ist ohne Suchprotokoll nicht reproduzierbar. Das Lobbyregisterdokument enthält allgemeine Finanzangaben; daraus folgt weder Nachweis noch Widerlegung einer konkreten bezahlten Anti-Wärmepumpenkampagne. Kein negatives Faktenurteil. Abschlussnachprüfung Codex: Die fehlende interne Dokumentation bleibt eine Erkenntnisgrenze dieser abgeschlossenen Einordnung, keine unbearbeitete öffentliche Sachprüfung.",
       "assessmentBasis": "Vollständige Captionlektüre, getrennte Fachrecherche und redaktioneller Kontextabgleich; kritische Paraphrasen gesondert gegengelesen. Keine eigene audiovisuelle Vollsichtung.",
       "occurrences": [
         {
@@ -4872,9 +5409,7 @@
           "note": "Allgemeine Finanzdaten, keine konkrete Anti-Wärmepumpenkampagne nachgewiesen."
         }
       ],
-      "openQuestions": [
-        "Welche Datenbanken, Zeiträume und Suchbegriffe umfasste Alfreds Suche nach dieser Kampagne?"
-      ],
+      "openQuestions": [],
       "migration": {
         "changeType": "Neu erfasst",
         "mapping": "POL22; sinngemäße eigene Formulierung.",
@@ -4956,6 +5491,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Verkaufszahlen liefern eine historische Momentaufnahme zur Entwicklung des Heizungsmarkts. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die Absatzmengen liefern einen historischen Marktstand. R 1 entspricht dem Folgejahresrückgang A0074. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -5014,6 +5556,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die zugeschriebene Erklärung der Nachfrageentwicklung verbindet die politische Debatte mit beobachteten Marktfolgen und trägt damit die Argumentation. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die Verbandsdeutung verbindet Markt und politische Debatte. R 1,5 beschreibt die argumentative Funktion; „Nur wiedergegeben“ schließt sie unabhängig davon aus dem Videoindex aus. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -5081,6 +5630,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Der anschließende Absatzrückgang ist eine weitere eigenständige Marktkennzahl im zeitlichen Verlauf. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Der Absatzrückgang ist eine weitere historische Marktkennzahl. R 1 passt zu A0072 und wird nicht nach positiver oder negativer Entwicklung unterschieden. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -5139,6 +5695,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Der aktuelle Marktanteil ist ein zentraler Gegenakzent zur Vorstellung einer allgemein abgelehnten Wärmepumpe. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Der aktuelle Mehrheitsanteil ist ein hervorgehobener Gegenakzent zur behaupteten allgemeinen Ablehnung. R 1,5 ist passend. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -5197,6 +5760,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die beiden Umfrageergebnisse sind die tragende Datengrundlage für die Erklärung unterschiedlicher Reaktionen auf Heizungsregeln. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die zwei unterschiedlichen Maßnahmen und Ergebnisse tragen die anschließende Akzeptanzdeutung. R 1,5 ist angemessen; es wird kein doppeltes kontrolliertes Wortwahlexperiment gewichtet. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -5335,6 +5905,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die Verbandsbeschreibung des Zwangsempfindens ist ein eigenständiger qualitativer Kontextbeleg. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die qualitative Verbandsbeschreibung ist normaler Kontext. R 1 ist passend; die vorhandene Attribution schließt die bloß wiedergegebene Fremddeutung aus dem Videoindex aus. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -5402,6 +5979,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Der tatsächliche erste Anwendungsbereich ist wesentlich für die rechtliche Reichweite und die Einordnung von Verbotserzählungen. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Der erste tatsächliche Anwendungsbereich bestimmt die Reichweite des Gesetzes. R 1,5 entspricht A0054 und den weiteren praktischen Rechtsregeln. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -5461,9 +6045,42 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Der Auslöser der späteren Anwendung bestimmt die Reichweite der Pflichten und kann das praktische Verständnis der Regel wesentlich verändern. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Der rechtliche Auslöser beeinflusst das Verständnis individueller Pflichten. R 1,5 ist parallel zu A0080 und A0082 angemessen unabhängig vom Urteil. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Anteile p=0,75/f=0,25/u=0 bestätigt: BT-Drs. 20/7619, S. 34 und 90–91, koppelt den vorzeitigen Beginn an eine gesonderte Gebietsausweisung, nicht allein den Wärmeplan. Die Verbindung mit kommunaler Planung trägt den Erklärungskern; die als hinreichend dargestellte Voraussetzung ist konkret falsch. Die Aufteilung 75/25 ist im vereinfachten Übergangskontext vertretbar; sie misst weder Gemeinden noch Fälle. Gesonderte Kontrolle im selben Codex-Auftrag; keine unabhängige Modellreplikation. Gewichte und Kategorie bleiben unberührt."
           }
         ],
-        "history": []
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "shares",
+            "previous": null,
+            "next": {
+              "p": 0.75,
+              "f": 0.25,
+              "u": 0
+            },
+            "reason": "Originalquelle erneut geprüft; nachweislich zu weiter Teil wird als widerlegt statt ungeklärt erfasst. Kategorie und Gewicht bleiben unverändert. Der Zusammenhang der früheren Pflicht mit kommunaler Planung ist belegt; der als hinreichend dargestellte Wärmeplan ist als vorzeitiger Auslöser falsch. Redaktionelle Inhaltsanteile 75/25, keine Quote betroffener Gebäude."
+          }
+        ],
+        "shares": {
+          "p": 0.75,
+          "f": 0.25,
+          "u": 0
+        },
+        "sharesReason": "Der Zusammenhang der früheren Pflicht mit kommunaler Planung ist belegt; der als hinreichend dargestellte Wärmeplan ist als vorzeitiger Auslöser falsch. Redaktionelle Inhaltsanteile 75/25, keine Quote betroffener Gebäude."
       }
     },
     {
@@ -5555,6 +6172,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Der aktuelle Wegfall der 65-Prozent-Regel ist eine tragende Voraussetzung der abschließenden Aussage, dass sich der rechtliche Gegenstand der Debatte verändert hat. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Der veränderte Rechtsstand trägt das Schlussargument über den inzwischen veränderten Streitgegenstand. R 1,5 ist passend; die zwei überlappenden Fundstellen erzeugen keinen zweiten Beitrag. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
@@ -5614,9 +6238,42 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Die späteren Brennstoffpflichten begrenzen diese Wahlmöglichkeit und haben die gleiche praktische Bedeutung wie die Aussage über ihre Zulässigkeit. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die Brennstoffanforderungen begrenzen die Wahlmöglichkeit praktisch. R 1,5 ist gleichrangig zur Zulässigkeitsregel A0082 und unabhängig vom Teilurteil. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Anteile p=0,75/f=0,25/u=0 bestätigt: Der selbst gelesene § 43 GModG bestätigt steigende Anteile ab 2029, nennt aber weitere Brennstoffe und technische Erfüllungswege. Die Pflicht und ihre Richtung bilden den belegten Kern; der ausschließende Eindruck zu Biogas/Bioöl ist zu eng. 75/25 ist eine vertretbare redaktionelle Inhaltsaufteilung, keine Markt- oder Energiequote. Gesonderte Kontrolle im selben Codex-Auftrag; keine unabhängige Modellreplikation. Gewichte und Kategorie bleiben unberührt."
           }
         ],
-        "history": []
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "shares",
+            "previous": null,
+            "next": {
+              "p": 0.75,
+              "f": 0.25,
+              "u": 0
+            },
+            "reason": "Originalquelle erneut geprüft; nachweislich zu weiter Teil wird als widerlegt statt ungeklärt erfasst. Kategorie und Gewicht bleiben unverändert. Die steigende Erfüllungspflicht und die genannten Biobrennstoffe sind belegt; eine Beschränkung auf deren Verbrennung ist durch ausdrücklich zugelassene Alternativen widerlegt. Redaktionelle Inhaltsanteile 75/25, keine Brennstoffmarktanteile."
+          }
+        ],
+        "shares": {
+          "p": 0.75,
+          "f": 0.25,
+          "u": 0
+        },
+        "sharesReason": "Die steigende Erfüllungspflicht und die genannten Biobrennstoffe sind belegt; eine Beschränkung auf deren Verbrennung ist durch ausdrücklich zugelassene Alternativen widerlegt. Redaktionelle Inhaltsanteile 75/25, keine Brennstoffmarktanteile."
       }
     },
     {
@@ -5676,6 +6333,13 @@
             "result": "Bestätigt",
             "proposedWeight": 1.5,
             "reason": "Getrennte Einschätzung und redaktioneller Abgleich der Argumentfunktion. Heizungswünsche und Wiederwahlbereitschaft sind wesentliche Daten für das positive Gegenbild zur im Titel angesprochenen Ablehnung. Kenntnis der Urteile; keine blinde Prüfung und kein unabhängiges Modell."
+          },
+          {
+            "agent": "Codex – Bedeutungskontrolle",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Wunschtyp und Wiederwahlbereitschaft stützen das positive Gegenbild zur allgemeinen Ablehnung. R 1,5 entspricht dem aktuellen Marktgegenakzent A0075. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
         "history": []
