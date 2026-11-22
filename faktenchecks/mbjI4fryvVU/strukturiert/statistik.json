@@ -3,32 +3,32 @@
   "generatedBy": "scripts/build-index.js",
   "uniqueStatements": 23,
   "statusCounts": {
-    "Abgeschlossen": 15,
+    "Abgeschlossen": 19,
     "In Bearbeitung": 0,
-    "Offen": 7,
+    "Offen": 3,
     "Nicht überprüfbar": 1
   },
   "factClaims": 22,
-  "completedFacts": 14,
-  "openFacts": 7,
+  "completedFacts": 18,
+  "openFacts": 3,
   "inProgressFacts": 0,
   "unverifiableFacts": 1,
-  "percentageDenominator": 14,
+  "percentageDenominator": 18,
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 8,
-      "completedFactPercent": 57.1
+      "completedCount": 10,
+      "completedFactPercent": 55.6
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 4,
-      "completedFactPercent": 28.6
+      "completedCount": 6,
+      "completedFactPercent": 33.3
     },
     {
       "category": "Irreführend / Kontext fehlt",
       "completedCount": 1,
-      "completedFactPercent": 7.1
+      "completedFactPercent": 5.6
     },
     {
       "category": "Widerlegt",
@@ -38,7 +38,7 @@
     {
       "category": "Nicht ausreichend belegbar",
       "completedCount": 1,
-      "completedFactPercent": 7.1
+      "completedFactPercent": 5.6
     },
     {
       "category": "Meinung / Prognose",

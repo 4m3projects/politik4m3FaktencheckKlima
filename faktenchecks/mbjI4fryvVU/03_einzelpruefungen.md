@@ -1,26 +1,26 @@
 # Einzelprüfungen
 
-Prüfstand 22.11.2026. Teilbestand geprüft; vollständiges Captioninventar, keine vollständige audiovisuelle Prüfung. Maßgeblich sind die strukturierten Aussagen.
+Prüfstand 22.11.2026. Erweiterter Teilbestand, keine vollständige audiovisuelle Prüfung. Vier Erstbewertungen und Einzelkorrektur KL-C0002; maßgeblich sind die strukturierten Aussagen.
 
 ## mbjI4fryvVU-A0001
 
-**Abgeschlossen · Teilweise belegt · 0:08–0:17**
+**Abgeschlossen · Belegt · 0:08–0:17**
 
 Auf dem Hof werden Photovoltaik und Biogas zur eigenen Energieversorgung genutzt.
 
-Die regionale Handreichung bestätigt PV-Batteriespeicherung bei Arjan Prinsen. Die zusätzliche konkrete Biogasanlage auf genau diesem Hof wird durch die gelesene Quelle nicht unabhängig nachgewiesen.
+Der Jahresbericht 2024 des beteiligten Fördergebers LTO Noord dokumentiert bei Prinsen PV, Vergärer, Windrad und Speicherung. FERTIMANURE beschreibt denselben Hof in Haarlo ausdrücklich als Betrieb mit Biogasanlage. Damit ist auch der zuvor nicht unabhängig bestätigte Biogasteil belegt. Das bestätigt die Erzeugungsanlagen, keine vollständige Autarkie oder nachgemessene Eigenversorgungsquote.
 
-Quellen: V001, Q01.
+Quellen: V001, Q01, Q09, Q11.
 
 ## mbjI4fryvVU-A0002
 
-**Offen · 0:34–0:46**
+**Abgeschlossen · Teilweise belegt · 0:34–0:46**
 
 Der Hof deckt seinen Strombedarf überwiegend aus eigener Erzeugung und steuert ihn per Software.
 
-Öffentliche Betriebs- und Jahresmessdaten sowie das konkrete Steuerungsprotokoll fehlen. Eine zuverlässige Mehrheitseigenversorgungsquote ist aus Beispielbildern oder allgemeiner Speichertechnik nicht ableitbar.
+Der beteiligte Fördergeber dokumentiert bereits für 2024 ein Energiemanagementsystem auf Prinsenʼs Hof mit PV, Vergärer, Windrad und Containerspeicher. Der Zusammenhang von eigener Erzeugung, Speicher und Software ist konkret gestützt. Die darüber hinaus behauptete überwiegende Eigenversorgung ist ohne Erzeugungs-, Bezugs- und Verbrauchszeitreihe nicht quantitativ nachgerechnet; eine Jahresbilanz oder die Bezeichnung energieneutral wäre dafür allein kein Nachweis.
 
-Quellen: V001, Q01.
+Quellen: V001, Q01, Q09.
 
 ## mbjI4fryvVU-A0003
 
@@ -40,7 +40,7 @@ Im Container befinden sich 120 aus einem Rechenzentrum ausgesonderte Batterien.
 
 Die genaue Stückzahl und Herkunft benötigen ein Inventar, einen Betreiber-/Lieferantennachweis oder lesbare Typenschilder. Die regionale Quelle bestätigt eine Speicheranlage, nicht diese beiden Details.
 
-Quellen: V001, Q01.
+Quellen: V001, Q01, Q09.
 
 ## mbjI4fryvVU-A0005
 
@@ -74,13 +74,13 @@ Quellen: V001, Q04.
 
 ## mbjI4fryvVU-A0008
 
-**Offen · 2:25–2:30**
+**Abgeschlossen · Teilweise belegt · 2:25–2:30**
 
 In Spitzenzeiten wird nur etwa die Hälfte dieser 30 Gigawatt benötigt.
 
-Ein datierter Lastgang und eine eindeutige Definition der gemeinten Spitzenzeit fehlen. Installierte DC-Nennleistung darf nicht ohne Umrechnung mit gleichzeitigem AC-Verbrauch verglichen werden.
+TenneT beziffert den landesweiten Spitzenbedarf Ende 2025 auf rund 19 GW. Das liegt deutlich unter 30 GW installierter PV-Nennleistung, aber über der mit der Hälfte nahegelegten Größe von 15 GW. Zudem sind Nennleistung und zeitgleiche tatsächliche Einspeisung verschieden. Welche Spitzenzeiten der O-Ton meint, bleibt ohne datierten Lastgang unklar; die grobe Überschussproblematik ist gestützt, der genaue Vergleich nicht.
 
-Quellen: V001, Q04.
+Quellen: V001, Q04, Q12.
 
 ## mbjI4fryvVU-A0009
 
@@ -184,13 +184,13 @@ Quellen: V001.
 
 ## mbjI4fryvVU-A0019
 
-**Offen · 4:37–4:44**
+**Abgeschlossen · Teilweise belegt · 4:37–4:44**
 
 Das Reservierungssystem stellt zuverlässig ausreichend geladene Autos bereit.
 
-Das technische Betriebsmodell erklärt Reservierung und Ladeplanung, liefert aber keine öffentlich gelesene Verfügbarkeitsquote oder Ausfallstatistik. Eine allgemeine Zuverlässigkeitsgarantie bleibt ungeprüft.
+MyWheels beschreibt ausdrücklich die Reservierung per App und sagt ausreichend geladene Fahrzeuge zur gebuchten Abfahrtszeit zu. Das bestätigt die geplante Betriebsfunktion. Eine öffentlich ausgewertete Quote erfolgreicher Bereitstellungen, Ausfälle und Mindestreserven liegt hier nicht vor; die undatierte aktuelle Anbieterbeschreibung ist außerdem kein unabhängiger Nachweis zuverlässigen Betriebs zum Videodatum.
 
-Quellen: V001, Q02.
+Quellen: V001, Q02, Q13.
 
 ## mbjI4fryvVU-A0020
 
@@ -210,7 +210,7 @@ Auch an trüben Tagen liefern die Solarmodule genug Energie für den Hof.
 
 Eine Erzeugungs- und Verbrauchszeitreihe für die konkret gezeigten trüben Tage fehlt. Der gleichzeitig benannte Speicher und die Biogasversorgung dürfen nicht stillschweigend der direkten PV-Erzeugung zugerechnet werden.
 
-Quellen: V001, Q01.
+Quellen: V001, Q01, Q09.
 
 ## mbjI4fryvVU-A0022
 
@@ -224,10 +224,10 @@ Quellen: V001, Q01.
 
 ## mbjI4fryvVU-A0023
 
-**Offen · 0:24–0:41**
+**Abgeschlossen · Belegt · 0:24–0:41**
 
 Auf dem Hof werden Melkroboter eingesetzt.
 
-Am 22.11.2026 wurde das Originalbild bei 00: 35 direkt betrachtet: Die Melktechnik am Tier ist sichtbar und mit der Captionbeschreibung vereinbar. Die Automatisierung lässt sich aus diesem einzelnen Bild nicht unabhängig bestimmen; eine vollständige Szenenprüfung bleibt offen.
+Bei der direkten Originalbildprüfung um 00:32 ist eine Kuh in einer automatisierten Melkstation mit der zugehörigen Mechanik zu sehen. Der beteiligte Fördergeber LTO Noord dokumentiert die Anschaffung eines Melkroboters auf genau diesem Hof zusätzlich im Rückblick. Damit ist die konkrete Geräteangabe gestützt; daraus folgt keine Aussage über Effizienz oder Energieverbrauch der Anlage.
 
-Quellen: V001, Q01.
+Quellen: V001, Q01, Q10.

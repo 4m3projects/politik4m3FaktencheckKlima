@@ -6,8 +6,8 @@
     "kind": "Captioninventar über gesamte Laufzeit; audiovisuelle Prüfung unvollständig",
     "asOf": "2026-11-22",
     "durationSeconds": 311,
-    "coverageNote": "Deutsche Originalcaptions über die gesamte Laufzeit gelesen; Sachbehauptungen, Selbstauskünfte, Wertungen und Prognosen getrennt. Die berechnete Abdeckung bezieht sich auf den erfassten Bestand. Ausschließlich eingeblendete Aussagen und Originalton sind nicht lückenlos kontrolliert. Gezielte Bildstichproben bei 00: 20 und 00: 35 wurden zusätzlich direkt im Originalplayer betrachtet; sie ersetzen keine audiovisuelle Vollprüfung.",
-    "researchNote": "Gezielte Wissenssuche, Primärquellen und Gegenrecherche. Der Status bleibt Teilbestand geprüft; Originalton, alle kurzzeitigen Einblendungen und nicht entscheidbare Einzelbezüge bleiben ausdrücklich offen."
+    "coverageNote": "Deutsche Originalcaptions über die gesamte Laufzeit gelesen; Sachbehauptungen, Selbstauskünfte, Wertungen und Prognosen getrennt. Die berechnete Abdeckung bezieht sich auf den erfassten Bestand. Ausschließlich eingeblendete Aussagen und Originalton sind nicht lückenlos kontrolliert. Gezielte Bildstichproben bei 00: 20 und 00: 35 wurden zusätzlich direkt im Originalplayer betrachtet; sie ersetzen keine audiovisuelle Vollprüfung. Erneute direkte Bildkontrolle bei 00:20 und 00:32 am 22.11.2026; keine vollständige audiovisuelle Sichtung.",
+    "researchNote": "Gezielte Wissenssuche, Primärquellen und Gegenrecherche. Der Status bleibt Teilbestand geprüft; Originalton, alle kurzzeitigen Einblendungen und nicht entscheidbare Einzelbezüge bleiben ausdrücklich offen. Nachprüfung: vier zuvor offene Aussagen erstmals bewertet; Biogasanlage durch ergänzende Primärquellen in KL-C0002 berichtigt. Drei offene Punkte brauchen weiterhin Betriebs-, Inventar- oder Modellnachweise. Gewichte und Anteile unverändert."
   },
   "speakers": [
     {
@@ -116,6 +116,51 @@
       "accessedOn": "2026-11-22",
       "accessBasis": "Originalquelle direkt geöffnet und die in details genannten Abschnitte gelesen; keine unabhängige Messung behauptet.",
       "kind": "Primärquelle"
+    },
+    {
+      "id": "Q09",
+      "title": "LTO Noord: Jahresbericht 2024",
+      "url": "https://www.ltonoord.nl/files/jaarverslag-ltonoord-2024.pdf",
+      "details": "Gedruckte Seiten 22–23 (PDF-Seite 12): Pilotbauer Prinsen begann 2024 mit Energiemanagement; PV, Vergärer, Windrad und Batteriespeicherung im Container. Fördergeber beschreibt eigenen Pilot. Keine vollständige Messreihe zur Autarkiequote.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die genannten Abschnitte gelesen."
+    },
+    {
+      "id": "Q10",
+      "title": "LTO Noord: De praktijk als proeftuin dankzij het Innovatiefonds",
+      "url": "https://www.ltonoord.nl/actueel/de-praktijk-als-proeftuin-dankzij-het-innovatiefonds",
+      "details": "Abschnitte zur Biogasanlage, dem danach angeschafften Melkroboter und zum softwaregestützten Energiemanagement. Rückblick des beteiligten Fördergebers von 2026, später als das Video; für den Melkroboter zusätzlich direkte Originalbildprüfung, kein rückwirkender Messbeleg einer Stromquote.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die genannten Abschnitte gelesen."
+    },
+    {
+      "id": "Q11",
+      "title": "FERTIMANURE: Prinsen Dairy Company, Projektpartner",
+      "url": "https://www.fertimanure.eu/en/partners-involved",
+      "details": "Abschnitt Prinsen: Hof in Haarlo mit Biogasanlage und 2018/2019 errichteter Nährstoffrückgewinnung; Hof ist selbst Projektpartner. Primäre Projektbeschreibung bestätigt die konkrete Anlage, keine Mengenmessung der Eigenstromversorgung.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die genannten Abschnitte gelesen."
+    },
+    {
+      "id": "Q12",
+      "title": "TenneT: Netcongestie-Newsletter Dezember 2025",
+      "url": "https://magazines.tennet.eu/nieuwsbrief-netcongestie-december2025/opschonen-wachtlijsten-en-afsluiten-tdtr-contracten",
+      "details": "Abschnitt Belangstelling groot: aktuelle niederländische Spitzenlast rund 19 GW. Direkte Netzbetreiberangabe vor dem Video; nicht als zeitgleicher Lastgang während einer bestimmten Solarspitze zu verstehen.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die genannten Abschnitte gelesen."
+    },
+    {
+      "id": "Q13",
+      "title": "MyWheels: Shared cars as mobile batteries",
+      "url": "https://mywheels.nl/en/rijdende-buurtbatterij",
+      "details": "How does it work: Buchung per App, Anbieter sagt ausreichend geladenes Fahrzeug zur Abfahrtszeit zu. Laufende Betreiberbeschreibung ohne historische Versionsdatierung und ohne Verfügbarkeitsquote; kein unabhängiger Zuverlässigkeitsaudit für April 2026.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die genannten Abschnitte gelesen."
     }
   ],
   "claims": [
@@ -124,9 +169,9 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "verdict": "Belegt",
       "description": "Auf dem Hof werden Photovoltaik und Biogas zur eigenen Energieversorgung genutzt.",
-      "reason": "Die regionale Handreichung bestätigt PV-Batteriespeicherung bei Arjan Prinsen. Die zusätzliche konkrete Biogasanlage auf genau diesem Hof wird durch die gelesene Quelle nicht unabhängig nachgewiesen.",
+      "reason": "Der Jahresbericht 2024 des beteiligten Fördergebers LTO Noord dokumentiert bei Prinsen PV, Vergärer, Windrad und Speicherung. FERTIMANURE beschreibt denselben Hof in Haarlo ausdrücklich als Betrieb mit Biogasanlage. Damit ist auch der zuvor nicht unabhängig bestätigte Biogasteil belegt. Das bestätigt die Erzeugungsanlagen, keine vollständige Autarkie oder nachgemessene Eigenversorgungsquote.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -150,10 +195,18 @@
         {
           "sourceId": "Q01",
           "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q09",
+          "note": "Fundstelle, Interessen und zeitliche Grenzen stehen im Quellenverzeichnis der Nachprüfung."
+        },
+        {
+          "sourceId": "Q11",
+          "note": "Fundstelle, Interessen und zeitliche Grenzen stehen im Quellenverzeichnis der Nachprüfung."
         }
       ],
       "research": {
-        "confidence": "Mittel",
+        "confidence": "Hoch",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -163,10 +216,20 @@
               "Q01"
             ],
             "result": "Die regionale Handreichung bestätigt PV-Batteriespeicherung bei Arjan Prinsen. Die zusätzliche konkrete Biogasanlage auf genau diesem Hof wird durch die gelesene Quelle nicht unabhängig nachgewiesen."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Gezielte Wissenssuche mit KL/HP/UG, deutsche Originalcaptions erneut über das vorgeschriebene Skript importiert und vollständig gelesen; neue Originalquellen gegen die konkrete Reichweite der Aussage geprüft. Einzelkorrektur KL-C0002; keine veränderten Faktoren.",
+            "sourceIds": [
+              "Q09",
+              "Q11"
+            ],
+            "result": "Der Jahresbericht 2024 des beteiligten Fördergebers LTO Noord dokumentiert bei Prinsen PV, Vergärer, Windrad und Speicherung. FERTIMANURE beschreibt denselben Hof in Haarlo ausdrücklich als Betrieb mit Biogasanlage. Damit ist auch der zuvor nicht unabhängig bestätigte Biogasteil belegt. Das bestätigt die Erzeugungsanlagen, keine vollständige Autarkie oder nachgemessene Eigenversorgungsquote."
           }
         ]
       },
-      "shortReason": "PV und Batteriespeicherung sind bestätigt; der genaue Biogasbezug des Hofes ist nicht unabhängig belegt.",
+      "shortReason": "Der Fördergeber und das Forschungsprojekt bestätigen sowohl Photovoltaik als auch die konkrete Biogasanlage auf Prinsenʼs Hof.",
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige normale Sachaussage; weder bloßes Beiwerk noch alleinige Hauptthese.",
@@ -192,16 +255,19 @@
             "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
           }
         ]
+      },
+      "migration": {
+        "assessmentChange": "2026-11-22 · Codex · KL-C0002: bisher Teilweise belegt, nun Belegt nach ergänzender Primärquellenprüfung der Biogasanlage; frühere Begründung und Kurzbegründung im Korrekturvorgang erhalten."
       }
     },
     {
       "id": "mbjI4fryvVU-A0002",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
       "description": "Der Hof deckt seinen Strombedarf überwiegend aus eigener Erzeugung und steuert ihn per Software.",
-      "reason": "Öffentliche Betriebs- und Jahresmessdaten sowie das konkrete Steuerungsprotokoll fehlen. Eine zuverlässige Mehrheitseigenversorgungsquote ist aus Beispielbildern oder allgemeiner Speichertechnik nicht ableitbar.",
+      "reason": "Der beteiligte Fördergeber dokumentiert bereits für 2024 ein Energiemanagementsystem auf Prinsenʼs Hof mit PV, Vergärer, Windrad und Containerspeicher. Der Zusammenhang von eigener Erzeugung, Speicher und Software ist konkret gestützt. Die darüber hinaus behauptete überwiegende Eigenversorgung ist ohne Erzeugungs-, Bezugs- und Verbrauchszeitreihe nicht quantitativ nachgerechnet; eine Jahresbilanz oder die Bezeichnung energieneutral wäre dafür allein kein Nachweis.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -225,10 +291,14 @@
         {
           "sourceId": "Q01",
           "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q09",
+          "note": "Fundstelle, Interessen und zeitliche Grenzen stehen im Quellenverzeichnis der Nachprüfung."
         }
       ],
       "research": {
-        "confidence": "Offen",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -238,12 +308,18 @@
               "Q01"
             ],
             "result": "Öffentliche Betriebs- und Jahresmessdaten sowie das konkrete Steuerungsprotokoll fehlen. Eine zuverlässige Mehrheitseigenversorgungsquote ist aus Beispielbildern oder allgemeiner Speichertechnik nicht ableitbar."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Gezielte Wissenssuche mit KL/HP/UG, deutsche Originalcaptions erneut über das vorgeschriebene Skript importiert und vollständig gelesen; neue Originalquellen gegen die konkrete Reichweite der Aussage geprüft.",
+            "sourceIds": [
+              "Q09"
+            ],
+            "result": "Der beteiligte Fördergeber dokumentiert bereits für 2024 ein Energiemanagementsystem auf Prinsenʼs Hof mit PV, Vergärer, Windrad und Containerspeicher. Der Zusammenhang von eigener Erzeugung, Speicher und Software ist konkret gestützt. Die darüber hinaus behauptete überwiegende Eigenversorgung ist ohne Erzeugungs-, Bezugs- und Verbrauchszeitreihe nicht quantitativ nachgerechnet; eine Jahresbilanz oder die Bezeichnung energieneutral wäre dafür allein kein Nachweis."
           }
         ]
       },
-      "openQuestions": [
-        "Öffentliche Betriebs- und Jahresmessdaten sowie das konkrete Steuerungsprotokoll fehlen. Eine zuverlässige Mehrheitseigenversorgungsquote ist aus Beispielbildern oder allgemeiner Speichertechnik nicht ableitbar."
-      ],
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige normale Sachaussage; weder bloßes Beiwerk noch alleinige Hauptthese.",
@@ -269,7 +345,8 @@
             "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
           }
         ]
-      }
+      },
+      "shortReason": "Eigene Erzeugung und Softwaresteuerung sind dokumentiert; eine nachgerechnete Mehrheitseigenversorgungsquote fehlt."
     },
     {
       "id": "mbjI4fryvVU-A0003",
@@ -390,6 +467,10 @@
         {
           "sourceId": "Q01",
           "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q09",
+          "note": "Fundstelle, Interessen und zeitliche Grenzen stehen im Quellenverzeichnis der Nachprüfung."
         }
       ],
       "research": {
@@ -403,6 +484,15 @@
               "Q01"
             ],
             "result": "Die genaue Stückzahl und Herkunft benötigen ein Inventar, einen Betreiber-/Lieferantennachweis oder lesbare Typenschilder. Die regionale Quelle bestätigt eine Speicheranlage, nicht diese beiden Details."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Gezielte Anschlussrecherche in niederländischen Projekt- und Förderunterlagen sowie Abgleich mit Originalcaptions; bei A0022 eigene Bildprüfung. Kein Abschluss allein wegen fehlender neuer Quelle.",
+            "sourceIds": [
+              "Q09"
+            ],
+            "result": "Förderbericht und Projektdarstellungen bestätigen den Containerspeicher, liefern aber keine lesbare Herkunftsliste und kein Inventar der 120 Batterien. Die gezielte Suche nach Datacenter-Recycling ergab Hinweise, aber keinen hier direkt lesbaren Primärnachweis für beide Details."
           }
         ]
       },
@@ -682,10 +772,10 @@
       "id": "mbjI4fryvVU-A0008",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
       "description": "In Spitzenzeiten wird nur etwa die Hälfte dieser 30 Gigawatt benötigt.",
-      "reason": "Ein datierter Lastgang und eine eindeutige Definition der gemeinten Spitzenzeit fehlen. Installierte DC-Nennleistung darf nicht ohne Umrechnung mit gleichzeitigem AC-Verbrauch verglichen werden.",
+      "reason": "TenneT beziffert den landesweiten Spitzenbedarf Ende 2025 auf rund 19 GW. Das liegt deutlich unter 30 GW installierter PV-Nennleistung, aber über der mit der Hälfte nahegelegten Größe von 15 GW. Zudem sind Nennleistung und zeitgleiche tatsächliche Einspeisung verschieden. Welche Spitzenzeiten der O-Ton meint, bleibt ohne datierten Lastgang unklar; die grobe Überschussproblematik ist gestützt, der genaue Vergleich nicht.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -709,10 +799,14 @@
         {
           "sourceId": "Q04",
           "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q12",
+          "note": "Fundstelle, Interessen und zeitliche Grenzen stehen im Quellenverzeichnis der Nachprüfung."
         }
       ],
       "research": {
-        "confidence": "Offen",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -722,12 +816,18 @@
               "Q04"
             ],
             "result": "Ein datierter Lastgang und eine eindeutige Definition der gemeinten Spitzenzeit fehlen. Installierte DC-Nennleistung darf nicht ohne Umrechnung mit gleichzeitigem AC-Verbrauch verglichen werden."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Gezielte Wissenssuche mit KL/HP/UG, deutsche Originalcaptions erneut über das vorgeschriebene Skript importiert und vollständig gelesen; neue Originalquellen gegen die konkrete Reichweite der Aussage geprüft.",
+            "sourceIds": [
+              "Q12"
+            ],
+            "result": "TenneT beziffert den landesweiten Spitzenbedarf Ende 2025 auf rund 19 GW. Das liegt deutlich unter 30 GW installierter PV-Nennleistung, aber über der mit der Hälfte nahegelegten Größe von 15 GW. Zudem sind Nennleistung und zeitgleiche tatsächliche Einspeisung verschieden. Welche Spitzenzeiten der O-Ton meint, bleibt ohne datierten Lastgang unklar; die grobe Überschussproblematik ist gestützt, der genaue Vergleich nicht."
           }
         ]
       },
-      "openQuestions": [
-        "Ein datierter Lastgang und eine eindeutige Definition der gemeinten Spitzenzeit fehlen. Installierte DC-Nennleistung darf nicht ohne Umrechnung mit gleichzeitigem AC-Verbrauch verglichen werden."
-      ],
       "attribution": {
         "statementBy": "Zitierte Person",
         "person": "Robin Berg",
@@ -762,7 +862,8 @@
             "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
           }
         ]
-      }
+      },
+      "shortReason": "TenneT nennt rund 19 GW Spitzenbedarf; 15 GW und ein zeitgleicher Vergleich mit 30 GW PV-Nennleistung sind nicht nachgewiesen."
     },
     {
       "id": "mbjI4fryvVU-A0009",
@@ -1582,10 +1683,10 @@
       "id": "mbjI4fryvVU-A0019",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
       "description": "Das Reservierungssystem stellt zuverlässig ausreichend geladene Autos bereit.",
-      "reason": "Das technische Betriebsmodell erklärt Reservierung und Ladeplanung, liefert aber keine öffentlich gelesene Verfügbarkeitsquote oder Ausfallstatistik. Eine allgemeine Zuverlässigkeitsgarantie bleibt ungeprüft.",
+      "reason": "MyWheels beschreibt ausdrücklich die Reservierung per App und sagt ausreichend geladene Fahrzeuge zur gebuchten Abfahrtszeit zu. Das bestätigt die geplante Betriebsfunktion. Eine öffentlich ausgewertete Quote erfolgreicher Bereitstellungen, Ausfälle und Mindestreserven liegt hier nicht vor; die undatierte aktuelle Anbieterbeschreibung ist außerdem kein unabhängiger Nachweis zuverlässigen Betriebs zum Videodatum.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -1609,10 +1710,14 @@
         {
           "sourceId": "Q02",
           "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q13",
+          "note": "Fundstelle, Interessen und zeitliche Grenzen stehen im Quellenverzeichnis der Nachprüfung."
         }
       ],
       "research": {
-        "confidence": "Offen",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -1622,12 +1727,18 @@
               "Q02"
             ],
             "result": "Das technische Betriebsmodell erklärt Reservierung und Ladeplanung, liefert aber keine öffentlich gelesene Verfügbarkeitsquote oder Ausfallstatistik. Eine allgemeine Zuverlässigkeitsgarantie bleibt ungeprüft."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Gezielte Wissenssuche mit KL/HP/UG, deutsche Originalcaptions erneut über das vorgeschriebene Skript importiert und vollständig gelesen; neue Originalquellen gegen die konkrete Reichweite der Aussage geprüft.",
+            "sourceIds": [
+              "Q13"
+            ],
+            "result": "MyWheels beschreibt ausdrücklich die Reservierung per App und sagt ausreichend geladene Fahrzeuge zur gebuchten Abfahrtszeit zu. Das bestätigt die geplante Betriebsfunktion. Eine öffentlich ausgewertete Quote erfolgreicher Bereitstellungen, Ausfälle und Mindestreserven liegt hier nicht vor; die undatierte aktuelle Anbieterbeschreibung ist außerdem kein unabhängiger Nachweis zuverlässigen Betriebs zum Videodatum."
           }
         ]
       },
-      "openQuestions": [
-        "Das technische Betriebsmodell erklärt Reservierung und Ladeplanung, liefert aber keine öffentlich gelesene Verfügbarkeitsquote oder Ausfallstatistik. Eine allgemeine Zuverlässigkeitsgarantie bleibt ungeprüft."
-      ],
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Tragende technische Erklärung, zentrale Einschränkung oder hervorgehobene Vergleichszahl des Abschnitts.",
@@ -1653,7 +1764,8 @@
             "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
           }
         ]
-      }
+      },
+      "shortReason": "Der Betreiber sagt geladene Autos zum Buchungsbeginn zu; eine unabhängige Verfügbarkeitsstatistik fehlt."
     },
     {
       "id": "mbjI4fryvVU-A0020",
@@ -1734,6 +1846,10 @@
         {
           "sourceId": "Q01",
           "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q09",
+          "note": "Fundstelle, Interessen und zeitliche Grenzen stehen im Quellenverzeichnis der Nachprüfung."
         }
       ],
       "research": {
@@ -1747,6 +1863,15 @@
               "Q01"
             ],
             "result": "Eine Erzeugungs- und Verbrauchszeitreihe für die konkret gezeigten trüben Tage fehlt. Der gleichzeitig benannte Speicher und die Biogasversorgung dürfen nicht stillschweigend der direkten PV-Erzeugung zugerechnet werden."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Gezielte Anschlussrecherche in niederländischen Projekt- und Förderunterlagen sowie Abgleich mit Originalcaptions; bei A0022 eigene Bildprüfung. Kein Abschluss allein wegen fehlender neuer Quelle.",
+            "sourceIds": [
+              "Q09"
+            ],
+            "result": "Originalcaptions im Zusammenhang von Biogas, PV und Speicher erneut gelesen. LTO-Bericht beschreibt das Energiesystem, aber keine zeitgleiche PV- und Lastmessung für trübe Tage. Speicherenergie und Biogas dürfen nicht als direkte momentane PV-Erzeugung gezählt werden."
           }
         ]
       },
@@ -1833,6 +1958,15 @@
               "V001"
             ],
             "result": "Am 22.11.2026 wurde das Originalbild bei 00: 20 direkt betrachtet: Ein kleiner Lader füttert die Kühe. Der Antrieb ist im betrachteten Ausschnitt nicht lesbar gekennzeichnet; die elektrische Ausführung bleibt offen."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Gezielte Anschlussrecherche in niederländischen Projekt- und Förderunterlagen sowie Abgleich mit Originalcaptions; bei A0022 eigene Bildprüfung. Kein Abschluss allein wegen fehlender neuer Quelle.",
+            "sourceIds": [
+              "V001"
+            ],
+            "result": "Originalbild bei 00:20 erneut direkt betrachtet: kleiner Lader beim Füttern erkennbar. Elektrischer Antrieb oder eindeutige Modellkennzeichnung lassen sich aus diesem Bild nicht selbstständig nachweisen; ein nicht direkt lesbarer Suchhinweis eines Lieferanten genügt nicht."
           }
         ]
       },
@@ -1870,10 +2004,10 @@
       "id": "mbjI4fryvVU-A0023",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
       "description": "Auf dem Hof werden Melkroboter eingesetzt.",
-      "reason": "Am 22.11.2026 wurde das Originalbild bei 00: 35 direkt betrachtet: Die Melktechnik am Tier ist sichtbar und mit der Captionbeschreibung vereinbar. Die Automatisierung lässt sich aus diesem einzelnen Bild nicht unabhängig bestimmen; eine vollständige Szenenprüfung bleibt offen.",
+      "reason": "Bei der direkten Originalbildprüfung um 00:32 ist eine Kuh in einer automatisierten Melkstation mit der zugehörigen Mechanik zu sehen. Der beteiligte Fördergeber LTO Noord dokumentiert die Anschaffung eines Melkroboters auf genau diesem Hof zusätzlich im Rückblick. Damit ist die konkrete Geräteangabe gestützt; daraus folgt keine Aussage über Effizienz oder Energieverbrauch der Anlage.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -1897,10 +2031,14 @@
         {
           "sourceId": "Q01",
           "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q10",
+          "note": "Fundstelle, Interessen und zeitliche Grenzen stehen im Quellenverzeichnis der Nachprüfung."
         }
       ],
       "research": {
-        "confidence": "Offen",
+        "confidence": "Hoch",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -1919,12 +2057,19 @@
               "V001"
             ],
             "result": "Am 22.11.2026 wurde das Originalbild bei 00: 35 direkt betrachtet: Die Melktechnik am Tier ist sichtbar und mit der Captionbeschreibung vereinbar. Die Automatisierung lässt sich aus diesem einzelnen Bild nicht unabhängig bestimmen; eine vollständige Szenenprüfung bleibt offen."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Gezielte Wissenssuche mit KL/HP/UG, deutsche Originalcaptions erneut über das vorgeschriebene Skript importiert und vollständig gelesen; neue Originalquellen gegen die konkrete Reichweite der Aussage geprüft. Direkte Bildprüfung bei etwa 00:32 im Originalplayer; keine vollständige Bild-/Tonprüfung.",
+            "sourceIds": [
+              "V001",
+              "Q10"
+            ],
+            "result": "Bei der direkten Originalbildprüfung um 00:32 ist eine Kuh in einer automatisierten Melkstation mit der zugehörigen Mechanik zu sehen. Der beteiligte Fördergeber LTO Noord dokumentiert die Anschaffung eines Melkroboters auf genau diesem Hof zusätzlich im Rückblick. Damit ist die konkrete Geräteangabe gestützt; daraus folgt keine Aussage über Effizienz oder Energieverbrauch der Anlage."
           }
         ]
       },
-      "openQuestions": [
-        "Am 22.11.2026 wurde das Originalbild bei 00:35 direkt betrachtet: Die Melktechnik am Tier ist sichtbar und mit der Captionbeschreibung vereinbar. Die Automatisierung lässt sich aus diesem einzelnen Bild nicht unabhängig bestimmen; eine vollständige Szenenprüfung bleibt offen."
-      ],
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Beobachtbarer Gerätedetail als Beispiel der Hoftechnik, ohne tragende Funktion für den Speicherschluss.",

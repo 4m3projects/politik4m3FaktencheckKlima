@@ -21,3 +21,9 @@ Am Folgetag hob die Pressestelle des Ministeriums hervor, Westenergie sei ein In
 - **Der Wortwechsel lässt eine spätere Tätigkeit offen.** Reiche schloss sie in diesem Gespräch nicht ausdrücklich aus. Daraus ergibt sich kein Beleg für konkrete Pläne. Wie weit die von Jung beschriebene Wahrnehmung in der Bevölkerung verbreitet war, bleibt nach Auswertung einschlägiger Umfragen offen.
 
 Der gesprochene Ausschnitt wurde anhand der automatischen deutschen YouTube-Untertitel mit der vollständigen phoenix-Aufzeichnung abgeglichen. Die Zeitmarken sind ungefähr. Der Abruf englischer Untertitel scheiterte mit HTTP 429. [Strukturierte Aussagen und Quellen](strukturiert/aussagen.json)
+
+## Warum trotz abgeschlossener Prüfung eine graue Ampel bleiben kann
+
+Die Ampel bewertet die dem Video zurechenbaren Tatsachenbehauptungen. Die bloße Wiedergabe von Reiches Aussagen zählt nicht gegen Jung & Naiv; die in der Beschreibung zurückgewiesenen Aussagen bleiben ebenfalls getrennt zurechenbar. Nach dieser Abgrenzung verbleiben zu wenige eigene Tatsachenbehauptungen für die gemeinsame Mindestzahl eines regulären Videos. Die Prüfung ist abgeschlossen; Grau bedeutet hier eine zu kleine Bewertungsgrundlage, keine noch ausstehende Sachprüfung.
+
+Die Nachsicht am 22.11.2026 hat keine zusätzlichen eigenständigen Tatsachenbehauptungen ergeben, die nur zum Erreichen einer farbigen Ampel ergänzt werden dürften. Es wird weder eine Mindestzahl abgesenkt noch eine fremde Aussage dem Video angerechnet. Der Lügenvorwurf, die Reichweite der Videobeschreibung und die Grenzen des Vorsatznachweises stehen weiterhin getrennt im Bericht.

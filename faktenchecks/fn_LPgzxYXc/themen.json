@@ -89,6 +89,11 @@
       "date": "2026-11-20",
       "agent": "Codex",
       "change": "Erstzuordnung nach Aussagen und Fundstellen."
+    },
+    {
+      "date": "2026-11-22",
+      "agent": "Codex",
+      "change": "Erklärung der grauen Ampel bei abgeschlossener Prüfung ergänzt; Aussagen und Themen unverändert. Gas- und Windkraftbezug der vorhandenen Zuordnung erneut geprüft, keine zusätzliche öffentliche Kategorie."
     }
   ]
 }

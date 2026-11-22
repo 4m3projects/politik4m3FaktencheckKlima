@@ -3,37 +3,37 @@
   "generatedBy": "scripts/build-index.js",
   "uniqueStatements": 82,
   "statusCounts": {
-    "Abgeschlossen": 70,
+    "Abgeschlossen": 73,
     "In Bearbeitung": 0,
-    "Offen": 10,
+    "Offen": 7,
     "Nicht überprüfbar": 2
   },
   "factClaims": 70,
-  "completedFacts": 58,
-  "openFacts": 10,
+  "completedFacts": 61,
+  "openFacts": 7,
   "inProgressFacts": 0,
   "unverifiableFacts": 2,
-  "percentageDenominator": 58,
+  "percentageDenominator": 61,
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 37,
-      "completedFactPercent": 63.8
+      "completedCount": 39,
+      "completedFactPercent": 63.9
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 17,
-      "completedFactPercent": 29.3
+      "completedCount": 18,
+      "completedFactPercent": 29.5
     },
     {
       "category": "Irreführend / Kontext fehlt",
       "completedCount": 2,
-      "completedFactPercent": 3.4
+      "completedFactPercent": 3.3
     },
     {
       "category": "Widerlegt",
       "completedCount": 2,
-      "completedFactPercent": 3.4
+      "completedFactPercent": 3.3
     },
     {
       "category": "Nicht ausreichend belegbar",

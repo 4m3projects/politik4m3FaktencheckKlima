@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "KL-C0002",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-22",
+  "reportedBy": "Codex",
+  "trigger": {
+    "claimId": "mbjI4fryvVU-A0001",
+    "entryId": null,
+    "description": "Der zuvor offene Biogasteil ist durch zusätzliche Primärquellen konkret bestätigt. Issue #45."
+  },
+  "evidence": [
+    {
+      "title": "LTO Noord: Jahresbericht 2024",
+      "url": "https://www.ltonoord.nl/files/jaarverslag-ltonoord-2024.pdf",
+      "accessedOn": "2026-11-22",
+      "finding": "Gedruckte Seiten 22–23 (PDF-Seite 12): Pilotbauer Prinsen begann 2024 mit Energiemanagement; PV, Vergärer, Windrad und Batteriespeicherung im Container. Fördergeber beschreibt eigenen Pilot. Keine vollständige Messreihe zur Autarkiequote."
+    },
+    {
+      "title": "FERTIMANURE: Prinsen Dairy Company, Projektpartner",
+      "url": "https://www.fertimanure.eu/en/partners-involved",
+      "accessedOn": "2026-11-22",
+      "finding": "Abschnitt Prinsen: Hof in Haarlo mit Biogasanlage und 2018/2019 errichteter Nährstoffrückgewinnung; Hof ist selbst Projektpartner. Primäre Projektbeschreibung bestätigt die konkrete Anlage, keine Mengenmessung der Eigenstromversorgung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "mbjI4fryvVU-A0001",
+      "reason": "Nur die Einschränkung zur Biogasanlage ist betroffen. Die automatisch gefundenen übrigen Aussagen teilen Quellen, hängen sachlich aber nicht von dieser Urteilsänderung ab."
+    }
+  ],
+  "decision": {
+    "by": "Regel:Einzelkorrektur nach AGENTEN_WISSEN Abschnitt 4",
+    "date": "2026-11-22",
+    "basis": "Kleine eindeutige Einzelkorrektur mit Originalbelegen des Fördergebers und des Hof-Forschungsprojekts; kein Wissenseintragsurteil und kein Bedeutungsfaktor betroffen. Betroffenheitsliste auf sachliche Abhängigkeit geprüft."
+  },
+  "changes": [
+    {
+      "target": "mbjI4fryvVU-A0001",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Belegt"
+    },
+    {
+      "target": "mbjI4fryvVU-A0001",
+      "field": "reason",
+      "before": "Die regionale Handreichung bestätigt PV-Batteriespeicherung bei Arjan Prinsen. Die zusätzliche konkrete Biogasanlage auf genau diesem Hof wird durch die gelesene Quelle nicht unabhängig nachgewiesen.",
+      "after": "Der Jahresbericht 2024 des beteiligten Fördergebers LTO Noord dokumentiert bei Prinsen PV, Vergärer, Windrad und Speicherung. FERTIMANURE beschreibt denselben Hof in Haarlo ausdrücklich als Betrieb mit Biogasanlage. Damit ist auch der zuvor nicht unabhängig bestätigte Biogasteil belegt. Das bestätigt die Erzeugungsanlagen, keine vollständige Autarkie oder nachgemessene Eigenversorgungsquote."
+    },
+    {
+      "target": "mbjI4fryvVU-A0001",
+      "field": "shortReason",
+      "before": "PV und Batteriespeicherung sind bestätigt; der genaue Biogasbezug des Hofes ist nicht unabhängig belegt.",
+      "after": "Der Fördergeber und das Forschungsprojekt bestätigen sowohl Photovoltaik als auch die konkrete Biogasanlage auf Prinsenʼs Hof."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "agent": "Codex",
+      "change": "Gemeldet und anhand der Originalquellen geprüft; Issue https://github.com/4m3projects/politik4m3FaktencheckKlima/issues/45."
+    },
+    {
+      "date": "2026-11-22",
+      "agent": "Codex",
+      "change": "Begrenzte Einzelkorrektur umgesetzt; vorherige Texte bleiben in changes erhalten."
+    }
+  ]
+}

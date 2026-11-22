@@ -1,6 +1,6 @@
 # Einzelprüfungen
 
-Prüfstand 22.11.2026. Erweiterter Teilbestand geprüft; keine vollständige audiovisuelle Prüfung. Maßgeblich sind die strukturierten Aussagen.
+Prüfstand 22.11.2026. Erweiterter Teilbestand; keine vollständige audiovisuelle Prüfung. Zusätzliche Nachprüfung von Heizöl, Institutionsgeschichte und finanzieller Interessenvertretung.
 
 ## -rBUCkR4HuA-A0001
 
@@ -214,13 +214,13 @@ Quellen: V001, Q41.
 
 ## -rBUCkR4HuA-A0022
 
-**Offen · 25:34–25:44**
+**Abgeschlossen · Belegt · 25:34–25:44**
 
 Heizöl kostet im Oktober 2026 etwa 1,70 Euro pro Liter.
 
-Datierte Primärpreisreihe mit Region, Menge und Steuern noch auswerten; Novemberpreise ersetzen Oktober nicht.
+Die historische Originaltabelle des Weekly Oil Bulletin enthält für deutsches Heizöl einschließlich Steuern im Oktober 2026 Wochenwerte zwischen 1654,4 und 1750,1 Euro je 1000 Liter. Das entspricht rund 1,65 bis 1,75 Euro je Liter; am 12. Oktober 1,6981 Euro. Die im Gespräch auf den Oktober bezogene Größenordnung von etwa 1,70 Euro ist damit belegt. Der unbekannte genaue Aufnahmetag und regionale Einzelangebote bleiben davon getrennt.
 
-Quellen: V001.
+Quellen: V001, Q55.
 
 ## -rBUCkR4HuA-A0023
 
@@ -544,13 +544,13 @@ Quellen: V001, Q27.
 
 ## -rBUCkR4HuA-A0055
 
-**Offen · 52:43–52:58**
+**Abgeschlossen · Teilweise belegt · 52:43–52:58**
 
 Medien und Lobbygruppen unterstützen Energieinteressen auch finanziell.
 
-Konkrete Zahlungen und Empfänger fehlen; fallbezogene Originalbelege nötig.
+Das Lobbyregister dokumentiert am Beispiel FNB Gas für 2025 finanzielle Aufwendungen für Gasinteressenvertretung und Mitgliedsbeiträge als Finanzierung. Damit ist der allgemeine Sachkern finanziell ausgestatteter Energieinteressen konkret belegt. Daraus folgt keine Zahlung an bestimmte Medien oder eine kausale Erklärung einzelner redaktioneller Positionen. Der Gesprächsbeitrag nennt solche Zahlungen und Empfänger nicht; dieser weitergehende Teil bleibt unbestimmt.
 
-Quellen: V001.
+Quellen: V001, Q57.
 
 ## -rBUCkR4HuA-A0056
 
@@ -714,13 +714,13 @@ Quellen: V001, Q16, Q50.
 
 ## -rBUCkR4HuA-A0072
 
-**Offen · 63:48–64:39**
+**Abgeschlossen · Belegt · 63:48–64:39**
 
 In Jülich war Solarforschung im Institut für Kernphysik beheimatet.
 
-Vita belegt nur Tätigkeit; Institutionsgeschichte dergemeinten Zeitphase noch prüfen.
+Die öffentlich zugängliche Zusammenfassung der historischen Originaluntersuchung von Gerd Stadermann bestätigt ausdrücklich, dass die ersten Sonnenenergieprojekte der KFA Jülich im Institut für Kernphysik entstanden. Gemeint ist dort Solarthermie. Das stützt den institutionengeschichtlichen Kern der Erinnerung; private Mittagspausengespräche und Yogeshwars individuelle Beteiligung werden damit nicht unabhängig bestätigt.
 
-Quellen: V001, Q01.
+Quellen: V001, Q01, Q56.
 
 ## -rBUCkR4HuA-A0073
 
