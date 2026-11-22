@@ -1,0 +1,1956 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "videoId": "mbjI4fryvVU",
+    "videoUrl": "https://www.youtube.com/watch?v=mbjI4fryvVU",
+    "kind": "Captioninventar über gesamte Laufzeit; audiovisuelle Prüfung unvollständig",
+    "asOf": "2026-11-22",
+    "durationSeconds": 311,
+    "coverageNote": "Deutsche Originalcaptions über die gesamte Laufzeit gelesen; Sachbehauptungen, Selbstauskünfte, Wertungen und Prognosen getrennt. Die berechnete Abdeckung bezieht sich auf den erfassten Bestand. Ausschließlich eingeblendete Aussagen und Originalton sind nicht lückenlos kontrolliert. Gezielte Bildstichproben bei 00: 20 und 00: 35 wurden zusätzlich direkt im Originalplayer betrachtet; sie ersetzen keine audiovisuelle Vollprüfung.",
+    "researchNote": "Gezielte Wissenssuche, Primärquellen und Gegenrecherche. Der Status bleibt Teilbestand geprüft; Originalton, alle kurzzeitigen Einblendungen und nicht entscheidbare Einzelbezüge bleiben ausdrücklich offen."
+  },
+  "speakers": [
+    {
+      "id": "SP1",
+      "name": "tagesschau-Redaktion",
+      "videoRole": "Off-Kommentar",
+      "identityBasis": "Originalkanal und redaktioneller Captionkontext."
+    },
+    {
+      "id": "SP2",
+      "name": "Arjan Prinsen",
+      "videoRole": "Interviewter Landwirt",
+      "identityBasis": "Einleitung im Beitrag; die automatische Schreibweise Prinzen wird nicht als zweite Person behandelt."
+    },
+    {
+      "id": "SP3",
+      "name": "Robin Berg",
+      "videoRole": "Interviewter Projektvertreter",
+      "identityBasis": "Nennung im redaktionellen Kommentar und anschließender O-Ton."
+    },
+    {
+      "id": "SP4",
+      "name": "Doris Abich",
+      "videoRole": "Interviewte Nutzerin",
+      "identityBasis": "Nennung im Beitrag; Name aus Captionkontext, keine eigenständige Identitätsprüfung."
+    }
+  ],
+  "sources": [
+    {
+      "id": "V001",
+      "title": "YouTube-Original: Erneuerbare Energie speichern: Innovation in den Niederlanden",
+      "url": "https://www.youtube.com/watch?v=mbjI4fryvVU",
+      "details": "Upload 2026-04-08, 311 Sekunden. Deutsche automatische Originalcaptions vollständig gelesen; automatische Übersetzung de nicht als zweite Quelle gezählt. Zusätzliche englische Untertitel scheiterten mit HTTP 429; deutsche Fassungen zugänglich. Material liegt ausschließlich in privater Ablage.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalmetadaten und deutsche Originalcaptions mit dem projekterlaubten Importskript abgerufen und gelesen. Keine vollständige audiovisuelle Sichtung.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "Q01",
+      "title": "Gelders Energie Akkoord: Eerste Hulp bij Netcongestie 2.0 (2025)",
+      "url": "https://www.geldersenergieakkoord.nl/downloads/EHBN-DEB.pdf",
+      "details": "PDF-Seite 25: Arjan Prinsen speichert PV-Strom mit einer 100-kW-Batterie. Kein Nachweis für genaue Zellzahl, Herkunft sämtlicher Module oder Jahres-Autarkiequote.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle direkt geöffnet und die in details genannten Abschnitte gelesen; keine unabhängige Messung behauptet.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "Q02",
+      "title": "Renault/Projektpartner: Utrecht energized, Start 5.6.2025",
+      "url": "https://media.renaultgroup.com/utrecht-becomes-europes-first-city-with-a-vehicletogrid-v2g-carsharing-service/?lang=eng",
+      "details": "Absätze zum Betriebsstart: 50 Renault 5, bidirektionale öffentliche AC-Ladepunkte, Ausbauziel 500. Hersteller-/Projektmitteilung, kein unabhängiger Wirtschaftlichkeitsaudit.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle direkt geöffnet und die in details genannten Abschnitte gelesen; keine unabhängige Messung behauptet.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "Q03",
+      "title": "Gemeente Utrecht: Voortgang Netbewust Laden, 6.1.2026",
+      "url": "https://utrecht.bestuurlijkeinformatie.nl/Document/View/0358825c-9fad-4925-a35e-f9e7beb67af5",
+      "details": "Seite 2: bis 300 kW Entlastung am Abend,65.000 kWh in fünf Monaten; 170 Fahrzeuge Ende 2025 und Ziel 500 im Jahr 2026. Kein Nachweis, dass 500 am 8.4.2026 schon erreicht waren.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle direkt geöffnet und die in details genannten Abschnitte gelesen; keine unabhängige Messung behauptet.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "Q04",
+      "title": "CBS: Most solar panels installed at commercial premises, 5.8.2025",
+      "url": "https://www.cbs.nl/en-gb/news/2025/32/most-solar-panels-installed-at-commercial-premises",
+      "details": "Tabelle 2024: 28,6 GWp gesamte niederländische PV-Leistung; Gebäude und andere Standorte enthalten. Wechselrichterleistung 25,6 GW. Nennleistung ist keine jederzeit abrufbare Erzeugung.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle direkt geöffnet und die in details genannten Abschnitte gelesen; keine unabhängige Messung behauptet.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "Q05",
+      "title": "IEA PVPS: Snapshot of Global PV Markets2025",
+      "url": "https://iea-pvps.org/wp-content/uploads/2025/04/Snapshot-of-Global-PV-Markets_2025.pdf",
+      "details": "Bericht/Übersicht pro Kopf 2024: Niederlande 1547 W, Australien 1448 W. Frühere Schätzung; spätere Revisionen und der nach dem Videodatum erschienene 2026-Bericht werden nicht rückwirkend zur Widerlegung genutzt. Kennzahl ist installierte Leistung, nicht Anlagenstückzahl.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle direkt geöffnet und die in details genannten Abschnitte gelesen; keine unabhängige Messung behauptet.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "Q06",
+      "title": "US Department of Energy: Bidirectional Charging and Electric Vehicles for Mobile Storage",
+      "url": "https://www.energy.gov/cmei/femp/bidirectional-charging-and-electric-vehicles-mobile-storage",
+      "details": "Einleitung und V 2 B/V2G: geeignetes Fahrzeug und kompatible Ladeausrüstung erforderlich; Speicher kann Lasten und Netz versorgen. Keine Aussage zur privaten Hofanlage.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle direkt geöffnet und die in details genannten Abschnitte gelesen; keine unabhängige Messung behauptet.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "Q07",
+      "title": "Renault: Vollständige Renault5-Palette, Mai2025",
+      "url": "https://media.renault.com/renault-5-e-tech-electric-une-gamme-desormais-complete-a-partir-de-20-680-euros/?lang=fr",
+      "details": "Modellangaben: 52 kWh, bis 410 km WLTP, bidirektionales 11 kW-AC-Laden. Reichweite und nutzbare Energie hängen von Variante/Betrieb ab; kein Beleg für mehrtägige Versorgung eines unbestimmten Häuserblocks.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle direkt geöffnet und die in details genannten Abschnitte gelesen; keine unabhängige Messung behauptet.",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "Q08",
+      "title": "TNO2025R11978: Decentrale ontwikkelingen in het energiesysteem",
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D17575",
+      "details": "Seiten 62–63/PDF: Utrecht-Fallstudie mit 50 Fahrzeugen, Lastspitzenbis 300 kW und rund 70.000 kWh entladener Energie in fünf Monaten. Rundungs-/Datenstandsabweichung zur Gemeindemitteilung 65.000 kWh, nicht als eigene neue Messung behandeln. Pilot demonstriert Technik, nicht flächendeckende Versorgungsautarkie.",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle direkt geöffnet und die in details genannten Abschnitte gelesen; keine unabhängige Messung behauptet.",
+      "kind": "Primärquelle"
+    }
+  ],
+  "claims": [
+    {
+      "id": "mbjI4fryvVU-A0001",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Auf dem Hof werden Photovoltaik und Biogas zur eigenen Energieversorgung genutzt.",
+      "reason": "Die regionale Handreichung bestätigt PV-Batteriespeicherung bei Arjan Prinsen. Die zusätzliche konkrete Biogasanlage auf genau diesem Hof wird durch die gelesene Quelle nicht unabhängig nachgewiesen.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "occurrences": [
+        {
+          "startSeconds": 8,
+          "endSeconds": 17,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q01",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
+            "sourceIds": [
+              "Q01"
+            ],
+            "result": "Die regionale Handreichung bestätigt PV-Batteriespeicherung bei Arjan Prinsen. Die zusätzliche konkrete Biogasanlage auf genau diesem Hof wird durch die gelesene Quelle nicht unabhängig nachgewiesen."
+          }
+        ]
+      },
+      "shortReason": "PV und Batteriespeicherung sind bestätigt; der genaue Biogasbezug des Hofes ist nicht unabhängig belegt.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage; weder bloßes Beiwerk noch alleinige Hauptthese.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "00: 08–00: 17 führt die örtlichen Erzeugungsarten als Schauplatzbeispiel ein; normale eigenständige Kontextangabe neben der späteren Speicherleitthese. Grundlage: Originalcaptions und Beschreibung am 22.11.2026 eigenständig gelesen; vorab Gewichtsvorschläge formuliert. Kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mbjI4fryvVU-A0002",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Offen",
+      "verdict": null,
+      "description": "Der Hof deckt seinen Strombedarf überwiegend aus eigener Erzeugung und steuert ihn per Software.",
+      "reason": "Öffentliche Betriebs- und Jahresmessdaten sowie das konkrete Steuerungsprotokoll fehlen. Eine zuverlässige Mehrheitseigenversorgungsquote ist aus Beispielbildern oder allgemeiner Speichertechnik nicht ableitbar.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "occurrences": [
+        {
+          "startSeconds": 34,
+          "endSeconds": 46,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q01",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        }
+      ],
+      "research": {
+        "confidence": "Offen",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
+            "sourceIds": [
+              "Q01"
+            ],
+            "result": "Öffentliche Betriebs- und Jahresmessdaten sowie das konkrete Steuerungsprotokoll fehlen. Eine zuverlässige Mehrheitseigenversorgungsquote ist aus Beispielbildern oder allgemeiner Speichertechnik nicht ableitbar."
+          }
+        ]
+      },
+      "openQuestions": [
+        "Öffentliche Betriebs- und Jahresmessdaten sowie das konkrete Steuerungsprotokoll fehlen. Eine zuverlässige Mehrheitseigenversorgungsquote ist aus Beispielbildern oder allgemeiner Speichertechnik nicht ableitbar."
+      ],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage; weder bloßes Beiwerk noch alleinige Hauptthese.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "00: 34–00: 46 und 01: 08–01: 17 beschreiben Eigenversorgung und Steuerung des Hofes. Normale Bedeutung des Demonstrationsbeispiels; ein offenes Sachurteil verändert seine Bedeutung nicht. Grundlage: Originalcaptions und Beschreibung am 22.11.2026 eigenständig gelesen; vorab Gewichtsvorschläge formuliert. Kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mbjI4fryvVU-A0003",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Batterien können die elektrischen Lastspitzen des Hofes abfangen.",
+      "reason": "Der Speicherfall ist öffentlich dokumentiert; technische Lastverschiebung und Lastspitzenreduktion mit geeigneter Ausrüstung sind im DOE-Fachtext erläutert. Die Aussage wird als Möglichkeit bewertet, nicht als nachgemessene Höhe jeder Hofspitze.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "occurrences": [
+        {
+          "startSeconds": 47,
+          "endSeconds": 67,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP2",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q01",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q06",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
+            "sourceIds": [
+              "Q01",
+              "Q06"
+            ],
+            "result": "Der Speicherfall ist öffentlich dokumentiert; technische Lastverschiebung und Lastspitzenreduktion mit geeigneter Ausrüstung sind im DOE-Fachtext erläutert. Die Aussage wird als Möglichkeit bewertet, nicht als nachgemessene Höhe jeder Hofspitze."
+          }
+        ]
+      },
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Arjan Prinsen",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "Die Redaktion setzt den O-Ton zur Erklärung und Stützung des beschriebenen Speicherkonzepts ein und widerspricht ihm nicht.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage; weder bloßes Beiwerk noch alleinige Hauptthese.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "00: 47–01: 07 erklärt der Landwirt die örtliche Lastspitzenpufferung. Normale Bedeutung eines konkreten Anwendungsfalls neben der folgenden städtischen Leitdemonstration. Grundlage: Originalcaptions und Beschreibung am 22.11.2026 eigenständig gelesen; vorab Gewichtsvorschläge formuliert. Kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mbjI4fryvVU-A0004",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Offen",
+      "verdict": null,
+      "description": "Im Container befinden sich 120 aus einem Rechenzentrum ausgesonderte Batterien.",
+      "reason": "Die genaue Stückzahl und Herkunft benötigen ein Inventar, einen Betreiber-/Lieferantennachweis oder lesbare Typenschilder. Die regionale Quelle bestätigt eine Speicheranlage, nicht diese beiden Details.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "occurrences": [
+        {
+          "startSeconds": 82,
+          "endSeconds": 89,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q01",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        }
+      ],
+      "research": {
+        "confidence": "Offen",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
+            "sourceIds": [
+              "Q01"
+            ],
+            "result": "Die genaue Stückzahl und Herkunft benötigen ein Inventar, einen Betreiber-/Lieferantennachweis oder lesbare Typenschilder. Die regionale Quelle bestätigt eine Speicheranlage, nicht diese beiden Details."
+          }
+        ]
+      },
+      "openQuestions": [
+        "Die genaue Stückzahl und Herkunft benötigen ein Inventar, einen Betreiber-/Lieferantennachweis oder lesbare Typenschilder. Die regionale Quelle bestätigt eine Speicheranlage, nicht diese beiden Details."
+      ],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage; weder bloßes Beiwerk noch alleinige Hauptthese.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "01: 22–01: 29 nennt Stückzahl und frühere Verwendung der Containerbatterien. Normale Sachinformation; die genaue Zahl trägt nicht die Hauptthese zur Fahrzeugnutzung. Grundlage: Originalcaptions und Beschreibung am 22.11.2026 eigenständig gelesen; vorab Gewichtsvorschläge formuliert. Kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mbjI4fryvVU-A0005",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Ein geeignetes Elektroauto kann über eine Spezialladestation Strom an das Hofnetz zurückgeben.",
+      "reason": "Bidirektionale Fahrzeuge können mit kompatibler Ladeausrüstung ein Gebäude oder lokale Lasten versorgen. Dies ist ein anderer Anschlussfall als Rückspeisung in das öffentliche Netz und kein Merkmal jedes E-Autos.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "occurrences": [
+        {
+          "startSeconds": 89,
+          "endSeconds": 110,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q06",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
+            "sourceIds": [
+              "Q06"
+            ],
+            "result": "Bidirektionale Fahrzeuge können mit kompatibler Ladeausrüstung ein Gebäude oder lokale Lasten versorgen. Dies ist ein anderer Anschlussfall als Rückspeisung in das öffentliche Netz und kein Merkmal jedes E-Autos."
+          }
+        ]
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende technische Erklärung, zentrale Einschränkung oder hervorgehobene Vergleichszahl des Abschnitts.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "01: 29–01: 50 erklärt die Rückspeisung über eine Spezialladestation den neuartigen Nutzen des Fahrzeugspeichers am Hof. Erhöhte technische Bedeutung als erster Aufbau der Leitidee. Grundlage: Originalcaptions und Beschreibung am 22.11.2026 eigenständig gelesen; vorab Gewichtsvorschläge formuliert. Kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mbjI4fryvVU-A0006",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Die Niederlande haben weltweit die meisten Solaranlagen pro Einwohner.",
+      "reason": "Der vor dem Video verfügbare IEA-PVPS-Vergleich führt die Niederlande bei installierter PV-Leistung pro Kopf an. Er zählt keine Anlagenstücke; außerdem gilt der Vergleich für den berichteten Datenstand.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "occurrences": [
+        {
+          "startSeconds": 135,
+          "endSeconds": 143,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP3",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q05",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
+            "sourceIds": [
+              "Q05"
+            ],
+            "result": "Der vor dem Video verfügbare IEA-PVPS-Vergleich führt die Niederlande bei installierter PV-Leistung pro Kopf an. Er zählt keine Anlagenstücke; außerdem gilt der Vergleich für den berichteten Datenstand."
+          }
+        ]
+      },
+      "shortReason": "Der Spitzenplatz gilt für installierte PV-Leistung pro Kopf, nicht für die Zahl der Anlagen.",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Robin Berg",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "Die Redaktion setzt den O-Ton zur Erklärung und Stützung des beschriebenen Speicherkonzepts ein und widerspricht ihm nicht.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage; weder bloßes Beiwerk noch alleinige Hauptthese.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "02: 15–02: 23 ist der internationale Solarvergleich eine einordnende Zahl. Der Betrieb des Utrechter Konzepts hängt nicht von einem weltweiten ersten Platz ab. Grundlage: Originalcaptions und Beschreibung am 22.11.2026 eigenständig gelesen; vorab Gewichtsvorschläge formuliert. Kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mbjI4fryvVU-A0007",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "description": "Auf den niederländischen Dächern sind rund 30 Gigawatt Solarleistung installiert.",
+      "reason": "Die Größenordnung passt zur gesamten PV-Nennleistung des Landes. CBS zählt darin auch nicht auf Dächern installierte Anlagen; 30 GW Dachleistung ist damit nicht belegt. Zudem ist GWp eine Nennleistung.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "occurrences": [
+        {
+          "startSeconds": 143,
+          "endSeconds": 148,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP3",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q04",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
+            "sourceIds": [
+              "Q04"
+            ],
+            "result": "Die Größenordnung passt zur gesamten PV-Nennleistung des Landes. CBS zählt darin auch nicht auf Dächern installierte Anlagen; 30 GW Dachleistung ist damit nicht belegt. Zudem ist GWp eine Nennleistung."
+          }
+        ]
+      },
+      "shortReason": "Rund 30 GW passen zur gesamten PV-Nennleistung des Landes; sie stehen nicht sämtlich auf Dächern.",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Robin Berg",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "Die Redaktion setzt den O-Ton zur Erklärung und Stützung des beschriebenen Speicherkonzepts ein und widerspricht ihm nicht.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage; weder bloßes Beiwerk noch alleinige Hauptthese.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "02: 23–02: 28 ordnet die installierte Solarleistung die niederländische Ausgangslage ein. Normale Bedeutung ohne Faktoraufschlag wegen einer möglichen Begriffsverkürzung. Grundlage: Originalcaptions und Beschreibung am 22.11.2026 eigenständig gelesen; vorab Gewichtsvorschläge formuliert. Kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mbjI4fryvVU-A0008",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Offen",
+      "verdict": null,
+      "description": "In Spitzenzeiten wird nur etwa die Hälfte dieser 30 Gigawatt benötigt.",
+      "reason": "Ein datierter Lastgang und eine eindeutige Definition der gemeinten Spitzenzeit fehlen. Installierte DC-Nennleistung darf nicht ohne Umrechnung mit gleichzeitigem AC-Verbrauch verglichen werden.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "occurrences": [
+        {
+          "startSeconds": 145,
+          "endSeconds": 150,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP3",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q04",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        }
+      ],
+      "research": {
+        "confidence": "Offen",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
+            "sourceIds": [
+              "Q04"
+            ],
+            "result": "Ein datierter Lastgang und eine eindeutige Definition der gemeinten Spitzenzeit fehlen. Installierte DC-Nennleistung darf nicht ohne Umrechnung mit gleichzeitigem AC-Verbrauch verglichen werden."
+          }
+        ]
+      },
+      "openQuestions": [
+        "Ein datierter Lastgang und eine eindeutige Definition der gemeinten Spitzenzeit fehlen. Installierte DC-Nennleistung darf nicht ohne Umrechnung mit gleichzeitigem AC-Verbrauch verglichen werden."
+      ],
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Robin Berg",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "Die Redaktion setzt den O-Ton zur Erklärung und Stützung des beschriebenen Speicherkonzepts ein und widerspricht ihm nicht.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage; weder bloßes Beiwerk noch alleinige Hauptthese.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "02: 25–02: 30 soll der Bedarfsvergleich Überschüsse verdeutlichen. Normale eigenständige Vergleichszahl im Kontext, nicht die technische Leitthese des Pilotbetriebs. Grundlage: Originalcaptions und Beschreibung am 22.11.2026 eigenständig gelesen; vorab Gewichtsvorschläge formuliert. Kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mbjI4fryvVU-A0009",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Ohne Sonnenschein steht die direkte Solarstromerzeugung nicht zur Verfügung.",
+      "reason": "Die Passage behandelt ausdrücklich Solarproduktion und anschließenden Batteriebedarf. In diesem Zusammenhang meint die verkürzte Formulierung die Solarversorgung; dem Sprecher wird kein behaupteter landesweiter Stromausfall unterstellt. Photovoltaik ohne Licht liefert keinen nutzbaren Ertrag; Speicher können die zeitliche Lücke begrenzt überbrücken.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "occurrences": [
+        {
+          "startSeconds": 148,
+          "endSeconds": 158,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP3",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q04",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q06",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
+            "sourceIds": [
+              "Q04",
+              "Q06"
+            ],
+            "result": "Im Solar-Kontext ist fehlende PV-Erzeugung ohne Licht richtig. Daraus folgt kein Ausfall der gesamten niederländischen Stromversorgung; die Formulierung verkürzt Solarstrom und Stromversorgung insgesamt."
+          }
+        ]
+      },
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Robin Berg",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "Die Redaktion setzt den O-Ton zur Erklärung und Stützung des beschriebenen Speicherkonzepts ein und widerspricht ihm nicht.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage; weder bloßes Beiwerk noch alleinige Hauptthese.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "02: 28–02: 38 begründet der Solar-Kontext die zeitliche Speicherung. Normale Stufe für die Überleitung; die Bedeutung setzt keinen behaupteten Ausfall der gesamten Landesversorgung voraus. Grundlage: Originalcaptions und Beschreibung am 22.11.2026 eigenständig gelesen; vorab Gewichtsvorschläge formuliert. Kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mbjI4fryvVU-A0010",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Fahrzeugbatterien können Solarstrom kurzfristig zwischenspeichern.",
+      "reason": "Geeignete Fahrzeuge und Ladeausrüstung können Energie zeitlich verschieben. Die öffentliche Fallstudie belegt tatsächliche Rückspeisung im Utrechter Betrieb; Fahrzeugverfügbarkeit und Ladezustand begrenzen sie.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "occurrences": [
+        {
+          "startSeconds": 154,
+          "endSeconds": 165,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP3",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q06",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q08",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
+            "sourceIds": [
+              "Q06",
+              "Q08"
+            ],
+            "result": "Geeignete Fahrzeuge und Ladeausrüstung können Energie zeitlich verschieben. Die öffentliche Fallstudie belegt tatsächliche Rückspeisung im Utrechter Betrieb; Fahrzeugverfügbarkeit und Ladezustand begrenzen sie."
+          }
+        ]
+      },
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Robin Berg",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "Die Redaktion setzt den O-Ton zur Erklärung und Stützung des beschriebenen Speicherkonzepts ein und widerspricht ihm nicht.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende technische Erklärung, zentrale Einschränkung oder hervorgehobene Vergleichszahl des Abschnitts.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "02: 34–02: 45 benennt die kurzfristige Speicherung in vorhandenen Fahrzeugbatterien den Lösungsansatz. Erhöhte Bedeutung; der öffentliche V2G-Betrieb folgt als eigener Hauptbeleg. Grundlage: Originalcaptions und Beschreibung am 22.11.2026 eigenständig gelesen; vorab Gewichtsvorschläge formuliert. Kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mbjI4fryvVU-A0011",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Utrecht beansprucht eine Pionierrolle für groß angelegtes bidirektionales Carsharing.",
+      "reason": "Der im O-Ton nicht geografisch präzisierte Pionieranspruch wird von den Projektpartnern für das konkrete öffentliche AC-V2G-Carsharing-System in Europa erhoben. Das bestätigt den eng umrissenen Projektanspruch, nicht einen unabhängigen Weltvergleich aller V2G-Formate.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "occurrences": [
+        {
+          "startSeconds": 180,
+          "endSeconds": 188,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP3",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q02",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
+            "sourceIds": [
+              "Q02"
+            ],
+            "result": "Die Projektpartner benennen den ersten groß angelegten öffentlichen AC-V2G-Carsharing-Betrieb Europas. Der Pionieranspruch betrifft dieses konkrete System, nicht jede frühere V2G-Erprobung weltweit."
+          }
+        ]
+      },
+      "shortReason": "Die belegte Pionierrolle betrifft das konkrete öffentliche AC-V2G-Carsharing-System in Europa.",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Robin Berg",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "Die Redaktion setzt den O-Ton zur Erklärung und Stützung des beschriebenen Speicherkonzepts ein und widerspricht ihm nicht.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage; weder bloßes Beiwerk noch alleinige Hauptthese.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "03: 01–03: 08 bezeichnet der Pionieranspruch die örtliche Anwendung. Normale Kontextaussage neben der zentralen technischen Funktion; seine sachliche Reichweite ist separat zu prüfen. Grundlage: Originalcaptions und Beschreibung am 22.11.2026 eigenständig gelesen; vorab Gewichtsvorschläge formuliert. Kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mbjI4fryvVU-A0012",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Der Ausbau ging von 50 Autos auf 170; am Ende sollen es 500 sein.",
+      "reason": "Betriebsstart mit 50 und Ziel 500 sind dokumentiert. Die Gemeinde nennt bereits Ende 2025 eine Skalierung auf 170 und 500 als Ziel 2026. Der Bericht spricht bei 500 erkennbar über ein Ziel, nicht einen erreichten Bestand.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "occurrences": [
+        {
+          "startSeconds": 183,
+          "endSeconds": 189,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP3",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q02",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q03",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
+            "sourceIds": [
+              "Q02",
+              "Q03"
+            ],
+            "result": "Betriebsstart mit 50 und Ziel 500 sind dokumentiert. Die Gemeinde nennt bereits Ende 2025 eine Skalierung auf 170 und 500 als Ziel 2026. Der Bericht spricht bei 500 erkennbar über ein Ziel, nicht einen erreichten Bestand."
+          }
+        ]
+      },
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Robin Berg",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "Die Redaktion setzt den O-Ton zur Erklärung und Stützung des beschriebenen Speicherkonzepts ein und widerspricht ihm nicht.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende technische Erklärung, zentrale Einschränkung oder hervorgehobene Vergleichszahl des Abschnitts.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "03: 03–03: 09 zeigen 50/170/500 die Größenordnung und das Ausbauziel. Hervorgehobene Stützzahlen für die größere Demonstration, daher erhöhte Bedeutung. Grundlage: Originalcaptions und Beschreibung am 22.11.2026 eigenständig gelesen; vorab Gewichtsvorschläge formuliert. Kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mbjI4fryvVU-A0013",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Die geparkten Sharingautos speisen gespeicherten Strom in das öffentliche Netz zurück.",
+      "reason": "Der laufende Utrechter V2G-Betrieb und tatsächliche Entladungen sind sowohl von Projektpartnern als auch der Gemeinde und TNO beschrieben. Das bestätigt den technischen Kern, nicht unbegrenzte Verfügbarkeit.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "occurrences": [
+        {
+          "startSeconds": 193,
+          "endSeconds": 211,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q02",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q03",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q08",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
+            "sourceIds": [
+              "Q02",
+              "Q03",
+              "Q08"
+            ],
+            "result": "Der laufende Utrechter V2G-Betrieb und tatsächliche Entladungen sind sowohl von Projektpartnern als auch der Gemeinde und TNO beschrieben. Das bestätigt den technischen Kern, nicht unbegrenzte Verfügbarkeit."
+          }
+        ]
+      },
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Zentrale technische Leitthese beziehungsweise Hauptbeleg des zugehörigen Argumentationsabschnitts.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "03: 13–03: 31 erklärt der Kommentar die öffentliche Rückspeisung und spätere Nutzung. Das ist die zentrale technische Leitthese und rechtfertigt Stufe 2. Grundlage: Originalcaptions und Beschreibung am 22.11.2026 eigenständig gelesen; vorab Gewichtsvorschläge formuliert. Kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mbjI4fryvVU-A0014",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "description": "Eine Autobatterie kann einen Häuserblock mehrere Tage mit Strom versorgen.",
+      "reason": "Ohne Zahl der Haushalte, Lastprofil, Batteriemodell, Mindestreserve und Entladeleistung ist diese Reichweite nicht reproduzierbar. Bei angenommenen zehn Haushalten mit je 10 kWh pro Tag würden 52 kWh selbst idealisiert nur 0,52 Tage reichen; bei einem einzelnen sparsamen Haushalt kann es deutlich länger sein. Das Rechenbeispiel ist ausdrücklich unsere Annahme, keine gemessene Utrechter Blocklast. Hersteller- und DOE-Gegenprüfung liefern keine passende Blockdefinition.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "occurrences": [
+        {
+          "startSeconds": 214,
+          "endSeconds": 227,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP3",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q06",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q07",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
+            "sourceIds": [
+              "Q06",
+              "Q07"
+            ],
+            "result": "Ohne Zahl der Haushalte, Lastprofil, Batteriemodell, Mindestreserve und Entladeleistung ist diese Reichweite nicht reproduzierbar. Bei angenommenen zehn Haushalten mit je 10 kWh pro Tag würden 52 kWh selbst idealisiert nur 0,52 Tage reichen; bei einem einzelnen sparsamen Haushalt kann es deutlich länger sein. Das Rechenbeispiel ist ausdrücklich unsere Annahme, keine gemessene Utrechter Blocklast. Hersteller- und DOE-Gegenprüfung liefern keine passende Blockdefinition."
+          }
+        ]
+      },
+      "shortReason": "Die Versorgungsdauer hängt von Haushaltszahl, Verbrauch, Reserve und nutzbarer Akkukapazität ab.",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Robin Berg",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "Die Redaktion setzt den O-Ton zur Erklärung und Stützung des beschriebenen Speicherkonzepts ein und widerspricht ihm nicht.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22"
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende technische Erklärung, zentrale Einschränkung oder hervorgehobene Vergleichszahl des Abschnitts.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "03: 34–03: 47 macht die mehrtägige Blockversorgung den behaupteten Nutzen einer Autobatterie anschaulich. Die hervorgehobene Größenordnung stützt das Speicherargument und wird erhöht gewichtet. Grundlage: Originalcaptions und Beschreibung am 22.11.2026 eigenständig gelesen; vorab Gewichtsvorschläge formuliert. Kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mbjI4fryvVU-A0015",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Mit einer solchen Batterieladung lassen sich etwa 400 bis 500 Kilometer fahren.",
+      "reason": "Die relevante 52-kWh-Renault 5-Variante wurde vor dem Video mit bis 410 km WLTP angeboten.400 km passen zur Normgrößenordnung; 500 km sind mit dieser Modellangabe nicht nachgewiesen. Es wird dem Sprecher keine von ihm nicht gegebene Alltagsgarantie unterstellt.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "occurrences": [
+        {
+          "startSeconds": 219,
+          "endSeconds": 227,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP3",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q07",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
+            "sourceIds": [
+              "Q07"
+            ],
+            "result": "Die relevante 52-kWh-Renault 5-Variante wurde vor dem Video mit bis 410 km WLTP angeboten.400 km passen zur Normgrößenordnung; 500 km und eine Garantie im Alltagsbetrieb sind damit nicht belegt."
+          }
+        ]
+      },
+      "shortReason": "Bis 410 km WLTP sind für eine passende Variante dokumentiert; 500 km Alltag sind damit nicht nachgewiesen.",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Robin Berg",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "Die Redaktion setzt den O-Ton zur Erklärung und Stützung des beschriebenen Speicherkonzepts ein und widerspricht ihm nicht.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage; weder bloßes Beiwerk noch alleinige Hauptthese.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "03: 40–03: 47 ist die Fahrreichweite die alternative Nutzung derselben Batterie. Normale Bedeutung als Vergleich; der zentrale stationäre Nutzen steht bereits erhöht in A 0014. Grundlage: Originalcaptions und Beschreibung am 22.11.2026 eigenständig gelesen; vorab Gewichtsvorschläge formuliert. Kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mbjI4fryvVU-A0016",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Geeignete Fahrzeuge, Ladestationen und gemeinsame Regeln sind noch Ausbauhürden.",
+      "reason": "Der DOE-Fachtext fordert kompatible Hardware; die Projektpartner fordern einen unterstützenden Regulierungsrahmen. Der Beitrag benennt damit eine zentrale Einschränkung seines eigenen Beispiels.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "occurrences": [
+        {
+          "startSeconds": 229,
+          "endSeconds": 237,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q02",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q06",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
+            "sourceIds": [
+              "Q02",
+              "Q06"
+            ],
+            "result": "Der DOE-Fachtext fordert kompatible Hardware; die Projektpartner fordern einen unterstützenden Regulierungsrahmen. Der Beitrag benennt damit eine zentrale Einschränkung seines eigenen Beispiels."
+          }
+        ]
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende technische Erklärung, zentrale Einschränkung oder hervorgehobene Vergleichszahl des Abschnitts.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "03: 49–03: 57 nennt Hardware- und Regelbedarf als zentrale Einschränkung. Erhöhte Bedeutung berücksichtigt den Vorbehalt ebenso wie hervorgehobene Nutzenangaben. Grundlage: Originalcaptions und Beschreibung am 22.11.2026 eigenständig gelesen; vorab Gewichtsvorschläge formuliert. Kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mbjI4fryvVU-A0017",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Der Pilot zeigt, dass bidirektionales Carsharing auch in größerem Umfang praktisch funktioniert.",
+      "reason": "Die Utrechter Gemeinde und TNO dokumentieren einen tatsächlich betriebenen Mehrfahrzeug-Pilot mit Rückspeisung und Lastreduktion. Das belegt diesen Demonstrationsmaßstab; ein universeller Nachweis kompletter Stadtversorgung wird daraus nicht abgeleitet.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "occurrences": [
+        {
+          "startSeconds": 247,
+          "endSeconds": 255,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q03",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q08",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
+            "sourceIds": [
+              "Q03",
+              "Q08"
+            ],
+            "result": "Die Utrechter Gemeinde und TNO dokumentieren einen tatsächlich betriebenen Mehrfahrzeug-Pilot mit Rückspeisung und Lastreduktion. Das belegt diesen Demonstrationsmaßstab; ein universeller Nachweis kompletter Stadtversorgung wird daraus nicht abgeleitet."
+          }
+        ]
+      },
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Zentrale technische Leitthese beziehungsweise Hauptbeleg des zugehörigen Argumentationsabschnitts.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "04: 07–04: 15 zieht der Beitrag den Hauptschluss aus der Demonstration: praktische Funktion in größerem Umfang. Stufe 2 entspricht diesem Rang neben der technischen Leitthese A 0013. Grundlage: Originalcaptions und Beschreibung am 22.11.2026 eigenständig gelesen; vorab Gewichtsvorschläge formuliert. Kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mbjI4fryvVU-A0018",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Nicht überprüfbar",
+      "verdict": null,
+      "description": "Die Nutzerin bemerkt im Alltag keinen Unterschied und kann das Auto wie gewohnt nutzen.",
+      "reason": "Es handelt sich um eine individuelle Nutzungserfahrung. Keine öffentlichen Buchungs- oder Störungsdaten ermöglichen eine unabhängige Prüfung gerade dieser Person; ihre Erfahrung wird nicht als falsch bewertet.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "occurrences": [
+        {
+          "startSeconds": 257,
+          "endSeconds": 274,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP4",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
+            "sourceIds": [],
+            "result": "Es handelt sich um eine individuelle Nutzungserfahrung. Keine öffentlichen Buchungs- oder Störungsdaten ermöglichen eine unabhängige Prüfung gerade dieser Person; ihre Erfahrung wird nicht als falsch bewertet."
+          }
+        ]
+      },
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Doris Abich",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "Die Redaktion setzt den O-Ton zur Erklärung und Stützung des beschriebenen Speicherkonzepts ein und widerspricht ihm nicht.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22"
+      }
+    },
+    {
+      "id": "mbjI4fryvVU-A0019",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Offen",
+      "verdict": null,
+      "description": "Das Reservierungssystem stellt zuverlässig ausreichend geladene Autos bereit.",
+      "reason": "Das technische Betriebsmodell erklärt Reservierung und Ladeplanung, liefert aber keine öffentlich gelesene Verfügbarkeitsquote oder Ausfallstatistik. Eine allgemeine Zuverlässigkeitsgarantie bleibt ungeprüft.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "occurrences": [
+        {
+          "startSeconds": 277,
+          "endSeconds": 284,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q02",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        }
+      ],
+      "research": {
+        "confidence": "Offen",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
+            "sourceIds": [
+              "Q02"
+            ],
+            "result": "Das technische Betriebsmodell erklärt Reservierung und Ladeplanung, liefert aber keine öffentlich gelesene Verfügbarkeitsquote oder Ausfallstatistik. Eine allgemeine Zuverlässigkeitsgarantie bleibt ungeprüft."
+          }
+        ]
+      },
+      "openQuestions": [
+        "Das technische Betriebsmodell erklärt Reservierung und Ladeplanung, liefert aber keine öffentlich gelesene Verfügbarkeitsquote oder Ausfallstatistik. Eine allgemeine Zuverlässigkeitsgarantie bleibt ungeprüft."
+      ],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende technische Erklärung, zentrale Einschränkung oder hervorgehobene Vergleichszahl des Abschnitts.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "04: 37–04: 44 erklärt die Zusicherung, wie Rückspeisung und Fahrverfügbarkeit vereinbar sein sollen. Tragender praktischer Vorbehalt mit erhöhter Bedeutung. Grundlage: Originalcaptions und Beschreibung am 22.11.2026 eigenständig gelesen; vorab Gewichtsvorschläge formuliert. Kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mbjI4fryvVU-A0020",
+      "chapter": 1,
+      "kind": "Meinung",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Das Konzept soll Geld sparen und örtlichen Solarstrom besser nutzen.",
+      "reason": "Die Passage benennt ein Ziel. Der technische Nutzen ist nachvollziehbar; eine bereits gemessene Nettoersparnis sämtlicher Bürger wird nicht behauptet oder von uns bestätigt.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "occurrences": [
+        {
+          "startSeconds": 286,
+          "endSeconds": 303,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP1",
+          "role": "Wertung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q06",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
+            "sourceIds": [
+              "Q06"
+            ],
+            "result": "Die Passage benennt ein Ziel. Der technische Nutzen ist nachvollziehbar; eine bereits gemessene Nettoersparnis sämtlicher Bürger wird nicht behauptet oder von uns bestätigt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mbjI4fryvVU-A0021",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Offen",
+      "verdict": null,
+      "description": "Auch an trüben Tagen liefern die Solarmodule genug Energie für den Hof.",
+      "reason": "Eine Erzeugungs- und Verbrauchszeitreihe für die konkret gezeigten trüben Tage fehlt. Der gleichzeitig benannte Speicher und die Biogasversorgung dürfen nicht stillschweigend der direkten PV-Erzeugung zugerechnet werden.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "occurrences": [
+        {
+          "startSeconds": 10,
+          "endSeconds": 17,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q01",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        }
+      ],
+      "research": {
+        "confidence": "Offen",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
+            "sourceIds": [
+              "Q01"
+            ],
+            "result": "Eine Erzeugungs- und Verbrauchszeitreihe für die konkret gezeigten trüben Tage fehlt. Der gleichzeitig benannte Speicher und die Biogasversorgung dürfen nicht stillschweigend der direkten PV-Erzeugung zugerechnet werden."
+          }
+        ]
+      },
+      "openQuestions": [
+        "Eine Erzeugungs- und Verbrauchszeitreihe für die konkret gezeigten trüben Tage fehlt. Der gleichzeitig benannte Speicher und die Biogasversorgung dürfen nicht stillschweigend der direkten PV-Erzeugung zugerechnet werden."
+      ],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Erzeugungs-/Bedarfsbehauptung im Hofbeispiel.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "00: 10–00: 17 behauptet die Einleitung einen Nutzen bei trübem Wetter. Das ist eine eigenständige normale Leistungsangabe zum Hofbeispiel, keine eigenständige Hauptthese über das gesamte V2G-System. Grundlage: Originalcaptions und Beschreibung am 22.11.2026 eigenständig gelesen; vorab Gewichtsvorschläge formuliert. Kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mbjI4fryvVU-A0022",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Offen",
+      "verdict": null,
+      "description": "Auf dem Hof wird ein kleiner elektrischer Lader zum Füttern genutzt.",
+      "reason": "Am 22.11.2026 wurde das Originalbild bei 00: 20 direkt betrachtet: Ein kleiner Lader füttert die Kühe. Der Antrieb ist im betrachteten Ausschnitt nicht lesbar gekennzeichnet; die elektrische Ausführung bleibt offen.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "occurrences": [
+        {
+          "startSeconds": 17,
+          "endSeconds": 23,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q01",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        }
+      ],
+      "research": {
+        "confidence": "Offen",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
+            "sourceIds": [
+              "Q01"
+            ],
+            "result": "Diese beobachtbare Geräteangabe ist im Captiontext enthalten; Antriebskennzeichnung und konkrete Szene sind noch direkt zu prüfen."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Gezielte direkte Bildprüfung im YouTube-Player, kein Mediendownload.",
+            "sourceIds": [
+              "V001"
+            ],
+            "result": "Am 22.11.2026 wurde das Originalbild bei 00: 20 direkt betrachtet: Ein kleiner Lader füttert die Kühe. Der Antrieb ist im betrachteten Ausschnitt nicht lesbar gekennzeichnet; die elektrische Ausführung bleibt offen."
+          }
+        ]
+      },
+      "openQuestions": [
+        "Am 22.11.2026 wurde das Originalbild bei 00:20 direkt betrachtet: Ein kleiner Lader füttert die Kühe. Der Antrieb ist im betrachteten Ausschnitt nicht lesbar gekennzeichnet; die elektrische Ausführung bleibt offen."
+      ],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Beobachtbarer Gerätedetail als Beispiel der Hoftechnik, ohne tragende Funktion für den Speicherschluss.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "00: 17–00: 23 veranschaulicht der elektrische Lader die örtlichen Stromverbraucher. Konkretes Gerätedetail am Rand der Speicherargumentation, daher 0,5. Grundlage: Originalcaptions und Beschreibung am 22.11.2026 eigenständig gelesen; vorab Gewichtsvorschläge formuliert. Kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mbjI4fryvVU-A0023",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Offen",
+      "verdict": null,
+      "description": "Auf dem Hof werden Melkroboter eingesetzt.",
+      "reason": "Am 22.11.2026 wurde das Originalbild bei 00: 35 direkt betrachtet: Die Melktechnik am Tier ist sichtbar und mit der Captionbeschreibung vereinbar. Die Automatisierung lässt sich aus diesem einzelnen Bild nicht unabhängig bestimmen; eine vollständige Szenenprüfung bleibt offen.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "occurrences": [
+        {
+          "startSeconds": 24,
+          "endSeconds": 41,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q01",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        }
+      ],
+      "research": {
+        "confidence": "Offen",
+        "rounds": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
+            "sourceIds": [
+              "Q01"
+            ],
+            "result": "Die Geräteangabe stammt aus dem redaktionellen Kommentar; die zugehörigen Maschinenbilder sind noch gezielt direkt abzugleichen."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Gezielte direkte Bildprüfung im YouTube-Player, kein Mediendownload.",
+            "sourceIds": [
+              "V001"
+            ],
+            "result": "Am 22.11.2026 wurde das Originalbild bei 00: 35 direkt betrachtet: Die Melktechnik am Tier ist sichtbar und mit der Captionbeschreibung vereinbar. Die Automatisierung lässt sich aus diesem einzelnen Bild nicht unabhängig bestimmen; eine vollständige Szenenprüfung bleibt offen."
+          }
+        ]
+      },
+      "openQuestions": [
+        "Am 22.11.2026 wurde das Originalbild bei 00:35 direkt betrachtet: Die Melktechnik am Tier ist sichtbar und mit der Captionbeschreibung vereinbar. Die Automatisierung lässt sich aus diesem einzelnen Bild nicht unabhängig bestimmen; eine vollständige Szenenprüfung bleibt offen."
+      ],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Beobachtbarer Gerätedetail als Beispiel der Hoftechnik, ohne tragende Funktion für den Speicherschluss.",
+        "weightStatus": "Gegengeprüft",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22",
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "00: 24–00: 41 veranschaulichen Melkroboter die örtlichen Verbraucher. Dasselbe geringe Gewicht wie beim Lader berücksichtigt ihre Nebenrolle gegenüber Speicher und Lastverschiebung. Grundlage: Originalcaptions und Beschreibung am 22.11.2026 eigenständig gelesen; vorab Gewichtsvorschläge formuliert. Kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          }
+        ]
+      }
+    }
+  ]
+}

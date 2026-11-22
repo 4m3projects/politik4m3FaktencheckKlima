@@ -155,10 +155,28 @@
       "factIndex": {
         "weight": 3,
         "weightReason": "Titel und Kern des Videos: Weidels Satz zum Abriss aller Windkraftwerke.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "00:04–00:21 steht die wiedergegebene Abrissforderung am Anfang und im Titel. Sie ist der Anlass für den ganzen Eigentumsvergleich; sehr hohe Bedeutung unabhängig von ihrer getrennten Sprecherzurechnung. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -203,10 +221,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Abweichend",
+            "proposedWeight": 1.5,
+            "reason": "00:22–00:25 bildet die Position der Linken die erste Hälfte des unmittelbar folgenden politischen Gegensatzes A03. Der spätere Doppelmoralvorwurf setzt beide Positionen voraus; beide verdienen dieselbe erhöhte Stufe. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Begründeter Dissens; eingetragener Faktor bleibt unverändert."
+          }
+        ]
       }
     },
     {
@@ -251,10 +288,28 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Tragender Gegensatz der Argumentation (AfD gegen Enteignung bei der Linken).",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "00:25–00:27 ist die AfD-Ablehnung die zweite Hälfte des politischen Gegensatzes. Sie trägt die folgende Eigentumskritik und ist deshalb erhöht zu gewichten. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -317,10 +372,28 @@
       "factIndex": {
         "weight": 2,
         "weightReason": "Hauptthese: Bei Windkraft wolle die AfD plötzlich privates Eigentum beseitigen.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "00:28–00:35 und 00:43–00:50 formuliert der Liedtext seinen zentralen sachlichen Eigentumsvorwurf. Die Wiederaufnahme gehört zur selben Aussage und wird nicht als zweite Behauptung gezählt. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -378,10 +451,28 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Betonende Wiederholung ohne eigenständige Sachaussage.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "00:37–00:42 sowie 01:12–01:15 ist die Wiederholung vor allem Refrain und Zuspitzung. Der begrenzte eigenständige Gehalt zur Häufigkeit der Äußerung rechtfertigt keine hohe zusätzliche Gewichtung neben A01. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -438,10 +529,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Abweichend",
+            "proposedWeight": 1.5,
+            "reason": "00:53–00:58 ist das private Eigentum die tatsächliche Voraussetzung des unmittelbar folgenden Eingriffsarguments A07. Für die Titelthese ist diese Voraussetzung ebenso tragend wie der rechtliche Schluss; Vorschlag 1,5 statt 1,0. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Begründeter Dissens; eingetragener Faktor bleibt unverändert."
+          }
+        ]
       }
     },
     {
@@ -486,10 +596,28 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Rechtliche Begründung der These (staatlich erzwungener Abriss greift ins Eigentum ein).",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "00:58–01:05 liefert der Eingriffssatz die rechtliche Begründung des vorher formulierten Eigentumsvorwurfs. Erhöhte Bedeutung als Argument, ohne die Hauptthese A04 doppelt auf Stufe 2 zu setzen. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "videoId": "-rBUCkR4HuA",
+  "role": "original",
+  "channel": "Die Wattstunde - powered by kleines kraftwerk",
+  "title": "#13 - „Ich habe keine Panik vor Atom.“ - Ranga Yogeshwar",
+  "videoUrl": "https://www.youtube.com/watch?v=-rBUCkR4HuA",
+  "publishedAt": "2026-11-08",
+  "durationSeconds": 4191,
+  "workStatus": "Teilbestand geprüft",
+  "format": "video",
+  "identification": {
+    "basis": "ID, Titel, Kanal, Veröffentlichungsdatum und Laufzeit am 22.11.2026 mit dem vorgeschriebenen Import-YouTubeTranscript.ps1 und yt-dlp aus Originalmetadaten abgerufen; deutsche Captions vollständig gelesen. Nur Untertitel, Metadaten, Beschreibung, keine Medien heruntergeladen.",
+    "certainty": "Belegt",
+    "checkedOn": "2026-11-22"
+  }
+}

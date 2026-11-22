@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "videoId": "mbjI4fryvVU",
+  "basis": "Redaktionelle Zuordnung aus dem vollständig gelesenen Captioninhalt und den einzeln erfassten Aussagen; kein Schluss allein aus dem Titel.",
+  "topics": [
+    {
+      "topic": "energie",
+      "relevance": "Behandelt",
+      "basis": "Mehrere eigenständige Aussagen behandeln dieses Sachthema; die konkrete Zuordnung steht bei claims.",
+      "segments": []
+    },
+    {
+      "topic": "energie/versorgungssicherheit",
+      "relevance": "Behandelt",
+      "basis": "Mehrere eigenständige Aussagen behandeln dieses Sachthema; die konkrete Zuordnung steht bei claims.",
+      "segments": []
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "mbjI4fryvVU-A0001",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "mbjI4fryvVU-A0002",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "mbjI4fryvVU-A0003",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "mbjI4fryvVU-A0004",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "mbjI4fryvVU-A0005",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "mbjI4fryvVU-A0006",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "mbjI4fryvVU-A0007",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "mbjI4fryvVU-A0008",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "mbjI4fryvVU-A0009",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "mbjI4fryvVU-A0010",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "mbjI4fryvVU-A0011",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "mbjI4fryvVU-A0012",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "mbjI4fryvVU-A0013",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "mbjI4fryvVU-A0014",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "mbjI4fryvVU-A0015",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "mbjI4fryvVU-A0016",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "mbjI4fryvVU-A0017",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "mbjI4fryvVU-A0018",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "mbjI4fryvVU-A0019",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "mbjI4fryvVU-A0020",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "mbjI4fryvVU-A0021",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "mbjI4fryvVU-A0022",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "mbjI4fryvVU-A0023",
+      "topics": [
+        "energie"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "agent": "Codex",
+      "change": "Erstzuordnung nach vollständiger Captionlektüre. Vorhandene IDs verwendet; neue und bestehende Videos auf passende Themen abgeglichen."
+    },
+    {
+      "date": "2026-11-22",
+      "agent": "Codex – Gewichtskontrolle",
+      "change": "Themen und23erfasste Aussagen nach vollständiger Originalcaptionlektüre für die zweite Gewichtskontrolle geprüft: Energie sowie Versorgungssicherheit passen; keine zusätzliche Themen-ID. Die gemeldeten Inventardetails zu trübem Wetter, Lader und Melkrobotern sind als offene Aussagen ergänzt."
+    },
+    {
+      "date": "2026-11-22",
+      "agent": "Codex",
+      "change": "Themen nach visuellen Stichproben erneut geprüft; keine neue Zuordnung und keine Änderung der öffentlichen Sachthemen."
+    }
+  ]
+}
