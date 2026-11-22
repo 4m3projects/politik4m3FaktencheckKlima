@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "note": "Sichtbare Videoeinreichungen ohne verifizierte Videometadaten oder Einzelprüfung. Keine Faktenindex- oder Ampelwertung. Beim Anlegen eines gültigen faktenchecks/<ID> Eintrags verschwindet die Vormerkung automatisch von der Startseite.",
+  "videos": [
+    {
+      "id": "-rBUCkR4HuA",
+      "videoUrl": "https://www.youtube.com/watch?v=-rBUCkR4HuA",
+      "title": "Eingereichtes YouTube-Video -rBUCkR4HuA",
+      "titleStatus": "Arbeitstitel – Originaltitel und Kanal noch nicht unabhängig verifiziert",
+      "submittedOn": "2026-11-22",
+      "status": "Eingereicht – Inhaltsprüfung ausstehend",
+      "statusNote": "Die Video-URL wurde vom Auftraggeber eingereicht. Titel, Kanal, Laufzeit und gesprochene Aussagen konnten noch nicht unabhängig abgerufen werden. Es gibt daher keine Aussagenbewertung und keine Faktenampel.",
+      "issueUrl": "https://github.com/4m3projects/politik4m3FaktencheckKlima/issues/41"
+    }
+  ]
+}
