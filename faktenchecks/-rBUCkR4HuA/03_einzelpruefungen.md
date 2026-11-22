@@ -480,7 +480,7 @@ Deutschland sei das einzige Land ohne allgemeines Autobahnlimit.
 
 Deutsches Fehlen eines generellen Limits ist eindeutig; unbegrenzter Welt-Superlativ braucht einen weltweiten Rechtsvergleich.
 
-Quellen: V001.
+Quellen: V001, Q54.
 
 ## -rBUCkR4HuA-A0049
 
