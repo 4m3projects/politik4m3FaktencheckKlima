@@ -1,6 +1,6 @@
 # Einzelprüfungen
 
-Prüfstand 22.11.2026. Teilbestand geprüft; vollständiges Captioninventar, keine vollständige audiovisuelle Prüfung. Maßgeblich sind die strukturierten Aussagen.
+Prüfstand 22.11.2026. Erweiterter Teilbestand geprüft; keine vollständige audiovisuelle Prüfung. Maßgeblich sind die strukturierten Aussagen.
 
 ## -rBUCkR4HuA-A0001
 
@@ -64,23 +64,23 @@ Quellen: V001.
 
 ## -rBUCkR4HuA-A0007
 
-**Offen · 7:59–10:10**
+**Abgeschlossen · Teilweise belegt · 7:59–10:10**
 
 Aufmerksamkeitsökonomie verschärfe die gesellschaftliche Polarisierung.
 
-Passend abgegrenzte empirische Studien zum behaupteten kausalen Medieneffekt noch zu prüfen.
+Experimentelle Forschung stützt, dass die Auswahl parteifeindlicher Inhalte auf X affektive Polarisierung beeinflussen kann. Ein YouTube-Experiment findet dagegen begrenzte kurzfristige Effekte auf politische Einstellungen. Der Mechanismus ist plausibel und für bestimmte Kontexte kausal gestützt; ein gleicher gesamtgesellschaftlicher Effekt sämtlicher Medien und Geschäftsmodelle ist damit nicht nachgewiesen.
 
-Quellen: V001.
+Quellen: V001, Q33, Q34.
 
 ## -rBUCkR4HuA-A0008
 
-**Offen · 10:38–10:58**
+**Abgeschlossen · Teilweise belegt · 10:38–10:58**
 
 Zu Beginn seiner Fernseharbeit gab es drei Programme, kein Privatfernsehen und kein Internet.
 
-Vita: journalistischer Beginn 1983, WDR 1987. Gemeinte Startphase und Begriffe noch historisch abzugleichen.
+Der Rückblick auf eine deutlich kleinere Fernsehlandschaft ist im Kern zutreffend. Die Vita nennt journalistische Arbeit ab 1983 und den WDR ab 1987; private deutsche Sender starteten bereits 1984. Technische Computernetze existierten schon vor dem späteren Massenmedium Web. Ohne genaue Datierung seines ersten Fernsehbeitrags lassen sich die drei Teilangaben nicht pauschal auf den WDR-Eintritt übertragen.
 
-Quellen: V001, Q01.
+Quellen: V001, Q01, Q35, Q36.
 
 ## -rBUCkR4HuA-A0009
 
@@ -124,13 +124,13 @@ Quellen: V001, Q32.
 
 ## -rBUCkR4HuA-A0013
 
-**Offen · 18:38–18:49**
+**Abgeschlossen · Widerlegt · 18:38–18:49**
 
 Eva Umlauf sei die jüngste Auschwitz-Überlebende.
 
-Die Gedenkstätte belegt ihre frühe Kindheit, aber keinen Rekord aller Überlebenden. Reichweite und jüngere Überlebende noch prüfen.
+Umlauf gehört zu den jüngsten Auschwitz-Überlebenden, wie ihr eigenes Komitee formuliert. Der unbeschränkte Superlativ im Captionkontext trifft jedoch nicht zu: Die Gedenkstätte dokumentiert die 1943 in Auschwitz geborene und überlebende Maria Romik/Podstawna; Umlauf wurde 1942 geboren. Eine mögliche jüngste Teilnehmerin einer bestimmten Gedenkfeier wäre eine andere, hier nicht genannte Einschränkung.
 
-Quellen: V001, Q19.
+Quellen: V001, Q19, Q37, Q38.
 
 ## -rBUCkR4HuA-A0014
 
@@ -174,13 +174,13 @@ Quellen: V001.
 
 ## -rBUCkR4HuA-A0018
 
-**Offen · 22:24–22:38**
+**Abgeschlossen · Belegt · 22:24–22:38**
 
 Europa profitierte über Jahrhunderte von kolonial angeeigneten Ressourcen und Menschen.
 
-Historischen Sachkern mit passenden Zeiträumen und Originalquellen noch eigenständig belegen.
+Der historische Sachkern ist belegt: Die Dokumentation der Wissenschaftlichen Dienste beschreibt den seit dem 16. Jahrhundert betriebenen transatlantischen Menschenhandel europäischer Mächte. Das Deutsche Historische Museum dokumentiert koloniale Plantagenwirtschaft und erzwungene Arbeit in Deutsch-Ostafrika. Daraus folgt keine quantitative Erklärung des gesamten heutigen europäischen Wohlstands; diese weitergehende Kausalbilanz wird hier nicht bestätigt.
 
-Quellen: V001.
+Quellen: V001, Q39, Q40.
 
 ## -rBUCkR4HuA-A0019
 
@@ -204,13 +204,13 @@ Quellen: V001, Q03.
 
 ## -rBUCkR4HuA-A0021
 
-**Offen · 24:49–25:01**
+**Abgeschlossen · Teilweise belegt · 24:49–25:01**
 
 Wärmepumpen sind in Deutschland deutlich teurer als in NL oder UK.
 
-Vergleichbare aktuelle Investitionskosten für gleiche Technik, Leistung und Umbauten fehlen noch; Wärmegestehungskosten sind keine Kaufpreise.
+Die RWTH-Analyse vergleicht zwei Angebote für eine 8-kW-Luft-Wasser-Wärmepumpe und findet einen deutlich höheren deutschen Endkundenpreis als im UK. Sie erläutert technische und marktbezogene Unterschiede und warnt vor repräsentativen Schlüssen aus Einzelangeboten. Der UK-Vergleich ist damit konkret gestützt; ein gleicher aktueller Marktvergleich mit den Niederlanden und die Ursache allein durch Förderung sind nicht nachgewiesen.
 
-Quellen: V001.
+Quellen: V001, Q41.
 
 ## -rBUCkR4HuA-A0022
 
@@ -234,13 +234,13 @@ Quellen: V001, Q01.
 
 ## -rBUCkR4HuA-A0024
 
-**Offen · 27:32–27:44**
+**Abgeschlossen · Teilweise belegt · 27:32–27:44**
 
 Er durfte als erster Journalist frei in Fukushima drehen.
 
-Datierung und Betreiber-/Redaktionsbeleg des eng formulierten Erstzugangs fehlen noch.
+Der produzierende WDR bestätigt 2014 einen besonderen Erstzugang: Yogeshwars Team durfte als erstes ausländisches Reporterteam so frei und selbstständig im Reaktor drehen. Das stützt den Sachkern seiner Erinnerung. Der Beleg ist eine eigene Senderangabe und enger als die uneingeschränkte Behauptung, überhaupt der erste dort drehende Journalist gewesen zu sein.
 
-Quellen: V001.
+Quellen: V001, Q42.
 
 ## -rBUCkR4HuA-A0025
 
@@ -284,33 +284,33 @@ Quellen: V001.
 
 ## -rBUCkR4HuA-A0029
 
-**Offen · 28:56–29:24**
+**Abgeschlossen · Teilweise belegt · 28:56–29:24**
 
 Nuklear bewaffnete Staaten haben besondere Interessen an nuklearer Technologie.
 
-Zivilen Betrieb, Brennstoffkreislauf und militärischen Zusammenhang fallbezogen belegen; keine notwendige Verbindung aus der Länderliste allein.
+Ein konkreter Zusammenhang ist für Großbritannien amtlich dokumentiert: Zivile und militärische Nuklearprogramme planen Fachkräfte und Fähigkeiten gemeinsam. Das stützt besondere industrie- und sicherheitspolitische Interessen. Es belegt weder dieselben Motive für sämtliche genannten Staaten noch, dass zivile Kernkraft nur für Atomwaffenstaaten sinnvoll wäre; die anschließende Bauprognose bleibt getrennt.
 
-Quellen: V001.
+Quellen: V001, Q43.
 
 ## -rBUCkR4HuA-A0030
 
-**Offen · 29:59–30:23**
+**Abgeschlossen · Belegt · 29:59–30:23**
 
 Iranische Urananreicherung verdeutlicht Proliferationsrisiken.
 
-Aktuellen IAEO-Sicherungsbericht noch abgleichen. Die Uranimport-Rückfrage des Hosts wird nicht als bejahte Antwort des Gastes geführt.
+Der IAEO-Bericht GOV/2025/50 dokumentiert hoch angereicherte iranische Uranbestände sowie Sicherungs- und Verifikationsprobleme. Damit ist der im Gespräch angeführte historische Proliferationskonflikt belegt. Das ist weder ein Nachweis einer vorhandenen iranischen Atombombe noch eine Feststellung des aktuellen Anlagenbetriebs zum Aufnahmetag im Oktober 2026.
 
-Quellen: V001.
+Quellen: V001, Q44.
 
 ## -rBUCkR4HuA-A0031
 
-**Offen · 30:35–31:05**
+**Abgeschlossen · Belegt · 30:35–31:05**
 
 Kernkraft erfordert strenge Sicherheit; kleine Materialmengen können große radiologische Folgen haben.
 
-Strahlenschutzquelle und Randbedingungen noch lesen; klein ist ohne Radionuklid und Aktivität keine eindeutige Risikogröße.
+Die IAEO erläutert nukleare und radiologische Notfälle sowie schwere Folgen einer einzelnen radioaktiven Quelle in Goiânia. Die Aussage formuliert eine Möglichkeit, keine Behauptung, jeder kleine Zwischenfall verursache eine Katastrophe. Entscheidend sind Radionuklid, Aktivität, Freisetzung und Exposition; Materialmasse allein beschreibt das Risiko nicht. Die Sicherheitsgrundsätze SF-1 stützen die besonderen Schutzanforderungen.
 
-Quellen: V001.
+Quellen: V001, Q45, Q53.
 
 ## -rBUCkR4HuA-A0032
 
@@ -354,13 +354,13 @@ Quellen: V001, Q07.
 
 ## -rBUCkR4HuA-A0036
 
-**Offen · 32:03–32:23**
+**Abgeschlossen · Belegt · 32:03–32:23**
 
 Schnelle Brüter sollen neuen Brennstoff erzeugen und Kreisläufe schließen.
 
-Brüten aus fertilen Stoffen und Wiederaufarbeitung vorhandenen Abfalls noch anhand einer Brennstoffkreislaufquelle abgrenzen.
+Die IAEO beschreibt das Erbrüten neuen spaltbaren Materials aus fertilen Stoffen sowie die Rückgewinnung und Wiederverwendung von Material aus abgebranntem Brennstoff als Schließen des Brennstoffkreislaufs. Das stützt die im Gespräch erläuterte technische Idee. Nicht jeder Abfall wird dadurch Brennstoff, Endlagerbedarf verschwindet nicht, und technische Möglichkeit beweist keine Wirtschaftlichkeit.
 
-Quellen: V001.
+Quellen: V001, Q46.
 
 ## -rBUCkR4HuA-A0037
 
@@ -424,13 +424,13 @@ Quellen: V001.
 
 ## -rBUCkR4HuA-A0043
 
-**Offen · 40:53–41:17**
+**Abgeschlossen · Belegt · 40:53–41:17**
 
 Moderne E-Autos können während kurzer Pausen erheblich nachladen.
 
-Passende Ladetests mit Modell, Ladestand und Temperatur noch lesen; persönliche Pausendauer ist kein Standard.
+Im ADAC-Wintertest 2026 laden die getesteten Fahrzeuge in 20 Minuten Energie für etwa 150 bis 300 Kilometer nach. Das stützt die allgemeine Möglichkeit, während kurzer Pausen erhebliche Reichweite nachzuladen. Modell, Batterietemperatur, Ladestand und verfügbare Ladeleistung bleiben entscheidend; eine beliebig kurze Toilettenpause oder jedes Fahrzeug wird dadurch nicht garantiert.
 
-Quellen: V001.
+Quellen: V001, Q47.
 
 ## -rBUCkR4HuA-A0044
 
@@ -480,7 +480,7 @@ Deutschland sei das einzige Land ohne allgemeines Autobahnlimit.
 
 Deutsches Fehlen eines generellen Limits ist eindeutig; unbegrenzter Welt-Superlativ braucht einen weltweiten Rechtsvergleich.
 
-Quellen: V001.
+Quellen: V001, Q54.
 
 ## -rBUCkR4HuA-A0049
 
@@ -494,13 +494,13 @@ Quellen: V001, Q20.
 
 ## -rBUCkR4HuA-A0050
 
-**Offen · 43:34–43:44**
+**Abgeschlossen · Irreführend / Kontext fehlt · 43:34–43:44**
 
 Mit Tempolimit kommt man ebenso schnell ans Ziel.
 
-Netzmittel und Einzelfahrten unterscheiden; passende Verkehrsflussstudie noch auswerten. Umweltvorteil beweist keine Zeitgleichheit.
+Eine pauschale gleiche Ankunftszeit ist nicht belegt. Die Autoren der UBA-Verkehrsmodellierung berechnen für das Szenario 120/80 eine durchschnittlich um etwa 1,4 Minuten längere tägliche Pkw-Reisezeit; bei 100 km und mittleren 120 statt 140 km/h sind es rund sieben Minuten. Kleine durchschnittliche Zeitverluste, flüssigerer Verkehr und konkrete Einzelreisen sind auseinanderzuhalten. Sicherheits- und Klimavorteile bleiben davon unabhängig.
 
-Quellen: V001, Q10.
+Quellen: V001, Q10, Q48.
 
 ## -rBUCkR4HuA-A0051
 
@@ -664,13 +664,13 @@ Quellen: V001, Q05.
 
 ## -rBUCkR4HuA-A0067
 
-**Offen · 62:19–62:28**
+**Abgeschlossen · Belegt · 62:19–62:28**
 
 Die EU habe sich gegen Subventionen für klimaschädliche Produkte ausgesprochen.
 
-Im Originalkontext wird eine politische Position angesprochen, kein bereits geltendes Verbot sämtlicher Förderungen. Das gelesene Kommissionspapier behandelt Auslaufziele und fortbestehende fossile Subventionen; die genaue gemeinte politische Erklärung bleibt zu bestimmen.
+Die EU-Kommission beschreibt ausdrücklich das Ziel des Achten Umweltaktionsprogramms, umweltschädliche Subventionen einschließlich fossiler Förderungen abzubauen. Das stützt die im Gespräch angesprochene politische Zielrichtung. Es handelt sich nicht um ein bereits geltendes Verbot sämtlicher Gasförderungen; Ausnahmen und tatsächlicher Fortbestand von Subventionen sind davon getrennt.
 
-Quellen: V001, Q15.
+Quellen: V001, Q15, Q49.
 
 ## -rBUCkR4HuA-A0068
 
@@ -704,13 +704,13 @@ Quellen: V001, Q16.
 
 ## -rBUCkR4HuA-A0071
 
-**Offen · 63:03–63:22**
+**Abgeschlossen · Teilweise belegt · 63:03–63:22**
 
 Auch in USA kommen 80 bis 90% des Stromzubaus aus Erneuerbaren.
 
-Jahr, Netto-/Bruttozubau und Leistung/Erzeugung klären. EIA-Planung nennt 81% Solarplus Batterien; Speicher nicht als Primärerzeuger mitzählen.
+Die EIA-Isttabelle für 2025 weist rund 35,95 GW Zubau in einzeln ausgewiesenen erneuerbaren Technologien aus. Das sind rund 62 Prozent der insgesamt 57,73 GW einschließlich der Kategorie Other Energy Sources, in der vor allem Speicher stehen. Ohne diese Kategorie ergibt sich rund 87 Prozent. Eine Größenordnung von 80 bis 90 Prozent ist damit für den engeren Erzeuger-Nenner plausibel; Jahr, Nenner und Speicherabgrenzung werden im Gespräch aber nicht festgelegt. Kapazitätszubau ist kein Anteil der erzeugten Strommenge.
 
-Quellen: V001, Q16.
+Quellen: V001, Q16, Q50.
 
 ## -rBUCkR4HuA-A0072
 
@@ -754,13 +754,13 @@ Quellen: V001, Q11.
 
 ## -rBUCkR4HuA-A0076
 
-**Offen · 67:17–67:30**
+**Abgeschlossen · Teilweise belegt · 67:17–67:30**
 
 Ungebremste PV-Spitzen würden sämtliche Leitungen durchbrennen lassen.
 
-Überlastungsgefahr, Netzschutz und Abregelung unterscheiden. Bildhafte Warnung ohne Originaltonkontext nicht als berechnete Schadensgarantie interpretieren.
+Die Bundesnetzagentur beschreibt reale Stabilitätsprobleme durch hohe Solarspitzen und die notwendige Steuerbarkeit bis hin zur Abschaltung von Anlagen. Der Gesprächskontext fordert deshalb Puffer und Regelung; er ist eine bedingte Warnung bei künftigem Ausbau. Dass sämtliche Leitungen durchbrennen würden, ist eine nicht technisch belegte Übertreibung. Netzengpässe, Schutzmaßnahmen und tatsächliche thermische Zerstörung dürfen nicht gleichgesetzt werden.
 
-Quellen: V001.
+Quellen: V001, Q51.
 
 ## -rBUCkR4HuA-A0077
 
@@ -804,13 +804,13 @@ Quellen: V001.
 
 ## -rBUCkR4HuA-A0081
 
-**Offen · 68:23–68:33**
+**Abgeschlossen · Teilweise belegt · 68:23–68:33**
 
 Deutschland verhindere das Verbrenner-Aus.
 
-Die konkret gemeinte deutsche Initiative, der Stand des EU-Verfahrens und die Reichweite der Formulierung müssen am Aufnahmezeitpunkt Oktober 2026 getrennt geprüft werden.
+Am 7. Oktober 2026 bestätigt der Regierungssprecher die deutsche Koalitionsposition für weitergehende Neuzulassungen von Verbrennern nach 2035. Das stützt den politischen Kern der Kritik bereits vor einer späteren deutsch-französischen Einigung. Eine deutsche Forderung ist jedoch weder alleinige Ursache noch ein abschließend beschlossenes EU-Gesetz; der genaue Aufnahmetag im Oktober bleibt unbekannt.
 
-Quellen: V001.
+Quellen: V001, Q52.
 
 ## -rBUCkR4HuA-A0082
 
