@@ -23,9 +23,15 @@
     },
     {
       "topic": "energie/preise",
-      "relevance": "Erwähnt",
-      "basis": "1 von 43 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
-      "segments": []
+      "relevance": "Behandelt",
+      "basis": "Vier eigenständige Aussagen behandeln Strompreise bzw. Erzeugungskosten je Kilowattstunde: Haushaltsstrom A18 und Kostenvergleiche A27/A28/A30; Original-Captions am 22.11.2026 neu gelesen.",
+      "segments": [
+        {
+          "startSeconds": 395,
+          "endSeconds": 470,
+          "note": "Betriebskosten, Solarstromvergleich und Stromgestehungskosten einschließlich Baukosten."
+        }
+      ]
     }
   ],
   "claims": [
@@ -195,13 +201,15 @@
     {
       "claimId": "5UboW16rU1w-A27",
       "topics": [
-        "energie/atomkraft"
+        "energie/atomkraft",
+        "energie/preise"
       ]
     },
     {
       "claimId": "5UboW16rU1w-A28",
       "topics": [
-        "energie/atomkraft"
+        "energie/atomkraft",
+        "energie/preise"
       ]
     },
     {
@@ -213,7 +221,8 @@
     {
       "claimId": "5UboW16rU1w-A30",
       "topics": [
-        "energie/atomkraft"
+        "energie/atomkraft",
+        "energie/preise"
       ]
     },
     {
@@ -300,6 +309,11 @@
       "date": "2026-11-20",
       "agent": "Claude",
       "change": "Erstzuordnung von 43 von 43 Aussagen zu Themen (war beim Aufbau der Klimaseite vergessen worden); keine Bewertung geändert."
+    },
+    {
+      "date": "2026-11-22",
+      "agent": "Codex – Gewichtskontrolle",
+      "change": "Themen anhand neu importierter vollständiger Original-Captions für die Gewichtskontrolle geprüft. Energiepreise für A27/A28/A30 ergänzt und von Erwähnt auf Behandelt präzisiert; keine neue öffentliche Kategorie."
     }
   ]
 }

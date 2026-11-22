@@ -1275,6 +1275,18 @@
             "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
           }
         ]
+      },
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Julia Bläsius",
+        "presentation": "Einspieler",
+        "creatorStance": "Übernommen",
+        "basis": "Gemischte Wiederholung: Der Off-Kommentar erläutert die Entschädigungsregel, Bläsius beschreibt im Einspieler ab 02:59 das auf Anlagenbetreiber verlagerte Risiko. Die Redaktion verwendet dies zustimmend zur Begründung derselben Aussage.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-22"
+      },
+      "migration": {
+        "speakerAudit": "2026-11-22, Codex: Captionkontext vollständig neu gelesen; zweite Fundstelle mit Julia Bläsius ausdrücklich als übernommenes Zitat gekennzeichnet. Faktenurteil und Gewicht unverändert."
       }
     },
     {

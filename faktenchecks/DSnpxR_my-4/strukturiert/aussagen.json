@@ -4,9 +4,9 @@
     "videoId": "DSnpxR_my-4",
     "videoUrl": "https://www.youtube.com/watch?v=DSnpxR_my-4",
     "kind": "Teilbestand",
-    "asOf": "2026-11-21",
+    "asOf": "2026-11-22",
     "durationSeconds": 500,
-    "coverageNote": "Alle 32 verfügbaren deutschen Captionblöcke über 00:00–08:20 gelesen; 24 ursprüngliche Aussagekomplexe zu 30 abgegrenzten Einträgen präzisiert. Relevante Sachfragen mit Quellen recherchiert; offene Material- und Bild-/Tonbezüge bleiben ohne Urteil. Keine vollständige audiovisuelle Prüfung. Zeitmarken sind ungefähre Captionintervalle.",
+    "coverageNote": "Alle 32 verfügbaren deutschen Captionblöcke über 00:00–08:20 gelesen; 24 ursprüngliche Aussagekomplexe zu 30 abgegrenzten Einträgen präzisiert. Relevante Sachfragen mit Quellen recherchiert; offene Material- und Bild-/Tonbezüge bleiben ohne Urteil. Keine vollständige audiovisuelle Prüfung. Zeitmarken sind ungefähre Captionintervalle. Am 22.11.2026 deutsche Originalcaptions neu importiert und vollständig gelesen; Krall-Originalkontext um 50–61 Minuten zusätzlich gelesen. Bildstichproben bei etwa 02:09, 05:35, 06:45 und 07:25 direkt im Originalplayer betrachtet. Kein Audio-/Videodownload, keine vollständige Bild-/Tonprüfung.",
     "researchNote": "ChatGPT-Durchlauf mit getrennten Material-, Klima-, Energie-/Politik- und redaktionellen Prüfaufgaben. Kontext, Primärquellen, Modalität und Zuschreibung gegengeprüft; Ausschnitte zusätzlich mit dem Krall-Originalinterview textlich abgeglichen. Kein kontrollierter Vergleich unterschiedlicher Modelle. Wissensstand am 06.11.2026, Recherche am 21.11.2026. Rohtranskripte und automatisierte Szenennotizen werden nicht veröffentlicht."
   },
   "speakers": [
@@ -891,7 +891,7 @@
       "status": "Offen",
       "verdict": null,
       "description": "Die gezeigten Temperaturauswertungen beruhten auf Milliarden von Datensätzen.",
-      "reason": "Noch nicht geprüft – die endgültige Zuordnung der Milliardenzahl zur gezeigten Grafik und zur gemeinten Zähleinheit benötigt die noch ausstehende Bild-/Ton- und Quellenidentifikation. Große Eingangsdatenbestände sind bereits belegt: Berkeley Earth dokumentiert 1,6 Milliarden zusammengeführte Temperaturmeldungen, der ECMWF/C3S-Artikel über 100 Milliarden assimilierte ERA5-Beobachtungen. Das sind unterschiedlich definierte und teilweise überlappende Bestände; sie dürfen nicht addiert oder mit unabhängigen globalen Temperaturreihen gleichgesetzt werden. Das als Suchhilfe identifizierte Foster/Rahmstorf-Paper verwendet fünf aggregierte Reihen. Diese Anzahl widerlegt keine Milliardenzahl zugrunde liegender Beobachtungen. Der Beschleunigungsbefund wird gesondert unter A0006 geprüft; die verbleibende Arbeitslücke betrifft den konkreten Bezug der Mengenangabe.",
+      "reason": "Die direkte Bildstichprobe bei etwa 02:09–02:10 zeigt das Foster/Rahmstorf-Paper „Global Warming Has Accelerated Significantly“. Die Zuordnung der konkreten Milliardenzahl zur gemeinten Zähleinheit bleibt offen. Große Eingangsdatenbestände sind bereits belegt: Berkeley Earth dokumentiert 1,6 Milliarden zusammengeführte Temperaturmeldungen, der ECMWF/C3S-Artikel über 100 Milliarden assimilierte ERA5-Beobachtungen. Das sind unterschiedlich definierte und teilweise überlappende Bestände; sie dürfen nicht addiert oder mit unabhängigen globalen Temperaturreihen gleichgesetzt werden. Das nun visuell identifizierte Foster/Rahmstorf-Paper verwendet fünf aggregierte Reihen. Diese Anzahl widerlegt keine Milliardenzahl zugrunde liegender Beobachtungen. Der Beschleunigungsbefund wird gesondert unter A0006 geprüft; die verbleibende Arbeitslücke betrifft den konkreten Bezug der Mengenangabe.",
       "assessmentBasis": "Eigene Paraphrase der deutschen Originaluntertitel und unabhängig direkt gelesene Originalquellen. Zeitmarken bleiben Captionintervalle; keine unmittelbare Bild-/Tonsichtung behauptet. Sachstand zum Video vom 06.11.2026, Recherche am 21.11.2026.",
       "occurrences": [
         {
@@ -981,9 +981,21 @@
               "S216"
             ],
             "result": "Milliardengroße Eingangsdatenbestände sind ausdrücklich dokumentiert: 1,6 Milliarden Temperaturmeldungen bei Berkeley Earth und über 100 Milliarden assimilierte ERA5-Beobachtungen. Die konkrete Bild-/Zählzuordnung des Videos bleibt offen; die Werte werden nicht addiert."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Neue vollständige Captionlektüre der Reaktion, angrenzender Originalinterviewkontext und gezielte direkte Bildstichproben; Paper und Berkeley-Earth-Dokumentation erneut gelesen.",
+            "sourceIds": [
+              "S001",
+              "S002",
+              "S209",
+              "S215"
+            ],
+            "result": "Die gezeigte Publikation ist im Originalbild identifiziert. Milliarden Eingangsmeldungen und fünf aggregierte globale Reihen bleiben verschiedene Zähleinheiten. Die genaue Bezugsdefinition und der Originalton sind weiter offen."
           }
         ],
-        "missingInformation": "Direkte Identifikation der Grafik im Video bzw. Ausgangsvortrag, zugehörige Quellenfassung und Definition der mit Datensätzen gemeinten Zähleinheit.",
+        "missingInformation": "Definition der im gesprochenen Satz gemeinten Zähleinheit und direkter Hörabgleich; die eingeblendete Publikation wurde identifiziert.",
         "conflicts": null
       },
       "migration": {
@@ -1855,7 +1867,7 @@
       "status": "Offen",
       "verdict": null,
       "description": "Alle Produkte sollten besteuert werden.",
-      "reason": "Noch nicht geprüft – die direkte Bild-/Ton- und Bezugsidentifikation des behaupteten Besteuerungsplans im Originalzusammenhang steht aus. Die Untertitel allein nennen keinen konkreten Urheber, kein Gesetz, keine Steuerart und keinen Zeitraum. Nationaler Brennstoffemissionshandel und europäischer CO₂-Grenzausgleich haben jeweils definierte Anwendungsbereiche; beides darf nicht ohne Beleg zum gemeinten Vorhaben erklärt werden. Auch die indirekte Weitergabe von Energiekosten über viele Produkte wäre etwas anderes als eine neue Steuer auf jedes Produkt. Auch der angrenzende Original-Captionkontext identifiziert kein bestimmtes Instrument; eine konkretisierende Einblendung bleibt unmittelbar zu kontrollieren.",
+      "reason": "Noch nicht geprüft – die direkte Bild-/Ton- und Bezugsidentifikation des behaupteten Besteuerungsplans im Originalzusammenhang steht aus. Die Untertitel allein nennen keinen konkreten Urheber, kein Gesetz, keine Steuerart und keinen Zeitraum. Nationaler Brennstoffemissionshandel und europäischer CO₂-Grenzausgleich haben jeweils definierte Anwendungsbereiche; beides darf nicht ohne Beleg zum gemeinten Vorhaben erklärt werden. Auch die indirekte Weitergabe von Energiekosten über viele Produkte wäre etwas anderes als eine neue Steuer auf jedes Produkt. Auch der angrenzende Original-Captionkontext identifiziert kein bestimmtes Instrument; eine konkretisierende Einblendung bleibt unmittelbar zu kontrollieren. Die betrachteten Interviewbilder bei 05:35 bzw. 07:25 zeigten Krall/Samatou und die Host-Einblendung, aber keine präzisierende Rechtsquellenangabe. Das ist eine Stichprobe, kein Nachweis für sämtliche Zwischenbilder.",
       "assessmentBasis": "Untertitelkontext mit unabhängig direkt geöffneten Primärquellen abgeglichen; Grenzen und Systembezüge in der Begründung ausgewiesen.",
       "occurrences": [
         {
@@ -2727,7 +2739,7 @@
       "status": "Offen",
       "verdict": null,
       "description": "Trump habe die zuvor erwähnten Klimamaßnahmen in den USA abgeschafft.",
-      "reason": "Noch nicht geprüft – welche US-Maßnahme das Bezugwort meint, muss im unmittelbar vorhergehenden Bild-/Ton- und Gesprächskontext noch bestimmt werden. Tatsächlich ordnete Trump die Umsetzung gekürzter Steuerförderung für Wind/Solar an; dies ist keine Abschaffung aller CO₂-Preise. Ein pauschaler Schluss auf das Ende sämtlicher US-Klimabepreisung wäre nachweislich falsch: Washington versteigerte im September 2026 weiterhin Emissionszertifikate. Da der Sprecher keinen präzisen Gegenstand nennt, wird ihm diese maximale Lesart nicht als gesicherter Wortlaut zugeschrieben. Auch der angrenzende Original-Captionkontext identifiziert kein bestimmtes Instrument; eine konkretisierende Einblendung bleibt unmittelbar zu kontrollieren.",
+      "reason": "Noch nicht geprüft – welche US-Maßnahme das Bezugwort meint, muss im unmittelbar vorhergehenden Bild-/Ton- und Gesprächskontext noch bestimmt werden. Tatsächlich ordnete Trump die Umsetzung gekürzter Steuerförderung für Wind/Solar an; dies ist keine Abschaffung aller CO₂-Preise. Ein pauschaler Schluss auf das Ende sämtlicher US-Klimabepreisung wäre nachweislich falsch: Washington versteigerte im September 2026 weiterhin Emissionszertifikate. Da der Sprecher keinen präzisen Gegenstand nennt, wird ihm diese maximale Lesart nicht als gesicherter Wortlaut zugeschrieben. Auch der angrenzende Original-Captionkontext identifiziert kein bestimmtes Instrument; eine konkretisierende Einblendung bleibt unmittelbar zu kontrollieren. Die betrachteten Interviewbilder bei 05:35 bzw. 07:25 zeigten Krall/Samatou und die Host-Einblendung, aber keine präzisierende Rechtsquellenangabe. Das ist eine Stichprobe, kein Nachweis für sämtliche Zwischenbilder.",
       "assessmentBasis": "Untertitelkontext mit unabhängig direkt geöffneten Primärquellen abgeglichen; Grenzen und Systembezüge in der Begründung ausgewiesen.",
       "occurrences": [
         {

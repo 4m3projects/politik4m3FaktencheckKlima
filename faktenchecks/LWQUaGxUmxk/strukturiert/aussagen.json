@@ -296,10 +296,28 @@
       "factIndex": {
         "weight": 3,
         "weightReason": "Kernnachricht und Titel des Videos: der Weltrekord und die Inbetriebnahme. Die gesamte Darstellung baut darauf auf.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "00:01–00:09 eröffnet die Rekord- und Inbetriebnahmemeldung das Video; sie wird um 01:42 und 06:22 sowie im Fazit aufgegriffen. Titel, Einstieg und Rückbezüge rechtfertigen sehr hohe Bedeutung. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -348,10 +366,29 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Kennzahl des Rekords, im Video hervorgehoben (Vergleich mit dem Fernsehturm); teilweise Wiederholung von A01.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Abweichend",
+            "proposedWeight": 0.5,
+            "reason": "00:09–00:14 veranschaulicht der Fernsehturmvergleich die bereits in A01 enthaltenen 365 Meter. Der zusätzliche Informationsgehalt ist ein Nebenvergleich; 1,5 gewichtet die gleiche Rekordhöhe ein zweites Mal stark. Vorschlag 0,5 für die selbständige Veranschaulichung; A01/A02 auf Zusammenführung prüfen. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Begründeter Dissens; eingetragener Faktor bleibt unverändert."
+          }
+        ]
       }
     },
     {
@@ -409,10 +446,28 @@
       "factIndex": {
         "weight": 2,
         "weightReason": "Zentrales Versprechen des Konzepts (mehr Ertrag durch Höhe); begründet, warum das Projekt sinnvoll sein soll.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "00:14–00:21 formuliert das Ertragsversprechen die sachliche Leitfrage, warum die Rekordhöhe nützlich sein soll. Es trägt den gesamten Physik- und Nutzenabschnitt. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -470,10 +525,28 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Technisches Detail zur Messung ohne Einfluss auf die Argumentation.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "00:31–00:36 und 03:31–03:37 beschreiben Messabstände und Instrumentenzahl. Das sind methodische Details; die für das Argument wichtigen Messergebnisse stehen separat in A09. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -518,10 +591,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Einordnende Vergleichszahl zur Nabenhöhe; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "00:58–01:11 ordnet die durchschnittliche Nabenhöhe den Rekord ein. Es handelt sich um normale Vergleichszahlen, nicht um das zentrale Ertragsversprechen. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -570,10 +661,28 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Zentrale technische Angabe (300 m Nabenhöhe), aus der der Mehrertrag folgt.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "01:12–01:24 erklärt die Nabenhöhe die konstruktive Besonderheit. Sie ist für das Konzept wichtig und von der Gesamthöhe samt Fernsehturmvergleich in A02 zu unterscheiden. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -627,10 +736,28 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Anekdote zur Person des Erfinders; für die Sachaussage des Videos nebensächlich.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "01:26–01:42 ist die Biografie des Erfinders eine Hintergrundgeschichte. Die technische oder wirtschaftliche Argumentation hängt nicht von seinem Alter und früheren Projekten ab. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -675,10 +802,28 @@
       "factIndex": {
         "weight": 2,
         "weightReason": "Physikalische Grundlage der Hauptthese, warum Höhe sich lohnt; im Kapitel ausführlich erklärt.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "02:03–02:26 erklärt die kubische Windleistungsbeziehung ausdrücklich den Nutzen höherer Windgeschwindigkeiten samt technischer Begrenzung. Sie ist die zentrale physikalische Grundlage der Leitfrage. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -736,10 +881,28 @@
       "factIndex": {
         "weight": 2,
         "weightReason": "Zweite tragende Begründung der Hauptthese (stärkerer, gleichmäßigerer Wind in der Höhe).",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "02:26–03:39 verbindet der Film geringere Bodenreibung mit den Messungen in 300 Metern. Neben A08 trägt dieser Zusammenhang die Erklärung des Höhenkonzepts. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -785,10 +948,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Erläuternde Nebenbemerkung zur Physik; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "02:40–02:53 ist die mathematische Beschreibung eine kurze Erläuterung im Physikabschnitt. Sie erhält normale Bedeutung, während die Grundzusammenhänge A08/A09 separat erhöht gewichtet sind. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -838,10 +1019,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Einzelne Zahl zum Mehrertrag im Erklärteil; nicht hervorgehoben, das Video stützt sich sonst auf A03. Kein eigenständiger Kern der Argumentation.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "02:55–03:08 nennt der Moderator eine konkrete Unternehmensprognose im Erklärteil. Die Zahl ist eigenständig, wird aber weder im Einstieg noch im Fazit als entscheidender Ertragsmaßstab wiederholt. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -890,10 +1089,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Hintergrund zur Datengrundlage; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "03:08–03:23 erklärt Baujahr und Messzeitraum die Datengrundlage. Normale Bedeutung neben den gesondert gewichteten Messergebnissen. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -978,10 +1195,28 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Thema eines eigenen Kapitels (Bauweise als eigener Kran); erhöhte Bedeutung für das Video.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "05:28–06:09 wird die Konstruktion mit beweglichem Innenturm in einem eigenen Baukapitel erklärt. Die Bauweise trägt das technische Konzept, ist aber von der wirtschaftlichen Leitfrage zu unterscheiden. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1030,10 +1265,28 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Randinformation zum Bauablauf.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "06:12–06:20 berichtet über eine Bauunterbrechung. Das ist eine einzelne Randinformation zum Ablauf, keine Aussage über die grundsätzliche Eignung des Konzepts. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1088,10 +1341,28 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Hervorgehobene Nutzenangabe (Haushalte), prägt den Eindruck vom Ertrag.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "06:28–06:35 übersetzt die Haushaltszahl den erwarteten Nutzen in eine publikumsnahe Größe. Sie wird unmittelbar mit einem herkömmlichen Windrad verglichen und prägt so den Nutzenindruck. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1132,10 +1403,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Vergleichszahl zu A16; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Abweichend",
+            "proposedWeight": 1.5,
+            "reason": "06:35–06:41 ist die Zahl für ein herkömmliches Windrad die direkte Vergleichsbasis der erhöht gewichteten Haushaltsangabe A16. Beide Zahlen tragen denselben Nutzeneindruck; 1,5 für beide Seiten vermeidet eine asymmetrische Gewichtung. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Begründeter Dissens; eingetragener Faktor bleibt unverändert."
+          }
+        ]
       }
     },
     {
@@ -1184,10 +1474,28 @@
       "factIndex": {
         "weight": 2,
         "weightReason": "Im Fazit als eigentlicher Sinn des Projekts dargestellt (zweite Etage in Windparks).",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "06:58–07:29 erklärt die zweite Etage die breitere Anwendung; ab 10:57 bezeichnet das Fazit gerade dieses Konzept als entscheidend. Daher hohe Bedeutung über den einzelnen Weltrekord hinaus. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1232,10 +1540,28 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Angabe zum Ausbaupotenzial, stützt die Bedeutung des Konzepts.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "07:34–07:45 quantifiziert das Nachrüstpotenzial die Bedeutung der zweiten Etage. Die Zahl stützt die Hauptidee A18, ohne selbst die gesamte Schlussfolgerung zu tragen. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1285,10 +1611,28 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Ortsangabe am Rande ohne Einfluss auf die Argumentation.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "07:49–07:54 ist die Orts- und Braunkohlereviereinordnung Hintergrund des Strukturwandelbeispiels. Die technische Hauptargumentation bleibt davon unabhängig. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1337,10 +1681,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Einordnung zur Leistung; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "09:54–10:08 trennt Nennleistung und Höhenrekord. Der Film verwendet die Angabe als sachliche Einschränkung, nicht als neue Hauptthese. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1386,10 +1748,28 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Nebenvergleich mit einer anderen Anlage.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "10:08–10:14 dient Vestas als kurzer Vergleich zur zuvor erläuterten Unterscheidung zwischen Höhe und Leistung. Die eigenständige Gegenüberstellung bleibt ein Nebenbeispiel. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1435,10 +1815,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Vergleichszahl im Abschnitt zu den Kosten; stützt das Kostenargument, ist aber nicht dessen Kern (das ist A24).",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Abweichend",
+            "proposedWeight": 1.5,
+            "reason": "10:27–10:32 liefert die Vergleichskostenbasis für den unmittelbar folgenden Zehnfachvergleich A24. Ohne sie ist dessen wirtschaftlicher Eindruck nicht bestimmbar; dieselbe erhöhte Stufe wie A24 ist symmetrischer. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Begründeter Dissens; eingetragener Faktor bleibt unverändert."
+          }
+        ]
       }
     },
     {
@@ -1488,10 +1887,28 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Kern des Kostenvorbehalts im Abschnitt „Das große Aber“; erhöhte Bedeutung für die Gesamtaussage.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "10:32–10:41 begründet der Kostenfaktor den abschließenden Wirtschaftlichkeitsvorbehalt. Er ist ein tragendes Gegenargument, während das Video die spätere Rentabilität ausdrücklich offenlässt. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1500,13 +1917,13 @@
       "kind": "Meinung",
       "status": "Abgeschlossen",
       "verdict": "Meinung / Prognose",
-      "description": "Ein Weltrekord allein bringt wenig; entscheidend ist das Konzept der „zweiten Etage“ in bestehenden Windparks, weil Infrastruktur vorhanden ist und es dort weniger Akzeptanzdebatten gibt.",
+      "description": "Ein Weltrekord allein bringt wenig; entscheidend ist das Konzept der „zweiten Etage“ in bestehenden Windparks, weil Infrastruktur vorhanden ist und es dort weniger Akzeptanzdebatten gibt. Er erwartet künftig leistungsstärkere Höhenanlagen, die den gleichmäßigeren Wind besser nutzen und Schwankungen mindern könnten.",
       "reason": "Persönliche Einschätzung des Moderators, ausdrücklich als „meine persönliche Meinung“ gekennzeichnet. Zum Kontext: Fachleute weisen darauf hin, dass fast doppelt so hohe Anlagen größere Mindestabstände brauchen, was mögliche Standorte deutlich einschränkt.",
       "assessmentBasis": "Wertung; nicht als wahr oder falsch bewertbar.",
       "occurrences": [
         {
           "startSeconds": 650,
-          "endSeconds": 673,
+          "endSeconds": 684,
           "precision": "Ungefähr",
           "attributionStatus": "Bestätigt",
           "speakerId": "SP1",
@@ -1514,7 +1931,8 @@
           "roleStatus": "eigene Aussage",
           "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
           "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
-          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle.",
+          "note": "Einschließlich der ausdrücklich als persönliche Meinung gekennzeichneten Prognosefortsetzung bis 11:24."
         }
       ],
       "sourceRefs": [
@@ -1527,7 +1945,7 @@
       "migration": {
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
-        "assessmentChange": "Erstbewertung"
+        "assessmentChange": "Erstbewertung; 2026-11-22 Codex: Captionintervall und Beschreibung um die zugehörige Prognosefortsetzung bis 684 Sekunden erweitert; Urteil unverändert."
       }
     }
   ]

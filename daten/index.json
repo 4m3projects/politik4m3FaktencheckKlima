@@ -4,11 +4,41 @@
   "repository": "4m3projects/politik4m3FaktencheckKlima",
   "videos": [
     {
+      "id": "-rBUCkR4HuA",
+      "title": "#13 - „Ich habe keine Panik vor Atom.“ - Ranga Yogeshwar",
+      "structured": true,
+      "rhetoric": false,
+      "files": [
+        "03_einzelpruefungen.md",
+        "04_pruefprotokoll.md",
+        "07_gewichtskontrolle.md",
+        "README.md"
+      ],
+      "video": {
+        "schemaVersion": 1,
+        "videoId": "-rBUCkR4HuA",
+        "role": "original",
+        "channel": "Die Wattstunde - powered by kleines kraftwerk",
+        "title": "#13 - „Ich habe keine Panik vor Atom.“ - Ranga Yogeshwar",
+        "videoUrl": "https://www.youtube.com/watch?v=-rBUCkR4HuA",
+        "publishedAt": "2026-11-08",
+        "durationSeconds": 4191,
+        "workStatus": "Teilbestand geprüft",
+        "format": "video",
+        "identification": {
+          "basis": "ID, Titel, Kanal, Veröffentlichungsdatum und Laufzeit am 22.11.2026 mit dem vorgeschriebenen Import-YouTubeTranscript.ps1 und yt-dlp aus Originalmetadaten abgerufen; deutsche Captions vollständig gelesen. Nur Untertitel, Metadaten, Beschreibung, keine Medien heruntergeladen.",
+          "certainty": "Belegt",
+          "checkedOn": "2026-11-22"
+        }
+      }
+    },
+    {
       "id": "5UboW16rU1w",
       "title": "Lohnt sich Atomkraft? Der Reality-Check | Wirtschaft erklärt",
       "structured": true,
       "rhetoric": false,
       "files": [
+        "07_gewichtskontrolle.md",
         "README.md",
         "kapitel/01_zurueck-zur-atomkraft.md",
         "kapitel/02_stromverbrauch.md",
@@ -46,6 +76,7 @@
         "01_kurz.md",
         "02_analyse.md",
         "03_faktencheck.md",
+        "08_nachpruefung.md",
         "PRUEFPROTOKOLL.md",
         "README.md",
         "kapitel/01_klima.md",
@@ -80,6 +111,7 @@
       "structured": true,
       "rhetoric": false,
       "files": [
+        "07_gewichtskontrolle.md",
         "README.md",
         "kapitel/01_einleitung.md",
         "kapitel/02_warum-hoeher.md",
@@ -110,6 +142,7 @@
       "structured": true,
       "rhetoric": false,
       "files": [
+        "08_sprecherkontrolle.md",
         "README.md"
       ],
       "video": {
@@ -190,6 +223,7 @@
       "structured": true,
       "rhetoric": false,
       "files": [
+        "07_gewichtskontrolle.md",
         "README.md",
         "kapitel/01_zitat.md",
         "kapitel/02_lied.md"
@@ -231,6 +265,35 @@
           "basis": "Video-ID, Titel, Kanal, Upload am 22. April 2026 und Laufzeit von 130 Sekunden aus den YouTube-Metadaten geprüft. Der Wortwechsel steht auch in der vollständigen phoenix-Aufzeichnung.",
           "certainty": "Belegt",
           "checkedOn": "2026-11-20"
+        }
+      }
+    },
+    {
+      "id": "mbjI4fryvVU",
+      "title": "Erneuerbare Energie speichern: Innovation in den Niederlanden",
+      "structured": true,
+      "rhetoric": false,
+      "files": [
+        "03_einzelpruefungen.md",
+        "04_pruefprotokoll.md",
+        "07_gewichtskontrolle.md",
+        "README.md"
+      ],
+      "video": {
+        "schemaVersion": 1,
+        "videoId": "mbjI4fryvVU",
+        "role": "original",
+        "channel": "tagesschau",
+        "title": "Erneuerbare Energie speichern: Innovation in den Niederlanden",
+        "videoUrl": "https://www.youtube.com/watch?v=mbjI4fryvVU",
+        "publishedAt": "2026-04-08",
+        "durationSeconds": 311,
+        "workStatus": "Teilbestand geprüft",
+        "format": "video",
+        "identification": {
+          "basis": "ID, Titel, Kanal, Veröffentlichungsdatum und Laufzeit am 22.11.2026 mit dem vorgeschriebenen Import-YouTubeTranscript.ps1 und yt-dlp aus Originalmetadaten abgerufen; deutsche Captions vollständig gelesen. Nur Untertitel, Metadaten, Beschreibung, keine Medien heruntergeladen.",
+          "certainty": "Belegt",
+          "checkedOn": "2026-11-22"
         }
       }
     }

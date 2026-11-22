@@ -244,6 +244,11 @@
       "date": "2026-11-21",
       "agent": "ChatGPT",
       "change": "Erstzuordnung für den öffentlich gekennzeichneten Zwischenstand."
+    },
+    {
+      "date": "2026-11-22",
+      "agent": "Codex",
+      "change": "Themen nach neuer Captionlektüre, Originalinterviewkontext und visuellen Stichproben erneut geprüft; Publikationszuordnung bei A0005 präzisiert, kein neues Sachthema und kein geändertes Urteil."
     }
   ]
 }

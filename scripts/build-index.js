@@ -134,7 +134,7 @@ function statistics(data) {
 function writeOrCheck(file, obj) {
   const json = JSON.stringify(obj, null, 2) + '\n';
   const old = fs.existsSync(file) ? fs.readFileSync(file, 'utf8') : null;
-  if (old === json) return;
+  if (old !== null && old.replace(/\r\n/g, '\n') === json) return;
   if (CHECK) errors.push(path.relative(ROOT, file) + ' ist nicht aktuell; bitte `node scripts/build-index.js` ausführen.');
   else fs.writeFileSync(file, json);
 }

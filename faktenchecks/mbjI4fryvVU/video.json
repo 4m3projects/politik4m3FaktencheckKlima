@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "videoId": "mbjI4fryvVU",
+  "role": "original",
+  "channel": "tagesschau",
+  "title": "Erneuerbare Energie speichern: Innovation in den Niederlanden",
+  "videoUrl": "https://www.youtube.com/watch?v=mbjI4fryvVU",
+  "publishedAt": "2026-04-08",
+  "durationSeconds": 311,
+  "workStatus": "Teilbestand geprüft",
+  "format": "video",
+  "identification": {
+    "basis": "ID, Titel, Kanal, Veröffentlichungsdatum und Laufzeit am 22.11.2026 mit dem vorgeschriebenen Import-YouTubeTranscript.ps1 und yt-dlp aus Originalmetadaten abgerufen; deutsche Captions vollständig gelesen. Nur Untertitel, Metadaten, Beschreibung, keine Medien heruntergeladen.",
+    "certainty": "Belegt",
+    "checkedOn": "2026-11-22"
+  }
+}

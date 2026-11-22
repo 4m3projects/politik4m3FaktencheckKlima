@@ -1,0 +1,470 @@
+{
+  "schemaVersion": 1,
+  "videoId": "-rBUCkR4HuA",
+  "basis": "Redaktionelle Zuordnung aus dem vollständig gelesenen Captioninhalt und den einzeln erfassten Aussagen; kein Schluss allein aus dem Titel. Energiefremde Biografie-, Werbe-, Philosophie- und Geschichtsaussagen werden keinem künstlichen Energiethema zugeordnet.",
+  "topics": [
+    {
+      "topic": "energie",
+      "relevance": "Behandelt",
+      "basis": "Mehrere eigenständige Aussagen behandeln dieses Sachthema; die konkrete Zuordnung steht bei claims.",
+      "segments": []
+    },
+    {
+      "topic": "energie/atomkraft",
+      "relevance": "Behandelt",
+      "basis": "Mehrere eigenständige Aussagen behandeln dieses Sachthema; die konkrete Zuordnung steht bei claims.",
+      "segments": []
+    },
+    {
+      "topic": "energie/versorgungssicherheit",
+      "relevance": "Behandelt",
+      "basis": "Mehrere eigenständige Aussagen behandeln dieses Sachthema; die konkrete Zuordnung steht bei claims.",
+      "segments": []
+    },
+    {
+      "topic": "energie/preise",
+      "relevance": "Behandelt",
+      "basis": "Mehrere eigenständige Aussagen behandeln dieses Sachthema; die konkrete Zuordnung steht bei claims.",
+      "segments": []
+    },
+    {
+      "topic": "klima",
+      "relevance": "Behandelt",
+      "basis": "Mehrere eigenständige Aussagen behandeln dieses Sachthema; die konkrete Zuordnung steht bei claims.",
+      "segments": []
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "-rBUCkR4HuA-A0009",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0010",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0019",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0020",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0021",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0022",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0023",
+      "topics": [
+        "energie",
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0024",
+      "topics": [
+        "energie",
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0025",
+      "topics": [
+        "energie",
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0026",
+      "topics": [
+        "energie",
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0027",
+      "topics": [
+        "energie",
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0028",
+      "topics": [
+        "energie",
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0029",
+      "topics": [
+        "energie",
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0030",
+      "topics": [
+        "energie",
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0031",
+      "topics": [
+        "energie",
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0032",
+      "topics": [
+        "energie",
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0033",
+      "topics": [
+        "energie",
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0034",
+      "topics": [
+        "energie",
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0035",
+      "topics": [
+        "energie",
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0036",
+      "topics": [
+        "energie",
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0037",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0038",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0039",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0040",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0041",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0042",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0043",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0044",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0045",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0046",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0047",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0048",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0049",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0050",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0051",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0052",
+      "topics": [
+        "energie",
+        "klima"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0053",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0056",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0057",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0058",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0059",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0060",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0061",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0062",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0063",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0064",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0065",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0066",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0067",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0068",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0069",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0070",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0071",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0072",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0073",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0074",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0075",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0076",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0077",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0078",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0079",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0080",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0081",
+      "topics": [
+        "energie",
+        "klima"
+      ]
+    },
+    {
+      "claimId": "-rBUCkR4HuA-A0082",
+      "topics": [
+        "energie",
+        "energie/atomkraft"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-22",
+      "agent": "Codex",
+      "change": "Erstzuordnung nach vollständiger Captionlektüre. Vorhandene IDs verwendet; neue und bestehende Videos auf passende Themen abgeglichen."
+    },
+    {
+      "date": "2026-11-22",
+      "agent": "Codex – Gewichtskontrolle",
+      "change": "Bestehende Sachthemen nach vollständiger Originalcaptionlektüre bestätigt. Pauschale Energiezuordnung energiefremder Biografie-, Philosophie- und Geschichtsaussagen zur redaktionellen Bereinigung gemeldet; Ersterfassung übernimmt diese separat."
+    },
+    {
+      "date": "2026-11-22",
+      "agent": "Codex",
+      "change": "Pauschale Energiezuordnung energiefremder Aussagen entfernt; abgetrennte Energieaussagen A0081 und A0082 ergänzt."
+    }
+  ]
+}

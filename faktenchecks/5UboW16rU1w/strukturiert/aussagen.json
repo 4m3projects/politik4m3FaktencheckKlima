@@ -346,10 +346,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "00:27–00:31 eröffnet die Fremdposition die Debatte. Der anschließende Film untersucht diese Position; sie ist keine eigene wirtschaftliche Schlussfolgerung. Normale Bedeutung der Zitatdokumentation; die separate Nichtzurechnung bleibt bestehen. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -390,10 +408,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "01:14–01:20 nennt den Ausgangspunkt des Rückkehrszenarios. Das Abschaltdatum ist eine eigenständige Hintergrundangabe, kein wirtschaftliches Pro- oder Contraargument. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -438,10 +474,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "01:20–01:30 erklärt die bisherige Schließung der Erzeugungslücke. Die anschließenden Zukunftszahlen tragen die Bedarfsthese stärker; normale Bedeutung dieses Rückblicks. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -487,10 +541,28 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Begründet den Bedarf an neuer Erzeugung, ein Grundargument der Debatte.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "01:30–01:37 begründet die Nachfrageprognose den angenommenen künftigen Erzeugungsbedarf. Sie trägt die Fragestellung, beantwortet die Wirtschaftlichkeitsfrage aber noch nicht. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -531,10 +603,28 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Zentrale Zahl zur Versorgungslücke.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "01:39–01:46 quantifiziert die steuerbare Leistungslücke. Das ist neben A04 das zweite tragende Bedarfsargument und verdient dieselbe erhöhte Stufe. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -583,10 +673,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "01:46–01:55 übersetzt die bereits in A05 genannte Lücke in Anlagenzahlen. Die Veranschaulichung fügt eine Vergleichsrechnung hinzu; der Bedarfskern ist schon A05. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -631,10 +739,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "02:04–02:10 leitet die Auswahl möglicher Energieträger ein. Die Abhängigkeit ist Hintergrund, die spätere Krisenbegründung wird in A17/A18 entfaltet. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -675,10 +801,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "02:10–02:18 skizziert die Ausgangsfrage vor dem Auslandsüberblick. Das ausführlich erklärte Versorgungssicherheitsargument liegt in A13; diese kurze Vorwegnahme bleibt normal gewichtet. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -723,10 +867,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "02:28–02:32 ist ein Länderbeispiel des Auslandsüberblicks. Es trägt den Eindruck eines Comebacks, aber nicht allein die wirtschaftliche Bilanz für Deutschland. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -772,10 +934,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "02:30–02:36 ergänzt ein weiteres Land im selben Überblick. Dieselbe normale Stufe wie A09/A11 wahrt die Gleichbehandlung der Länderbeispiele. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -816,10 +996,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "02:35–02:41 ergänzt Japan als drittes Länderbeispiel. Kein einzelner Fall wird zur entscheidenden Wirtschaftlichkeitsrechnung gemacht; gleiche Stufe wie A09/A10. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -864,10 +1062,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "02:41–02:46 bündelt den Auslandsüberblick als politische Einordnung. Das Video fragt anschließend ausdrücklich erst nach der wirtschaftlichen Berechtigung eines deutschen Wiedereinstiegs. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -912,10 +1128,28 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Kernargument zur Versorgungssicherheit (Dunkelflauten).",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "03:17–03:36 erläutert das ausdrücklich erste Proargument, Versorgungssicherheit. Der Zusammenhang aus schwankender Erzeugung und Dunkelflauten trägt diesen Abschnitt. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -957,10 +1191,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "03:42–03:51 illustriert das vorherige Versorgungssicherheitsargument durch den morgendlichen Import. Die konkrete Tageszeit ist eine normale Stützzahl, nicht die Hauptthese des Films. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1001,10 +1253,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Abweichend",
+            "proposedWeight": 1.5,
+            "reason": "03:55–04:11 liefert Frankreich den unmittelbaren Gegenvergleich zur in A13 erhöht gewichteten deutschen Erzeugung. Dieser Vergleich begründet den in 04:11 gezogenen Stabilitätsvorteil; eine gleichfalls erhöhte Stufe 1,5 ist symmetrischer als 1,0. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Begründeter Dissens; eingetragener Faktor bleibt unverändert."
+          }
+        ]
       }
     },
     {
@@ -1076,10 +1347,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "04:15–04:19 eröffnet den zweiten Proabschnitt. Die allgemeine Importabhängigkeit ist seine Ausgangslage; die konkrete Krisenwirkung wird danach eigens erklärt. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1120,10 +1409,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "04:20–04:36 dient die zeitliche Preisfolge als Krisenbeispiel für die Unabhängigkeitsdebatte. Sie ist keine zentrale Stromgestehungskostenrechnung und bleibt normal gewichtet. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1199,10 +1506,28 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Zentrales Klima-Argument für Atomkraft.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "04:47–04:56 ist die direkte betriebliche Emissionsaussage die sachliche Grundlage des ausdrücklich dritten Proarguments Klima. Erhöhte Bedeutung wie bei A13. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1274,10 +1599,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "05:03–05:10 ergänzt die IAEA-Position den bereits in A20 erklärten Klimavorteil. Die zitierte Institution ist eine zusätzliche Stütze, keine neue selbständig ausgeführte Hauptrechnung. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1326,10 +1669,28 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Aufzählung der Reaktornamen als Hintergrund.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "05:23–05:30 benennt die Beispiele für die anschließende Bauzeitenrechnung. Die Namen sind Hintergrund; die für die Bilanz wichtigen Verzögerungen werden getrennt in A24 erfasst. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1386,10 +1747,28 @@
       "factIndex": {
         "weight": 2,
         "weightReason": "Bauzeitverzögerungen sind ein Hauptargument der Bilanz gegen neue Atomkraftwerke.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "05:27–05:59 ist der ausführliche Drei-Reaktoren-Vergleich die Antwort auf das erste Contraargument Bauzeit. Die Kapitelargumentation und die spätere Bilanz stützen sich unmittelbar darauf. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1430,10 +1809,28 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Humorvoller Nebenvergleich mit dem Flughafen BER.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "06:03–06:20 ist der BER-Vergleich eine humorvolle Veranschaulichung. Er ersetzt weder die Reaktorbauzeiten noch die anschließende wirtschaftliche Rechnung. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1506,10 +1903,28 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Vergleichsbasis der Kostenrechnung (Betriebskosten).",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "06:35–06:50 eröffnet die Betriebskostenangabe die eigentliche Kostenrechnung. Ohne diese Vergleichsbasis wäre der nachfolgende Wechsel zu Vollkosten nicht verständlich. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1551,10 +1966,28 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Vergleichsbasis der Kostenrechnung (Solarstrom).",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "06:47–06:50 wird Solarstrom direkt der Betriebskostenangabe aus A27 gegenübergestellt. Beide Seiten desselben Kostenvergleichs erhalten dieselbe erhöhte Stufe. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1595,10 +2028,28 @@
       "factIndex": {
         "weight": 2,
         "weightReason": "Kostensteigerung bei Flamanville ist ein zentrales Beispiel der Kostenbilanz.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "07:04–07:20 macht das Flamanville-Beispiel die Bedeutung der Baukosten für die Wirtschaftlichkeitsfrage konkret. Der Film nutzt es ausdrücklich als Übergang zu den gesamten Stromgestehungskosten. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1643,10 +2094,28 @@
       "factIndex": {
         "weight": 2,
         "weightReason": "Stromgestehungskosten inklusive Bau sind die Kernzahl der Kostenfrage im Titel.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "07:25–07:43 ist die genannte Vollkostenspanne die zentrale Zahlenantwort auf die Wirtschaftlichkeitsfrage. Dass die Rechnung als Modell bezeichnet wird, ändert ihre zentrale argumentative Rolle nicht. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1687,10 +2156,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "07:43–07:50 leitet der Hinweis auf noch fehlende Entsorgungskosten zum nächsten Contraabschnitt über. Die normale Stufe berücksichtigt die eigenständige Einschränkung, ohne die gesamte Kostenrechnung erneut zu gewichten. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1731,10 +2218,28 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Kernaussage zur Endlagerfrage.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "07:52–08:03 veranschaulicht das finnische Endlager den Stand der Entsorgung. Es ist zusammen mit A34 das sachliche Fundament des dritten Contraarguments. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1775,10 +2280,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "08:03–08:07 erklärt die Zeitdimension des Entsorgungsproblems. Die kurze Zusatzangabe stützt A32/A34, ist aber kein eigener zentraler wirtschaftlicher Rechenweg. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1823,10 +2346,28 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Kernaussage zur Endlagerfrage in Deutschland.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "08:07–08:14 stellt der Film den übrigen Staaten und Deutschland das finnische Beispiel gegenüber. Gleiche erhöhte Stufe wie A32 für beide Seiten dieses Entsorgungsvergleichs. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1904,10 +2445,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "08:26–08:32 ergänzt die Kostenträgerschaft den Endlagerabschnitt. Die Größenordnung wird nicht berechnet; die eigentliche Wirtschaftlichkeitsrechnung bleibt A27–A30. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -1952,10 +2511,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "08:32–08:40 ist das Katastrophenrisiko ein zusätzlicher qualitativer Kostenvorbehalt. Es wird in diesem Film nicht zum Hauptargument mit eigener Zahl oder Berechnung ausgebaut. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -2000,10 +2577,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "09:12–09:23 beschreibt das Herstellungsprinzip der SMR als Zusatzoption. Die Definition bleibt eigenständig, beantwortet aber noch nicht die wirtschaftliche Hauptfrage. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -2044,10 +2639,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "09:33–09:50 nennt Förderung und geplanten Start als Kontext der SMR-Option. Der Film stellt diese Pläne danach ausdrücklich unter einen offenen Realisierungsvorbehalt. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -2096,10 +2709,28 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "09:51–09:57 illustriert die Betriebszahl den frühen Technologiestand. Sie ist eine normale sachliche Stütze der anschließenden offenen Einschätzung, kein Beweis für eine bestimmte Wirtschaftlichkeit. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {
@@ -2171,10 +2802,28 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Schlussargument der Bilanz (frühere Betreiber halten Atomkraft für unwirtschaftlich).",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex – Gewichtskontrolle",
+            "date": "2026-11-22",
+            "result": "Bestätigt",
+            "reason": "10:18–10:28 ist die Betreiberposition Teil der abschließenden Antwort auf die Titelfrage. Sie fasst die wirtschaftliche Bilanz zusammen, bleibt aber neben den vorherigen Rechnungen ein Stützargument. Grundlage: am 22.11.2026 neu importierte deutsche Original-Captions und Videobeschreibung; kein eigener Bild-/Tonabgleich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-22",
+            "agent": "Codex – Gewichtskontrolle",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          }
+        ]
       }
     },
     {

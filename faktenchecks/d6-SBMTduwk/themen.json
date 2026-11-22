@@ -75,6 +75,11 @@
       "date": "2026-11-20",
       "agent": "Claude",
       "change": "Erstzuordnung von 8 von 8 Aussagen zu Themen (war beim Aufbau der Klimaseite vergessen worden); keine Bewertung geändert."
+    },
+    {
+      "date": "2026-11-22",
+      "agent": "Codex – Gewichtskontrolle",
+      "change": "Themen anhand neu importierter vollständiger Original-Captions für die Gewichtskontrolle geprüft. Zuordnung unverändert; keine neue öffentliche Kategorie."
     }
   ]
 }
