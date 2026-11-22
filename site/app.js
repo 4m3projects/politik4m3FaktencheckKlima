@@ -27,7 +27,7 @@ const STATUS = [
 ];
 const VKEY = Object.fromEntries(VERDICTS.map(v => [v.name, v.key]));
 
-const state = { index: null, videos: new Map(), md: new Map(), tip: null, cleanup: null, relations: { relations: [] }, rel: null };
+const state = { index: null, pendingVideos: [], videos: new Map(), md: new Map(), tip: null, cleanup: null, relations: { relations: [] }, rel: null };
 
 /* ---------- Hilfsfunktionen ---------- */
 
@@ -607,6 +607,68 @@ function roleLine(v) {
   return `<p class="role-line">${shortBadge(v)}<span class="badge kind">${esc(reactionTypeName(m.reactionType))}</span> von ${channelLink(m.channel)}${origs.length ? ` · bezieht sich auf: ${origs.join(', ')}` : ''}</p>`;
 }
 
+
+/* Einreichungen ohne verifizierten Videoinhalt sind KEINE geprüften Faktenchecks.
+   Sie stehen getrennt von Index, Ampel, Themen und Rangliste.
+   Sobald ein gültiger Video-Datensatz vorhanden ist, entfällt die Vormerkung automatisch. */
+function pendingVideoItems() {
+  const verified = new Set((state.index?.videos || []).map(v => v.id));
+  return (state.pendingVideos || []).filter(v => /^[A-Za-z0-9_-]{11}$/.test(v.id) && !verified.has(v.id));
+}
+function pendingVideoCards() {
+  const items = pendingVideoItems();
+  if (!items.length) return '';
+  return `<section class="section" id="eingereichte-videos" aria-labelledby="h-eingereicht">
+    <div class="section-head"><h2 id="h-eingereicht">Zur Prüfung eingereicht</h2><p>Diese Videos sind öffentlich vorgemerkt, aber noch nicht sachlich geprüft. Sie zählen nicht zu den geprüften Videos und erhalten keine Ampel.</p></div>
+    <div class="cards">${items.map(v => `<a class="card" href="#/eingereicht/${esc(v.id)}">
+      <div class="claim-top"><span class="badge plain">Prüfung ausstehend</span></div>
+      <h3>${esc(v.title || 'Eingereichtes YouTube-Video')}</h3>
+      <p class="small">${esc(v.titleStatus || 'Videometadaten noch nicht bestätigt')}</p>
+      <p>${esc(v.statusNote || 'Noch keine überprüften Aussagen.')}</p>
+      <span class="more">Video und Prüfauftrag ansehen →</span>
+    </a>`).join('')}</div>
+  </section>`;
+}
+function pagePendingVideo(id) {
+  const v = pendingVideoItems().find(item => item.id === id);
+  if (!v) { location.hash = '#/'; return; }
+  const url = safeUrl(v.videoUrl);
+  const issue = safeUrl(v.issueUrl);
+  const target = 'eingereicht-player';
+  setPage(`<div class="wrap">
+    <section class="section">
+      <p class="small"><a href="#/">← Zur Startseite</a> · Zur Prüfung eingereicht</p>
+      <h1>${esc(v.title || 'Eingereichtes YouTube-Video')}</h1>
+      <p class="notice todo"><strong>Keine abgeschlossene Prüfung:</strong> ${esc(v.statusNote || 'Videoinhalt nicht geprüft.')}</p>
+      <p>${esc(v.titleStatus || 'Videometadaten noch nicht bestätigt.')}</p>
+      <div class="vc-frame" id="${target}" style="max-width:900px; margin: 20px 0;">
+        <div class="vc-consent" id="eingereicht-consent">
+          <h2>Originalvideo auf YouTube ansehen</h2>
+          <p>Erst nach deinem Klick wird der YouTube-Player im erweiterten Datenschutzmodus geladen. Dein Browser verbindet sich dann mit YouTube (Google) und übermittelt mindestens deine IP-Adresse und technische Gerätedaten. YouTube kann Cookies oder ähnliche Speicher nutzen. Vorher wird nichts an YouTube übertragen.</p>
+          <div class="btn-row"><button type="button" class="btn" id="eingereicht-load">▶ Video laden</button>
+          ${url ? extLink(url, '<span class="btn ghost">Auf YouTube öffnen</span>') : ''}</div>
+        </div>
+      </div>
+      <h2>Aktueller Prüfstand</h2>
+      <p>Die Video-ID und URL wurden eingereicht. Titel, Kanal, Laufzeit, Inhalt, Sprecher, Zeitmarken und Sachbehauptungen sind noch nicht unabhängig bestätigt. Es existiert deshalb bewusst keine Aussagenstatistik, kein Faktenindex und keine grüne, gelbe oder rote Ampel.</p>
+      ${issue ? `<p>${extLink(issue, 'Öffentliches Prüfprotokoll und Aufgaben auf GitHub öffnen')}</p>` : ''}
+      <p class="small">Ein verifizierter Faktencheck ersetzt diese Vormerkung automatisch, sobald er unter den regulären Video-Daten veröffentlicht wird.</p>
+    </section>
+  </div>`, 'start');
+  document.title = (v.title || 'Videoprüfung ausstehend') + ' – Politik4M3 Faktencheck';
+  document.getElementById('eingereicht-load')?.addEventListener('click', () => {
+    const frame = document.getElementById(target);
+    if (!frame || !url) return;
+    const iframe = document.createElement('iframe');
+    iframe.src = 'https://www.youtube-nocookie.com/embed/' + encodeURIComponent(v.id);
+    iframe.title = 'YouTube-Video ' + v.id;
+    iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+    iframe.allowFullscreen = true;
+    iframe.referrerPolicy = 'strict-origin-when-cross-origin';
+    frame.replaceChildren(iframe);
+  });
+}
+
 /* ---------- Seiten ---------- */
 
 const main = () => document.getElementById('inhalt');
@@ -757,6 +819,7 @@ async function pageHome() {
       ${cards ? thumbPrompt() : ''}
       <div class="cards">${cards || '<p class="muted">Noch keine Video-Faktenchecks veröffentlicht. Die ersten Analysen werden vorbereitet.</p>'}</div>
     </section>
+    ${pendingVideoCards()}
     ${all.length ? progressOverview(all) : ''}
     <section class="section" aria-labelledby="h-team">
       <div class="section-head"><h2 id="h-team">Wer steckt dahinter?</h2></div>
@@ -1449,6 +1512,8 @@ async function routePage() {
   try {
     if (!state.index) {
       state.index = await getJson('index.json');
+      const pendingFile = await getJson('eingereichte-videos.json').catch(() => ({ videos: [] }));
+      state.pendingVideos = Array.isArray(pendingFile.videos) ? pendingFile.videos : [];
       const b = document.getElementById('build-info');
       if (b && state.index.commit) {
         b.innerHTML = `Erzeugt am ${esc(deDate(state.index.generated))} aus Commit <a href="${esc(repoUrl())}/commit/${esc(state.index.commit)}" rel="noopener noreferrer" target="_blank">${esc(state.index.commit.slice(0, 7))}</a>`;
@@ -1465,6 +1530,7 @@ async function routePage() {
       if (typeof FactCounter !== 'undefined') state.counter = FactCounter.buildIndex(state.relations, state.wissen?.raw?.entries || []);
       updateThumbSetting();
     }
+    if (parts[0] === 'eingereicht' && parts[1]) return pagePendingVideo(parts[1]);
     if (parts[0] === 'video' && parts[1]) {
       if (parts[2] === 'video') return await pageVideoSync(parts[1], { autostart: parts[3] === 'start' });
       if (parts[2] === 'bericht') return await pageReport(parts[1], parts.slice(3).join('/'));
