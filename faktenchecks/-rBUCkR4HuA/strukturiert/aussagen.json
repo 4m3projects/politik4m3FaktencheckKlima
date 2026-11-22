@@ -7,7 +7,7 @@
     "asOf": "2026-11-22",
     "durationSeconds": 4191,
     "coverageNote": "Deutsche Originalcaptions über die gesamte Laufzeit gelesen; Sachbehauptungen, Selbstauskünfte, Wertungen und Prognosen getrennt. Die berechnete Abdeckung bezieht sich auf den erfassten Bestand. Ausschließlich eingeblendete Aussagen und Originalton sind nicht lückenlos kontrolliert.",
-    "researchNote": "Gezielte Wissenssuche, Primärquellen und Gegenrecherche. Der Status bleibt Teilbestand geprüft; Originalton, alle kurzzeitigen Einblendungen und nicht entscheidbare Einzelbezüge bleiben ausdrücklich offen. Redaktionelle Nachkontrolle trennte Zukunftsappell, politische Tatsachenbehauptung, Buchautorenschaft und private Anekdote; keine Bewertung eines erfundenen stärkeren Aussagegehalts."
+    "researchNote": "Gezielte Wissenssuche, Primärquellen und Gegenrecherche. Der Status bleibt Teilbestand geprüft; Originalton, alle kurzzeitigen Einblendungen und nicht entscheidbare Einzelbezüge bleiben ausdrücklich offen. Redaktionelle Nachkontrolle trennte Zukunftsappell, politische Tatsachenbehauptung, Buchautorenschaft und private Anekdote; keine Bewertung eines erfundenen stärkeren Aussagegehalts. Nachprüfung am 22.11.2026: 16 zuvor offene Sachfragen anhand neu gelesener Originalquellen eingeordnet; übrige Fragen bleiben offen. Kein neuer vollständiger Hör-/Bildabgleich. Bestehende abgeschlossene Urteile, Gewichte und Kontrollvermerke unverändert."
   },
   "speakers": [
     {
@@ -311,6 +311,204 @@
       "accessedOn": "2026-11-22",
       "accessBasis": "Originalseite bzw. Original-PDF geöffnet, genannte Abschnitte gelesen.",
       "kind": "Primärquelle"
+    },
+    {
+      "id": "Q33",
+      "title": "Piccardi et al.: Reranking partisan animosity, Science 2025",
+      "url": "https://culture-emotion-lab.stanford.edu/sites/culture_emotion_lab/files/media/file/science.adu5584.pdf",
+      "details": "Ergebnisabschnitt: experimentell veränderte Exposition gegenüber antidemokratischen und parteifeindlichen Inhalten auf X verändert affektive Polarisierung. Kein Beweis eines gleichen Effekts aller Medien.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die in details genannten Abschnitte gelesen; Suchtreffer allein nicht als Beleg verwendet."
+    },
+    {
+      "id": "Q34",
+      "title": "PNAS: Short-term exposure to filter-bubble recommendation systems, 2025",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2318127122",
+      "details": "Abstract: Über 130000 manipulierte Empfehlungen und 31000 Interaktionen; kurzfristige YouTube-Eingriffe zeigen begrenzte kausale Effekte auf politische Einstellungen. Gegenbefund zur Verallgemeinerung.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die in details genannten Abschnitte gelesen; Suchtreffer allein nicht als Beleg verwendet."
+    },
+    {
+      "id": "Q35",
+      "title": "NDR: Geschichte des Fernsehens",
+      "url": "https://www.ndr.de/geschichte/schauplaetze/Bewegte-Bilder-Die-Geschichte-des-Fernsehens,fernsehen240.html",
+      "details": "Abschnitt Privatfernsehen: Beginn von RTL und Sat.1 im Jahr 1984. Rundfunkhistorische Darstellung des beteiligten öffentlich-rechtlichen Senders.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die in details genannten Abschnitte gelesen; Suchtreffer allein nicht als Beleg verwendet."
+    },
+    {
+      "id": "Q36",
+      "title": "CERN: Internet prehistory at CERN",
+      "url": "https://home.cern/internet-prehistory-cern/",
+      "details": "Zeitzeugenbericht zur Vernetzung: Kommunikationsgruppe 1983, Internet-Infrastruktur am CERN 1989 für die Entstehung des Web bereit. Technische Netze sind vom späteren Massenmedium zu unterscheiden.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die in details genannten Abschnitte gelesen; Suchtreffer allein nicht als Beleg verwendet."
+    },
+    {
+      "id": "Q37",
+      "title": "Auschwitz-Birkenau: Erinnerung an Maria Podstawna, 1.3.2018",
+      "url": "https://www.auschwitz.org/en/museum/news/a-childs-dress-a-family-memento-of-a-former-prisoner-born-in-the-camp-donated-to-the-museum-collections,1300.html",
+      "details": "Absätze zur Geburt: Maria Romik/Podstawna wurde am 22.7.1943 in Auschwitz geboren und überlebte; Gegenbeispiel zum unbeschränkten Altersrekord der 1942 geborenen Eva Umlauf.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die in details genannten Abschnitte gelesen; Suchtreffer allein nicht als Beleg verwendet."
+    },
+    {
+      "id": "Q38",
+      "title": "Internationales Auschwitz Komitee: Eva Umlauf zur Präsidentin gewählt",
+      "url": "https://www.auschwitz.info/en/press/press-informations/press-information-single/lesen/auschwitz-survivor-eva-umlauf-elected-as-president-of-the-international-auschwitz-committee-3182.html",
+      "details": "Die eigene Organisation bezeichnet Umlauf als eine der jüngsten Überlebenden, nicht als nachgewiesen jüngste aller Überlebenden.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die in details genannten Abschnitte gelesen; Suchtreffer allein nicht als Beleg verwendet."
+    },
+    {
+      "id": "Q39",
+      "title": "Deutsches Historisches Museum: Maji-Maji-Krieg",
+      "url": "https://www.dhm.de/lemo/kapitel/kaiserreich/aussenpolitik/maji-maji-krieg",
+      "details": "Einführung: Koloniale Kopfsteuer führte zur Zwangsarbeit und Umsiedlung in Plantagengebiete; belegt einen konkreten kolonialen Ausbeutungsmechanismus.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die in details genannten Abschnitte gelesen; Suchtreffer allein nicht als Beleg verwendet."
+    },
+    {
+      "id": "Q40",
+      "title": "Wissenschaftliche Dienste: Beteiligung am Sklavenhandel, 2021",
+      "url": "https://www.bundestag.de/resource/blob/849330/9417c622aca567e63c23276fb7cb697f/WD-1-007-21-pdf-2-.pdf",
+      "details": "Abschnitt 2.1, gedruckte Seite 4: transatlantischer Handel seit dem 16. Jahrhundert und europäische Handelsmächte. Dokumentation, kein Beschluss des Bundestages und keine quantitative Bilanz sämtlicher Kolonialgewinne.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die in details genannten Abschnitte gelesen; Suchtreffer allein nicht als Beleg verwendet."
+    },
+    {
+      "id": "Q41",
+      "title": "RWTH Aachen: Endkundenpreise für Luft-Wasser-Wärmepumpen, 2025",
+      "url": "https://publications.rwth-aachen.de/record/1013092/files/1013092.pdf",
+      "details": "Abschnitt 2: zwei Octopus-Angebote für 8 kW Heizlast, Februar 2025; 29719 Euro Deutschland und 12095 Euro UK. Abschnitt 3 warnt vor Repräsentativität von Einzelangeboten. Kein vollständiger aktueller Vergleich mit den Niederlanden. Zusammenarbeit mit einem Anbieter ist offengelegt.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die in details genannten Abschnitte gelesen; Suchtreffer allein nicht als Beleg verwendet."
+    },
+    {
+      "id": "Q42",
+      "title": "WDR: Ranga Yogeshwar in Fukushima, 4.11.2014",
+      "url": "https://presse.wdr.de/plounge/tv/das_erste/2014/11/20141104_fukushima_%24galerie_1.html",
+      "details": "Pressemitteilung des produzierenden Senders: erstes ausländisches Reporterteam mit diesem freien und selbstständigen Reaktordrehzugang; keine uneingeschränkte journalistische Weltpremiere jedes Fukushima-Besuchs.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die in details genannten Abschnitte gelesen; Suchtreffer allein nicht als Beleg verwendet."
+    },
+    {
+      "id": "Q43",
+      "title": "Britische Regierung: Civil nuclear roadmap to 2050, 2024",
+      "url": "https://www.gov.uk/government/publications/civil-nuclear-roadmap-to-2050/civil-nuclear-roadmap-to-2050-accessible-webpage",
+      "details": "Abschnitt Nuclear Skills Taskforce: gemeinsame Fachkräfte- und Fähigkeitsplanung ziviler und militärischer Nuklearsektoren. Konkreter Beleg für UK, kein Nachweis identischer Motive aller Kernkraftstaaten.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die in details genannten Abschnitte gelesen; Suchtreffer allein nicht als Beleg verwendet."
+    },
+    {
+      "id": "Q44",
+      "title": "IAEA: Iran, GOV/2025/50, 3.9.2025",
+      "url": "https://www.iaea.org/sites/default/files/documents/gov2025-50.pdf",
+      "details": "Abschnitte zu Anreicherungsanlagen, Sicherungszugang und Zusammenfassung, insbesondere Absatz 36: hoch angereicherte Bestände und Verifikationsprobleme vor bzw. nach Juni 2025. Historischer Risikobeleg, keine Behauptung aktuellen Anlagenbetriebs im Oktober 2026 oder einer nachgewiesenen iranischen Atombombe.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die in details genannten Abschnitte gelesen; Suchtreffer allein nicht als Beleg verwendet."
+    },
+    {
+      "id": "Q45",
+      "title": "IAEA: Radiation, People and the Environment, 2004",
+      "url": "https://www.iaea.org/sites/default/files/radiation0204.pdf",
+      "details": "Kapitel 13, gedruckte Seiten 59–60: radiologische Notfälle, Goiânia und vier Todesfälle durch eine radioaktive Quelle sowie nukleare Notfälle. Folgen hängen von Aktivität, Stoff, Freisetzung und Exposition ab, nicht allein von Materialmasse.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die in details genannten Abschnitte gelesen; Suchtreffer allein nicht als Beleg verwendet."
+    },
+    {
+      "id": "Q46",
+      "title": "IAEA: Fast Reactor Research and Technology Development, 2008",
+      "url": "https://www.iaea.org/sites/default/files/gc/gc52inf-3-att6_en.pdf",
+      "details": "Seite 1, Abschnitt A.1: Erbrüten spaltbaren Materials, Wiederaufarbeitung und Schließen des Brennstoffkreislaufs; bestimmte langlebige Nuklide können genutzt werden. Keine vollständige Beseitigung jedes radioaktiven Abfalls. Nur zeitstabile technische Definition verwendet.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die in details genannten Abschnitte gelesen; Suchtreffer allein nicht als Beleg verwendet."
+    },
+    {
+      "id": "Q47",
+      "title": "ADAC: Winter-Reichweitentest 2026",
+      "url": "https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/elektroauto/elektroauto-reichweite-im-winter-adac-test-2026/",
+      "details": "Abschnitt 400 und 800 Volt: getestete Fahrzeuge laden in 20 Minuten Energie für 150 bis 300 Kilometer nach. Prüfstand, Fahrzeugmodell, Temperatur und Ladeinfrastruktur begrenzen die Übertragung; keine Garantie für jede Toilettenpause.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die in details genannten Abschnitte gelesen; Suchtreffer allein nicht als Beleg verwendet."
+    },
+    {
+      "id": "Q48",
+      "title": "Universität Stuttgart: Umweltwirkung eines Tempolimits, 15.2.2023",
+      "url": "https://www.isv.uni-stuttgart.de/vuv/publikationen/downloads/ISV_2023_UBA-FV_Erlaeuterungen_Tempolimit_20230215.pdf",
+      "details": "Gedruckte Seite 6, Wirkungen auf die Reisezeit: Szenario 120/80 erhöht mittlere tägliche Pkw-Reisezeit um etwa 1,4 Minuten; Einzelbeispiel 100 km bei 120 statt 140 km/h rund sieben Minuten mehr. Modellierung, keine Messung jeder Fahrt und keine Rechnung für jedes andere Tempolimit.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die in details genannten Abschnitte gelesen; Suchtreffer allein nicht als Beleg verwendet."
+    },
+    {
+      "id": "Q49",
+      "title": "EU-Kommission: Abbau umweltschädlicher Subventionen",
+      "url": "https://environment.ec.europa.eu/economy-and-finance/phasing-out-environmentally-harmful-subsidies_en",
+      "details": "Overview: Achtes Umweltaktionsprogramm strebt Abbau umweltschädlicher Subventionen einschließlich fossiler Förderungen an. Belegt die politische Zielrichtung, kein bereits wirksames Pauschalverbot jeder Förderung.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die in details genannten Abschnitte gelesen; Suchtreffer allein nicht als Beleg verwendet."
+    },
+    {
+      "id": "Q50",
+      "title": "EIA: Electric Power Annual, Tabelle 4.6, Daten 2025",
+      "url": "https://www.eia.gov/electricity/annual/table.php?t=epa_04_06.html",
+      "details": "Veröffentlichung 21.10.2026. Nameplate additions: Solar 29644,6 MW, Wind 6272,2 MW, übrige einzeln ausgewiesene Erneuerbare 35,3 MW; Gesamt 57729,2 MW einschließlich 16448,2 MW Other Energy Sources. Der Nenner einschließlich Speicher unterscheidet sich vom reinen Erzeugerzubau; kein Strommengenanteil. Bericht kann nach dem unbekannten Aufnahmetag erschienen sein, wird rückblickend für 2025 genutzt.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die in details genannten Abschnitte gelesen; Suchtreffer allein nicht als Beleg verwendet."
+    },
+    {
+      "id": "Q51",
+      "title": "Bundesnetzagentur/SMARD: Herausforderung Solarspitzen, 2025",
+      "url": "https://www.smard.de/page/home/topic-article/444/216808/herausforderung-solarspitzen",
+      "details": "Abschnitte zu Netzstabilität, Steuerbarkeit und Pflicht zur Abschaltung von Erzeugungsanlagen bei drohendem Ungleichgewicht. Belegt Regelungsbedarf bei Überschüssen, keine Prognose, dass sämtliche Leitungen zwangsläufig zerstört werden.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die in details genannten Abschnitte gelesen; Suchtreffer allein nicht als Beleg verwendet."
+    },
+    {
+      "id": "Q52",
+      "title": "Bundesregierung: Pressekonferenz vom 7.10.2026",
+      "url": "https://www.bundesregierung.de/breg-de/aktuelles/regierungspressekonferenz-vom-7-oktober-2026-2456164",
+      "details": "Frage nach stärkerer Neuzulassung von Verbrennern nach 2035: Regierungssprecher bestätigt entsprechende Koalitionsposition. Eine deutsch-französische Verständigung wird an diesem Tag nicht kommentiert. Politische Forderung ist kein abgeschlossener EU-Gesetzgebungsakt.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die in details genannten Abschnitte gelesen; Suchtreffer allein nicht als Beleg verwendet."
+    },
+    {
+      "id": "Q53",
+      "title": "IAEA: Fundamental Safety Principles, SF-1, 2006",
+      "url": "https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1273_web.pdf",
+      "details": "Vorwort und Sicherheitsziel: Schutz vor Strahlenfolgen; Sicherheitsregeln, Aufsicht und konsequente Anwendung sind für Kerntechnik erforderlich. Zeitstabile Grundprinzipien, keine aktuelle Unfallwahrscheinlichkeit.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die in details genannten Abschnitte gelesen; Suchtreffer allein nicht als Beleg verwendet."
+    },
+    {
+      "id": "Q54",
+      "title": "UBA: Tempolimit auf Autobahnen, 14.10.2021",
+      "url": "https://www.umweltbundesamt.de/system/files/medien/366/dokumente/uba-kurzpapier_tempolimit_autobahnen_kliv_0.pdf",
+      "details": "Seiten 1–2: Deutschland als einziges Land der EU/OECD/G20 ohne allgemeines Autobahnlimit; nennt zugleich Ausnahmen außerhalb dieser Vergleichsgruppen. Historischer Überblick, kein weltweiter aktueller Rechtsvergleich.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "In dieser Nachprüfung direkt geöffnet und den Ländervergleich gelesen; nicht als aktuelles weltweites Rechtskataster verwendet."
     }
   ],
   "claims": [
@@ -720,10 +918,10 @@
       "id": "-rBUCkR4HuA-A0007",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
       "description": "Aufmerksamkeitsökonomie verschärfe die gesellschaftliche Polarisierung.",
-      "reason": "Passend abgegrenzte empirische Studien zum behaupteten kausalen Medieneffekt noch zu prüfen.",
+      "reason": "Experimentelle Forschung stützt, dass die Auswahl parteifeindlicher Inhalte auf X affektive Polarisierung beeinflussen kann. Ein YouTube-Experiment findet dagegen begrenzte kurzfristige Effekte auf politische Einstellungen. Der Mechanismus ist plausibel und für bestimmte Kontexte kausal gestützt; ein gleicher gesamtgesellschaftlicher Effekt sämtlicher Medien und Geschäftsmodelle ist damit nicht nachgewiesen.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -743,10 +941,18 @@
         {
           "sourceId": "V001",
           "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q33",
+          "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q34",
+          "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
         }
       ],
       "research": {
-        "confidence": "Offen",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -754,12 +960,19 @@
             "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
             "sourceIds": [],
             "result": "Passend abgegrenzte empirische Studien zum behaupteten kausalen Medieneffekt noch zu prüfen."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Nachprüfung des vorhandenen offenen Inventars: gezielte Wissenssuche auch mit HP/UG, erneuter Originalcaption-Import und Lektüre der betreffenden Gesprächsintervalle, direkte Primärquellenlektüre und Abgleich der Reichweite. Vorhandene Bewertungen sind keine Belege.",
+            "sourceIds": [
+              "Q33",
+              "Q34"
+            ],
+            "result": "Experimentelle Forschung stützt, dass die Auswahl parteifeindlicher Inhalte auf X affektive Polarisierung beeinflussen kann. Ein YouTube-Experiment findet dagegen begrenzte kurzfristige Effekte auf politische Einstellungen. Der Mechanismus ist plausibel und für bestimmte Kontexte kausal gestützt; ein gleicher gesamtgesellschaftlicher Effekt sämtlicher Medien und Geschäftsmodelle ist damit nicht nachgewiesen."
           }
         ]
       },
-      "openQuestions": [
-        "Passend abgegrenzte empirische Studien zum behaupteten kausalen Medieneffekt noch zu prüfen."
-      ],
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",
@@ -794,16 +1007,17 @@
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
           }
         ]
-      }
+      },
+      "shortReason": "Experimente zeigen Polarisierungseffekte in bestimmten Kontexten, aber keinen einheitlichen Effekt sämtlicher Medien."
     },
     {
       "id": "-rBUCkR4HuA-A0008",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
       "description": "Zu Beginn seiner Fernseharbeit gab es drei Programme, kein Privatfernsehen und kein Internet.",
-      "reason": "Vita: journalistischer Beginn 1983, WDR 1987. Gemeinte Startphase und Begriffe noch historisch abzugleichen.",
+      "reason": "Der Rückblick auf eine deutlich kleinere Fernsehlandschaft ist im Kern zutreffend. Die Vita nennt journalistische Arbeit ab 1983 und den WDR ab 1987; private deutsche Sender starteten bereits 1984. Technische Computernetze existierten schon vor dem späteren Massenmedium Web. Ohne genaue Datierung seines ersten Fernsehbeitrags lassen sich die drei Teilangaben nicht pauschal auf den WDR-Eintritt übertragen.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -826,11 +1040,19 @@
         },
         {
           "sourceId": "Q01",
-          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+          "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q35",
+          "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q36",
+          "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
         }
       ],
       "research": {
-        "confidence": "Offen",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -840,12 +1062,20 @@
               "Q01"
             ],
             "result": "Vita: journalistischer Beginn 1983, WDR 1987. Gemeinte Startphase und Begriffe noch historisch abzugleichen."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Nachprüfung des vorhandenen offenen Inventars: gezielte Wissenssuche auch mit HP/UG, erneuter Originalcaption-Import und Lektüre der betreffenden Gesprächsintervalle, direkte Primärquellenlektüre und Abgleich der Reichweite. Vorhandene Bewertungen sind keine Belege.",
+            "sourceIds": [
+              "Q01",
+              "Q35",
+              "Q36"
+            ],
+            "result": "Der Rückblick auf eine deutlich kleinere Fernsehlandschaft ist im Kern zutreffend. Die Vita nennt journalistische Arbeit ab 1983 und den WDR ab 1987; private deutsche Sender starteten bereits 1984. Technische Computernetze existierten schon vor dem späteren Massenmedium Web. Ohne genaue Datierung seines ersten Fernsehbeitrags lassen sich die drei Teilangaben nicht pauschal auf den WDR-Eintritt übertragen."
           }
         ]
       },
-      "openQuestions": [
-        "Vita: journalistischer Beginn1983, WDR1987. Gemeinte Startphase und Begriffe noch historisch abzugleichen."
-      ],
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",
@@ -880,7 +1110,8 @@
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
           }
         ]
-      }
+      },
+      "shortReason": "Privatfernsehen startete 1984 vor seinem WDR-Eintritt 1987; technische Netze und späteres Masseninternet sind zu unterscheiden."
     },
     {
       "id": "-rBUCkR4HuA-A0009",
@@ -1162,10 +1393,10 @@
       "id": "-rBUCkR4HuA-A0013",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
       "description": "Eva Umlauf sei die jüngste Auschwitz-Überlebende.",
-      "reason": "Die Gedenkstätte belegt ihre frühe Kindheit, aber keinen Rekord aller Überlebenden. Reichweite und jüngere Überlebende noch prüfen.",
+      "reason": "Umlauf gehört zu den jüngsten Auschwitz-Überlebenden, wie ihr eigenes Komitee formuliert. Der unbeschränkte Superlativ im Captionkontext trifft jedoch nicht zu: Die Gedenkstätte dokumentiert die 1943 in Auschwitz geborene und überlebende Maria Romik/Podstawna; Umlauf wurde 1942 geboren. Eine mögliche jüngste Teilnehmerin einer bestimmten Gedenkfeier wäre eine andere, hier nicht genannte Einschränkung.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -1189,10 +1420,18 @@
         {
           "sourceId": "Q19",
           "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q37",
+          "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q38",
+          "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
         }
       ],
       "research": {
-        "confidence": "Offen",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -1202,12 +1441,19 @@
               "Q19"
             ],
             "result": "Die Gedenkstätte belegt ihre frühe Kindheit, aber keinen Rekord aller Überlebenden. Reichweite und jüngere Überlebende noch prüfen."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Nachprüfung des vorhandenen offenen Inventars: gezielte Wissenssuche auch mit HP/UG, erneuter Originalcaption-Import und Lektüre der betreffenden Gesprächsintervalle, direkte Primärquellenlektüre und Abgleich der Reichweite. Vorhandene Bewertungen sind keine Belege.",
+            "sourceIds": [
+              "Q37",
+              "Q38"
+            ],
+            "result": "Umlauf gehört zu den jüngsten Auschwitz-Überlebenden, wie ihr eigenes Komitee formuliert. Der unbeschränkte Superlativ im Captionkontext trifft jedoch nicht zu: Die Gedenkstätte dokumentiert die 1943 in Auschwitz geborene und überlebende Maria Romik/Podstawna; Umlauf wurde 1942 geboren. Eine mögliche jüngste Teilnehmerin einer bestimmten Gedenkfeier wäre eine andere, hier nicht genannte Einschränkung."
           }
         ]
       },
-      "openQuestions": [
-        "Die Gedenkstätte belegt ihre frühe Kindheit, aber keinen Rekord aller Überlebenden. Reichweite und jüngere Überlebende noch prüfen."
-      ],
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",
@@ -1242,7 +1488,8 @@
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
           }
         ]
-      }
+      },
+      "shortReason": "Maria Romik/Podstawna wurde 1943 in Auschwitz geboren und überlebte; die 1942 geborene Umlauf ist daher nicht die jüngste Überlebende."
     },
     {
       "id": "-rBUCkR4HuA-A0014",
@@ -1523,10 +1770,10 @@
       "id": "-rBUCkR4HuA-A0018",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
       "description": "Europa profitierte über Jahrhunderte von kolonial angeeigneten Ressourcen und Menschen.",
-      "reason": "Historischen Sachkern mit passenden Zeiträumen und Originalquellen noch eigenständig belegen.",
+      "reason": "Der historische Sachkern ist belegt: Die Dokumentation der Wissenschaftlichen Dienste beschreibt den seit dem 16. Jahrhundert betriebenen transatlantischen Menschenhandel europäischer Mächte. Das Deutsche Historische Museum dokumentiert koloniale Plantagenwirtschaft und erzwungene Arbeit in Deutsch-Ostafrika. Daraus folgt keine quantitative Erklärung des gesamten heutigen europäischen Wohlstands; diese weitergehende Kausalbilanz wird hier nicht bestätigt.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -1546,10 +1793,18 @@
         {
           "sourceId": "V001",
           "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q39",
+          "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q40",
+          "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
         }
       ],
       "research": {
-        "confidence": "Offen",
+        "confidence": "Hoch",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -1557,12 +1812,19 @@
             "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
             "sourceIds": [],
             "result": "Historischen Sachkern mit passenden Zeiträumen und Originalquellen noch eigenständig belegen."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Nachprüfung des vorhandenen offenen Inventars: gezielte Wissenssuche auch mit HP/UG, erneuter Originalcaption-Import und Lektüre der betreffenden Gesprächsintervalle, direkte Primärquellenlektüre und Abgleich der Reichweite. Vorhandene Bewertungen sind keine Belege.",
+            "sourceIds": [
+              "Q39",
+              "Q40"
+            ],
+            "result": "Der historische Sachkern ist belegt: Die Dokumentation der Wissenschaftlichen Dienste beschreibt den seit dem 16. Jahrhundert betriebenen transatlantischen Menschenhandel europäischer Mächte. Das Deutsche Historische Museum dokumentiert koloniale Plantagenwirtschaft und erzwungene Arbeit in Deutsch-Ostafrika. Daraus folgt keine quantitative Erklärung des gesamten heutigen europäischen Wohlstands; diese weitergehende Kausalbilanz wird hier nicht bestätigt."
           }
         ]
       },
-      "openQuestions": [
-        "Historischen Sachkern mit passenden Zeiträumen und Originalquellen noch eigenständig belegen."
-      ],
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",
@@ -1775,10 +2037,10 @@
       "id": "-rBUCkR4HuA-A0021",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
       "description": "Wärmepumpen sind in Deutschland deutlich teurer als in NL oder UK.",
-      "reason": "Vergleichbare aktuelle Investitionskosten für gleiche Technik, Leistung und Umbauten fehlen noch; Wärmegestehungskosten sind keine Kaufpreise.",
+      "reason": "Die RWTH-Analyse vergleicht zwei Angebote für eine 8-kW-Luft-Wasser-Wärmepumpe und findet einen deutlich höheren deutschen Endkundenpreis als im UK. Sie erläutert technische und marktbezogene Unterschiede und warnt vor repräsentativen Schlüssen aus Einzelangeboten. Der UK-Vergleich ist damit konkret gestützt; ein gleicher aktueller Marktvergleich mit den Niederlanden und die Ursache allein durch Förderung sind nicht nachgewiesen.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -1798,10 +2060,14 @@
         {
           "sourceId": "V001",
           "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q41",
+          "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
         }
       ],
       "research": {
-        "confidence": "Offen",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -1809,12 +2075,18 @@
             "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
             "sourceIds": [],
             "result": "Vergleichbare aktuelle Investitionskosten für gleiche Technik, Leistung und Umbauten fehlen noch; Wärmegestehungskosten sind keine Kaufpreise."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Nachprüfung des vorhandenen offenen Inventars: gezielte Wissenssuche auch mit HP/UG, erneuter Originalcaption-Import und Lektüre der betreffenden Gesprächsintervalle, direkte Primärquellenlektüre und Abgleich der Reichweite. Vorhandene Bewertungen sind keine Belege.",
+            "sourceIds": [
+              "Q41"
+            ],
+            "result": "Die RWTH-Analyse vergleicht zwei Angebote für eine 8-kW-Luft-Wasser-Wärmepumpe und findet einen deutlich höheren deutschen Endkundenpreis als im UK. Sie erläutert technische und marktbezogene Unterschiede und warnt vor repräsentativen Schlüssen aus Einzelangeboten. Der UK-Vergleich ist damit konkret gestützt; ein gleicher aktueller Marktvergleich mit den Niederlanden und die Ursache allein durch Förderung sind nicht nachgewiesen."
           }
         ]
       },
-      "openQuestions": [
-        "Vergleichbare aktuelle Investitionskosten für gleiche Technik, Leistung und Umbauten fehlen noch; Wärmegestehungskosten sind keine Kaufpreise."
-      ],
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",
@@ -1849,7 +2121,8 @@
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
           }
         ]
-      }
+      },
+      "shortReason": "Ein RWTH-Vergleich stützt höhere deutsche Kosten gegenüber UK; ein repräsentativer aktueller Vergleich mit beiden Ländern fehlt."
     },
     {
       "id": "-rBUCkR4HuA-A0022",
@@ -2018,10 +2291,10 @@
       "id": "-rBUCkR4HuA-A0024",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
       "description": "Er durfte als erster Journalist frei in Fukushima drehen.",
-      "reason": "Datierung und Betreiber-/Redaktionsbeleg des eng formulierten Erstzugangs fehlen noch.",
+      "reason": "Der produzierende WDR bestätigt 2014 einen besonderen Erstzugang: Yogeshwars Team durfte als erstes ausländisches Reporterteam so frei und selbstständig im Reaktor drehen. Das stützt den Sachkern seiner Erinnerung. Der Beleg ist eine eigene Senderangabe und enger als die uneingeschränkte Behauptung, überhaupt der erste dort drehende Journalist gewesen zu sein.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -2041,10 +2314,14 @@
         {
           "sourceId": "V001",
           "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q42",
+          "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
         }
       ],
       "research": {
-        "confidence": "Offen",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -2052,12 +2329,18 @@
             "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
             "sourceIds": [],
             "result": "Datierung und Betreiber-/Redaktionsbeleg des eng formulierten Erstzugangs fehlen noch."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Nachprüfung des vorhandenen offenen Inventars: gezielte Wissenssuche auch mit HP/UG, erneuter Originalcaption-Import und Lektüre der betreffenden Gesprächsintervalle, direkte Primärquellenlektüre und Abgleich der Reichweite. Vorhandene Bewertungen sind keine Belege.",
+            "sourceIds": [
+              "Q42"
+            ],
+            "result": "Der produzierende WDR bestätigt 2014 einen besonderen Erstzugang: Yogeshwars Team durfte als erstes ausländisches Reporterteam so frei und selbstständig im Reaktor drehen. Das stützt den Sachkern seiner Erinnerung. Der Beleg ist eine eigene Senderangabe und enger als die uneingeschränkte Behauptung, überhaupt der erste dort drehende Journalist gewesen zu sein."
           }
         ]
       },
-      "openQuestions": [
-        "Datierung und Betreiber-/Redaktionsbeleg des eng formulierten Erstzugangs fehlen noch."
-      ],
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",
@@ -2092,7 +2375,8 @@
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
           }
         ]
-      }
+      },
+      "shortReason": "Der WDR bestätigt das erste ausländische Reporterteam mit diesem freien Reaktordrehzugang, keinen uneingeschränkten Erstbesuch."
     },
     {
       "id": "-rBUCkR4HuA-A0025",
@@ -2364,10 +2648,10 @@
       "id": "-rBUCkR4HuA-A0029",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
       "description": "Nuklear bewaffnete Staaten haben besondere Interessen an nuklearer Technologie.",
-      "reason": "Zivilen Betrieb, Brennstoffkreislauf und militärischen Zusammenhang fallbezogen belegen; keine notwendige Verbindung aus der Länderliste allein.",
+      "reason": "Ein konkreter Zusammenhang ist für Großbritannien amtlich dokumentiert: Zivile und militärische Nuklearprogramme planen Fachkräfte und Fähigkeiten gemeinsam. Das stützt besondere industrie- und sicherheitspolitische Interessen. Es belegt weder dieselben Motive für sämtliche genannten Staaten noch, dass zivile Kernkraft nur für Atomwaffenstaaten sinnvoll wäre; die anschließende Bauprognose bleibt getrennt.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -2387,10 +2671,14 @@
         {
           "sourceId": "V001",
           "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q43",
+          "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
         }
       ],
       "research": {
-        "confidence": "Offen",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -2398,12 +2686,18 @@
             "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
             "sourceIds": [],
             "result": "Zivilen Betrieb, Brennstoffkreislauf und militärischen Zusammenhang fallbezogen belegen; keine notwendige Verbindung aus der Länderliste allein."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Nachprüfung des vorhandenen offenen Inventars: gezielte Wissenssuche auch mit HP/UG, erneuter Originalcaption-Import und Lektüre der betreffenden Gesprächsintervalle, direkte Primärquellenlektüre und Abgleich der Reichweite. Vorhandene Bewertungen sind keine Belege.",
+            "sourceIds": [
+              "Q43"
+            ],
+            "result": "Ein konkreter Zusammenhang ist für Großbritannien amtlich dokumentiert: Zivile und militärische Nuklearprogramme planen Fachkräfte und Fähigkeiten gemeinsam. Das stützt besondere industrie- und sicherheitspolitische Interessen. Es belegt weder dieselben Motive für sämtliche genannten Staaten noch, dass zivile Kernkraft nur für Atomwaffenstaaten sinnvoll wäre; die anschließende Bauprognose bleibt getrennt."
           }
         ]
       },
-      "openQuestions": [
-        "Zivilen Betrieb, Brennstoffkreislauf und militärischen Zusammenhang fallbezogen belegen; keine notwendige Verbindung aus der Länderliste allein."
-      ],
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",
@@ -2438,16 +2732,17 @@
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
           }
         ]
-      }
+      },
+      "shortReason": "UK dokumentiert gemeinsame zivile und militärische Nuklearplanung; identische Motive aller genannten Staaten sind damit nicht belegt."
     },
     {
       "id": "-rBUCkR4HuA-A0030",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
       "description": "Iranische Urananreicherung verdeutlicht Proliferationsrisiken.",
-      "reason": "Aktuellen IAEO-Sicherungsbericht noch abgleichen. Die Uranimport-Rückfrage des Hosts wird nicht als bejahte Antwort des Gastes geführt.",
+      "reason": "Der IAEO-Bericht GOV/2025/50 dokumentiert hoch angereicherte iranische Uranbestände sowie Sicherungs- und Verifikationsprobleme. Damit ist der im Gespräch angeführte historische Proliferationskonflikt belegt. Das ist weder ein Nachweis einer vorhandenen iranischen Atombombe noch eine Feststellung des aktuellen Anlagenbetriebs zum Aufnahmetag im Oktober 2026.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -2467,10 +2762,14 @@
         {
           "sourceId": "V001",
           "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q44",
+          "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
         }
       ],
       "research": {
-        "confidence": "Offen",
+        "confidence": "Hoch",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -2478,12 +2777,18 @@
             "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
             "sourceIds": [],
             "result": "Aktuellen IAEO-Sicherungsbericht noch abgleichen. Die Uranimport-Rückfrage des Hosts wird nicht als bejahte Antwort des Gastes geführt."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Nachprüfung des vorhandenen offenen Inventars: gezielte Wissenssuche auch mit HP/UG, erneuter Originalcaption-Import und Lektüre der betreffenden Gesprächsintervalle, direkte Primärquellenlektüre und Abgleich der Reichweite. Vorhandene Bewertungen sind keine Belege.",
+            "sourceIds": [
+              "Q44"
+            ],
+            "result": "Der IAEO-Bericht GOV/2025/50 dokumentiert hoch angereicherte iranische Uranbestände sowie Sicherungs- und Verifikationsprobleme. Damit ist der im Gespräch angeführte historische Proliferationskonflikt belegt. Das ist weder ein Nachweis einer vorhandenen iranischen Atombombe noch eine Feststellung des aktuellen Anlagenbetriebs zum Aufnahmetag im Oktober 2026."
           }
         ]
       },
-      "openQuestions": [
-        "Aktuellen IAEO-Sicherungsbericht noch abgleichen. Die Uranimport-Rückfrage desHosts wird nicht als bejahte Antwort desGastes geführt."
-      ],
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",
@@ -2524,10 +2829,10 @@
       "id": "-rBUCkR4HuA-A0031",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
       "description": "Kernkraft erfordert strenge Sicherheit; kleine Materialmengen können große radiologische Folgen haben.",
-      "reason": "Strahlenschutzquelle und Randbedingungen noch lesen; klein ist ohne Radionuklid und Aktivität keine eindeutige Risikogröße.",
+      "reason": "Die IAEO erläutert nukleare und radiologische Notfälle sowie schwere Folgen einer einzelnen radioaktiven Quelle in Goiânia. Die Aussage formuliert eine Möglichkeit, keine Behauptung, jeder kleine Zwischenfall verursache eine Katastrophe. Entscheidend sind Radionuklid, Aktivität, Freisetzung und Exposition; Materialmasse allein beschreibt das Risiko nicht. Die Sicherheitsgrundsätze SF-1 stützen die besonderen Schutzanforderungen.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -2547,10 +2852,18 @@
         {
           "sourceId": "V001",
           "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q45",
+          "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q53",
+          "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
         }
       ],
       "research": {
-        "confidence": "Offen",
+        "confidence": "Hoch",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -2558,12 +2871,19 @@
             "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
             "sourceIds": [],
             "result": "Strahlenschutzquelle und Randbedingungen noch lesen; klein ist ohne Radionuklid und Aktivität keine eindeutige Risikogröße."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Nachprüfung des vorhandenen offenen Inventars: gezielte Wissenssuche auch mit HP/UG, erneuter Originalcaption-Import und Lektüre der betreffenden Gesprächsintervalle, direkte Primärquellenlektüre und Abgleich der Reichweite. Vorhandene Bewertungen sind keine Belege.",
+            "sourceIds": [
+              "Q45",
+              "Q53"
+            ],
+            "result": "Die IAEO erläutert nukleare und radiologische Notfälle sowie schwere Folgen einer einzelnen radioaktiven Quelle in Goiânia. Die Aussage formuliert eine Möglichkeit, keine Behauptung, jeder kleine Zwischenfall verursache eine Katastrophe. Entscheidend sind Radionuklid, Aktivität, Freisetzung und Exposition; Materialmasse allein beschreibt das Risiko nicht. Die Sicherheitsgrundsätze SF-1 stützen die besonderen Schutzanforderungen."
           }
         ]
       },
-      "openQuestions": [
-        "Strahlenschutzquelle und Randbedingungen noch lesen; klein ist ohne Radionuklid und Aktivität keine eindeutige Risikogröße."
-      ],
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",
@@ -2932,10 +3252,10 @@
       "id": "-rBUCkR4HuA-A0036",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
       "description": "Schnelle Brüter sollen neuen Brennstoff erzeugen und Kreisläufe schließen.",
-      "reason": "Brüten aus fertilen Stoffen und Wiederaufarbeitung vorhandenen Abfalls noch anhand einer Brennstoffkreislaufquelle abgrenzen.",
+      "reason": "Die IAEO beschreibt das Erbrüten neuen spaltbaren Materials aus fertilen Stoffen sowie die Rückgewinnung und Wiederverwendung von Material aus abgebranntem Brennstoff als Schließen des Brennstoffkreislaufs. Das stützt die im Gespräch erläuterte technische Idee. Nicht jeder Abfall wird dadurch Brennstoff, Endlagerbedarf verschwindet nicht, und technische Möglichkeit beweist keine Wirtschaftlichkeit.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -2955,10 +3275,14 @@
         {
           "sourceId": "V001",
           "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q46",
+          "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
         }
       ],
       "research": {
-        "confidence": "Offen",
+        "confidence": "Hoch",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -2966,12 +3290,18 @@
             "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
             "sourceIds": [],
             "result": "Brüten aus fertilen Stoffen und Wiederaufarbeitung vorhandenen Abfalls noch anhand einer Brennstoffkreislaufquelle abgrenzen."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Nachprüfung des vorhandenen offenen Inventars: gezielte Wissenssuche auch mit HP/UG, erneuter Originalcaption-Import und Lektüre der betreffenden Gesprächsintervalle, direkte Primärquellenlektüre und Abgleich der Reichweite. Vorhandene Bewertungen sind keine Belege.",
+            "sourceIds": [
+              "Q46"
+            ],
+            "result": "Die IAEO beschreibt das Erbrüten neuen spaltbaren Materials aus fertilen Stoffen sowie die Rückgewinnung und Wiederverwendung von Material aus abgebranntem Brennstoff als Schließen des Brennstoffkreislaufs. Das stützt die im Gespräch erläuterte technische Idee. Nicht jeder Abfall wird dadurch Brennstoff, Endlagerbedarf verschwindet nicht, und technische Möglichkeit beweist keine Wirtschaftlichkeit."
           }
         ]
       },
-      "openQuestions": [
-        "Brüten aus fertilen Stoffen und Wiederaufarbeitung vorhandenen Abfalls noch anhand einer Brennstoffkreislaufquelle abgrenzen."
-      ],
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",
@@ -3495,10 +3825,10 @@
       "id": "-rBUCkR4HuA-A0043",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
       "description": "Moderne E-Autos können während kurzer Pausen erheblich nachladen.",
-      "reason": "Passende Ladetests mit Modell, Ladestand und Temperatur noch lesen; persönliche Pausendauer ist kein Standard.",
+      "reason": "Im ADAC-Wintertest 2026 laden die getesteten Fahrzeuge in 20 Minuten Energie für etwa 150 bis 300 Kilometer nach. Das stützt die allgemeine Möglichkeit, während kurzer Pausen erhebliche Reichweite nachzuladen. Modell, Batterietemperatur, Ladestand und verfügbare Ladeleistung bleiben entscheidend; eine beliebig kurze Toilettenpause oder jedes Fahrzeug wird dadurch nicht garantiert.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -3518,10 +3848,14 @@
         {
           "sourceId": "V001",
           "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q47",
+          "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
         }
       ],
       "research": {
-        "confidence": "Offen",
+        "confidence": "Hoch",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -3529,12 +3863,18 @@
             "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
             "sourceIds": [],
             "result": "Passende Ladetests mit Modell, Ladestand und Temperatur noch lesen; persönliche Pausendauer ist kein Standard."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Nachprüfung des vorhandenen offenen Inventars: gezielte Wissenssuche auch mit HP/UG, erneuter Originalcaption-Import und Lektüre der betreffenden Gesprächsintervalle, direkte Primärquellenlektüre und Abgleich der Reichweite. Vorhandene Bewertungen sind keine Belege.",
+            "sourceIds": [
+              "Q47"
+            ],
+            "result": "Im ADAC-Wintertest 2026 laden die getesteten Fahrzeuge in 20 Minuten Energie für etwa 150 bis 300 Kilometer nach. Das stützt die allgemeine Möglichkeit, während kurzer Pausen erhebliche Reichweite nachzuladen. Modell, Batterietemperatur, Ladestand und verfügbare Ladeleistung bleiben entscheidend; eine beliebig kurze Toilettenpause oder jedes Fahrzeug wird dadurch nicht garantiert."
           }
         ]
       },
-      "openQuestions": [
-        "Passende Ladetests mitModell,Ladestand undTemperatur noch lesen; persönliche Pausendauer ist kein Standard."
-      ],
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",
@@ -3933,6 +4273,10 @@
         {
           "sourceId": "V001",
           "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q54",
+          "note": "Historischer Vergleich mit engerem Geltungsbereich; der Welt-Superlativ bleibt offen."
         }
       ],
       "research": {
@@ -3944,6 +4288,15 @@
             "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
             "sourceIds": [],
             "result": "Deutsches Fehlen eines generellen Limits ist eindeutig; unbegrenzter Welt-Superlativ braucht einen weltweiten Rechtsvergleich."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Gezielte Gegenrecherche zum weltweiten Autobahn-Superlativ; UBA-Kurzpapier vom 14.10.2021 direkt gelesen.",
+            "sourceIds": [
+              "Q54"
+            ],
+            "result": "UBA bestätigt einen engeren Vergleich für EU/OECD/G20 und nennt zugleich andere Straßen ohne allgemeine Höchstgeschwindigkeit. Die alte Quelle ersetzt keinen weltweiten Rechtsvergleich zu Autobahnen im Oktober 2026; Aussage bleibt offen."
           }
         ]
       },
@@ -4074,10 +4427,10 @@
       "id": "-rBUCkR4HuA-A0050",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
       "description": "Mit Tempolimit kommt man ebenso schnell ans Ziel.",
-      "reason": "Netzmittel und Einzelfahrten unterscheiden; passende Verkehrsflussstudie noch auswerten. Umweltvorteil beweist keine Zeitgleichheit.",
+      "reason": "Eine pauschale gleiche Ankunftszeit ist nicht belegt. Die Autoren der UBA-Verkehrsmodellierung berechnen für das Szenario 120/80 eine durchschnittlich um etwa 1,4 Minuten längere tägliche Pkw-Reisezeit; bei 100 km und mittleren 120 statt 140 km/h sind es rund sieben Minuten. Kleine durchschnittliche Zeitverluste, flüssigerer Verkehr und konkrete Einzelreisen sind auseinanderzuhalten. Sicherheits- und Klimavorteile bleiben davon unabhängig.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -4101,10 +4454,14 @@
         {
           "sourceId": "Q10",
           "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q48",
+          "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
         }
       ],
       "research": {
-        "confidence": "Offen",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -4114,12 +4471,18 @@
               "Q10"
             ],
             "result": "Netzmittel und Einzelfahrten unterscheiden; passende Verkehrsflussstudie noch auswerten. Umweltvorteil beweist keine Zeitgleichheit."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Nachprüfung des vorhandenen offenen Inventars: gezielte Wissenssuche auch mit HP/UG, erneuter Originalcaption-Import und Lektüre der betreffenden Gesprächsintervalle, direkte Primärquellenlektüre und Abgleich der Reichweite. Vorhandene Bewertungen sind keine Belege.",
+            "sourceIds": [
+              "Q48"
+            ],
+            "result": "Eine pauschale gleiche Ankunftszeit ist nicht belegt. Die Autoren der UBA-Verkehrsmodellierung berechnen für das Szenario 120/80 eine durchschnittlich um etwa 1,4 Minuten längere tägliche Pkw-Reisezeit; bei 100 km und mittleren 120 statt 140 km/h sind es rund sieben Minuten. Kleine durchschnittliche Zeitverluste, flüssigerer Verkehr und konkrete Einzelreisen sind auseinanderzuhalten. Sicherheits- und Klimavorteile bleiben davon unabhängig."
           }
         ]
       },
-      "openQuestions": [
-        "Netzmittel undEinzelfahrten unterscheiden; passendeVerkehrsflussstudie noch auswerten. Umweltvorteil beweist keine Zeitgleichheit."
-      ],
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",
@@ -4154,7 +4517,8 @@
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
           }
         ]
-      }
+      },
+      "shortReason": "Die Verkehrsmodellierung berechnet zusätzliche Reisezeit; ein Tempolimit garantiert keine gleich schnelle Ankunft."
     },
     {
       "id": "-rBUCkR4HuA-A0051",
@@ -5442,10 +5806,10 @@
       "id": "-rBUCkR4HuA-A0067",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
       "description": "Die EU habe sich gegen Subventionen für klimaschädliche Produkte ausgesprochen.",
-      "reason": "Im Originalkontext wird eine politische Position angesprochen, kein bereits geltendes Verbot sämtlicher Förderungen. Das gelesene Kommissionspapier behandelt Auslaufziele und fortbestehende fossile Subventionen; die genaue gemeinte politische Erklärung bleibt zu bestimmen.",
+      "reason": "Die EU-Kommission beschreibt ausdrücklich das Ziel des Achten Umweltaktionsprogramms, umweltschädliche Subventionen einschließlich fossiler Förderungen abzubauen. Das stützt die im Gespräch angesprochene politische Zielrichtung. Es handelt sich nicht um ein bereits geltendes Verbot sämtlicher Gasförderungen; Ausnahmen und tatsächlicher Fortbestand von Subventionen sind davon getrennt.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -5469,10 +5833,14 @@
         {
           "sourceId": "Q15",
           "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q49",
+          "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
         }
       ],
       "research": {
-        "confidence": "Offen",
+        "confidence": "Hoch",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -5491,12 +5859,18 @@
               "Q15"
             ],
             "result": "Im Originalkontext wird eine politische Position angesprochen, kein bereits geltendes Verbot sämtlicher Förderungen. Das gelesene Kommissionspapier behandelt Auslaufziele und fortbestehende fossile Subventionen; die genaue gemeinte politische Erklärung bleibt zu bestimmen."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Nachprüfung des vorhandenen offenen Inventars: gezielte Wissenssuche auch mit HP/UG, erneuter Originalcaption-Import und Lektüre der betreffenden Gesprächsintervalle, direkte Primärquellenlektüre und Abgleich der Reichweite. Vorhandene Bewertungen sind keine Belege.",
+            "sourceIds": [
+              "Q49"
+            ],
+            "result": "Die EU-Kommission beschreibt ausdrücklich das Ziel des Achten Umweltaktionsprogramms, umweltschädliche Subventionen einschließlich fossiler Förderungen abzubauen. Das stützt die im Gespräch angesprochene politische Zielrichtung. Es handelt sich nicht um ein bereits geltendes Verbot sämtlicher Gasförderungen; Ausnahmen und tatsächlicher Fortbestand von Subventionen sind davon getrennt."
           }
         ]
       },
-      "openQuestions": [
-        "Im Originalkontext wird eine politische Position angesprochen, kein bereits geltendes Verbot sämtlicher Förderungen. Das gelesene Kommissionspapier behandelt Auslaufziele und fortbestehende fossile Subventionen; die genaue gemeinte politische Erklärung bleibt zu bestimmen."
-      ],
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",
@@ -5799,10 +6173,10 @@
       "id": "-rBUCkR4HuA-A0071",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
       "description": "Auch in USA kommen 80 bis 90% des Stromzubaus aus Erneuerbaren.",
-      "reason": "Jahr, Netto-/Bruttozubau und Leistung/Erzeugung klären. EIA-Planung nennt 81% Solarplus Batterien; Speicher nicht als Primärerzeuger mitzählen.",
+      "reason": "Die EIA-Isttabelle für 2025 weist rund 35,95 GW Zubau in einzeln ausgewiesenen erneuerbaren Technologien aus. Das sind rund 62 Prozent der insgesamt 57,73 GW einschließlich der Kategorie Other Energy Sources, in der vor allem Speicher stehen. Ohne diese Kategorie ergibt sich rund 87 Prozent. Eine Größenordnung von 80 bis 90 Prozent ist damit für den engeren Erzeuger-Nenner plausibel; Jahr, Nenner und Speicherabgrenzung werden im Gespräch aber nicht festgelegt. Kapazitätszubau ist kein Anteil der erzeugten Strommenge.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -5826,10 +6200,14 @@
         {
           "sourceId": "Q16",
           "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q50",
+          "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
         }
       ],
       "research": {
-        "confidence": "Offen",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -5839,12 +6217,18 @@
               "Q16"
             ],
             "result": "Jahr, Netto-/Bruttozubau und Leistung/Erzeugung klären. EIA-Planung nennt 81% Solarplus Batterien; Speicher nicht als Primärerzeuger mitzählen."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Nachprüfung des vorhandenen offenen Inventars: gezielte Wissenssuche auch mit HP/UG, erneuter Originalcaption-Import und Lektüre der betreffenden Gesprächsintervalle, direkte Primärquellenlektüre und Abgleich der Reichweite. Vorhandene Bewertungen sind keine Belege.",
+            "sourceIds": [
+              "Q50"
+            ],
+            "result": "Die EIA-Isttabelle für 2025 weist rund 35,95 GW Zubau in einzeln ausgewiesenen erneuerbaren Technologien aus. Das sind rund 62 Prozent der insgesamt 57,73 GW einschließlich der Kategorie Other Energy Sources, in der vor allem Speicher stehen. Ohne diese Kategorie ergibt sich rund 87 Prozent. Eine Größenordnung von 80 bis 90 Prozent ist damit für den engeren Erzeuger-Nenner plausibel; Jahr, Nenner und Speicherabgrenzung werden im Gespräch aber nicht festgelegt. Kapazitätszubau ist kein Anteil der erzeugten Strommenge."
           }
         ]
       },
-      "openQuestions": [
-        "Jahr, Netto-/Bruttozubau undLeistung/Erzeugung klären. EIA-Planung nennt81%SolarplusBatterien; Speicher nicht alsPrimärerzeuger mitzählen."
-      ],
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",
@@ -5879,7 +6263,8 @@
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
           }
         ]
-      }
+      },
+      "shortReason": "Rund 87 Prozent ergeben sich mit engem Erzeuger-Nenner, rund 62 Prozent einschließlich der EIA-Kategorie mit Speichern."
     },
     {
       "id": "-rBUCkR4HuA-A0072",
@@ -6193,10 +6578,10 @@
       "id": "-rBUCkR4HuA-A0076",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
       "description": "Ungebremste PV-Spitzen würden sämtliche Leitungen durchbrennen lassen.",
-      "reason": "Überlastungsgefahr, Netzschutz und Abregelung unterscheiden. Bildhafte Warnung ohne Originaltonkontext nicht als berechnete Schadensgarantie interpretieren.",
+      "reason": "Die Bundesnetzagentur beschreibt reale Stabilitätsprobleme durch hohe Solarspitzen und die notwendige Steuerbarkeit bis hin zur Abschaltung von Anlagen. Der Gesprächskontext fordert deshalb Puffer und Regelung; er ist eine bedingte Warnung bei künftigem Ausbau. Dass sämtliche Leitungen durchbrennen würden, ist eine nicht technisch belegte Übertreibung. Netzengpässe, Schutzmaßnahmen und tatsächliche thermische Zerstörung dürfen nicht gleichgesetzt werden.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -6216,10 +6601,14 @@
         {
           "sourceId": "V001",
           "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q51",
+          "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
         }
       ],
       "research": {
-        "confidence": "Offen",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -6227,12 +6616,18 @@
             "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
             "sourceIds": [],
             "result": "Überlastungsgefahr, Netzschutz und Abregelung unterscheiden. Bildhafte Warnung ohne Originaltonkontext nicht als berechnete Schadensgarantie interpretieren."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Nachprüfung des vorhandenen offenen Inventars: gezielte Wissenssuche auch mit HP/UG, erneuter Originalcaption-Import und Lektüre der betreffenden Gesprächsintervalle, direkte Primärquellenlektüre und Abgleich der Reichweite. Vorhandene Bewertungen sind keine Belege.",
+            "sourceIds": [
+              "Q51"
+            ],
+            "result": "Die Bundesnetzagentur beschreibt reale Stabilitätsprobleme durch hohe Solarspitzen und die notwendige Steuerbarkeit bis hin zur Abschaltung von Anlagen. Der Gesprächskontext fordert deshalb Puffer und Regelung; er ist eine bedingte Warnung bei künftigem Ausbau. Dass sämtliche Leitungen durchbrennen würden, ist eine nicht technisch belegte Übertreibung. Netzengpässe, Schutzmaßnahmen und tatsächliche thermische Zerstörung dürfen nicht gleichgesetzt werden."
           }
         ]
       },
-      "openQuestions": [
-        "Überlastungsgefahr, Netzschutz undAbregelung unterscheiden. BildhafteWarnung ohneOriginaltonkontext nichtals berechneteSchadensgarantie interpretieren."
-      ],
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",
@@ -6267,7 +6662,8 @@
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
           }
         ]
-      }
+      },
+      "shortReason": "Solarspitzen erfordern Regelung und können Netzprobleme verursachen; ein Durchbrennen sämtlicher Leitungen ist nicht belegt."
     },
     {
       "id": "-rBUCkR4HuA-A0077",
@@ -6557,10 +6953,10 @@
       "id": "-rBUCkR4HuA-A0081",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
       "description": "Deutschland verhindere das Verbrenner-Aus.",
-      "reason": "Die konkret gemeinte deutsche Initiative, der Stand des EU-Verfahrens und die Reichweite der Formulierung müssen am Aufnahmezeitpunkt Oktober 2026 getrennt geprüft werden.",
+      "reason": "Am 7. Oktober 2026 bestätigt der Regierungssprecher die deutsche Koalitionsposition für weitergehende Neuzulassungen von Verbrennern nach 2035. Das stützt den politischen Kern der Kritik bereits vor einer späteren deutsch-französischen Einigung. Eine deutsche Forderung ist jedoch weder alleinige Ursache noch ein abschließend beschlossenes EU-Gesetz; der genaue Aufnahmetag im Oktober bleibt unbekannt.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -6580,10 +6976,14 @@
         {
           "sourceId": "V001",
           "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q52",
+          "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
         }
       ],
       "research": {
-        "confidence": "Offen",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -6591,6 +6991,15 @@
             "strategy": "Eigenständigen Tatsachenkern vom Zukunftsappell abgetrennt.",
             "sourceIds": [],
             "result": "Die konkret gemeinte deutsche Initiative, der Stand des EU-Verfahrens und die Reichweite der Formulierung müssen am Aufnahmezeitpunkt Oktober 2026 getrennt geprüft werden."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Nachprüfung des vorhandenen offenen Inventars: gezielte Wissenssuche auch mit HP/UG, erneuter Originalcaption-Import und Lektüre der betreffenden Gesprächsintervalle, direkte Primärquellenlektüre und Abgleich der Reichweite. Vorhandene Bewertungen sind keine Belege.",
+            "sourceIds": [
+              "Q52"
+            ],
+            "result": "Am 7. Oktober 2026 bestätigt der Regierungssprecher die deutsche Koalitionsposition für weitergehende Neuzulassungen von Verbrennern nach 2035. Das stützt den politischen Kern der Kritik bereits vor einer späteren deutsch-französischen Einigung. Eine deutsche Forderung ist jedoch weder alleinige Ursache noch ein abschließend beschlossenes EU-Gesetz; der genaue Aufnahmetag im Oktober bleibt unbekannt."
           }
         ]
       },
@@ -6637,9 +7046,7 @@
           }
         ]
       },
-      "openQuestions": [
-        "Die konkret gemeinte deutsche Initiative, der Stand des EU-Verfahrens und die Reichweite der Formulierung müssen am Aufnahmezeitpunkt Oktober 2026 getrennt geprüft werden."
-      ]
+      "shortReason": "Die Bundesregierung warb im Oktober 2026 für mehr Verbrenner-Neuzulassungen nach 2035; ein abgeschlossener EU-Beschluss folgt daraus nicht."
     },
     {
       "id": "-rBUCkR4HuA-A0082",

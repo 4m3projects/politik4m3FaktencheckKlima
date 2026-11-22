@@ -465,6 +465,11 @@
       "date": "2026-11-22",
       "agent": "Codex",
       "change": "Pauschale Energiezuordnung energiefremder Aussagen entfernt; abgetrennte Energieaussagen A0081 und A0082 ergänzt."
+    },
+    {
+      "date": "2026-11-22",
+      "agent": "Codex",
+      "change": "Themen der 16 erstmals abgeschlossenen Aussagen gegen Inhalt und vorhandene IDs geprüft. Bestehende Energie-, Atomkraft-, Preis-, Versorgungs- und Klimazuordnungen bleiben passend; Biografie und Kolonialgeschichte erhalten kein künstliches Energiethema. Kein neues Thema und keine neu öffentliche Kategorie; kein Anpassungsbedarf anderer Videos festgestellt."
     }
   ]
 }

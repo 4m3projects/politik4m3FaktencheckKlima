@@ -1,17 +1,16 @@
 # #13 - „Ich habe keine Panik vor Atom.“ - Ranga Yogeshwar
 
-**Prüfstand 2026-11-22 · Codex · Teilbestand geprüft.**
+**Prüfstand 2026-11-22 · Codex · Teilbestand geprüft, erweitert.**
 
-Die gesamte Laufzeit von 69:51 Minuten ist anhand der deutschen Originalcaptions erfasst. Das Inventar trennt Sachbehauptungen, politische Wertungen, Prognosen, Werbung und private Erinnerungen. Dieser erste Sachstand bestätigt mehrere technische Kernaussagen und präzisiert Kosten, Versicherbarkeit, Zubaukennzahlen und Wasserstoffautos. Zahlreiche Fach- und Nebenfragen bleiben offen; dies ist keine abgeschlossene Vollprüfung.
+Das Captioninventar umfasst die gesamte Laufzeit von 69:51 Minuten. Die Nachprüfung ergänzt 16 zuvor offene Sachfragen anhand direkt gelesener Originalquellen. Die farbige Ampel, der Faktenindex und die Abdeckung entstehen ausschließlich aus der gemeinsamen Berechnung; verbleibende offene Fragen bleiben sichtbar.
+
+Die neuen Befunde stützen unter anderem schnelles Nachladen, das Brüterprinzip und den politischen EU-Kurs zum Subventionsabbau. Grenzen betreffen pauschale Medienwirkungen, internationale Wärmepumpenpreise, den Fukushima-Erstzugang und nicht präzisierte Zubau-Nenner. Die behauptete jüngste Auschwitz-Überlebende ist durch ein dokumentiertes jüngeres Gegenbeispiel widerlegt. Ein Tempolimit garantiert keine gleiche Reisezeit.
 
 ## Umfang und Grenzen
 
-Deutsche Originalcaptions über die gesamte Laufzeit gelesen; Sachbehauptungen, Selbstauskünfte, Wertungen und Prognosen getrennt. Die berechnete Abdeckung bezieht sich auf den erfassten Bestand. Ausschließlich eingeblendete Aussagen und Originalton sind nicht lückenlos kontrolliert. Gezielte Wissenssuche, Primärquellen und Gegenrecherche. Der Status bleibt Teilbestand geprüft; Originalton, alle kurzzeitigen Einblendungen und nicht entscheidbare Einzelbezüge bleiben ausdrücklich offen. Ein numerischer Index, eine Ampelfarbe und Statistik werden ausschließlich vom gemeinsamen Generator berechnet.
+Keine abgeschlossene Vollprüfung: Die früher erfassten Captionaussagen werden weiter quellenbasiert bearbeitet. In dieser Nachprüfung wurden die relevanten Intervalle erneut im Textzusammenhang gelesen; Originalton und nur eingeblendete Inhalte bleiben nicht lückenlos kontrolliert. Der Status bleibt „Teilbestand geprüft“. Frühere Fachurteile werden nicht als neu geprüft ausgegeben.
 
 - [Einzelprüfungen](03_einzelpruefungen.md)
 - [Material- und Quellenprotokoll](04_pruefprotokoll.md)
 - [Zweite Kontrolle der Bedeutungsfaktoren](07_gewichtskontrolle.md)
-
-## Offene Arbeit
-
-Lückenlose audiovisuelle Prüfung und gezielte Klärung der im Datensatz als offen geführten Fragen. Die Recherche wird nicht als Vollprüfung ausgegeben.
+- [Nachprüfung und verbleibende Lücken](08_nachpruefung.md)
