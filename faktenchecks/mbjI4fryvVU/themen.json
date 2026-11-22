@@ -182,6 +182,11 @@
       "date": "2026-11-22",
       "agent": "Codex",
       "change": "Themen nach visuellen Stichproben erneut geprüft; keine neue Zuordnung und keine Änderung der öffentlichen Sachthemen."
+    },
+    {
+      "date": "2026-11-22",
+      "agent": "Codex",
+      "change": "Themen nach erneuter Quellen- und Materialprüfung redaktionell kontrolliert; vorhandene IDs und Zuordnungen passen weiterhin. Keine neue öffentliche Kategorie, keine neuen Themen und kein sachlicher Anpassungsbedarf anderer Videos."
     }
   ]
 }

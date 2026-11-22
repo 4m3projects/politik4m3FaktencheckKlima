@@ -7,7 +7,7 @@
     "asOf": "2026-11-22",
     "durationSeconds": 4191,
     "coverageNote": "Deutsche Originalcaptions über die gesamte Laufzeit gelesen; Sachbehauptungen, Selbstauskünfte, Wertungen und Prognosen getrennt. Die berechnete Abdeckung bezieht sich auf den erfassten Bestand. Ausschließlich eingeblendete Aussagen und Originalton sind nicht lückenlos kontrolliert.",
-    "researchNote": "Gezielte Wissenssuche, Primärquellen und Gegenrecherche. Der Status bleibt Teilbestand geprüft; Originalton, alle kurzzeitigen Einblendungen und nicht entscheidbare Einzelbezüge bleiben ausdrücklich offen. Redaktionelle Nachkontrolle trennte Zukunftsappell, politische Tatsachenbehauptung, Buchautorenschaft und private Anekdote; keine Bewertung eines erfundenen stärkeren Aussagegehalts. Nachprüfung am 22.11.2026: 16 zuvor offene Sachfragen anhand neu gelesener Originalquellen eingeordnet; übrige Fragen bleiben offen. Kein neuer vollständiger Hör-/Bildabgleich. Bestehende abgeschlossene Urteile, Gewichte und Kontrollvermerke unverändert."
+    "researchNote": "Gezielte Wissenssuche, Primärquellen und Gegenrecherche. Der Status bleibt Teilbestand geprüft; Originalton, alle kurzzeitigen Einblendungen und nicht entscheidbare Einzelbezüge bleiben ausdrücklich offen. Redaktionelle Nachkontrolle trennte Zukunftsappell, politische Tatsachenbehauptung, Buchautorenschaft und private Anekdote; keine Bewertung eines erfundenen stärkeren Aussagegehalts. Nachprüfung am 22.11.2026: 16 zuvor offene Sachfragen anhand neu gelesener Originalquellen eingeordnet; übrige Fragen bleiben offen. Kein neuer vollständiger Hör-/Bildabgleich. Bestehende abgeschlossene Urteile, Gewichte und Kontrollvermerke unverändert. Weitere Anschlussprüfung: Heizölpreis aus der Oktober-Originaltabelle und institutionelle Solarforschung in Jülich belegt; finanzierte Interessenvertretung mit ausdrücklich begrenztem Medienbezug teilweise belegt. Übrige offene Fragen nicht für eine Ampelfarbe abgeschlossen."
   },
   "speakers": [
     {
@@ -509,6 +509,33 @@
       "kind": "Primärquelle",
       "accessedOn": "2026-11-22",
       "accessBasis": "In dieser Nachprüfung direkt geöffnet und den Ländervergleich gelesen; nicht als aktuelles weltweites Rechtskataster verwendet."
+    },
+    {
+      "id": "Q55",
+      "title": "EU-Kommission: Weekly Oil Bulletin, historische Preise",
+      "url": "https://energy.ec.europa.eu/data-and-analysis/weekly-oil-bulletin_en",
+      "details": "Am 22.11.2026 geladene historische XLSX, Stand 19.11.2026, Blatt Prices with taxes: BE1 identifiziert DE_price_with_tax_heating_oil; BE2 Heizöl, BE3 Einheit EUR je 1000 Liter. A7:A10 und BE7:BE10: 26.10.2026 1750,1; 19.10. 1712,8; 12.10. 1698,1; 5.10. 1654,4. Division durch 1000 ergibt 1,7501; 1,7128; 1,6981; 1,6544 EUR/L. Kein regionales Tagesangebot.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Original-Landingpage und direkt verlinkte historische Tabelle heruntergeladen; nur lesend mit gebündeltem Python/openpyxl ausgewertet. Zeilen, Feldkennung, Einheit und Wochenbezug überprüft; Quelldatei bleibt außerhalb des Repositorys."
+    },
+    {
+      "id": "Q56",
+      "title": "Gerd Stadermann: Jülich – Solarenergieforschung im Schoße der Kernphysik, 2021",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-658-31588-7_6",
+      "details": "Öffentlich zugängliche Zusammenfassung nennt erste solare Projekte, hier Solarthermie, am Institut für Kernphysik. Die sichtbaren Anmerkungen weisen eigene Interviews mit beteiligten Forschern aus. Originale historische Untersuchung, nur frei lesbare Zusammenfassung und Anmerkungen gelesen; kein Zugang zum gesamten kostenpflichtigen Kapitel behauptet.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die genannten Abschnitte gelesen."
+    },
+    {
+      "id": "Q57",
+      "title": "Lobbyregister: FNB Gas e.V., R002747",
+      "url": "https://www.lobbyregister.bundestag.de/suche/R002747",
+      "details": "FNB Gas nennt für 2025 410001–420000 Euro Interessenvertretungsaufwand und Mitgliedsbeiträge als Hauptfinanzierung; vertreten werden Gasnetzinteressen einschließlich fossiler Energien. Jahresaktualisierung 24.6.2026, aktueller Eintrag später geändert. Selbstmeldung im gesetzlichen Register, kein Beleg einer Zahlung an bestimmte Medien.",
+      "kind": "Primärquelle",
+      "accessedOn": "2026-11-22",
+      "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die genannten Abschnitte gelesen."
     }
   ],
   "claims": [
@@ -2128,10 +2155,10 @@
       "id": "-rBUCkR4HuA-A0022",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
       "description": "Heizöl kostet im Oktober 2026 etwa 1,70 Euro pro Liter.",
-      "reason": "Datierte Primärpreisreihe mit Region, Menge und Steuern noch auswerten; Novemberpreise ersetzen Oktober nicht.",
+      "reason": "Die historische Originaltabelle des Weekly Oil Bulletin enthält für deutsches Heizöl einschließlich Steuern im Oktober 2026 Wochenwerte zwischen 1654,4 und 1750,1 Euro je 1000 Liter. Das entspricht rund 1,65 bis 1,75 Euro je Liter; am 12. Oktober 1,6981 Euro. Die im Gespräch auf den Oktober bezogene Größenordnung von etwa 1,70 Euro ist damit belegt. Der unbekannte genaue Aufnahmetag und regionale Einzelangebote bleiben davon getrennt.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -2151,10 +2178,14 @@
         {
           "sourceId": "V001",
           "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q55",
+          "note": "Fundstelle, Interessen und zeitliche Grenzen stehen im Quellenverzeichnis der Nachprüfung."
         }
       ],
       "research": {
-        "confidence": "Offen",
+        "confidence": "Hoch",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -2162,12 +2193,18 @@
             "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
             "sourceIds": [],
             "result": "Datierte Primärpreisreihe mit Region, Menge und Steuern noch auswerten; Novemberpreise ersetzen Oktober nicht."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Gezielte Wissenssuche und datierte Primärrecherche; historische Original-XLSX statt Novemberpreise ausgewertet, Feld, Einheit und Oktober-Wochenwerte nachgerechnet.",
+            "sourceIds": [
+              "Q55"
+            ],
+            "result": "Die historische Originaltabelle des Weekly Oil Bulletin enthält für deutsches Heizöl einschließlich Steuern im Oktober 2026 Wochenwerte zwischen 1654,4 und 1750,1 Euro je 1000 Liter. Das entspricht rund 1,65 bis 1,75 Euro je Liter; am 12. Oktober 1,6981 Euro. Die im Gespräch auf den Oktober bezogene Größenordnung von etwa 1,70 Euro ist damit belegt. Der unbekannte genaue Aufnahmetag und regionale Einzelangebote bleiben davon getrennt."
           }
         ]
       },
-      "openQuestions": [
-        "Datierte Primärpreisreihe mit Region, Menge und Steuern noch auswerten; Novemberpreise ersetzen Oktober nicht."
-      ],
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",
@@ -4822,10 +4859,10 @@
       "id": "-rBUCkR4HuA-A0055",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
       "description": "Medien und Lobbygruppen unterstützen Energieinteressen auch finanziell.",
-      "reason": "Konkrete Zahlungen und Empfänger fehlen; fallbezogene Originalbelege nötig.",
+      "reason": "Das Lobbyregister dokumentiert am Beispiel FNB Gas für 2025 finanzielle Aufwendungen für Gasinteressenvertretung und Mitgliedsbeiträge als Finanzierung. Damit ist der allgemeine Sachkern finanziell ausgestatteter Energieinteressen konkret belegt. Daraus folgt keine Zahlung an bestimmte Medien oder eine kausale Erklärung einzelner redaktioneller Positionen. Der Gesprächsbeitrag nennt solche Zahlungen und Empfänger nicht; dieser weitergehende Teil bleibt unbestimmt.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -4845,10 +4882,14 @@
         {
           "sourceId": "V001",
           "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q57",
+          "note": "Fundstelle, Interessen und zeitliche Grenzen stehen im Quellenverzeichnis der Nachprüfung."
         }
       ],
       "research": {
-        "confidence": "Offen",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -4856,12 +4897,18 @@
             "strategy": "Vollständige Captionlektüre, Aussage atomar erfasst und Wissen gezielt durchsucht; Originalquellen wie im Verzeichnis gelesen.",
             "sourceIds": [],
             "result": "Konkrete Zahlungen und Empfänger fehlen; fallbezogene Originalbelege nötig."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Wissenssuche und direkte Prüfung eines gesetzlichen Lobbyregistereintrags; allgemeine finanzierte Interessenvertretung von unbestimmten Medienzahlungen getrennt.",
+            "sourceIds": [
+              "Q57"
+            ],
+            "result": "Das Lobbyregister dokumentiert am Beispiel FNB Gas für 2025 finanzielle Aufwendungen für Gasinteressenvertretung und Mitgliedsbeiträge als Finanzierung. Damit ist der allgemeine Sachkern finanziell ausgestatteter Energieinteressen konkret belegt. Daraus folgt keine Zahlung an bestimmte Medien oder eine kausale Erklärung einzelner redaktioneller Positionen. Der Gesprächsbeitrag nennt solche Zahlungen und Empfänger nicht; dieser weitergehende Teil bleibt unbestimmt."
           }
         ]
       },
-      "openQuestions": [
-        "Konkrete Zahlungen undEmpfänger fehlen; fallbezogene Originalbelege nötig."
-      ],
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige normale Sachaussage; weder bloßes Beiwerk noch alleinige Hauptthese.",
@@ -4887,7 +4934,8 @@
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
           }
         ]
-      }
+      },
+      "shortReason": "Finanzierte Gasinteressenvertretung ist dokumentiert; Zahlungen an bestimmte Medien oder Einfluss auf einzelne Beiträge sind damit nicht belegt."
     },
     {
       "id": "-rBUCkR4HuA-A0056",
@@ -6270,10 +6318,10 @@
       "id": "-rBUCkR4HuA-A0072",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
-      "verdict": null,
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
       "description": "In Jülich war Solarforschung im Institut für Kernphysik beheimatet.",
-      "reason": "Vita belegt nur Tätigkeit; Institutionsgeschichte dergemeinten Zeitphase noch prüfen.",
+      "reason": "Die öffentlich zugängliche Zusammenfassung der historischen Originaluntersuchung von Gerd Stadermann bestätigt ausdrücklich, dass die ersten Sonnenenergieprojekte der KFA Jülich im Institut für Kernphysik entstanden. Gemeint ist dort Solarthermie. Das stützt den institutionengeschichtlichen Kern der Erinnerung; private Mittagspausengespräche und Yogeshwars individuelle Beteiligung werden damit nicht unabhängig bestätigt.",
       "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
       "occurrences": [
         {
@@ -6297,10 +6345,14 @@
         {
           "sourceId": "Q01",
           "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q56",
+          "note": "Fundstelle, Interessen und zeitliche Grenzen stehen im Quellenverzeichnis der Nachprüfung."
         }
       ],
       "research": {
-        "confidence": "Offen",
+        "confidence": "Hoch",
         "rounds": [
           {
             "date": "2026-11-22",
@@ -6310,12 +6362,18 @@
               "Q01"
             ],
             "result": "Vita belegt nur Tätigkeit; Institutionsgeschichte dergemeinten Zeitphase noch prüfen."
+          },
+          {
+            "date": "2026-11-22",
+            "agent": "Codex",
+            "strategy": "Gezielte Wissenssuche mit KL/HP/UG und Suche nach der Institutionsgeschichte; frei zugängliche Zusammenfassung der originalen historischen Untersuchung und ihre Interview-Anmerkungen gelesen. Keine Übernahme allein aus dem Inhaltsverzeichnis.",
+            "sourceIds": [
+              "Q56"
+            ],
+            "result": "Die öffentlich zugängliche Zusammenfassung der historischen Originaluntersuchung von Gerd Stadermann bestätigt ausdrücklich, dass die ersten Sonnenenergieprojekte der KFA Jülich im Institut für Kernphysik entstanden. Gemeint ist dort Solarthermie. Das stützt den institutionengeschichtlichen Kern der Erinnerung; private Mittagspausengespräche und Yogeshwars individuelle Beteiligung werden damit nicht unabhängig bestätigt."
           }
         ]
       },
-      "openQuestions": [
-        "Vita belegt nurTätigkeit; Institutionsgeschichte dergemeintenZeitphase nochprüfen."
-      ],
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",

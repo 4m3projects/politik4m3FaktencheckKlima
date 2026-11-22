@@ -2,9 +2,9 @@
 
 Deutsche Originalcaptions über die gesamte Laufzeit gelesen; Sachbehauptungen, Selbstauskünfte, Wertungen und Prognosen getrennt. Die berechnete Abdeckung bezieht sich auf den erfassten Bestand. Ausschließlich eingeblendete Aussagen und Originalton sind nicht lückenlos kontrolliert.
 
-Gezielte Wissenssuche, Primärquellen und Gegenrecherche. Der Status bleibt Teilbestand geprüft; Originalton, alle kurzzeitigen Einblendungen und nicht entscheidbare Einzelbezüge bleiben ausdrücklich offen. Redaktionelle Nachkontrolle trennte Zukunftsappell, politische Tatsachenbehauptung, Buchautorenschaft und private Anekdote; keine Bewertung eines erfundenen stärkeren Aussagegehalts. Nachprüfung am 22.11.2026: 16 zuvor offene Sachfragen anhand neu gelesener Originalquellen eingeordnet; übrige Fragen bleiben offen. Kein neuer vollständiger Hör-/Bildabgleich. Bestehende abgeschlossene Urteile, Gewichte und Kontrollvermerke unverändert.
+Gezielte Wissenssuche, Primärquellen und Gegenrecherche. Der Status bleibt Teilbestand geprüft; Originalton, alle kurzzeitigen Einblendungen und nicht entscheidbare Einzelbezüge bleiben ausdrücklich offen. Redaktionelle Nachkontrolle trennte Zukunftsappell, politische Tatsachenbehauptung, Buchautorenschaft und private Anekdote; keine Bewertung eines erfundenen stärkeren Aussagegehalts. Nachprüfung am 22.11.2026: 16 zuvor offene Sachfragen anhand neu gelesener Originalquellen eingeordnet; übrige Fragen bleiben offen. Kein neuer vollständiger Hör-/Bildabgleich. Bestehende abgeschlossene Urteile, Gewichte und Kontrollvermerke unverändert. Weitere Anschlussprüfung: Heizölpreis aus der Oktober-Originaltabelle und institutionelle Solarforschung in Jülich belegt; finanzierte Interessenvertretung mit ausdrücklich begrenztem Medienbezug teilweise belegt. Übrige offene Fragen nicht für eine Ampelfarbe abgeschlossen.
 
-Erstimport laut früherem Protokoll mit Teilfehler HTTP 429 bei zusätzlichen englischen Untertiteln. In dieser Nachprüfung erneut ausschließlich Metadaten, Beschreibung und deutsche Originalcaptions mit dem vorgeschriebenen Importskript in eine externe private temporäre Ablage geladen. Kein Audio-, Video- oder Bilddownload. Die hier neu bewerteten Intervalle wurden im Captionzusammenhang gelesen; frühere Recherchevermerke bleiben historische Angaben der Ersterfassung.
+Die älteren Zugangsbeschreibungen dokumentieren die Ersterfassung. Neu gelesene Quellen und erneute Materialprüfungen sind in den Forschungsrunden kenntlich gemacht. Kein Medien- oder Thumbnaildownload, keine Cookies; Captions über das vorgeschriebene Importskript in externer privater Ablage. Keine vollständige Hörprüfung.
 
 ## V001 · YouTube-Original: #13 - „Ich habe keine Panik vor Atom.“ - Ranga Yogeshwar
 
@@ -437,3 +437,27 @@ Zugang: Originalquelle in dieser Nachprüfung direkt geöffnet und die in detail
 Seiten 1–2: Deutschland als einziges Land der EU/OECD/G20 ohne allgemeines Autobahnlimit; nennt zugleich Ausnahmen außerhalb dieser Vergleichsgruppen. Historischer Überblick, kein weltweiter aktueller Rechtsvergleich.
 
 Zugang: In dieser Nachprüfung direkt geöffnet und den Ländervergleich gelesen; nicht als aktuelles weltweites Rechtskataster verwendet. Abruf: 2026-11-22.
+
+## Q55 · EU-Kommission: Weekly Oil Bulletin, historische Preise
+
+[Originalquelle](https://energy.ec.europa.eu/data-and-analysis/weekly-oil-bulletin_en)
+
+Am 22.11.2026 geladene historische XLSX, Stand 19.11.2026, Blatt Prices with taxes: BE1 identifiziert DE_price_with_tax_heating_oil; BE2 Heizöl, BE3 Einheit EUR je 1000 Liter. A7:A10 und BE7:BE10: 26.10.2026 1750,1; 19.10. 1712,8; 12.10. 1698,1; 5.10. 1654,4. Division durch 1000 ergibt 1,7501; 1,7128; 1,6981; 1,6544 EUR/L. Kein regionales Tagesangebot.
+
+Zugang: Original-Landingpage und direkt verlinkte historische Tabelle heruntergeladen; nur lesend mit gebündeltem Python/openpyxl ausgewertet. Zeilen, Feldkennung, Einheit und Wochenbezug überprüft; Quelldatei bleibt außerhalb des Repositorys. Abruf: 2026-11-22.
+
+## Q56 · Gerd Stadermann: Jülich – Solarenergieforschung im Schoße der Kernphysik, 2021
+
+[Originalquelle](https://link.springer.com/chapter/10.1007/978-3-658-31588-7_6)
+
+Öffentlich zugängliche Zusammenfassung nennt erste solare Projekte, hier Solarthermie, am Institut für Kernphysik. Die sichtbaren Anmerkungen weisen eigene Interviews mit beteiligten Forschern aus. Originale historische Untersuchung, nur frei lesbare Zusammenfassung und Anmerkungen gelesen; kein Zugang zum gesamten kostenpflichtigen Kapitel behauptet.
+
+Zugang: Originalquelle in dieser Nachprüfung direkt geöffnet und die genannten Abschnitte gelesen. Abruf: 2026-11-22.
+
+## Q57 · Lobbyregister: FNB Gas e.V., R002747
+
+[Originalquelle](https://www.lobbyregister.bundestag.de/suche/R002747)
+
+FNB Gas nennt für 2025 410001–420000 Euro Interessenvertretungsaufwand und Mitgliedsbeiträge als Hauptfinanzierung; vertreten werden Gasnetzinteressen einschließlich fossiler Energien. Jahresaktualisierung 24.6.2026, aktueller Eintrag später geändert. Selbstmeldung im gesetzlichen Register, kein Beleg einer Zahlung an bestimmte Medien.
+
+Zugang: Originalquelle in dieser Nachprüfung direkt geöffnet und die genannten Abschnitte gelesen. Abruf: 2026-11-22.
