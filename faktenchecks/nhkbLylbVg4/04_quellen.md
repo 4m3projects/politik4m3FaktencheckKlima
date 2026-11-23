@@ -8,7 +8,7 @@ Abruf und Recherche: 23.11.2026. Historischer Bezug: Veröffentlichung des Video
 
 Originalvideo vom 17.12.2025, 896 Sekunden. Metadaten, Beschreibung und deutsche Untertitel direkt von YouTube abgerufen; vollständige Untertitellektüre, keine vollständige audiovisuelle Sichtung.
 
-Zugriff: Vorhandener Repository-Import mit yt-dlp, ausschließlich Metadaten/Beschreibung/Untertitel, ohne Medien und ohne vidIQ. Deutsche Untertitelspuren enthalten Erkennungsfehler; nicht als redaktionell verifiziertes Wortprotokoll behandelt.
+Zugriff: Vorhandener Repository-Import mit yt-dlp, ausschließlich Metadaten/Beschreibung/Untertitel, ohne Medien und ohne vidIQ. Deutsche Untertitelspuren enthalten Erkennungsfehler; nicht als redaktionell verifiziertes Wortprotokoll behandelt. Ergänzender Browserversuch am 23.11.2026: Videoseite und Untertitel sichtbar, Bildwiedergabe bei 12:10 auch nach einmaligem Neuladen im Ladezustand; keine sichtbaren Zitattafeln oder Originalton als geprüft behandelt.
 
 ## S002
 
@@ -70,9 +70,9 @@ Zugriff: Originalstellungnahme aus Landtagsarchiv geöffnet.
 
 [Westenergie AG – Jahresabschluss 2024](https://www.lobbyregister.bundestag.de/media/f0/3f/545691/Westenergie-JA-2024-Unternehmensregister.pdf)
 
-S.1 Geschäftsprofil; S.4–5 und 9 Ergebnis; S.25 Reiche als Vorstandsvorsitzende.
+S.1 Geschäftsprofil; S.4–5 und 9 Ergebnis; S.25 Reiche als Vorstandsvorsitzende. Nachprüfung S. 56–57: eigene Gasverteilung der AG, Ergebnis nach Steuern 6,8 Mio. Euro 2024 und 1,1 Mio. Euro 2023; nicht der konsolidierte Gasgewinn der Gruppe. Beteiligungserträge und Tochter-Gewinnabführungen getrennt halten.
 
-Zugriff: Original-PDF und relevante Abschnitte geöffnet.
+Zugriff: Original-PDF und relevante Abschnitte geöffnet. Tätigkeits-GuV S. 56–57 im Original-PDF-Layouttext erneut gelesen.
 
 ## S010
 
@@ -80,7 +80,7 @@ Zugriff: Original-PDF und relevante Abschnitte geöffnet.
 
 Aktuelle Liste vom 15.04.2026, keine historische Besetzung vor Ministeramt.
 
-Zugriff: Originalseite geöffnet; historischer Nachweis fehlt.
+Zugriff: Aktuelle Originalseite geöffnet; diese spätere Liste liefert keinen historischen Nachweis für Reiches damalige Mitgliedschaft. Zum ergänzten historischen Beleg siehe S066 und S067.
 
 ## S011
 
@@ -505,3 +505,115 @@ Zugriff: Offizielles Pressemitteilungs-PDF vollständig geöffnet und gelesen; b
 Original-Branchenstatistik mit 2024-Daten. Wärmepumpen je 1.000 Haushalte: Deutschland 54, Norwegen 632, Finnland 524, Schweden 496, Dänemark 217, Frankreich 204. Absoluter Bestand: Frankreich rund 6,55 Mio., Italien 4,20 Mio., Deutschland 2,27 Mio. Erfasste Technologien und Mehrfachgeräte pro Haushalt beachten.
 
 Zugriff: Original-PDF direkt gelesen, Grafiken 4 und 5; turn192596532view1.
+
+## S064
+
+[VKU: Stellungnahme zum EEG-Referentenentwurf vom 14.04.2016, 28.04.2016](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Downloads/Stellungnahmen/Stellungnahmen-EEG-2016/verband-kommunaler-unternehmen.pdf?__blob=publicationFile&v=2)
+
+S. 7–10, § 4 Ausbaupfad: feste jährliche Ausschreibungsmenge von 2.000 MW netto gegenüber bisher 2.500 MW; Gesamtkorridor maximal 45 Prozent EE-Strom 2025, nötigenfalls Drosselung. Bei Beibehaltung der staatlichen Windformel werden 2.000 MW alternativ als Mindestmenge verlangt. Gründe: Netzplanung, Kosten, Berechenbarkeit und Akteursvielfalt; kein ausdrücklicher Nachweis der behaupteten Gaskraftwerks-Gewinnabsicht.
+
+Zugriff: Historisches Verbandsoriginal im amtlichen Archiv. Webabruf HTTP 429; öffentliches Original-PDF regulär abgerufen. Deckblatt und S. 7–10 lokal gelesen und durch einen zweiten Agenten unabhängig geprüft. SHA-256: 5077f9499ff28d72e7728685043a3ce74c6afdb3fbd9fbcc78ca34dec0ebf799.
+
+## S065
+
+[Frankfurter Rundschau: Originalinterview mit Katherina Reiche – Kunden sind schlauer als viele denken](https://www.fr.de/wirtschaft/kunden-sind-schlauer-viele-denken-11112511.html)
+
+Reiches Antworten stützen persönlich den 2.000-MW-Windkorridor und beschreiben in anderem Zusammenhang wirtschaftliche Schwierigkeiten von Gaskraftwerken durch schnellen EE-Ausbau, niedrige CO₂-Preise und Kohlekonkurrenz. Kein ausdrücklicher Beleg für die im Video behauptete kausale Gewinnabsicht.
+
+Zugriff: Originalinterview direkt geöffnet und gelesen. Angezeigter Seitenstand und Metadaten: 10.01.2019; ein möglicherweise älteres Erstveröffentlichungs- oder Gesprächsdatum wurde nicht unabhängig festgestellt. Den Datumsstand nicht als sicher festgestellten Interviewtag behandeln.
+
+## S066
+
+[Sven Becker: Originalbeitrag zur Wahl des BDEW-Landesvorstands NRW](https://de.linkedin.com/posts/sven-becker-passionate-leader_bdew-nrw-dialog-activity-7159229192352452608-1mzD)
+
+Der wiedergewählte Landesvorsitzende nennt Katherina Reiche unter den gewählten Mitgliedern des Landesvorstands. Das Ereignis mit Hendrik Wüst und Beckers Wiederwahl wird anhand der datierten BDEW-Mitteilungen als Wahl vom 01.02.2024 eingeordnet.
+
+Zugriff: Öffentlich lesbaren Originalbeitrag ohne Anmeldung geöffnet. Als bearbeitet markiert, nur relative Altersangabe sichtbar; kein unveränderlicher Archivsnapshot. Keine vollständige persönliche Amtszeit oder zusätzliche Mitgliedschaft im Bundesvorstand daraus abgeleitet.
+
+## S067
+
+[BDEW-Landesgruppe NRW: Sven Becker als Vorsitzender des Landesgruppenvorstandes wiedergewählt, 02.02.2024](https://nrw.bdew.de/media/documents/Pressemitteilung_Mitgliederversammlung_QXIBdeH.pdf)
+
+S. 1: Mitgliederversammlung am Vortag, Wahl eines Landesvorstands für zwei Jahre und Wiederwahl Beckers zum Vorsitzenden. Belegt das Ereignisdatum 01.02.2024 und die reguläre Wahlperiode, nennt Reiche selbst jedoch nicht.
+
+Zugriff: Datierte institutionelle Originalmitteilung direkt geöffnet und gelesen; zusammen mit Beckers namentlichem Originalbeitrag ausgewertet.
+
+## S068
+
+[BDEW-Landesgruppe NRW: Vortragsveranstaltung mit Hendrik Wüst, 01.02.2024](https://nrw.bdew.de/service/pressemitteilungen/wichtige-entscheider-sprechen-auf-der-vortragsveranstaltung-der-bdew-landesgruppe-nrw/)
+
+Datierte Mitteilung zur Vortragsveranstaltung anlässlich der Mitgliederversammlung; dient zur Zuordnung des von Becker beschriebenen Ereignisses, nicht als eigenständiger namentlicher Mandatsbeleg.
+
+Zugriff: Originalseite im BDEW-Pressearchiv durch die Teilrecherche geöffnet und gelesen.
+
+## S069
+
+[Westnetz GmbH – Jahresabschluss zum 31. Dezember 2024, Lagebericht und Tätigkeitsabschlüsse](https://www.lobbyregister.bundestag.de/media/58/69/619872/50088506_End_TE_JA2024.pdf)
+
+PDF-S. 81–82, gedruckte Tätigkeitsabschlüsse S. 5–6: Ergebnis nach Steuern der Gasverteilung 62,4 Mio. Euro 2024 und 45,5 Mio. Euro 2023; Elektrizitätsverteilung getrennt. Abschluss aus historischer Lobbyregisterfassung vom 26.09.2025.
+
+Zugriff: Original-PDF im Web geöffnet und lokal abgerufen; wegen fehlerhafter Zeichencodierung beide Tabellen gerendert und von Teilrecherche sowie Hauptrecherche unabhängig visuell auf Spalten, Einheiten und Vorzeichen geprüft. Westnetz-Einzelgesellschaft, keine Westenergie-Konzernkonsolidierung.
+
+## S070
+
+[Westnetz GmbH – Jahresabschluss zum 31. Dezember 2023 einschließlich Tätigkeitsabschlüssen](https://www.lobbyregister.bundestag.de/media/3b/77/318056/50086436_End_TE_JA2023_Westnetz.pdf)
+
+PDF-S. 84, gedruckte Tätigkeitsabschlüsse S. 6: Vorjahresvergleich für 2022; Gasverteilung mit Ergebnis nach Steuern von −7,9 Mio. Euro. Kein operatives EBITDA.
+
+Zugriff: Original-PDF geöffnet und lokal abgerufen; Tabelle wegen fehlerhafter Textkodierung gerendert und durch Teil- und Hauptrecherche unabhängig visuell geprüft, einschließlich des negativen Vorzeichens.
+
+## S071
+
+[Bundesnetzagentur – Ermittelte Werte zum Qualitätselement 2026](https://www.bundesnetzagentur.de/DE/Beschlusskammern/BK08/BK8_05_EOG/57_QElement/Download/20260119_133927_Ergebnis_Q-Element2026.xlsx?__blob=publicationFile&v=2)
+
+Dateifassung 19.01.2026 mit historischen Werten 2022–2024. Blatt Veröffentlichung_Q-Element_2026, 2024: Summe J+K+X+Y (Letztverbraucher NS, MS/NS, MS, HS/MS). Westnetz Zeile 172: 3.924.816 + 10.000 + 16.350 + 129 = 3.951.295, höchster Wert unter 196 vollständig numerischen Zeilen. Insgesamt 198 Betreiber; Witten und DB Energie haben jeweils zwei leere Teilfelder und wurden nicht mit Null ergänzt.
+
+Zugriff: Amtliche Original-XLSX öffentlich abgerufen und unabhängig erneut mit openpyxl ausgewertet. Rückblickende Bestätigung historischer Stromdaten aus einer Dateifassung nach dem Video; kein damaliger Archivstand, kein Gas-/Wasser- oder Konzern-Gesamtranking. SHA-256: 275ea1071eee9c4705bbfb2726e9cdce1a1511d1732cb79b62936b1259f6f0a6.
+
+## S072
+
+[Bundesnetzagentur: Qualitätsregulierung und Qualitätselement – Daten zum Qualitätselement 2026](https://www.bundesnetzagentur.de/DE/Beschlusskammern/BK08/BK8_05_EOG/57_QElement/start.html)
+
+Abschnitt Daten zum Qualitätselement 2026: Datenerhebung Frühjahr 2025, Stromverteilernetzbetreiber in Bundes- und Landeszuständigkeit; Download mit Stand 19. Januar 2026. Der Stand bezeichnet die Dateifassung und belegt für sich kein erstmaliges Veröffentlichungsdatum.
+
+Zugriff: Amtliche Erläuterungsseite direkt geöffnet und maßgeblichen Abschnitt gelesen; Kontext für Population, Zweck und Datumsgrenze der Original-XLSX.
+
+## S073
+
+[E.ON – Integrated Annual Report 2024](https://annualreport.eon.com/content/dam/eon-annualreport/documents/en/GB24-gesamt-EN_final.pdf)
+
+S. 28, 55, 88 und 203–204: E.ON-Konzern- und Segmentabgrenzung. 5.008 Mio. Euro bereinigtes EBITDA betreffen deutsche E.ON-Strom- und Gasnetzaktivitäten, 19,9 Mrd. Euro Gasnetze und Gasvertrieb sind Konzernumsatz; beides kein fossiler Westenergie-Gruppengewinn.
+
+Zugriff: Originalbericht bei E.ON durch die Teilrecherche geöffnet und Ergebnis-/Segmentpassagen gelesen; in der Hauptrecherche erneut geöffnet. Abweichende Unternehmens- und Kennzahlabgrenzung ausdrücklich beachtet.
+
+## S074
+
+[FÖS im Auftrag des BUND: 20 GW Gaskraftwerke bis 2030 – Was kostet die Erweiterung der Kraftwerksstrategie?, April 2025](https://foes.de/publikationen/2025/2025-04_FOES_BUND_Kraftwerkskosten.pdf)
+
+S. 1–6, besonders Tabellen 2–4: Szenario-Gesamtförderkosten von 22,2–32,4 Mrd. Euro für die damalige Erweiterung auf 20 GW neue konventionelle/H₂-ready-Gaskraftwerke, einschließlich weiterer mitgerechneter Förderelemente. Finanzierung ausdrücklich offen, auch Stromumlage modelliert.
+
+Zugriff: Originalanalyse geöffnet und Zusammenfassung, Tabellen, Finanzierung und methodische Grenzen gelesen. Rechnung auf BMWK-Annahmen von 2024, vor Reiches Amtsantritt; kein amtlicher Kostenansatz für die später veränderte Strategie, keine Haushaltszusage. Auftraggeber BUND und Szenariocharakter ausdrücklich ausgewiesen.
+
+## S075
+
+[Entwurf Bundeshaushaltsplan 2026, Einzelplan 60](https://www.bundeshaushalt.de/static/daten/2026/soll/draft/epl60.pdf)
+
+Gedruckte S. 114, KTF Kapitel 6092, Titel 893 12: Ansatz 250 T€ = 250.000 Euro, keine eigene Verpflichtungsermächtigung beim Titel. Förderung von H₂-ready-, Wasserstoffkraftwerken und Langzeitspeichern; Umsetzungskosten, Studien und Gutachten ebenfalls zugelassen.
+
+Zugriff: Amtliches Original-PDF geöffnet und Titelzeile einschließlich Einheit gelesen. Der Jahresansatz ist keine Schätzung sämtlicher künftiger Förderkosten und widerlegt keine längerfristige Förderabsicht.
+
+## S076
+
+[Bundestag: Beschlussempfehlung zum Einzelplan 60, Drucksache 21/2060 vom 17.11.2025](https://dserver.bundestag.de/btd/21/020/2102060.pdf)
+
+S. 1 und KTF-Änderungen S. 24–28: Annahme des Entwurfs mit aufgelisteten Änderungen; keine Erhöhung des Betrags oder eigene neue Verpflichtungsermächtigung beim Kraftwerksstrategie-Titel 893 12. Erwähnungen in allgemeinen Deckungsvermerken.
+
+Zugriff: Amtliches Original geöffnet, Titelverweise und Änderungsabschnitt geprüft. Allgemeine Deckungsfähigkeit ist kein Nachweis eines konkret vorgesehenen zusätzlichen Milliardenbetrags.
+
+## S077
+
+[Bundeshaushaltsplan 2026, Einzelplan 60 – finale Soll-Fassung](https://www.bundeshaushalt.de/static/daten/2026/soll/epl60.pdf)
+
+Gedruckte S. 115: Titel 893 12 unverändert 250 T€ ohne eigene Verpflichtungsermächtigung; gleicher Förderzweck wie im Entwurf.
+
+Zugriff: Original-PDF geöffnet und Titelzeile gelesen; Teilrecherche kontrollierte auch die Originalseite visuell. Heute abgerufene Endfassung, kein Archivsnapshot vom Videodatum; nur zusammen mit historischem Entwurf und November-Unterlagen zur Einordnung verwendet.

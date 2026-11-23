@@ -7,7 +7,7 @@
     "asOf": "2026-11-23",
     "durationSeconds": 896,
     "coverageNote": "Alle verfügbaren deutschen Untertitel von 00:00 bis zum Schluss wurden gelesen. Sachbehauptungen, politische Wertungen und zugeschriebene Reiche-Zitate werden getrennt erfasst; Wiederholungen sind zusammengeführt. Die berechnete Abdeckung bezieht sich auf diesen Aussagenbestand, nicht auf audiovisuell geprüfte Sekunden oder eine garantierte Erfassung jeder Bildeinblendung.",
-    "researchNote": "Originalvideo vom 17.12.2025; geprüft am 23.11.2026 mit Blick auf die zum Videodatum belegbare Lage. Direkter Metadaten-/Untertitelabruf ohne vidIQ und ohne Medien. Keine vollständige Kontrolle von Originalton, Zitattafeln, Grafiken, Musik oder Schnitt. Datierungs- und Zuordnungsbefunde beziehen sich bis zum A/V-Abgleich auf die abgerufenen Untertitel. Später abrufbare Quellen wurden auf historischen Aussagebezug geprüft; aktuelle Dateien beweisen nicht automatisch historischen Versionsstand."
+    "researchNote": "Originalvideo vom 17.12.2025; geprüft am 23.11.2026 mit Blick auf die zum Videodatum belegbare Lage. Direkter Metadaten-/Untertitelabruf ohne vidIQ und ohne Medien. Keine vollständige Kontrolle von Originalton, Zitattafeln, Grafiken, Musik oder Schnitt. Datierungs- und Zuordnungsbefunde beziehen sich bis zum A/V-Abgleich auf die abgerufenen Untertitel. Später abrufbare Quellen wurden auf historischen Aussagebezug geprüft; aktuelle Dateien beweisen nicht automatisch historischen Versionsstand. Nachprüfung: konkrete VKU-Begrenzungsforderung, historisches NRW-BDEW-Mandat, Strom-Größenvergleich und Gas-Tätigkeitsergebnisse ergänzt; ursprüngliche offene Sachangaben jetzt mit ausdrücklich begrenzten Ergebnissen eingeordnet. Der direkte Browserversuch am 23.11.2026 blieb trotz einmaligem Neuladen bei 12:10 ohne laufendes Videobild; keine zusätzliche A/V-Prüfung behauptet."
   },
   "speakers": [
     {
@@ -30,7 +30,7 @@
       "url": "https://www.youtube.com/watch?v=nhkbLylbVg4",
       "details": "Originalvideo vom 17.12.2025, 896 Sekunden. Metadaten, Beschreibung und deutsche Untertitel direkt von YouTube abgerufen; vollständige Untertitellektüre, keine vollständige audiovisuelle Sichtung.",
       "accessedOn": "2026-11-23",
-      "accessBasis": "Vorhandener Repository-Import mit yt-dlp, ausschließlich Metadaten/Beschreibung/Untertitel, ohne Medien und ohne vidIQ. Deutsche Untertitelspuren enthalten Erkennungsfehler; nicht als redaktionell verifiziertes Wortprotokoll behandelt."
+      "accessBasis": "Vorhandener Repository-Import mit yt-dlp, ausschließlich Metadaten/Beschreibung/Untertitel, ohne Medien und ohne vidIQ. Deutsche Untertitelspuren enthalten Erkennungsfehler; nicht als redaktionell verifiziertes Wortprotokoll behandelt. Ergänzender Browserversuch am 23.11.2026: Videoseite und Untertitel sichtbar, Bildwiedergabe bei 12:10 auch nach einmaligem Neuladen im Ladezustand; keine sichtbaren Zitattafeln oder Originalton als geprüft behandelt."
     },
     {
       "id": "S002",
@@ -92,9 +92,9 @@
       "id": "S009",
       "title": "Westenergie AG – Jahresabschluss 2024",
       "url": "https://www.lobbyregister.bundestag.de/media/f0/3f/545691/Westenergie-JA-2024-Unternehmensregister.pdf",
-      "details": "S.1 Geschäftsprofil; S.4–5 und 9 Ergebnis; S.25 Reiche als Vorstandsvorsitzende.",
+      "details": "S.1 Geschäftsprofil; S.4–5 und 9 Ergebnis; S.25 Reiche als Vorstandsvorsitzende. Nachprüfung S. 56–57: eigene Gasverteilung der AG, Ergebnis nach Steuern 6,8 Mio. Euro 2024 und 1,1 Mio. Euro 2023; nicht der konsolidierte Gasgewinn der Gruppe. Beteiligungserträge und Tochter-Gewinnabführungen getrennt halten.",
       "accessedOn": "2026-11-23",
-      "accessBasis": "Original-PDF und relevante Abschnitte geöffnet."
+      "accessBasis": "Original-PDF und relevante Abschnitte geöffnet. Tätigkeits-GuV S. 56–57 im Original-PDF-Layouttext erneut gelesen."
     },
     {
       "id": "S010",
@@ -102,7 +102,7 @@
       "url": "https://nrw.bdew.de/ueber-uns/vorstand/",
       "details": "Aktuelle Liste vom 15.04.2026, keine historische Besetzung vor Ministeramt.",
       "accessedOn": "2026-11-23",
-      "accessBasis": "Originalseite geöffnet; historischer Nachweis fehlt."
+      "accessBasis": "Aktuelle Originalseite geöffnet; diese spätere Liste liefert keinen historischen Nachweis für Reiches damalige Mitgliedschaft. Zum ergänzten historischen Beleg siehe S066 und S067."
     },
     {
       "id": "S011",
@@ -527,6 +527,118 @@
       "details": "Original-Branchenstatistik mit 2024-Daten. Wärmepumpen je 1.000 Haushalte: Deutschland 54, Norwegen 632, Finnland 524, Schweden 496, Dänemark 217, Frankreich 204. Absoluter Bestand: Frankreich rund 6,55 Mio., Italien 4,20 Mio., Deutschland 2,27 Mio. Erfasste Technologien und Mehrfachgeräte pro Haushalt beachten.",
       "accessedOn": "2026-11-23",
       "accessBasis": "Original-PDF direkt gelesen, Grafiken 4 und 5; turn192596532view1."
+    },
+    {
+      "id": "S064",
+      "title": "VKU: Stellungnahme zum EEG-Referentenentwurf vom 14.04.2016, 28.04.2016",
+      "url": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Downloads/Stellungnahmen/Stellungnahmen-EEG-2016/verband-kommunaler-unternehmen.pdf?__blob=publicationFile&v=2",
+      "details": "S. 7–10, § 4 Ausbaupfad: feste jährliche Ausschreibungsmenge von 2.000 MW netto gegenüber bisher 2.500 MW; Gesamtkorridor maximal 45 Prozent EE-Strom 2025, nötigenfalls Drosselung. Bei Beibehaltung der staatlichen Windformel werden 2.000 MW alternativ als Mindestmenge verlangt. Gründe: Netzplanung, Kosten, Berechenbarkeit und Akteursvielfalt; kein ausdrücklicher Nachweis der behaupteten Gaskraftwerks-Gewinnabsicht.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Historisches Verbandsoriginal im amtlichen Archiv. Webabruf HTTP 429; öffentliches Original-PDF regulär abgerufen. Deckblatt und S. 7–10 lokal gelesen und durch einen zweiten Agenten unabhängig geprüft. SHA-256: 5077f9499ff28d72e7728685043a3ce74c6afdb3fbd9fbcc78ca34dec0ebf799."
+    },
+    {
+      "id": "S065",
+      "title": "Frankfurter Rundschau: Originalinterview mit Katherina Reiche – Kunden sind schlauer als viele denken",
+      "url": "https://www.fr.de/wirtschaft/kunden-sind-schlauer-viele-denken-11112511.html",
+      "details": "Reiches Antworten stützen persönlich den 2.000-MW-Windkorridor und beschreiben in anderem Zusammenhang wirtschaftliche Schwierigkeiten von Gaskraftwerken durch schnellen EE-Ausbau, niedrige CO₂-Preise und Kohlekonkurrenz. Kein ausdrücklicher Beleg für die im Video behauptete kausale Gewinnabsicht.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Originalinterview direkt geöffnet und gelesen. Angezeigter Seitenstand und Metadaten: 10.01.2019; ein möglicherweise älteres Erstveröffentlichungs- oder Gesprächsdatum wurde nicht unabhängig festgestellt. Den Datumsstand nicht als sicher festgestellten Interviewtag behandeln."
+    },
+    {
+      "id": "S066",
+      "title": "Sven Becker: Originalbeitrag zur Wahl des BDEW-Landesvorstands NRW",
+      "url": "https://de.linkedin.com/posts/sven-becker-passionate-leader_bdew-nrw-dialog-activity-7159229192352452608-1mzD",
+      "details": "Der wiedergewählte Landesvorsitzende nennt Katherina Reiche unter den gewählten Mitgliedern des Landesvorstands. Das Ereignis mit Hendrik Wüst und Beckers Wiederwahl wird anhand der datierten BDEW-Mitteilungen als Wahl vom 01.02.2024 eingeordnet.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Öffentlich lesbaren Originalbeitrag ohne Anmeldung geöffnet. Als bearbeitet markiert, nur relative Altersangabe sichtbar; kein unveränderlicher Archivsnapshot. Keine vollständige persönliche Amtszeit oder zusätzliche Mitgliedschaft im Bundesvorstand daraus abgeleitet."
+    },
+    {
+      "id": "S067",
+      "title": "BDEW-Landesgruppe NRW: Sven Becker als Vorsitzender des Landesgruppenvorstandes wiedergewählt, 02.02.2024",
+      "url": "https://nrw.bdew.de/media/documents/Pressemitteilung_Mitgliederversammlung_QXIBdeH.pdf",
+      "details": "S. 1: Mitgliederversammlung am Vortag, Wahl eines Landesvorstands für zwei Jahre und Wiederwahl Beckers zum Vorsitzenden. Belegt das Ereignisdatum 01.02.2024 und die reguläre Wahlperiode, nennt Reiche selbst jedoch nicht.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Datierte institutionelle Originalmitteilung direkt geöffnet und gelesen; zusammen mit Beckers namentlichem Originalbeitrag ausgewertet."
+    },
+    {
+      "id": "S068",
+      "title": "BDEW-Landesgruppe NRW: Vortragsveranstaltung mit Hendrik Wüst, 01.02.2024",
+      "url": "https://nrw.bdew.de/service/pressemitteilungen/wichtige-entscheider-sprechen-auf-der-vortragsveranstaltung-der-bdew-landesgruppe-nrw/",
+      "details": "Datierte Mitteilung zur Vortragsveranstaltung anlässlich der Mitgliederversammlung; dient zur Zuordnung des von Becker beschriebenen Ereignisses, nicht als eigenständiger namentlicher Mandatsbeleg.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Originalseite im BDEW-Pressearchiv durch die Teilrecherche geöffnet und gelesen."
+    },
+    {
+      "id": "S069",
+      "title": "Westnetz GmbH – Jahresabschluss zum 31. Dezember 2024, Lagebericht und Tätigkeitsabschlüsse",
+      "url": "https://www.lobbyregister.bundestag.de/media/58/69/619872/50088506_End_TE_JA2024.pdf",
+      "details": "PDF-S. 81–82, gedruckte Tätigkeitsabschlüsse S. 5–6: Ergebnis nach Steuern der Gasverteilung 62,4 Mio. Euro 2024 und 45,5 Mio. Euro 2023; Elektrizitätsverteilung getrennt. Abschluss aus historischer Lobbyregisterfassung vom 26.09.2025.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Original-PDF im Web geöffnet und lokal abgerufen; wegen fehlerhafter Zeichencodierung beide Tabellen gerendert und von Teilrecherche sowie Hauptrecherche unabhängig visuell auf Spalten, Einheiten und Vorzeichen geprüft. Westnetz-Einzelgesellschaft, keine Westenergie-Konzernkonsolidierung."
+    },
+    {
+      "id": "S070",
+      "title": "Westnetz GmbH – Jahresabschluss zum 31. Dezember 2023 einschließlich Tätigkeitsabschlüssen",
+      "url": "https://www.lobbyregister.bundestag.de/media/3b/77/318056/50086436_End_TE_JA2023_Westnetz.pdf",
+      "details": "PDF-S. 84, gedruckte Tätigkeitsabschlüsse S. 6: Vorjahresvergleich für 2022; Gasverteilung mit Ergebnis nach Steuern von −7,9 Mio. Euro. Kein operatives EBITDA.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Original-PDF geöffnet und lokal abgerufen; Tabelle wegen fehlerhafter Textkodierung gerendert und durch Teil- und Hauptrecherche unabhängig visuell geprüft, einschließlich des negativen Vorzeichens."
+    },
+    {
+      "id": "S071",
+      "title": "Bundesnetzagentur – Ermittelte Werte zum Qualitätselement 2026",
+      "url": "https://www.bundesnetzagentur.de/DE/Beschlusskammern/BK08/BK8_05_EOG/57_QElement/Download/20260119_133927_Ergebnis_Q-Element2026.xlsx?__blob=publicationFile&v=2",
+      "details": "Dateifassung 19.01.2026 mit historischen Werten 2022–2024. Blatt Veröffentlichung_Q-Element_2026, 2024: Summe J+K+X+Y (Letztverbraucher NS, MS/NS, MS, HS/MS). Westnetz Zeile 172: 3.924.816 + 10.000 + 16.350 + 129 = 3.951.295, höchster Wert unter 196 vollständig numerischen Zeilen. Insgesamt 198 Betreiber; Witten und DB Energie haben jeweils zwei leere Teilfelder und wurden nicht mit Null ergänzt.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Amtliche Original-XLSX öffentlich abgerufen und unabhängig erneut mit openpyxl ausgewertet. Rückblickende Bestätigung historischer Stromdaten aus einer Dateifassung nach dem Video; kein damaliger Archivstand, kein Gas-/Wasser- oder Konzern-Gesamtranking. SHA-256: 275ea1071eee9c4705bbfb2726e9cdce1a1511d1732cb79b62936b1259f6f0a6."
+    },
+    {
+      "id": "S072",
+      "title": "Bundesnetzagentur: Qualitätsregulierung und Qualitätselement – Daten zum Qualitätselement 2026",
+      "url": "https://www.bundesnetzagentur.de/DE/Beschlusskammern/BK08/BK8_05_EOG/57_QElement/start.html",
+      "details": "Abschnitt Daten zum Qualitätselement 2026: Datenerhebung Frühjahr 2025, Stromverteilernetzbetreiber in Bundes- und Landeszuständigkeit; Download mit Stand 19. Januar 2026. Der Stand bezeichnet die Dateifassung und belegt für sich kein erstmaliges Veröffentlichungsdatum.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Amtliche Erläuterungsseite direkt geöffnet und maßgeblichen Abschnitt gelesen; Kontext für Population, Zweck und Datumsgrenze der Original-XLSX."
+    },
+    {
+      "id": "S073",
+      "title": "E.ON – Integrated Annual Report 2024",
+      "url": "https://annualreport.eon.com/content/dam/eon-annualreport/documents/en/GB24-gesamt-EN_final.pdf",
+      "details": "S. 28, 55, 88 und 203–204: E.ON-Konzern- und Segmentabgrenzung. 5.008 Mio. Euro bereinigtes EBITDA betreffen deutsche E.ON-Strom- und Gasnetzaktivitäten, 19,9 Mrd. Euro Gasnetze und Gasvertrieb sind Konzernumsatz; beides kein fossiler Westenergie-Gruppengewinn.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Originalbericht bei E.ON durch die Teilrecherche geöffnet und Ergebnis-/Segmentpassagen gelesen; in der Hauptrecherche erneut geöffnet. Abweichende Unternehmens- und Kennzahlabgrenzung ausdrücklich beachtet."
+    },
+    {
+      "id": "S074",
+      "title": "FÖS im Auftrag des BUND: 20 GW Gaskraftwerke bis 2030 – Was kostet die Erweiterung der Kraftwerksstrategie?, April 2025",
+      "url": "https://foes.de/publikationen/2025/2025-04_FOES_BUND_Kraftwerkskosten.pdf",
+      "details": "S. 1–6, besonders Tabellen 2–4: Szenario-Gesamtförderkosten von 22,2–32,4 Mrd. Euro für die damalige Erweiterung auf 20 GW neue konventionelle/H₂-ready-Gaskraftwerke, einschließlich weiterer mitgerechneter Förderelemente. Finanzierung ausdrücklich offen, auch Stromumlage modelliert.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Originalanalyse geöffnet und Zusammenfassung, Tabellen, Finanzierung und methodische Grenzen gelesen. Rechnung auf BMWK-Annahmen von 2024, vor Reiches Amtsantritt; kein amtlicher Kostenansatz für die später veränderte Strategie, keine Haushaltszusage. Auftraggeber BUND und Szenariocharakter ausdrücklich ausgewiesen."
+    },
+    {
+      "id": "S075",
+      "title": "Entwurf Bundeshaushaltsplan 2026, Einzelplan 60",
+      "url": "https://www.bundeshaushalt.de/static/daten/2026/soll/draft/epl60.pdf",
+      "details": "Gedruckte S. 114, KTF Kapitel 6092, Titel 893 12: Ansatz 250 T€ = 250.000 Euro, keine eigene Verpflichtungsermächtigung beim Titel. Förderung von H₂-ready-, Wasserstoffkraftwerken und Langzeitspeichern; Umsetzungskosten, Studien und Gutachten ebenfalls zugelassen.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Amtliches Original-PDF geöffnet und Titelzeile einschließlich Einheit gelesen. Der Jahresansatz ist keine Schätzung sämtlicher künftiger Förderkosten und widerlegt keine längerfristige Förderabsicht."
+    },
+    {
+      "id": "S076",
+      "title": "Bundestag: Beschlussempfehlung zum Einzelplan 60, Drucksache 21/2060 vom 17.11.2025",
+      "url": "https://dserver.bundestag.de/btd/21/020/2102060.pdf",
+      "details": "S. 1 und KTF-Änderungen S. 24–28: Annahme des Entwurfs mit aufgelisteten Änderungen; keine Erhöhung des Betrags oder eigene neue Verpflichtungsermächtigung beim Kraftwerksstrategie-Titel 893 12. Erwähnungen in allgemeinen Deckungsvermerken.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Amtliches Original geöffnet, Titelverweise und Änderungsabschnitt geprüft. Allgemeine Deckungsfähigkeit ist kein Nachweis eines konkret vorgesehenen zusätzlichen Milliardenbetrags."
+    },
+    {
+      "id": "S077",
+      "title": "Bundeshaushaltsplan 2026, Einzelplan 60 – finale Soll-Fassung",
+      "url": "https://www.bundeshaushalt.de/static/daten/2026/soll/epl60.pdf",
+      "details": "Gedruckte S. 115: Titel 893 12 unverändert 250 T€ ohne eigene Verpflichtungsermächtigung; gleicher Förderzweck wie im Entwurf.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Original-PDF geöffnet und Titelzeile gelesen; Teilrecherche kontrollierte auch die Originalseite visuell. Heute abgerufene Endfassung, kein Archivsnapshot vom Videodatum; nur zusammen mit historischem Entwurf und November-Unterlagen zur Einordnung verwendet."
     }
   ],
   "claims": [
@@ -855,10 +967,10 @@
       "id": "nhkbLylbVg4-A0008",
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
-      "status": "In Bearbeitung",
+      "status": "Abgeschlossen",
       "description": "Reiche arbeitete im VKU gegen den schnellen Windenergieausbau, weil Stadtwerke mit ihren neuen Gaskraftwerken länger Gewinne erzielen sollten.",
-      "reason": "Für eine konkrete VKU-Intervention Reiches gegen schnellen Windausbau ist bislang kein unmittelbar tragfähiger Primärbeleg gefunden. Das Interview von 2015 belegt das Eintreten für Gaskraftwerke und die Sorge um Stadtwerke-Finanzen, aber nicht diese Kausalkette. Dem pauschalen Bild steht eine gemeinsame Mitteilung von IKEM, VKU und enercity vom 4. September 2019 gegenüber: Reiche fordert dort verbindliche Flächenziele und schnellere Genehmigungen für mehr Windenergie. Das widerlegt nicht jede mögliche frühere Einzelposition. Zudem führt eine längere Kraftwerkslaufzeit nur bei hinreichend positiven Deckungsbeiträgen zu mehr Gewinn; Laufzeit allein ist kein Gewinnmaß.",
-      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll.",
+      "reason": "Der VKU schlug am 28. April 2016 jährlich 2.000 MW netto für Windkraft-Ausschreibungen gegenüber dem bisherigen 2.500-MW-Ausbaupfad vor und befürwortete bei Überschreiten des Gesamtkorridors eine Drosselung. Bei Beibehaltung der staatlichen Windformel verlangte er 2.000 MW alternativ als Mindestmenge; die Zahl ist daher nicht isoliert als unbedingter Höchstdeckel zu lesen. Im FR-Originalinterview vertritt Reiche persönlich diesen begrenzten Korridor und beschreibt separat wirtschaftliche Nachteile des schnellen Erneuerbaren-Ausbaus für Gaskraftwerke. Der Handlungskern ist damit belegt, die behauptete konkrete Gewinnabsicht nicht: Das VKU-Papier nennt Netzplanung, Kosten und Berechenbarkeit als Gründe. Am 4. September 2019 forderte Reiche ausdrücklich schnelleren Windausbau; das widerlegt die frühere Begrenzungsposition nicht, begrenzt aber eine pauschale Darstellung ihrer gesamten VKU-Zeit.",
+      "assessmentBasis": "Nachprüfung 23.11.2026 auf Grundlage des vorhandenen Untertitels und gezielt ergänzter VKU-Originalstellungnahme sowie Originalinterviews; spätere abweichende Windposition als Kontext berücksichtigt. Eigenständige Gegenprüfung durch bdew_followup bestätigt Urteil, Faktor und Mischanteile; keine audiovisuelle Vollsichtung.",
       "occurrences": [
         {
           "startSeconds": 74,
@@ -883,12 +995,19 @@
         {
           "sourceId": "S007",
           "note": "04.09.2019: Reiche für schnelleren Windkraftausbau, mehr Flächen und kürzere Genehmigungen."
+        },
+        {
+          "sourceId": "S064",
+          "note": "Datierte konkrete Begrenzungsposition: § 4, S. 7–10; feste Menge und alternative Mindestmenge unterscheiden."
+        },
+        {
+          "sourceId": "S065",
+          "note": "Reiches eigene Antworten zu Ausbaukorridor und wirtschaftlichen Schwierigkeiten der Gaskraftwerke; Gesprächsdatum nicht sicher geklärt."
         }
       ],
       "openQuestions": [
-        "Welche konkrete Äußerung oder Intervention gegen schnellen Windausbau meint Greenpeace?",
-        "Lässt sich die behauptete Gewinnabsicht durch Äußerungen oder Dokumente belegen?",
-        "Welche Stadtwerke, Investitionen und Zeiträume sind gemeint?"
+        "Gibt es einen Originalbeleg, der die Wind-Begrenzungsforderung ausdrücklich mit länger erzielbaren Gewinnen konkreter kommunaler Gaskraftwerke begründet?",
+        "Welche Stadtwerke, Investitionen und Zeiträume sind mit der behaupteten Gewinnabsicht gemeint?"
       ],
       "factIndex": {
         "weight": 1.5,
@@ -903,9 +1022,37 @@
             "reason": "Der behauptete Widerstand gegen schnellen Windausbau samt wirtschaftlichem Motiv ist eine tragende Verbindung zwischen früheren Funktionen und der Hauptthese. Diese Bedeutung besteht unabhängig vom offenen Rechercheergebnis.",
             "agent": "ChatGPT – unabhängiger Agent repo_audit",
             "date": "2026-11-23"
+          },
+          {
+            "agent": "ChatGPT – unabhängiger Agent bdew_followup",
+            "date": "2026-11-23",
+            "result": "Bestätigt",
+            "reason": "VKU-Originalstellungnahme S. 7–10 sowie FR-, Handelsblatt- und IKEM-Originale unabhängig geprüft. Konkrete Begrenzungsposition belegt, kausale Gewinnabsicht ungeklärt: p=0,5/f=0/u=0,5 bestätigt. Faktor 1,5 bleibt unabhängig vom Urteil angemessen, da die Aussage eine tragende Verbindung zwischen Verbandstätigkeit und Hauptthese bildet."
+          }
+        ],
+        "shares": {
+          "p": 0.5,
+          "f": 0,
+          "u": 0.5
+        },
+        "sharesReason": "Die konkrete Begrenzungsforderung und die behauptete kausale Gewinnabsicht sind zwei eigenständige, für die Aussage wesentliche Teile; der erste ist belegt, der zweite ungeklärt, keiner widerlegt.",
+        "history": [
+          {
+            "date": "2026-11-23",
+            "agent": "Kai",
+            "field": "shares",
+            "previous": null,
+            "next": {
+              "p": 0.5,
+              "f": 0,
+              "u": 0.5
+            },
+            "reason": "Bei der Erstbewertung der zuvor offenen Aussage Handlung und Gewinnmotiv als gleichrangige Teile ausdrücklich getrennt; nach unabhängiger Gegenprüfung übernommen."
           }
         ]
-      }
+      },
+      "verdict": "Teilweise belegt",
+      "shortReason": "Reiche und der VKU befürworteten einen begrenzten Wind-Ausbaupfad; die behauptete Absicht, damit längere Gaskraftwerksgewinne zu sichern, bleibt ungeklärt."
     },
     {
       "id": "nhkbLylbVg4-A0009",
@@ -967,10 +1114,10 @@
       "id": "nhkbLylbVg4-A0010",
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
-      "status": "In Bearbeitung",
+      "status": "Abgeschlossen",
       "description": "Westenergie ist Deutschlands größter regionaler Betreiber von Gas-, Strom- und Wassernetzen.",
-      "reason": "Das zeitgenössische Unternehmenspapier bezeichnet Westenergie als größten regionalen Energie- und Infrastrukturdienstleister und nennt Strom, Gas und Wasser. Diese Selbstbeschreibung belegt nicht unabhängig den im Video verwendeten Betreiber-Superlativ. Für einen abschließenden Vergleich fehlen Stichtag, Abgrenzung und Größenmaß, etwa Netzlänge, angeschlossene Kunden oder Umsatz. Die belegte CEO-Tätigkeit und E.ON-Zugehörigkeit werden davon getrennt bewertet.",
-      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll.",
+      "reason": "Die zeitgenössische Unternehmensselbstbeschreibung nennt Westenergie den größten regionalen Energie- und Infrastrukturdienstleister. Für das Stromnetzgeschäft gibt es nun einen unabhängig nachgerechneten Teilbeleg: Die Tochter Westnetz lag 2024 mit 3.951.295 angeschlossenen Letztverbrauchern vorn, wenn die vier veröffentlichten Spannungsebenen im BNetzA-Datensatz addiert werden. Vergleichbar sind 196 vollständig numerische Betreiberzeilen; bei zwei weiteren fehlen Teilfelder, die nicht als Null behandelt wurden. Die Dateifassung vom 19. Januar 2026 bestätigt rückblickend historische Stromdaten und war in dieser Fassung nach dem Videodatum. Ein gemeinsamer Größenrang für Gas-, Strom- und Wassernetze oder die gesamte Westenergie-Gruppe folgt daraus nicht; dafür fehlen Unternehmensabgrenzung und Größenmaß. Die Videoformulierung wird nicht in drei getrennte Spitzenplatzbehauptungen pro Sparte umgedeutet.",
+      "assessmentBasis": "Nachprüfung 23.11.2026: Unternehmensquellen, amtliche BNetzA-Originaldaten und deren Erläuterung; Hauptrecherche hat die Rangrechnung selbst wiederholt und zwei unvollständige Zeilen ausgeschlossen. Quelle mit historischem Datenbezug, aber späterer Dateifassung; keine audiovisuelle Vollsichtung.",
       "occurrences": [
         {
           "startSeconds": 96,
@@ -999,10 +1146,19 @@
         {
           "sourceId": "S009",
           "note": "S.1 Geschäftsprofil; S.4–5 und 9 Ergebnis; S.25 Reiche als Vorstandsvorsitzende."
+        },
+        {
+          "sourceId": "S071",
+          "note": "Eigene Rangrechnung ausschließlich für die vier numerisch vergleichbaren Strom-Letztverbraucherspalten; Westnetz 2024 Rang 1 unter 196 vollständigen Zeilen."
+        },
+        {
+          "sourceId": "S072",
+          "note": "Amtlicher Kontext und Stand der Dateifassung nach dem Videotag."
         }
       ],
       "openQuestions": [
-        "Nach welcher Kennzahl und zu welchem Stichtag gilt der Betreiber-Superlativ? Einen vergleichbaren Primärdatensatz oder eine zeitgenössische Erläuterung finden."
+        "Welches Größenmaß meint der spartenübergreifende Superlativ?",
+        "Welche Unternehmensgrenze ist gemeint: Westenergie-Gruppe, AG oder Westnetz?"
       ],
       "factIndex": {
         "weight": 0.5,
@@ -1019,16 +1175,18 @@
             "date": "2026-11-23"
           }
         ]
-      }
+      },
+      "verdict": "Teilweise belegt",
+      "shortReason": "Westnetz lag 2024 bei Strom-Letztverbrauchern im geprüften amtlichen Vergleich vorn; ein gemeinsamer Größenrang für Gas, Strom und Wasser bleibt offen."
     },
     {
       "id": "nhkbLylbVg4-A0011",
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
-      "status": "In Bearbeitung",
+      "status": "Abgeschlossen",
       "description": "Westenergie macht Milliardengewinne mit der Nutzung fossiler Infrastruktur.",
-      "reason": "Westenergie ist ein diversifiziertes Unternehmen mit Strom-, Gas-, Wasser- und weiteren Infrastrukturaktivitäten. Der Jahresabschluss der Westenergie AG 2024 weist ein Ergebnis vor Gewinnabführung von 901,3 Millionen Euro aus, wesentlich geprägt durch Beteiligungserträge; der Vorjahreswert beträgt 572,2 Millionen Euro. Aus diesen AG-Gesamtwerten lässt sich kein fossiler Gewinnanteil ableiten. Das Video nennt weder Bezugszeitraum noch Unternehmensabgrenzung oder Ergebniskennzahl. Mehrjährige Milliardengewinne lassen sich mit einem einzelnen Jahreswert auch nicht widerlegen. Es fehlt eine Rechnung, die den Betrag fossiler Infrastruktur zuordnet.",
-      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll.",
+      "reason": "Die Westnetz-Tätigkeitsabschlüsse weisen für Gasverteilung ein Ergebnis nach Steuern von −7,9 Millionen Euro 2022, 45,5 Millionen 2023 und 62,4 Millionen 2024 aus; die eigene Summe der veröffentlichten gerundeten Werte beträgt 100,0 Millionen Euro. Das belegt konkrete Gasnetzgewinne in zwei Jahren, keinen Milliardenbetrag. Das Westenergie-AG-Gesamtergebnis und das E.ON-Netz-EBITDA betreffen andere Abgrenzungen und umfassen weitere Tätigkeiten; Gasumsatz ist ebenfalls kein Gewinn. Konzerninterne Gewinnabführungen dürfen nicht mehrfach gezählt werden. Nach Prüfung von Tätigkeitsabschlüssen und Konzernberichterstattung bleiben der gemeinte Zeitraum, die Unternehmensgrenze und Ergebnisdefinition unklar. Die geprüften drei Jahre einer Tochter bestätigen den behaupteten fossilen Milliardenbetrag nicht, widerlegen aber auch keine mögliche längere oder anders konsolidierte Gruppensumme. Für 2020/2021 wurde kein frei zugänglicher Original-Tätigkeitsabschluss erschlossen; eine vollständige Fünfjahresprüfung wird nicht behauptet.",
+      "assessmentBasis": "Abgeschlossene Nachrecherche 23.11.2026 über drei Quellenwege: Westenergie-/Westnetz-Tätigkeitsabschlüsse, amtliche Netzbetreiberdaten und E.ON-Segmentberichterstattung. Haupt- und Teilrecherche haben die Gas-Tabellen unabhängig visuell geprüft. Das Ergebnis beschreibt unzureichende Belege für die konkrete Milliardenbehauptung, keine Widerlegung.",
       "occurrences": [
         {
           "startSeconds": 101,
@@ -1053,12 +1211,24 @@
         {
           "sourceId": "S008",
           "note": "24.10.2024, S.1: größter regionaler Energiedienstleister/Infrastrukturanbieter; Strom, Gas, Wasser."
+        },
+        {
+          "sourceId": "S069",
+          "note": "Gasverteilung 2024/2023, Ergebnis nach Steuern; Einzelgesellschaft und Tätigkeitsabgrenzung beachten."
+        },
+        {
+          "sourceId": "S070",
+          "note": "Gasverteilung 2022, negatives Ergebnis nach Steuern; zusammen mit 2023/2024 eigene Summe 100,0 Mio. Euro."
+        },
+        {
+          "sourceId": "S073",
+          "note": "Gegenkontrolle möglicher Milliardenkennzahlen: E.ON-Segment-EBITDA und Gasumsatz sind keine fossilen Westenergie-Gruppengewinne."
         }
       ],
       "openQuestions": [
-        "Bezieht sich 'Milliarden' auf ein Jahr, mehrere Jahre oder einen Konzernwert?",
-        "Welche Ergebniskennzahl und Unternehmensabgrenzung verwendet Greenpeace?",
-        "Welcher Teil stammt tatsächlich aus Gas- beziehungsweise anderer fossiler Infrastruktur?"
+        "Welchen Zeitraum und welche Kennzahl meinte Greenpeace mit Milliardengewinnen?",
+        "Welche Westenergie-Beteiligungen sind in der behaupteten fossilen Summe enthalten und wie werden konzerninterne Gewinnabführungen eliminiert?",
+        "Original-Tätigkeitsabschlüsse 2020/2021 und gegebenenfalls weitere Beteiligungen erschließen; fehlende Werte nicht hochrechnen."
       ],
       "factIndex": {
         "weight": 1.5,
@@ -1075,16 +1245,18 @@
             "date": "2026-11-23"
           }
         ]
-      }
+      },
+      "verdict": "Nicht ausreichend belegbar",
+      "shortReason": "Gasnetzgewinne sind belegt; die geprüften Abschlüsse bestätigen keinen fossilen Milliardenbetrag für die unklare Zeit- und Unternehmensabgrenzung des Videos."
     },
     {
       "id": "nhkbLylbVg4-A0012",
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
-      "status": "In Bearbeitung",
+      "status": "Abgeschlossen",
       "description": "Parallel war Reiche im Vorstand des Bundesverbands der Energie- und Wasserwirtschaft.",
-      "reason": "Eine historische Sekundärquelle nennt Reiche als Mitglied des Vorstands der BDEW-Landesgruppe Nordrhein-Westfalen. Dies ist nicht identisch mit dem Bundesvorstand. Die aktuell erreichbare Originalseite betrifft ebenfalls die NRW-Landesgruppe, trägt aber einen Stand nach Veröffentlichung des Videos und belegt ihre damalige Mitgliedschaft nicht mehr. Für ein endgültiges Urteil fehlt eine historische Originalmitteilung oder Vorstandsliste. Die Bezeichnung als Deutschlands 'mächtigste Energielobby' ist eine politische Bewertung ohne ausgewiesenen Vergleichsmaßstab.",
-      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll.",
+      "reason": "Reiche wurde in den Vorstand der BDEW-Landesgruppe Nordrhein-Westfalen gewählt. Der wiedergewählte Landesvorsitzende Sven Becker nennt sie in seinem Originalbeitrag unter den Gewählten. Die institutionelle BDEW-Mitteilung vom 2. Februar 2024 belegt die Wahl am Vortag für eine regulär zweijährige Wahlperiode. Das fällt in Reiches Tätigkeit als Westenergie-Vorstandsvorsitzende. Der überprüfte Wortlaut nennt den ausgeschriebenen Verbandsnamen, ohne ausdrücklich ein gesondertes Bundesvorstandsmandat zu behaupten; der belegte Netzwerkbezug wird deshalb mit der Präzisierung NRW als belegt bewertet. Weder eine zusätzliche Mitgliedschaft im Bundesvorstand noch eine lückenlose persönliche Amtszeit bis 2026 wird daraus abgeleitet. Die Bezeichnung als mächtigste Energielobby ist eine politische Bewertung, kein geprüfter Größenvergleich.",
+      "assessmentBasis": "Nachprüfung 23.11.2026: namentliche Primäraussage des Landesvorsitzenden mit datierten institutionellen BDEW-Mitteilungen abgeglichen; Hauptrecherche und bdew_followup prüften den erfassten Wortlaut. Eine stärkere ausdrückliche Bundesvorstandsbehauptung wird dem Video nicht unterstellt.",
       "occurrences": [
         {
           "startSeconds": 112,
@@ -1109,11 +1281,22 @@
         {
           "sourceId": "S011",
           "note": "Nur Recherchehinweis: Landesvorstand NRW im April 2025, damaliger BDEW-Verweis."
+        },
+        {
+          "sourceId": "S066",
+          "note": "Namentliche Bestätigung der Wahl Reiches in den NRW-Landesvorstand; bearbeiteter Originalbeitrag, kein Archivsnapshot."
+        },
+        {
+          "sourceId": "S067",
+          "note": "Wahlereignis 01.02.2024 und reguläre zweijährige Wahlperiode; keine vollständige persönliche Amtszeit daraus abgeleitet."
+        },
+        {
+          "sourceId": "S068",
+          "note": "Abgleich des von Becker beschriebenen Veranstaltungskontexts mit der datierten BDEW-Mitteilung."
         }
       ],
       "openQuestions": [
-        "Historische BDEW-Originalquelle für Reiches Mitgliedschaft und das genaue Gremium beschaffen.",
-        "Klärt Greenpeace im Bild die Ebene Landesgruppe NRW oder Bundesvorstand?"
+        "Bei der späteren Bildprüfung kontrollieren, ob die Einblendung über die allgemein gehaltene Formulierung hinaus eine bestimmte Vorstandsebene beansprucht."
       ],
       "factIndex": {
         "weight": 1.0,
@@ -1155,7 +1338,9 @@
             "reason": "Der unabhängige Prüfer hat den übernommenen Vorschlag am aktualisierten Eintrag erneut bestätigt."
           }
         ]
-      }
+      },
+      "verdict": "Belegt",
+      "shortReason": "Reiches Wahl in den Vorstand der BDEW-Landesgruppe NRW am 1. Februar 2024 ist belegt und fiel in ihre Westenergie-Amtszeit."
     },
     {
       "id": "nhkbLylbVg4-A0013",
@@ -2194,8 +2379,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
       "description": "Neue Gaskraftwerke sollen mit Milliarden aus der Staatskasse unterstützt werden.",
-      "reason": "Öffentliche Förderung neuer Kraftwerke war geplant; dafür war auch ein Haushaltstitel angelegt. Die Bundesregierung konnte im November 2025 aber noch keine verlässlichen Angaben zu Gesamtkosten und Finanzierung machen. Belegt ist damit das Fördervorhaben einschließlich eines Haushaltsbezugs. Die konkrete Milliardenhöhe und der endgültige Finanzierungsmix sind mit den geprüften Angaben nicht abschließend nachgewiesen. Das Video formuliert eine Absicht; fehlende endgültige Beschlüsse widerlegen diese Absicht nicht.",
-      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll.",
+      "reason": "Öffentliche Förderung neuer Kraftwerke war geplant; der Haushaltsentwurf 2026 führt dafür Titel 6092/893 12 mit 250.000 Euro, ohne eigene Verpflichtungsermächtigung. Die November-Beschlussempfehlung und der spätere finale Plan ergeben keinen höheren Titelbetrag. Dieser Jahresansatz umfasst auch Umsetzungskosten und ist kein Maß für sämtliche späteren Förderkosten. Eine FÖS-Analyse im Auftrag des BUND vom April 2025 modellierte 22,2–32,4 Milliarden Euro Gesamtförderkosten für die damalige 20-GW-Erweiterung einschließlich weiterer Förderelemente. Die Rechnung nutzt ältere BMWK-Annahmen und lässt den Finanzierungsweg ausdrücklich offen, auch eine Stromumlage wird betrachtet. Damit ist eine zeitgenössisch modellierte Milliarden-Größenordnung belegt, aber weder ein amtlicher Kostenansatz des später veränderten Plans noch eine konkrete Milliardenfinanzierung aus der Staatskasse. Die Bundesregierung konnte im November 2025 verlässliche Kosten- und Finanzierungsangaben noch nicht machen. Das Video formuliert eine Absicht; fehlende endgültige Beschlüsse widerlegen diese nicht.",
+      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll. Nachprüfung: Haushaltsentwurf, November-Beschlussempfehlung, finale Soll-Fassung und zeitgenössische FÖS-Szenariorechnung zusätzlich geprüft; Urteil unverändert.",
       "occurrences": [
         {
           "startSeconds": 382,
@@ -2234,12 +2419,28 @@
         {
           "sourceId": "S038",
           "note": "28.11.2025, gedruckte S. 37–38, Fragen 57–58: Haushaltstitel 893 12, Kapitel 6092, Einzelplan 60; Kosten und Finanzierung noch nicht verlässlich bezifferbar."
+        },
+        {
+          "sourceId": "S074",
+          "note": "Zeitgenössische externe Szenariorechnung; Milliarden-Größenordnung, aber offener Finanzierungsweg und nicht identische spätere Strategie."
+        },
+        {
+          "sourceId": "S075",
+          "note": "Haushaltsentwurf: 250 T€ Jahresansatz; nicht mit Gesamtkosten einer künftigen Förderung gleichsetzen."
+        },
+        {
+          "sourceId": "S076",
+          "note": "November-Änderungsvorschläge: kein höherer spezifischer Geldansatz für diesen Titel."
+        },
+        {
+          "sourceId": "S077",
+          "note": "Rückblickender Abgleich der finalen Soll-Zeile; keine Rückdatierung des gesamten Gesetzgebungsverfahrens."
         }
       ],
       "verdict": "Teilweise belegt",
-      "shortReason": "Fördervorhaben und Haushaltstitel sind belegt; konkrete Milliardenhöhe und endgültiger Finanzierungsmix bleiben in den geprüften Quellen offen.",
+      "shortReason": "Förderabsicht und modellierte Milliardenkosten sind belegt; die konkrete Staatsfinanzierung des späteren Kraftwerksplans bleibt ungeklärt.",
       "openQuestions": [
-        "Zeitgenössische Kostenansätze und Finanzierung der Kraftwerksförderung bis 17.12.2025 weiter präzisieren; Absicht, Haushaltsansatz und endgültige Zusage auseinanderhalten."
+        "Welche bis 17.12.2025 veröffentlichte amtliche Kalkulation ordnet Milliardenkosten des konkret veränderten Kraftwerksplans eindeutig dem Staatshaushalt zu? Szenarien, Jahresansatz, Finanzierung und verbindliche Zusage getrennt halten."
       ],
       "factIndex": {
         "weight": 1.5,
