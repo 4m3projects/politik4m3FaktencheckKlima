@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "videoId": "fn_LPgzxYXc",
+  "review": {
+    "status": "Teilweise geprüft",
+    "checkedOn": "2026-11-23",
+    "by": "Codex",
+    "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=fn_LPgzxYXc; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+    "coverage": "Gesamter zugänglicher deutscher Untertiteltext, 00:00–02:08; Fragen Tilo Jungs und Antworten Katherina Reiches getrennt betrachtet.",
+    "limits": [
+      "Keine neue durchgehende Prüfung von Originalton, Schnitt, Mimik, Musik und Bildeinblendungen.",
+      "Untertitelzeiten sind ungefähre Fundstellen; unabhängige redaktionelle Bestätigung der KI-Vorschläge steht aus."
+    ],
+    "history": [
+      {
+        "date": "2026-11-23",
+        "by": "Codex",
+        "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+      }
+    ]
+  },
+  "annotations": [
+    {
+      "id": "fn_LPgzxYXc-R0001",
+      "claimId": null,
+      "feature": "gegenposition",
+      "startSeconds": 0,
+      "endSeconds": 49,
+      "speaker": {
+        "id": "SP2",
+        "attribution": "Plausibel",
+        "basis": "Zuordnung aus Dialog-/Kommentarzusammenhang und vorhandenem Sprecherverzeichnis; keine neue eigenständige Stimmidentifikation."
+      },
+      "observation": "Jung verbindet die Frage nach einer späteren Branchentätigkeit mit dem Vorwurf fossiler Interessenvertretung; Reiche antwortet mit ihrem allgemeinen Amtsauftrag.",
+      "reason": "Der kurze Ausschnitt enthält die kritische Frage und eine unmittelbare Antwort der angesprochenen Person.",
+      "context": "Die unbeantwortete konkrete Zukunftsfrage wird anschließend nachgefragt. Eine öffentliche Verbreitung des behaupteten Eindrucks ist hierdurch nicht belegt.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Untertitel können Erkennungsfehler enthalten. Tonfall, Mimik, Montage und weitere Bildeinblendungen sind in diesem Durchgang nicht durchgehend geprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=fn_LPgzxYXc; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+        }
+      ]
+    },
+    {
+      "id": "fn_LPgzxYXc-R0002",
+      "claimId": "fn_LPgzxYXc-A0004",
+      "feature": "gegenposition",
+      "startSeconds": 68,
+      "endSeconds": 129,
+      "speaker": {
+        "id": "SP1",
+        "attribution": "Plausibel",
+        "basis": "Zuordnung aus Dialog-/Kommentarzusammenhang und vorhandenem Sprecherverzeichnis; keine neue eigenständige Stimmidentifikation."
+      },
+      "observation": "Reiche weist den Lobbyvorwurf zurück, beschreibt Infrastrukturleistungen ihres früheren Unternehmens und verlangt eine genaue Wiedergabe der Frage.",
+      "reason": "Die Zurückweisung erhält im Ausschnitt ausführlich Raum, einschließlich ihrer Abgrenzung zwischen Unternehmen und Lobby.",
+      "context": "Die Darstellung der Antwort bestätigt ihre Tatsachenbehauptungen nicht. Dass Reiche eine spätere Tätigkeit nicht ausschließt, bleibt von ihrer Zurückweisung zu unterscheiden.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Untertitel können Erkennungsfehler enthalten. Tonfall, Mimik, Montage und weitere Bildeinblendungen sind in diesem Durchgang nicht durchgehend geprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=fn_LPgzxYXc; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+        }
+      ]
+    }
+  ]
+}

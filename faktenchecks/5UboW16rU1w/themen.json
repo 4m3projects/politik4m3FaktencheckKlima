@@ -314,6 +314,11 @@
       "date": "2026-11-22",
       "agent": "Codex – Gewichtskontrolle",
       "change": "Themen anhand neu importierter vollständiger Original-Captions für die Gewichtskontrolle geprüft. Energiepreise für A27/A28/A30 ergänzt und von Erwähnt auf Behandelt präzisiert; keine neue öffentliche Kategorie."
+    },
+    {
+      "date": "2026-11-23",
+      "agent": "Codex",
+      "change": "Themen bei Ergänzung der Darstellung geprüft: Hinweise betreffen die bereits zugeordneten Sachthemen; keine neuen Tatsachenbehauptungen oder Themen erforderlich."
     }
   ]
 }

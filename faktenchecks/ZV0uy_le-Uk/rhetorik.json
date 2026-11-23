@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "videoId": "ZV0uy_le-Uk",
+  "review": {
+    "status": "Teilweise geprüft",
+    "checkedOn": "2026-11-23",
+    "by": "Codex",
+    "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=ZV0uy_le-Uk; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+    "coverage": "Gesamter zugänglicher deutscher Untertiteltext, 00:00–06:14; Redaktion und zitierte O-Töne getrennt eingeordnet.",
+    "limits": [
+      "Keine neue durchgehende Prüfung von Originalton, Schnitt, Mimik, Musik und Bildeinblendungen.",
+      "Untertitelzeiten sind ungefähre Fundstellen; unabhängige redaktionelle Bestätigung der KI-Vorschläge steht aus."
+    ],
+    "history": [
+      {
+        "date": "2026-11-23",
+        "by": "Codex",
+        "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+      }
+    ]
+  },
+  "annotations": [
+    {
+      "id": "ZV0uy_le-Uk-R0001",
+      "claimId": "ZV0uy_le-Uk-A0007",
+      "feature": "emotionalisierung",
+      "startSeconds": 32,
+      "endSeconds": 45,
+      "speaker": {
+        "id": "m",
+        "attribution": "Plausibel",
+        "basis": "Zuordnung aus Dialog-/Kommentarzusammenhang und vorhandenem Sprecherverzeichnis; keine neue eigenständige Stimmidentifikation."
+      },
+      "observation": "Der Kommentar verdichtet Reiches energiepolitischen Kurs zur Vorstellung eines Aufräumens mit der Energiewende.",
+      "reason": "Das Bild rahmt die Maßnahmen als grundsätzlichen Rückbau, bevor die einzelnen Entwurfsregeln erklärt werden.",
+      "context": "Die kritische Deutung stammt vom Off-Kommentar; Reiches anschließende Kostenbegründung ist davon zu trennen.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Untertitel können Erkennungsfehler enthalten. Tonfall, Mimik, Montage und weitere Bildeinblendungen sind in diesem Durchgang nicht durchgehend geprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=ZV0uy_le-Uk; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+        }
+      ]
+    },
+    {
+      "id": "ZV0uy_le-Uk-R0002",
+      "claimId": "ZV0uy_le-Uk-A0008",
+      "feature": "gegenposition",
+      "startSeconds": 45,
+      "endSeconds": 66,
+      "speaker": {
+        "id": "m",
+        "attribution": "Plausibel",
+        "basis": "Zuordnung aus Dialog-/Kommentarzusammenhang und vorhandenem Sprecherverzeichnis; keine neue eigenständige Stimmidentifikation."
+      },
+      "observation": "MONITOR lässt Reiche die Bedeutung bezahlbarer Energie und ihre angekündigte Neuordnung erläutern.",
+      "reason": "Die politische Gegenseite kommt mit einer eigenen Begründung zu Wort, auf die der Kommentar anschließend kritisch reagiert.",
+      "context": "Bewertet wird das Vorhandensein dieser Gegenposition; daraus folgt keine Bestätigung ihrer vollständigen oder ausgewogenen Wiedergabe.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Untertitel können Erkennungsfehler enthalten. Tonfall, Mimik, Montage und weitere Bildeinblendungen sind in diesem Durchgang nicht durchgehend geprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=ZV0uy_le-Uk; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+        }
+      ]
+    },
+    {
+      "id": "ZV0uy_le-Uk-R0003",
+      "claimId": "ZV0uy_le-Uk-A0031",
+      "feature": "emotionalisierung",
+      "startSeconds": 303,
+      "endSeconds": 333,
+      "speaker": {
+        "id": "m",
+        "attribution": "Plausibel",
+        "basis": "Zuordnung aus Dialog-/Kommentarzusammenhang und vorhandenem Sprecherverzeichnis; keine neue eigenständige Stimmidentifikation."
+      },
+      "observation": "Die Überleitung zu E.ON stellt Reiches frühere Tätigkeit als auffällige Verbindung zur beschriebenen Reform heraus.",
+      "reason": "Die rhetorische Erinnerungsfrage und der betonte Zusammenhang lenken die Aufmerksamkeit auf einen möglichen Interessenkonflikt.",
+      "context": "Eine frühere Tätigkeit beweist für sich kein unzulässiges Motiv; die zugrunde liegenden Tatsachen bleiben separat bewertet.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Untertitel können Erkennungsfehler enthalten. Tonfall, Mimik, Montage und weitere Bildeinblendungen sind in diesem Durchgang nicht durchgehend geprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=ZV0uy_le-Uk; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+        }
+      ]
+    },
+    {
+      "id": "ZV0uy_le-Uk-R0004",
+      "claimId": "ZV0uy_le-Uk-A0036",
+      "feature": "gegenposition",
+      "startSeconds": 353,
+      "endSeconds": 365,
+      "speaker": {
+        "id": "m",
+        "attribution": "Plausibel",
+        "basis": "Zuordnung aus Dialog-/Kommentarzusammenhang und vorhandenem Sprecherverzeichnis; keine neue eigenständige Stimmidentifikation."
+      },
+      "observation": "Der Beitrag nennt die ausgebliebene Antwort der Ministerin und gibt E.ONs Verweis auf Netzinvestitionen wieder.",
+      "reason": "Die Antwortlage und eine abweichende Unternehmensperspektive werden transparent gemacht.",
+      "context": "E.ONs Position erscheint nur zusammengefasst; eine eigenständige Prüfung der zugrunde liegenden Anfrage ist damit nicht behauptet.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Untertitel können Erkennungsfehler enthalten. Tonfall, Mimik, Montage und weitere Bildeinblendungen sind in diesem Durchgang nicht durchgehend geprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=ZV0uy_le-Uk; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+        }
+      ]
+    }
+  ]
+}

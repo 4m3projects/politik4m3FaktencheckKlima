@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "videoId": "LWQUaGxUmxk",
+  "review": {
+    "status": "Teilweise geprüft",
+    "checkedOn": "2026-11-23",
+    "by": "Codex",
+    "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=LWQUaGxUmxk; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+    "coverage": "Gesamter zugänglicher deutscher Untertiteltext, 00:00–11:51; einschließlich Werbeunterbrechungen und abschließender Einschränkungen.",
+    "limits": [
+      "Keine neue durchgehende Prüfung von Originalton, Schnitt, Mimik, Musik und Bildeinblendungen.",
+      "Untertitelzeiten sind ungefähre Fundstellen; unabhängige redaktionelle Bestätigung der KI-Vorschläge steht aus."
+    ],
+    "history": [
+      {
+        "date": "2026-11-23",
+        "by": "Codex",
+        "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+      }
+    ]
+  },
+  "annotations": [
+    {
+      "id": "LWQUaGxUmxk-R0001",
+      "claimId": "LWQUaGxUmxk-A01",
+      "feature": "emotionalisierung",
+      "startSeconds": 0,
+      "endSeconds": 27,
+      "speaker": {
+        "id": "SP1",
+        "attribution": "Plausibel",
+        "basis": "Zuordnung aus Dialog-/Kommentarzusammenhang und vorhandenem Sprecherverzeichnis; keine neue eigenständige Stimmidentifikation."
+      },
+      "observation": "Der Einstieg verbindet Höhenrekord und Fernsehturmvergleich mit einer ausdrücklich begeisterten Reaktion und eigener Baustellenerfahrung.",
+      "reason": "Rekordrahmung und persönliche Begeisterung werben sprachlich für Aufmerksamkeit.",
+      "context": "Die spätere Einordnung als Pilotanlage und die benannten offenen Betriebsdaten gehören zum selben Beitrag.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Untertitel können Erkennungsfehler enthalten. Tonfall, Mimik, Montage und weitere Bildeinblendungen sind in diesem Durchgang nicht durchgehend geprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=LWQUaGxUmxk; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+        }
+      ]
+    },
+    {
+      "id": "LWQUaGxUmxk-R0002",
+      "claimId": "LWQUaGxUmxk-A08",
+      "feature": "gegenposition",
+      "startSeconds": 137,
+      "endSeconds": 144,
+      "speaker": {
+        "id": "SP1",
+        "attribution": "Plausibel",
+        "basis": "Zuordnung aus Dialog-/Kommentarzusammenhang und vorhandenem Sprecherverzeichnis; keine neue eigenständige Stimmidentifikation."
+      },
+      "observation": "Nach der theoretisch achtfachen Windleistung bei doppelter Geschwindigkeit schränkt der Host einen entsprechenden achtfachen Stromertrag ausdrücklich ein.",
+      "reason": "Technische Grenzen und Wirkungsgrade werden als Einwand gegen eine naheliegende Überinterpretation genannt.",
+      "context": "Die Erwähnung der Einschränkung ist beobachtbar; ihre technische Vollständigkeit wird hier nicht bewertet.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Untertitel können Erkennungsfehler enthalten. Tonfall, Mimik, Montage und weitere Bildeinblendungen sind in diesem Durchgang nicht durchgehend geprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=LWQUaGxUmxk; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+        }
+      ]
+    },
+    {
+      "id": "LWQUaGxUmxk-R0003",
+      "claimId": "LWQUaGxUmxk-A21",
+      "feature": "gegenposition",
+      "startSeconds": 560,
+      "endSeconds": 624,
+      "speaker": {
+        "id": "SP1",
+        "attribution": "Plausibel",
+        "basis": "Zuordnung aus Dialog-/Kommentarzusammenhang und vorhandenem Sprecherverzeichnis; keine neue eigenständige Stimmidentifikation."
+      },
+      "observation": "Der Schluss unterscheidet Höhenrekord von Nennleistung und nennt fehlende Langzeitdaten sowie Bau-, Betriebs- und Wartungskosten.",
+      "reason": "Der zuvor begeisterten Darstellung werden konkrete Unsicherheiten und Vergleichsgrenzen gegenübergestellt.",
+      "context": "Das ist eine ausdrücklich genannte Einschränkung der eigenen positiven Rahmung, kein pauschaler Tunnelblickbefund.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Untertitel können Erkennungsfehler enthalten. Tonfall, Mimik, Montage und weitere Bildeinblendungen sind in diesem Durchgang nicht durchgehend geprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=LWQUaGxUmxk; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+        }
+      ]
+    }
+  ]
+}

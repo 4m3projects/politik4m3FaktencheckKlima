@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "videoId": "5UboW16rU1w",
+  "review": {
+    "status": "Teilweise geprüft",
+    "checkedOn": "2026-11-23",
+    "by": "Codex",
+    "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=5UboW16rU1w; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+    "coverage": "Gesamter zugänglicher deutscher Untertiteltext, 00:00–11:10; sprachliche Einordnung mit Kontext über den gesamten Beitrag.",
+    "limits": [
+      "Keine neue durchgehende Prüfung von Originalton, Schnitt, Mimik, Musik und Bildeinblendungen.",
+      "Untertitelzeiten sind ungefähre Fundstellen; unabhängige redaktionelle Bestätigung der KI-Vorschläge steht aus."
+    ],
+    "history": [
+      {
+        "date": "2026-11-23",
+        "by": "Codex",
+        "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+      }
+    ]
+  },
+  "annotations": [
+    {
+      "id": "5UboW16rU1w-R0001",
+      "claimId": "5UboW16rU1w-A16",
+      "feature": "gegenposition",
+      "startSeconds": 235,
+      "endSeconds": 310,
+      "speaker": {
+        "id": "SP1",
+        "attribution": "Plausibel",
+        "basis": "Zuordnung aus Dialog-/Kommentarzusammenhang und vorhandenem Sprecherverzeichnis; keine neue eigenständige Stimmidentifikation."
+      },
+      "observation": "Der Host führt Versorgungssicherheit, geringere Importabhängigkeit und Klimaschutz als Argumente für Kernenergie aus.",
+      "reason": "Die befürwortende Position erhält einen eigenen Argumentationsblock, bevor Bauzeit, Kosten und Abfall behandelt werden.",
+      "context": "Das spätere kritische Fazit hebt die zuvor wiedergegebenen Vorteile nicht auf; die fachliche Richtigkeit prüft Ebene 1.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Untertitel können Erkennungsfehler enthalten. Tonfall, Mimik, Montage und weitere Bildeinblendungen sind in diesem Durchgang nicht durchgehend geprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=5UboW16rU1w; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+        }
+      ]
+    },
+    {
+      "id": "5UboW16rU1w-R0002",
+      "claimId": "5UboW16rU1w-A25",
+      "feature": "ironie",
+      "startSeconds": 363,
+      "endSeconds": 380,
+      "speaker": {
+        "id": "SP1",
+        "attribution": "Plausibel",
+        "basis": "Zuordnung aus Dialog-/Kommentarzusammenhang und vorhandenem Sprecherverzeichnis; keine neue eigenständige Stimmidentifikation."
+      },
+      "observation": "Die langen Reaktorbauzeiten werden mit dem verspäteten Berliner Flughafen verglichen, der daneben günstig wirkt.",
+      "reason": "Die Umkehr eines bekannten Negativbeispiels erzeugt einen sprachlichen Pointeffekt.",
+      "context": "Die Pointe erläutert den Bauzeitvergleich; sie ist keine persönliche Herabsetzung.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Untertitel können Erkennungsfehler enthalten. Tonfall, Mimik, Montage und weitere Bildeinblendungen sind in diesem Durchgang nicht durchgehend geprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=5UboW16rU1w; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+        }
+      ]
+    },
+    {
+      "id": "5UboW16rU1w-R0003",
+      "claimId": "5UboW16rU1w-A33",
+      "feature": "emotionalisierung",
+      "startSeconds": 472,
+      "endSeconds": 520,
+      "speaker": {
+        "id": "SP1",
+        "attribution": "Plausibel",
+        "basis": "Zuordnung aus Dialog-/Kommentarzusammenhang und vorhandenem Sprecherverzeichnis; keine neue eigenständige Stimmidentifikation."
+      },
+      "observation": "Der Host verbindet die lange Strahlungsdauer mit der Vorstellung eines Atommülllagers vor der eigenen Haustür und einer nuklearen Katastrophe.",
+      "reason": "Die direkte Ansprache und das räumlich nahe Gefahrenbild machen ein abstraktes Entsorgungsproblem emotional anschaulich.",
+      "context": "Beobachtet wird die sprachliche Rahmung, nicht eine hierdurch bewiesene konkrete Gefährdung.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Untertitel können Erkennungsfehler enthalten. Tonfall, Mimik, Montage und weitere Bildeinblendungen sind in diesem Durchgang nicht durchgehend geprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=5UboW16rU1w; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+        }
+      ]
+    },
+    {
+      "id": "5UboW16rU1w-R0004",
+      "claimId": "5UboW16rU1w-A38",
+      "feature": "ironie",
+      "startSeconds": 535,
+      "endSeconds": 565,
+      "speaker": {
+        "id": "SP1",
+        "attribution": "Plausibel",
+        "basis": "Zuordnung aus Dialog-/Kommentarzusammenhang und vorhandenem Sprecherverzeichnis; keine neue eigenständige Stimmidentifikation."
+      },
+      "observation": "Kleine Reaktoren werden mit einem Handtaschenformat und verniedlichender Sprache eingeführt.",
+      "reason": "Die bewusste Verkleinerung macht die Technik humoristisch zugänglich.",
+      "context": "Im Anschluss werden Serienfertigung und offene Kostenfragen sachlich erläutert; keine Aussage über die tatsächliche Baugröße einer Handtasche.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Untertitel können Erkennungsfehler enthalten. Tonfall, Mimik, Montage und weitere Bildeinblendungen sind in diesem Durchgang nicht durchgehend geprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=5UboW16rU1w; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+        }
+      ]
+    }
+  ]
+}

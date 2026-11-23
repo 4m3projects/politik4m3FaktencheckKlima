@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "videoId": "mbjI4fryvVU",
+  "review": {
+    "status": "Teilweise geprüft",
+    "checkedOn": "2026-11-23",
+    "by": "Codex",
+    "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=mbjI4fryvVU; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+    "coverage": "Gesamter zugänglicher deutscher Untertiteltext, 00:01–05:09; Off-Kommentar, Projektvertreter und Nutzererfahrung unterschieden.",
+    "limits": [
+      "Keine neue durchgehende Prüfung von Originalton, Schnitt, Mimik, Musik und Bildeinblendungen.",
+      "Untertitelzeiten sind ungefähre Fundstellen; unabhängige redaktionelle Bestätigung der KI-Vorschläge steht aus."
+    ],
+    "history": [
+      {
+        "date": "2026-11-23",
+        "by": "Codex",
+        "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+      }
+    ]
+  },
+  "annotations": [
+    {
+      "id": "mbjI4fryvVU-R0001",
+      "claimId": null,
+      "feature": "emotionalisierung",
+      "startSeconds": 1,
+      "endSeconds": 26,
+      "speaker": {
+        "id": "SP1",
+        "attribution": "Plausibel",
+        "basis": "Zuordnung aus Dialog-/Kommentarzusammenhang und vorhandenem Sprecherverzeichnis; keine neue eigenständige Stimmidentifikation."
+      },
+      "observation": "Der Einstieg kontrastiert einen hohen Strombedarf mit der vertrauten Mistgabel und einem bequem arbeitenden Elektrolader.",
+      "reason": "Alltagsbild und sprachlicher Kontrast machen die Technikumstellung anschaulich und positiv zugänglich.",
+      "context": "Beobachtet wird der Wortlaut; die Bildauswahl und musikalische Gestaltung wurden hier nicht neu kontrolliert.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Untertitel können Erkennungsfehler enthalten. Tonfall, Mimik, Montage und weitere Bildeinblendungen sind in diesem Durchgang nicht durchgehend geprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=mbjI4fryvVU; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+        }
+      ]
+    },
+    {
+      "id": "mbjI4fryvVU-R0002",
+      "claimId": "mbjI4fryvVU-A0016",
+      "feature": "gegenposition",
+      "startSeconds": 229,
+      "endSeconds": 237,
+      "speaker": {
+        "id": "SP1",
+        "attribution": "Plausibel",
+        "basis": "Zuordnung aus Dialog-/Kommentarzusammenhang und vorhandenem Sprecherverzeichnis; keine neue eigenständige Stimmidentifikation."
+      },
+      "observation": "Der Kommentar nennt zu wenige geeignete Fahrzeuge und Ladesäulen sowie fehlende gemeinsame Regeln.",
+      "reason": "Der praktischen Erfolgserzählung werden konkrete Ausbauhürden gegenübergestellt.",
+      "context": "Diese Einschränkung ist vorhanden; sie belegt nicht, dass sämtliche Kosten- und Netzfragen behandelt werden.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Untertitel können Erkennungsfehler enthalten. Tonfall, Mimik, Montage und weitere Bildeinblendungen sind in diesem Durchgang nicht durchgehend geprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=mbjI4fryvVU; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+        }
+      ]
+    }
+  ]
+}

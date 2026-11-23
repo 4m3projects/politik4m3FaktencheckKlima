@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "videoId": "-rBUCkR4HuA",
+  "review": {
+    "status": "Teilweise geprüft",
+    "checkedOn": "2026-11-23",
+    "by": "Codex",
+    "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=-rBUCkR4HuA; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+    "coverage": "Gezielte sprachliche Nachprüfung der Untertitelstellen 26:01–28:59, 40:01–41:59, 56:01–57:57 und 60:00–61:59. Keine neue vollständige Darstellungsprüfung des rund 70-minütigen Gesprächs.",
+    "limits": [
+      "Keine neue durchgehende Prüfung von Originalton, Schnitt, Mimik, Musik und Bildeinblendungen.",
+      "Untertitelzeiten sind ungefähre Fundstellen; unabhängige redaktionelle Bestätigung der KI-Vorschläge steht aus."
+    ],
+    "history": [
+      {
+        "date": "2026-11-23",
+        "by": "Codex",
+        "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+      }
+    ]
+  },
+  "annotations": [
+    {
+      "id": "-rBUCkR4HuA-R0001",
+      "claimId": "-rBUCkR4HuA-A0026",
+      "feature": "abwertung",
+      "startSeconds": 1684,
+      "endSeconds": 1709,
+      "speaker": {
+        "id": "SP2",
+        "attribution": "Plausibel",
+        "basis": "Zuordnung aus Dialog-/Kommentarzusammenhang und vorhandenem Sprecherverzeichnis; keine neue eigenständige Stimmidentifikation."
+      },
+      "observation": "Yogeshwar bezeichnet die zuvor angesprochenen Institutsvorschläge sinngemäß als unrealistische Fantasie.",
+      "reason": "Das bildhafte Verdikt wertet die Tragfähigkeit der Position ab und ersetzt an dieser Stelle eine ausführliche technische Widerlegung.",
+      "context": "Die Abwertung richtet sich hier gegen ein Konzept beziehungsweise dessen institutionellen Auftritt; daraus wird kein persönliches Motiv der Beteiligten abgeleitet.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Untertitel können Erkennungsfehler enthalten. Tonfall, Mimik, Montage und weitere Bildeinblendungen sind in diesem Durchgang nicht durchgehend geprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=-rBUCkR4HuA; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+        }
+      ]
+    },
+    {
+      "id": "-rBUCkR4HuA-R0002",
+      "claimId": "-rBUCkR4HuA-A0043",
+      "feature": "ironie",
+      "startSeconds": 2453,
+      "endSeconds": 2477,
+      "speaker": {
+        "id": "SP2",
+        "attribution": "Plausibel",
+        "basis": "Zuordnung aus Dialog-/Kommentarzusammenhang und vorhandenem Sprecherverzeichnis; keine neue eigenständige Stimmidentifikation."
+      },
+      "observation": "Yogeshwar veranschaulicht Ladepausen mit dem eigenen Bedürfnis nach Toilettenpausen.",
+      "reason": "Der körperliche Alltagsvergleich lockert das Reichweitenargument humoristisch auf.",
+      "context": "Die persönliche Pausenpraxis ist kein Beleg für sämtliche Fahrprofile oder Ladebedingungen.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Untertitel können Erkennungsfehler enthalten. Tonfall, Mimik, Montage und weitere Bildeinblendungen sind in diesem Durchgang nicht durchgehend geprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=-rBUCkR4HuA; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+        }
+      ]
+    },
+    {
+      "id": "-rBUCkR4HuA-R0003",
+      "claimId": "-rBUCkR4HuA-A0058",
+      "feature": "emotionalisierung",
+      "startSeconds": 3392,
+      "endSeconds": 3412,
+      "speaker": {
+        "id": "SP2",
+        "attribution": "Plausibel",
+        "basis": "Zuordnung aus Dialog-/Kommentarzusammenhang und vorhandenem Sprecherverzeichnis; keine neue eigenständige Stimmidentifikation."
+      },
+      "observation": "Yogeshwar verbindet ein Kohleschiff mit einem Todesfall und dem alltäglichen Grillen.",
+      "reason": "Die Verbindung von individuellem Tod, Transport und Konsum erzeugt ein eindringliches Verantwortungsbild.",
+      "context": "Die statistische Aussage und die Unterscheidung von Stein- und Grillkohle bleiben Gegenstand der gesonderten Faktenprüfung.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Untertitel können Erkennungsfehler enthalten. Tonfall, Mimik, Montage und weitere Bildeinblendungen sind in diesem Durchgang nicht durchgehend geprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=-rBUCkR4HuA; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+        }
+      ]
+    },
+    {
+      "id": "-rBUCkR4HuA-R0004",
+      "claimId": "-rBUCkR4HuA-A0059",
+      "feature": "gegenposition",
+      "startSeconds": 3428,
+      "endSeconds": 3438,
+      "speaker": {
+        "id": "SP2",
+        "attribution": "Plausibel",
+        "basis": "Zuordnung aus Dialog-/Kommentarzusammenhang und vorhandenem Sprecherverzeichnis; keine neue eigenständige Stimmidentifikation."
+      },
+      "observation": "Auf den Hinweis zu abgebaggerten Dörfern nennt Yogeshwar selbst die optische Belastung durch viele Windräder.",
+      "reason": "Er ergänzt einen Nachteil der von ihm befürworteten Technik ausdrücklich aus eigener Initiative.",
+      "context": "Er ordnet ihn anschließend als Geschmacksfrage ein; das deckt nicht alle möglichen Einwände gegen Windparks ab.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Untertitel können Erkennungsfehler enthalten. Tonfall, Mimik, Montage und weitere Bildeinblendungen sind in diesem Durchgang nicht durchgehend geprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=-rBUCkR4HuA; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+        }
+      ]
+    },
+    {
+      "id": "-rBUCkR4HuA-R0005",
+      "claimId": "-rBUCkR4HuA-A0065",
+      "feature": "gegenposition",
+      "startSeconds": 3670,
+      "endSeconds": 3705,
+      "speaker": {
+        "id": "SP2",
+        "attribution": "Plausibel",
+        "basis": "Zuordnung aus Dialog-/Kommentarzusammenhang und vorhandenem Sprecherverzeichnis; keine neue eigenständige Stimmidentifikation."
+      },
+      "observation": "Yogeshwar räumt zeitliche Grenzen von Batteriespeichern ein und spricht die Wirtschaftlichkeit selten benötigter Reserveanlagen an.",
+      "reason": "Ein wesentlicher Einwand gegen die vereinfachte Vorstellung unbegrenzt verfügbarer Batteriespeicherung wird ausdrücklich aufgenommen.",
+      "context": "Die Textstelle ersetzt keine vollständige Systemrechnung; ihre Darstellung ist deshalb kein Beleg, dass sämtliche Versorgungsfragen geklärt wären.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Untertitel können Erkennungsfehler enthalten. Tonfall, Mimik, Montage und weitere Bildeinblendungen sind in diesem Durchgang nicht durchgehend geprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=-rBUCkR4HuA; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+        }
+      ]
+    }
+  ]
+}

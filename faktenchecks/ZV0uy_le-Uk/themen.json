@@ -277,6 +277,11 @@
       "date": "2026-11-22",
       "agent": "Codex",
       "change": "Themen bei Sprechergegenprüfung erneut bestätigt. A0016 erhält die fehlende Sprecherzuordnung für den übernommenen Bläsius-Einspieler; Sachumfang unverändert."
+    },
+    {
+      "date": "2026-11-23",
+      "agent": "Codex",
+      "change": "Themen bei Ergänzung der Darstellung geprüft: Hinweise betreffen die bereits zugeordneten Sachthemen; keine neuen Tatsachenbehauptungen oder Themen erforderlich."
     }
   ]
 }
