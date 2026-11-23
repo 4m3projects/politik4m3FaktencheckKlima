@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 1,
+  "videoId": "bXVpA6kPNv8",
+  "basis": "Zuordnung aus den über die gesamte Laufzeit erfassten Aussagen, nicht aus dem Titel. Bestehende Windkraft-ID wiederverwendet.",
+  "topics": [
+    {
+      "topic": "energie",
+      "relevance": "Schwerpunkt",
+      "basis": "Gesamtes Sachvideo behandelt Windenergie und ihre Wirkungen.",
+      "segments": [
+        {
+          "startSeconds": 0,
+          "endSeconds": 584,
+          "note": "Höhenwindanlage, Infraschall und Brandschutz"
+        },
+        {
+          "startSeconds": 663,
+          "endSeconds": 909,
+          "note": "Insekten, Gesamtargumentation und Beteiligungsverfahren"
+        }
+      ]
+    },
+    {
+      "topic": "energie/windkraft",
+      "relevance": "Schwerpunkt",
+      "basis": "Alle drei Sachkapitel und die technischen Begleitangaben betreffen Windenergieanlagen.",
+      "segments": [
+        {
+          "startSeconds": 43,
+          "endSeconds": 347,
+          "note": "Infraschall"
+        },
+        {
+          "startSeconds": 347,
+          "endSeconds": 584,
+          "note": "Brände und Waldstandorte"
+        },
+        {
+          "startSeconds": 663,
+          "endSeconds": 840,
+          "note": "Insekten"
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "bXVpA6kPNv8-A0001",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0002",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0003",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0004",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0005",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0006",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0007",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0008",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0009",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0010",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0011",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0012",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0013",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0014",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0015",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0016",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0017",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0018",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0019",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0020",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0021",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0022",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0023",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0024",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0025",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0026",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0029",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0030",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0031",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0032",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0033",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0034",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0035",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0036",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0037",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0038",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0040",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0041",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0042",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0043",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0044",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0045",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0046",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0047",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0048",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-23",
+      "agent": "Kai",
+      "change": "Erstzuordnung nach vollständiger Captionlektüre. Bestehende Themen geprüft; keine neue öffentliche Kategorie und keine Änderung fremder Videozuordnungen erforderlich."
+    },
+    {
+      "date": "2026-11-23",
+      "agent": "Kai",
+      "change": "Inventar um getrennte historische Vorgänge und Weiterverbreitung des Posters ergänzt. Bestehende Themen Energie und Windkraft; keine neue Kategorie und keine Änderung fremder Zuordnungen."
+    }
+  ]
+}

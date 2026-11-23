@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "videoId": "bXVpA6kPNv8",
+  "review": {
+    "status": "Teilweise geprüft",
+    "checkedOn": "2026-11-23",
+    "by": "Kai",
+    "basis": "Vollständige deutsche Originalcaptions, Nutzertranskript und öffentliches Redaktionsskript; sprachlicher Kontext gelesen, keine vollständige audiovisuelle Prüfung.",
+    "coverage": "Sprachlicher Kontext der gesamten Captions 00:00–15:30 bei 15:33 Laufzeit; ausgewählte konkrete Beobachtungen unten.",
+    "limits": [
+      "Keine vollständige audiovisuelle Sichtung.",
+      "Automatische Zeitmarken ungefähr; Hinweise bleiben KI-Vorschläge."
+    ],
+    "history": [
+      {
+        "date": "2026-11-23",
+        "by": "Kai",
+        "change": "Sprachliche Beobachtungen erstmals als separate KI-Vorschläge erfasst; ohne Faktenpunkte."
+      }
+    ]
+  },
+  "annotations": [
+    {
+      "id": "bXVpA6kPNv8-R0001",
+      "claimId": null,
+      "feature": "ironie",
+      "startSeconds": 0,
+      "endSeconds": 8,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Moderationskontext aus vollständigen Captions und Skript; keine unabhängige Stimmidentifikation."
+      },
+      "observation": "Der Einstieg reiht angeblich allgegenwärtigen Infraschall, Insektensterben und Feuer aneinander und fasst dies als Hölle zusammen, bevor die Perspektive wechselt.",
+      "reason": "Sprachliche Übertreibung als ironische Einführung in die Prüfung.",
+      "context": "Keine wörtliche Behauptung, ganz Deutschland brenne; keine präzise Gegenposition einer identifizierten Person.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Tonfall, Mimik, Musik, Schnitt und Einblendungen nicht vollständig geprüft; Zeiten ungefähr. Keine Unterstellung bewusster Täuschungsabsicht.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Vollständige deutsche Originalcaptions, Nutzertranskript und öffentliches Redaktionsskript; sprachlicher Kontext gelesen, keine vollständige audiovisuelle Prüfung.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Kai",
+          "change": "Sprachliche Beobachtungen erstmals als separate KI-Vorschläge erfasst; ohne Faktenpunkte."
+        }
+      ]
+    },
+    {
+      "id": "bXVpA6kPNv8-R0002",
+      "claimId": "bXVpA6kPNv8-A0016",
+      "feature": "gegenposition",
+      "startSeconds": 402,
+      "endSeconds": 428,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Moderationskontext aus vollständigen Captions und Skript; keine unabhängige Stimmidentifikation."
+      },
+      "observation": "Der Moderator nennt fehlende Fälle und Jahrgänge der von ihm verwendeten Branchenliste ausdrücklich.",
+      "reason": "Die eigene Beleggrundlage wird sichtbar eingeschränkt; dieser Vorbehalt muss erhalten bleiben.",
+      "context": "Die Darstellung bestätigt nicht die uns unbekannte Liste.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Tonfall, Mimik, Musik, Schnitt und Einblendungen nicht vollständig geprüft; Zeiten ungefähr. Keine Unterstellung bewusster Täuschungsabsicht.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Vollständige deutsche Originalcaptions, Nutzertranskript und öffentliches Redaktionsskript; sprachlicher Kontext gelesen, keine vollständige audiovisuelle Prüfung.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Kai",
+          "change": "Sprachliche Beobachtungen erstmals als separate KI-Vorschläge erfasst; ohne Faktenpunkte."
+        }
+      ]
+    },
+    {
+      "id": "bXVpA6kPNv8-R0003",
+      "claimId": null,
+      "feature": "ironie",
+      "startSeconds": 746,
+      "endSeconds": 767,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Moderationskontext aus vollständigen Captions und Skript; keine unabhängige Stimmidentifikation."
+      },
+      "observation": "Auf die vorgebliche Aussichtslosigkeit der vorgeschlagenen Untersuchung folgt die gespielte Entdeckung einer vorhandenen Studie.",
+      "reason": "Die Frage-Antwort-Wendung lenkt Aufmerksamkeit auf den angekündigten Gegenbeleg.",
+      "context": "Stilmittel; Tragweite der Studie separat unter A0033 geprüft.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Tonfall, Mimik, Musik, Schnitt und Einblendungen nicht vollständig geprüft; Zeiten ungefähr. Keine Unterstellung bewusster Täuschungsabsicht.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Vollständige deutsche Originalcaptions, Nutzertranskript und öffentliches Redaktionsskript; sprachlicher Kontext gelesen, keine vollständige audiovisuelle Prüfung.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Kai",
+          "change": "Sprachliche Beobachtungen erstmals als separate KI-Vorschläge erfasst; ohne Faktenpunkte."
+        }
+      ]
+    },
+    {
+      "id": "bXVpA6kPNv8-R0004",
+      "claimId": "bXVpA6kPNv8-A0033",
+      "feature": "gegenposition",
+      "startSeconds": 763,
+      "endSeconds": 779,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Moderationskontext aus vollständigen Captions und Skript; keine unabhängige Stimmidentifikation."
+      },
+      "observation": "Der Moderator nennt ausdrücklich den einzelnen Untersuchungsstandort.",
+      "reason": "Eine wichtige Reichweitenbegrenzung wird benannt; sie darf dem Video nicht als vollständig verschwiegen zugeschrieben werden.",
+      "context": "Fallenfang und Kollisionsquote bleiben trotzdem verschiedene Größen.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Tonfall, Mimik, Musik, Schnitt und Einblendungen nicht vollständig geprüft; Zeiten ungefähr. Keine Unterstellung bewusster Täuschungsabsicht.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Vollständige deutsche Originalcaptions, Nutzertranskript und öffentliches Redaktionsskript; sprachlicher Kontext gelesen, keine vollständige audiovisuelle Prüfung.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Kai",
+          "change": "Sprachliche Beobachtungen erstmals als separate KI-Vorschläge erfasst; ohne Faktenpunkte."
+        }
+      ]
+    },
+    {
+      "id": "bXVpA6kPNv8-R0005",
+      "claimId": "bXVpA6kPNv8-A0036",
+      "feature": "tunnelblick",
+      "startSeconds": 814,
+      "endSeconds": 819,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Moderationskontext aus vollständigen Captions und Skript; keine unabhängige Stimmidentifikation."
+      },
+      "observation": "Das Schlussfazit weist Windenergie pauschal als nennenswerte Ursache des Insektenrückgangs zurück.",
+      "reason": "Die offene Verbindung zwischen lokalen Verlusten und Populationsfolgen wird im Schluss nicht mitgeführt.",
+      "context": "Modellcharakter und Einzelstandort wurden zuvor benannt. Die Kritik betrifft die Reichweite des Schlusses, nicht beliebige ausgelassene Gegenansichten.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Tonfall, Mimik, Musik, Schnitt und Einblendungen nicht vollständig geprüft; Zeiten ungefähr. Keine Unterstellung bewusster Täuschungsabsicht.",
+      "missingInformation": {
+        "what": "DLR schließt aus dem Modell auch Unbeteiligtheit nicht; Weschler/Tronstad2024 beschreibt offene Populationsfolgen und Herkunftspopulationen.",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11485068/",
+        "reasoning": "Nicht als Haupttreiber belegt ist enger als generell ohne nennenswerte Wirkung."
+      },
+      "status": "KI-Vorschlag",
+      "basis": "Vollständige deutsche Originalcaptions, Nutzertranskript und öffentliches Redaktionsskript; sprachlicher Kontext gelesen, keine vollständige audiovisuelle Prüfung.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Kai",
+          "change": "Sprachliche Beobachtungen erstmals als separate KI-Vorschläge erfasst; ohne Faktenpunkte."
+        }
+      ]
+    }
+  ]
+}
