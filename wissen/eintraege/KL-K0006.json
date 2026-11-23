@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "KL-K0006",
-  "revision": 1,
+  "revision": 2,
   "claim": "Katherina Reiche war von 2020 bis 2025 Vorstandsvorsitzende der Westenergie AG.",
   "topics": [
     "energie"
@@ -52,6 +52,14 @@
       "contextNote": "Der Vorstandsvorsitz ist der gemeinsame Tatsachenkern. Die Aussage im MONITOR-Beitrag nennt zusätzlich die Konzernzugehörigkeit zu E.ON.",
       "linkedBy": "Codex",
       "linkedOn": "2026-11-20"
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0009",
+      "repo": null,
+      "relation": "teilaspekt",
+      "contextNote": "Der Vorstandsvorsitz 2020–2025 ist derselbe Tatsachenkern; die Videoaussage nennt zusätzlich die E.ON-Zugehörigkeit. Größenbehauptung gesondert offen erfasst.",
+      "linkedBy": "Kai",
+      "linkedOn": "2026-11-23"
     }
   ],
   "lock": null,
@@ -62,6 +70,16 @@
       "agent": "Codex",
       "change": "Wiederkehrenden Teilbefund zum früheren Vorstandsvorsitz mit den beiden Videoaussagen verknüpft.",
       "previous": null
+    },
+    {
+      "revision": 2,
+      "date": "2026-11-23",
+      "agent": "Kai",
+      "change": "Den unveränderten Befund nach erneutem Abgleich mit dem amtlichen Lebenslauf als Teilaspekt des Greenpeace-Videos verknüpft; keine Änderung des Faktenurteils.",
+      "previous": {
+        "verdict": "Belegt",
+        "reason": "Die Bundesregierung führt Reiches Vorstandsvorsitz für 2020 bis 2025. Eine Unternehmensmitteilung vom November 2024 nennt sie in dieser Funktion."
+      }
     }
   ]
 }

@@ -1,0 +1,561 @@
+{
+  "schemaVersion": 1,
+  "videoId": "nhkbLylbVg4",
+  "basis": "Redaktionelle Zuordnung anhand der erfassten Aussagen; ausschließlich vorhandene Themen-IDs. Erdgas ist ein Schwerpunkt neben dem übergeordneten Energiethema.",
+  "topics": [
+    {
+      "topic": "energie",
+      "relevance": "Schwerpunkt",
+      "basis": "Gesamter Beitrag über energiepolitische Entscheidungen und wirtschaftliche Interessen.",
+      "segments": [
+        {
+          "startSeconds": 0,
+          "endSeconds": 896,
+          "note": "Gesamter Beitrag über energiepolitische Entscheidungen und wirtschaftliche Interessen."
+        }
+      ]
+    },
+    {
+      "topic": "klima",
+      "relevance": "Behandelt",
+      "basis": "Klimaneutralität, wissenschaftliche Szenarien und Klimaschäden.",
+      "segments": [
+        {
+          "startSeconds": 420,
+          "endSeconds": 572,
+          "note": "Klimaneutralität, wissenschaftliche Szenarien und Klimaschäden."
+        }
+      ]
+    },
+    {
+      "topic": "energie/erdgas",
+      "relevance": "Schwerpunkt",
+      "basis": "Frühere Funktionen, Gasförderung und Kraftwerksplanung.",
+      "segments": [
+        {
+          "startSeconds": 74,
+          "endSeconds": 414,
+          "note": "Frühere Funktionen, Gasförderung und Kraftwerksplanung."
+        }
+      ]
+    },
+    {
+      "topic": "energie/atomkraft",
+      "relevance": "Behandelt",
+      "basis": "Historische Kernenergiepositionen und Ende der kommerziellen Erzeugung.",
+      "segments": [
+        {
+          "startSeconds": 215,
+          "endSeconds": 294,
+          "note": "Historische Kernenergiepositionen und Ende der kommerziellen Erzeugung."
+        }
+      ]
+    },
+    {
+      "topic": "energie/preise",
+      "relevance": "Behandelt",
+      "basis": "Erzeugungskosten, Gasentlastung und Börsenpreise.",
+      "segments": [
+        {
+          "startSeconds": 282,
+          "endSeconds": 572,
+          "note": "Erzeugungskosten, Gasentlastung und Börsenpreise."
+        }
+      ]
+    },
+    {
+      "topic": "energie/versorgungssicherheit",
+      "relevance": "Behandelt",
+      "basis": "Speicher, steuerbare Leistung und Netzzuverlässigkeit.",
+      "segments": [
+        {
+          "startSeconds": 510,
+          "endSeconds": 628,
+          "note": "Speicher, steuerbare Leistung und Netzzuverlässigkeit."
+        }
+      ]
+    },
+    {
+      "topic": "energie/windkraft",
+      "relevance": "Behandelt",
+      "basis": "Behaupteter früherer Widerstand gegen schnelleren Ausbau; zusätzlich heutige Ausbaupfade.",
+      "segments": [
+        {
+          "startSeconds": 74,
+          "endSeconds": 89,
+          "note": "Behaupteter früherer Widerstand gegen schnelleren Ausbau; zusätzlich heutige Ausbaupfade."
+        },
+        {
+          "startSeconds": 681,
+          "endSeconds": 700,
+          "note": "Vergleich der Erneuerbaren-Ausbauplanung in Unternehmenspapier und Ministeriumsplan."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "nhkbLylbVg4-A0001",
+      "topics": [
+        "energie",
+        "klima"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0002",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0003",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0004",
+      "topics": [
+        "energie",
+        "klima"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0005",
+      "topics": [
+        "energie",
+        "energie/erdgas",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0006",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0007",
+      "topics": [
+        "energie",
+        "energie/erdgas"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0008",
+      "topics": [
+        "energie",
+        "energie/erdgas",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0009",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0010",
+      "topics": [
+        "energie",
+        "energie/erdgas",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0011",
+      "topics": [
+        "energie",
+        "energie/erdgas"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0012",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0013",
+      "topics": [
+        "energie",
+        "energie/erdgas"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0014",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0015",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0016",
+      "topics": [
+        "energie",
+        "energie/erdgas"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0017",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0018",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0019",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0020",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0021",
+      "topics": [
+        "energie",
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0022",
+      "topics": [
+        "energie",
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0023",
+      "topics": [
+        "energie",
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0024",
+      "topics": [
+        "energie",
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0025",
+      "topics": [
+        "energie",
+        "energie/atomkraft",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0026",
+      "topics": [
+        "energie",
+        "energie/atomkraft",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0027",
+      "topics": [
+        "energie",
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0028",
+      "topics": [
+        "energie",
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0029",
+      "topics": [
+        "energie",
+        "klima",
+        "energie/erdgas",
+        "energie/preise",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0030",
+      "topics": [
+        "energie",
+        "energie/erdgas",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0031",
+      "topics": [
+        "energie",
+        "energie/erdgas"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0032",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0033",
+      "topics": [
+        "energie",
+        "energie/erdgas"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0034",
+      "topics": [
+        "energie",
+        "energie/erdgas"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0035",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0036",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0037",
+      "topics": [
+        "energie",
+        "klima"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0038",
+      "topics": [
+        "energie",
+        "klima"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0039",
+      "topics": [
+        "energie",
+        "klima"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0040",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0041",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0042",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0043",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0044",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0045",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0046",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0047",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0048",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0049",
+      "topics": [
+        "energie",
+        "klima"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0050",
+      "topics": [
+        "energie",
+        "klima"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0051",
+      "topics": [
+        "energie",
+        "energie/erdgas",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0052",
+      "topics": [
+        "energie",
+        "energie/erdgas",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0053",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0054",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0055",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0056",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0057",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0058",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0059",
+      "topics": [
+        "energie",
+        "energie/erdgas",
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0060",
+      "topics": [
+        "energie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0061",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0062",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0063",
+      "topics": [
+        "energie",
+        "energie/erdgas"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0064",
+      "topics": [
+        "energie",
+        "energie/erdgas"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0065",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0066",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0067",
+      "topics": [
+        "energie",
+        "energie/versorgungssicherheit"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-23",
+      "agent": "Kai",
+      "change": "Erstzuordnung des Greenpeace-Videos nach vollständiger Untertitellektüre und Sachprüfung."
+    }
+  ]
+}

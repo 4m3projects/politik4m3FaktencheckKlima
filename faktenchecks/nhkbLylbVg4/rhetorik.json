@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "videoId": "nhkbLylbVg4",
+  "review": {
+    "status": "Teilweise geprüft",
+    "checkedOn": "2026-11-23",
+    "by": "Kai",
+    "basis": "Sprachlicher Kontext der vollständig gelesenen deutschen Untertitel; keine vollständige audiovisuelle Sichtung. Beobachtungen bleiben separate KI-Vorschläge ohne Faktenpunkte.",
+    "coverage": "Sprachliche Lektüre über die vollständige Laufzeit; fünf ausgewählte Beobachtungen.",
+    "limits": [
+      "Keine vollständige audiovisuelle Sichtung.",
+      "Zeitmarken aus Untertiteln ungefähr; persönliche Identität der Moderation nicht unabhängig verifiziert."
+    ],
+    "history": [
+      {
+        "date": "2026-11-23",
+        "by": "Kai",
+        "change": "Darstellungsbeobachtungen getrennt und ohne Einfluss auf den Faktenindex angelegt."
+      }
+    ]
+  },
+  "annotations": [
+    {
+      "id": "nhkbLylbVg4-R0001",
+      "claimId": "nhkbLylbVg4-A0005",
+      "feature": "emotionalisierung",
+      "startSeconds": 38,
+      "endSeconds": 59,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Moderationszusammenhang der Untertitel."
+      },
+      "observation": "Der Einstieg verbindet berufliche Verbindungen mit sprachlich zugespitzten Bildern von Macht, Angst und verhindertem Fortschritt.",
+      "reason": "Die Wortwahl legt vor den Einzelbelegen eine negative politische Gesamtdeutung nahe.",
+      "context": "Die einzelnen Funktionen, Geldbeträge und Maßnahmen werden separat geprüft; aus der Wortwahl folgt kein Faktenurteil.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Originalton, Zitattafeln, Schnitt und Musik nicht vollständig geprüft. Beobachtet wird die Formulierung, nicht eine bewusste Täuschungsabsicht.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Sprachlicher Kontext der vollständig gelesenen deutschen Untertitel; keine vollständige audiovisuelle Sichtung. Beobachtungen bleiben separate KI-Vorschläge ohne Faktenpunkte.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Kai",
+          "change": "Sprachliche Beobachtung getrennt von der Sachbewertung erfasst."
+        }
+      ]
+    },
+    {
+      "id": "nhkbLylbVg4-R0002",
+      "claimId": "nhkbLylbVg4-A0033",
+      "feature": "tunnelblick",
+      "startSeconds": 362,
+      "endSeconds": 414,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Moderationszusammenhang der Untertitel."
+      },
+      "observation": "Die niedrigere Bedarfsplanung wird vor allem als Mittel zur Begünstigung fossiler Unternehmen dargestellt.",
+      "reason": "Der Szenarienvergleich im Monitoringbericht enthält auch niedrigere klimazielkompatible Pfade und fordert dennoch weiteren Ausbau. Diese Differenzierung fehlt im Abschnitt.",
+      "context": "Das beweist keine Richtigkeit der politischen Auswahl am unteren Rand und widerlegt keine Kritik an ihren Folgen.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Originalton, Zitattafeln, Schnitt und Musik nicht vollständig geprüft. Beobachtet wird die Formulierung, nicht eine bewusste Täuschungsabsicht.",
+      "missingInformation": {
+        "what": "Unterschiedliche Nachfragepfade einschließlich einzelner klimazielkompatibler Szenarien; Bericht S. 9–13.",
+        "source": "https://www.ewi.uni-koeln.de/cms/wp-content/uploads/2025/09/EWI_BET_EnergiewendeEffizientMachen.pdf",
+        "reasoning": "Die Spannweite verändert die Bewertung, ob eine niedrigere Prognose schon eine bewusste Täuschung belegt."
+      },
+      "status": "KI-Vorschlag",
+      "basis": "Sprachlicher Kontext der vollständig gelesenen deutschen Untertitel; keine vollständige audiovisuelle Sichtung. Beobachtungen bleiben separate KI-Vorschläge ohne Faktenpunkte.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Kai",
+          "change": "Sprachliche Beobachtung getrennt von der Sachbewertung erfasst."
+        }
+      ]
+    },
+    {
+      "id": "nhkbLylbVg4-R0003",
+      "claimId": "nhkbLylbVg4-A0036",
+      "feature": "emotionalisierung",
+      "startSeconds": 416,
+      "endSeconds": 443,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Moderationszusammenhang der Untertitel."
+      },
+      "observation": "Der Abschnitt rahmt BDI-Äußerungen als Blick auf eine verborgene Haltung.",
+      "reason": "Für die zitierten Aussagen liegt eine öffentlich verbreitete BDI-Aufzeichnung vom Juni 2025 vor. Die Geheimnisrahmung ist dadurch erklärungsbedürftig.",
+      "context": "Einladungs- oder Zugangsbedingungen der Veranstaltung wurden nicht vollständig untersucht; aus einem öffentlichen Mitschnitt folgt allein kein Befund über den Zutritt vor Ort.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Originalton, Zitattafeln, Schnitt und Musik nicht vollständig geprüft. Beobachtet wird die Formulierung, nicht eine bewusste Täuschungsabsicht.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Sprachlicher Kontext der vollständig gelesenen deutschen Untertitel; keine vollständige audiovisuelle Sichtung. Beobachtungen bleiben separate KI-Vorschläge ohne Faktenpunkte.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Kai",
+          "change": "Sprachliche Beobachtung getrennt von der Sachbewertung erfasst."
+        }
+      ]
+    },
+    {
+      "id": "nhkbLylbVg4-R0004",
+      "claimId": "nhkbLylbVg4-A0040",
+      "feature": "abwertung",
+      "startSeconds": 471,
+      "endSeconds": 495,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Moderationszusammenhang der Untertitel."
+      },
+      "observation": "Eine politische Aussage zur Abwägung mehrerer Ziele wird als Lüge bezeichnet.",
+      "reason": "Der zitierte Satz selbst behauptet nicht ausdrücklich, andere Politiker verfolgten nur ein einziges Ziel. Die starke persönliche Zuschreibung geht über dessen wörtlichen Tatsachengehalt hinaus.",
+      "context": "Politische Bewertung der Prioritätensetzung; ein bewusst unwahrer Tatsachensatz ist damit nicht nachgewiesen.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Originalton, Zitattafeln, Schnitt und Musik nicht vollständig geprüft. Beobachtet wird die Formulierung, nicht eine bewusste Täuschungsabsicht.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Sprachlicher Kontext der vollständig gelesenen deutschen Untertitel; keine vollständige audiovisuelle Sichtung. Beobachtungen bleiben separate KI-Vorschläge ohne Faktenpunkte.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Kai",
+          "change": "Sprachliche Beobachtung getrennt von der Sachbewertung erfasst."
+        }
+      ]
+    },
+    {
+      "id": "nhkbLylbVg4-R0005",
+      "claimId": "nhkbLylbVg4-A0057",
+      "feature": "gegenposition",
+      "startSeconds": 668,
+      "endSeconds": 801,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Moderationszusammenhang der Untertitel."
+      },
+      "observation": "Unternehmenspapier, Ministeriumsplan und Gutachten werden mit konkreten Textstellen gegeneinandergestellt.",
+      "reason": "Der Vergleich liefert überprüfbare Anknüpfungspunkte für die Kritik, verdichtet aber Unterschiede zwischen Optionen, Empfehlungen und politischer Umsetzung.",
+      "context": "Reale Parallelen, Grenzen des Entstehungsnachweises und der gesonderte Quellenzuordnungsfehler sind in den Einzelprüfungen erläutert.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Originalton, Zitattafeln, Schnitt und Musik nicht vollständig geprüft. Beobachtet wird die Formulierung, nicht eine bewusste Täuschungsabsicht.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Sprachlicher Kontext der vollständig gelesenen deutschen Untertitel; keine vollständige audiovisuelle Sichtung. Beobachtungen bleiben separate KI-Vorschläge ohne Faktenpunkte.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Kai",
+          "change": "Sprachliche Beobachtung getrennt von der Sachbewertung erfasst."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+# Analyse: Greenpeace über Katherina Reiche und die Energiewende
+
+**Prüfstand: 23.11.2026. Bezugszeitpunkt: Veröffentlichung des Videos am 17.12.2025.** Die Analyse beruht auf der vollständigen Lektüre der beschafften deutschen Untertitel und den dokumentierten Einzelrecherchen. Eine vollständige audiovisuelle Prüfung steht aus. Maßgeblich für die einzelnen Urteile bleiben die [strukturierten Aussagen](strukturiert/aussagen.json); offene Aufgaben stehen im [Prüfauftrag](PRUEFAUFTRAG.md).
+
+## Belegte Verbindungen, weitergehende politische Schlussfolgerungen
+
+Greenpeace stützt seine Kritik auf reale berufliche Verbindungen und energiepolitische Entscheidungen. Reiches Stationen im Bundestag, beim VKU, bei Westenergie und im Nationalen Wasserstoffrat sind im [amtlichen Lebenslauf](https://www.bundesregierung.de/breg-de/bundesregierung/bundeskabinett/katherina-reiche-2342740) dokumentiert. Auch Veronika Grimms Mitgliedschaft im wirtschaftspolitischen Beraterkreis ist belegt, unter anderem durch die [Mitteilung ihrer Universität](https://www.hhu.de/news/justus-haucap-wird-berater-von-wirtschaftsministerin-katherina-reiche). Ihr Siemens-Energy-Mandat und dessen Vergütung wurden anhand der Unternehmensunterlagen geprüft. Die Diskussion möglicher Interessenkonflikte hat somit eine Tatsachengrundlage.
+
+Diese Befunde beweisen für sich keine persönlichen Weisungen, rechtswidrige Einflussnahme oder gezielte Sabotage. Entsprechende Gesamtdeutungen werden als politische Wertungen geführt. Offen bleiben insbesondere die konkret behauptete frühere Behinderung des Windausbaus beim VKU, der Betreiber-Superlativ für Westenergie, der fossiler Infrastruktur zugerechnete Milliardengewinn und das genaue historische BDEW-Gremium. Fehlende Belege werden hier nicht zur Widerlegung umgedeutet.
+
+## Historische Fehler eng begrenzen
+
+Die Jahreszahl des Einspielers am Anfang passt nicht zum [verlinkten CDU-Original](https://www.youtube.com/watch?v=2YPiGZ7qedw): Dieses war laut abgerufenen Metadaten bereits am 9. September 2009 veröffentlicht. Der Textabgleich bestätigt die entsprechende Passage. Die Aussage war damit spätestens 2009 öffentlich; die Datierung des verlinkten Einspielers auf 2010 passt dazu nicht, während das genaue Aufnahmedatum unbekannt bleibt.
+
+Die bei etwa 03:35 wiedergegebene Kerntechnik-Rede steht im [Bundestagsprotokoll vom 20. Januar 2005](https://dserver.bundestag.de/btp/15/15151.pdf), gedruckte Seite 14113. Die Untertitel nennen dagegen 2004. Diese Befunde betreffen die Datierung. Reiches Urheberschaft und ihre damalige Unterstützung der Kernenergie werden dadurch nicht widerlegt. Originalton und eingeblendete Jahreszahlen sind noch gesondert abzugleichen.
+
+## Stromkosten und Netzqualität brauchen passende Maßstäbe
+
+Die [Fraunhofer-Studie zu Stromgestehungskosten](https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/DE2024_ISE_Studie_Stromgestehungskosten_Erneuerbare_Energien.pdf) stützt die günstigen Kosten neuer Windkraftanlagen an Land und Solaranlagen. Sie liefert jedoch keinen vollständigen Vergleich volkswirtschaftlicher Versorgungssysteme: Zusätzliche Netz-, Reserve- und Abregelungskosten sind nicht vollständig erfasst. Auch bei Kernkraft sind nicht sämtliche Folgekosten enthalten. Deshalb trägt sie die pauschale Aussage zur volkswirtschaftlich günstigsten Energiequelle nur teilweise.
+
+Im Börsenkontext ist die preisdämpfende Wirkung erneuerbarer Erzeugung belegt. [SMARD](https://www.smard.de/page/home/topic-article/444/218232/erneuerbare-auf-quartalshoch) zeigt zugleich, warum ein höherer Erneuerbarenanteil nicht jeden beobachteten Durchschnittspreis senkt: Teure Stunden und andere Einflussgrößen bleiben relevant. Negative Börsenpreise sind außerdem nicht mit einer insgesamt negativen Haushaltsrechnung gleichzusetzen.
+
+Ähnlich wichtig ist die Trennung beim Netzvergleich. Der deutsche Smart-Meter-Rückstand wird durch die [Regierungsantwort vom Oktober 2025](https://dserver.bundestag.de/btd/21/022/2102277.pdf) gestützt. Der als Netzrangliste herangezogene Energy Transition Index bewertet nach seiner [Originalmethodik](https://www.weforum.org/publications/fostering-effective-energy-transition-2025/about-the-eti) dagegen das gesamte Energiesystem und seine Transformationsbedingungen. Daraus folgt kein isolierter Qualitätsvergleich der Stromnetze. Hohe laufende Versorgungszuverlässigkeit und erheblicher Digitalisierungsbedarf können gleichzeitig bestehen.
+
+## Gasentlastung, Kraftwerksförderung und Kürzungen
+
+Die Finanzierung der abgeschafften Gasspeicherumlage aus dem Klima- und Transformationsfonds ist real. Der [Bundestagsbeschluss vom 6. November 2025](https://www.bundestag.de/dokumente/textarchiv/2025/kw45-de-energiewirtschaftsgesetz-1116750) sieht den Ausgleich des Umlagenkontos vor; die Entlastung muss an Endkunden weitergegeben werden. Die Maßnahme begünstigt fossilen Gasverbrauch. Auch die [OECD-Systematik](https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/11/oecd-inventory-of-support-measures-for-fossil-fuels-2024_bd47de52/a2f063fe-en.pdf), Seiten 5–6, erfasst Verbraucherunterstützung als fossile Förderung. Die ausschließliche Beschreibung als unmittelbare Begünstigung der fossilen Industrie verkürzt den Empfängerkreis, widerlegt aber nicht den Fördercharakter.
+
+Bei neuen Gaskraftwerken sind Förderabsicht und Haushaltsbezug ebenfalls dokumentiert. Die [Bundestagsdrucksache 21/2979](https://dserver.bundestag.de/btd/21/029/2102979.pdf), Seiten 37–38, nennt einen Haushaltstitel, lässt Kosten und endgültige Finanzierung aber offen. Die konkrete Milliardenhöhe ist damit nicht abschließend nachgewiesen. Greenpeace beschreibt eine Absicht; fehlende endgültige Beschlüsse widerlegen diese nicht.
+
+Der Kürzungsvorwurf für Energie- und Wärmewende wird durch die Gebäudeförderung getragen. Der [Bundestagsbericht zur Haushaltsberatung](https://www.bundestag.de/dokumente/textarchiv/2025/kw48-de-wirtschaft-1126094) nennt für 2026 einen geringeren Ansatz für Gebäudeeffizienz und erneuerbare Wärme. Dass andere Titel steigen, widerlegt diese konkrete Kürzung nicht. Der gesprochene Satz behauptet keine Kürzung sämtlicher Programme.
+
+## Strombedarf und kleine Solaranlagen
+
+Niedrigere Strombedarfsszenarien sind nicht allein deshalb wissenschaftlich falsch. Der [EWI/BET-Monitoringbericht](https://www.ewi.uni-koeln.de/cms/wp-content/uploads/2025/09/EWI_BET_EnergiewendeEffizientMachen.pdf) ordnet auf Seiten 10–12 auch einzelne klimazielkompatible Szenarien in die Bandbreite von 600–700 TWh für 2030 ein. Zugleich erwartet er steigenden Strombedarf und erheblichen weiteren Erneuerbarenausbau. Das bestätigt nicht automatisch die politische Entscheidung, das untere Ende zur Planungsgrundlage zu machen; eine Täuschungsabsicht folgt aus der niedrigeren Annahme ebenfalls nicht.
+
+Der [BMWE-Zehnpunkteplan](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Downloads/J-L/klimaneutral-werden-wettbewerbsfaehig-bleiben.pdf?__blob=publicationFile&v=26) plant zusätzliche Marktintegration neuer Anlagen. Eine ebenso hohe regulatorische Belastung für eine kleine Dachanlage wie für ein Gaskraftwerk ist damit nicht nachgewiesen. Das Gutachten diskutiert vereinfachte Verfahren. Belegt ist außerdem die geplante Abschaffung fixer Einspeisevergütung. Alternative Finanzierungsmodelle werden genannt; ihre konkrete Zugänglichkeit für kleine Dachanlagen bleibt offen. Weder das Ende jeglicher Förderung noch gleichwertiger Ersatz für jede Anlage steht dadurch fest.
+
+## RWE/E.ON-Parallelen und Grenzen der Gutachtenkritik
+
+Der Vergleich mit dem [RWE/E.ON-Originalpapier](https://www.rwe.com/-/media/RWE/documents/07-presse/statements-und-positionen/gemeinsames-positionspapier-rwe-und-eon.pdf) bestätigt deutliche politische und teilweise sprachliche Parallelen: Ausbauplanung, Vergütungsregeln, Smart Meter und Wasserstoffkriterien. Diese Übereinstimmungen dürfen benannt werden. Den konkreten Entstehungsweg oder eine persönliche Übernahmehandlung belegen sie allein nicht.
+
+Bei etwa 12:10–12:30 sind im Untertiteltext die Smart-Meter-Quellen vertauscht. Die alleinige Verantwortung der Verteilnetzbetreiber fordert RWE/E.ON auf Seite 6; die künftige Verantwortung für den verpflichtenden Rollout beschreibt das BMWE auf Seite 5. Dieser Quellenfehler wird eigenständig erfasst. Er beseitigt die politische Ähnlichkeit nicht und wird nicht mehrfach als Gegenbeweis gegen andere Aussagen verrechnet.
+
+Die Kritik, viele Maßnahmen ließen sich in dieser Form nicht aus dem Monitoring ableiten, ist differenziert zu behandeln. Das Gutachten befürwortet Wettbewerb beim Messstellenbetrieb und nennt Bedingungen sowie Zielkonflikte. Zugleich enthält es selbst Direktvermarktung kleiner PV-Anlagen und alternative Vergütung auf Seiten 192 und 212 sowie gelockerte Wasserstoffkriterien auf Seiten 215–216. Eine diskutierte Option ist keine uneingeschränkte Umsetzungsempfehlung. Die Kritik an Auswahl und Ausgestaltung darf deshalb weder zur Behauptung völliger wissenschaftlicher Grundlagenlosigkeit verschärft noch wegen einzelner passender Optionen pauschal verworfen werden.
