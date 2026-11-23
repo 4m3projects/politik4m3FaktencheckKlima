@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "videoId": "nhkbLylbVg4",
+  "role": "original",
+  "channel": "Greenpeace Deutschland",
+  "title": "EXPOSED: Wie Katherina Reiche die Energiewende sabotiert",
+  "videoUrl": "https://www.youtube.com/watch?v=nhkbLylbVg4",
+  "publishedAt": "2025-12-17",
+  "durationSeconds": 896,
+  "workStatus": "Teilbestand geprüft",
+  "format": "video",
+  "identification": {
+    "basis": "YouTube-Metadaten, Beschreibung und vollständige deutsche Untertitel am 23.11.2026 direkt mit dem vorhandenen Importwerkzeug abgerufen; keine Medien. Laufzeit 14:56, Originalupload 17.12.2025.",
+    "certainty": "Belegt",
+    "checkedOn": "2026-11-23"
+  }
+}

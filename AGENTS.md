@@ -45,6 +45,18 @@ Diese Seite wurde aus dem Schwesterprojekt übernommen, aber ohne die Werkzeuge,
 
 ## Einzelvideo erfassen – ohne Mediendownload
 
+### vidIQ nur auf ausdrücklichen Wunsch (Regel von Jens, 23.11.2026)
+
+Das Abrufkontingent von vidIQ ist begrenzt. Deshalb **keine vidIQ-Werkzeuge, -API- oder -Connector-Aufrufe verwenden, sofern Jens bzw. die beauftragende Person die Nutzung von vidIQ für die konkrete Aufgabe nicht ausdrücklich verlangt hat**. Ein allgemeiner Auftrag zur Videoanalyse, Recherche oder Veröffentlichung ist keine solche Erlaubnis. Das gilt auch für Metadaten, Transkripte, Kommentare, Analysen und Kontostandsabfragen. Verfügbare andere Zugänge nutzen; vidIQ nicht automatisch als Ersatz bei einem fehlgeschlagenen Abruf aufrufen.
+
+### Transkript zuerst selbst abrufen, sonst gezielt erbitten (Regel von Jens, 23.11.2026)
+
+- **Zuerst eigenständig versuchen**, die öffentlich zugänglichen Untertitel bzw. das Transkript des beauftragten Videos zu holen. Dafür den unten beschriebenen Import oder einen anderen erlaubten Zugang ohne vidIQ nutzen; vorhandene Quellen und vom Auftraggeber bereits gelieferte Transkripte vorher prüfen.
+- Wenn kein ausreichendes Transkript zugänglich ist, den Auftraggeber ausdrücklich bitten, es aus YouTube zu kopieren und hier in den Chat einzufügen. Den gescheiterten Zugang kurz benennen; keine wiederholten erfolglosen oder kostenpflichtigen Abrufe statt dieser Rückfrage.
+- **Kurze Anleitung mitgeben:** YouTube-Video öffnen → unter der Videobeschreibung auf „Mehr“ klicken → „Transkript anzeigen“ wählen → den Text möglichst einschließlich Zeitstempeln markieren und kopieren → per Kopieren und Einfügen im Chat einsetzen. In der Desktop-Ansicht erscheint das Transkript normalerweise rechts neben dem Video; die Darstellung kann je nach Gerät abweichen. Lange Transkripte können in mehreren Teilen eingefügt werden.
+- Anschließend das bereitgestellte Transkript prüfen und seine Herkunft dokumentieren. Automatisch erzeugte Untertitel können Fehler enthalten; unklare Namen, Zahlen, Sprecherwechsel und entscheidende Zitate gesondert kontrollieren. Fehlende Zeitstempel nicht erfinden.
+- Bereits mögliche Quellenrecherche und die Dokumentation des Prüfauftrags fortsetzen. Ohne ausreichenden Videoinhalt keine Vollprüfung oder gesicherte Videoaussagen behaupten. Fremde Volltranskripte bleiben außerhalb des öffentlichen Repositorys.
+
 1. Eine einzelne HTTPS-Video-URL von YouTube akzeptieren; keine Kanäle oder Playlists ohne gesonderten Auftrag.
 2. Nutze `scripts/Import-YouTubeTranscript.ps1` mit yt-dlp. Es lädt ausschließlich Untertitel, Metadaten und Beschreibung in die externe private Ablage. Keine eigenen Scraper, keine Videos, kein Audio, keine Thumbnails.
 3. Das Skript findet vorhandene portable Tools aus dem benachbarten Downloadprojekt oder erhält `-YtDlpPath` und optional `-DenoPath`. Fehlende Werkzeuge außerhalb dieses Repositorys bereitstellen. Keine globalen PATH-/ExecutionPolicy-Änderungen.
