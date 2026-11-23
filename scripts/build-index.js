@@ -16,6 +16,7 @@ const fs = require('fs');
 const path = require('path');
 const FactRelations = require('../site/relations.js');
 const FactIndex = require('../site/faktenindex.js');
+const FactRhetoric = require('../site/rhetoric.js');
 
 const ROOT = path.resolve(__dirname, '..');
 const FC = path.join(ROOT, 'faktenchecks');
@@ -148,12 +149,16 @@ if (fs.existsSync(FC)) {
     errors.push(...FactRelations.validateVideoMeta(video, id));
     const claimsFile = path.join(dir, 'strukturiert', 'aussagen.json');
     const structured = fs.existsSync(claimsFile);
+    const data = structured ? readJson(claimsFile) : null;
     if (structured) {
-      const data = readJson(claimsFile);
       validateClaims(data, id);
       /* Faktenindex-Felder (claims[].factIndex), gemeinsame Regel docs/FAKTENINDEX.md */
       errors.push(...FactIndex.validateData(data).map(e => `aussagen.json (${id}): ${e}`));
       writeOrCheck(path.join(dir, 'strukturiert', 'statistik.json'), statistics(data));
+    }
+    const rhetoricFile = path.join(dir, 'rhetorik.json');
+    if (fs.existsSync(rhetoricFile)) {
+      errors.push(...FactRhetoric.validate(readJson(rhetoricFile), id, data));
     }
     const files = listFiles(dir).filter(f => f.endsWith('.md'));
     if (!files.includes('README.md')) errors.push(id + ': README.md fehlt.');

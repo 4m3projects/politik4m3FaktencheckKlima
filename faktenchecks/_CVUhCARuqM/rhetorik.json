@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "videoId": "_CVUhCARuqM",
+  "review": {
+    "status": "Teilweise geprüft",
+    "checkedOn": "2026-11-23",
+    "by": "Codex",
+    "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=_CVUhCARuqM; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+    "coverage": "Gesamter zugänglicher deutscher Lied-Untertiteltext, 00:00–00:47; vorhandene Grafikbefunde der Faktenprüfung nicht als neue Bildkontrolle ausgegeben.",
+    "limits": [
+      "Keine neue durchgehende Prüfung von Originalton, Schnitt, Mimik, Musik und Bildeinblendungen.",
+      "Untertitelzeiten sind ungefähre Fundstellen; unabhängige redaktionelle Bestätigung der KI-Vorschläge steht aus."
+    ],
+    "history": [
+      {
+        "date": "2026-11-23",
+        "by": "Codex",
+        "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+      }
+    ]
+  },
+  "annotations": [
+    {
+      "id": "_CVUhCARuqM-R0001",
+      "claimId": "_CVUhCARuqM-A0001",
+      "feature": "emotionalisierung",
+      "startSeconds": 0,
+      "endSeconds": 18,
+      "speaker": {
+        "id": "SP1",
+        "attribution": "Plausibel",
+        "basis": "Zuordnung aus Dialog-/Kommentarzusammenhang und vorhandenem Sprecherverzeichnis; keine neue eigenständige Stimmidentifikation."
+      },
+      "observation": "Der Liedtext verbindet die Rekordhöhe mit dem Aufbruch in eine neue Zeit der Windkraft.",
+      "reason": "Die Fortschrittsrahmung steigert die Bedeutung des einzelnen Projekts sprachlich.",
+      "context": "Ein Lied darf begeistern; diese Beobachtung ist kein Faktenfehler und sagt nichts über die musikalische Wirkung aus.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Untertitel können Erkennungsfehler enthalten. Tonfall, Mimik, Montage und weitere Bildeinblendungen sind in diesem Durchgang nicht durchgehend geprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=_CVUhCARuqM; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+        }
+      ]
+    },
+    {
+      "id": "_CVUhCARuqM-R0002",
+      "claimId": "_CVUhCARuqM-A0011",
+      "feature": "gegenposition",
+      "startSeconds": 34,
+      "endSeconds": 47,
+      "speaker": {
+        "id": "SP1",
+        "attribution": "Plausibel",
+        "basis": "Zuordnung aus Dialog-/Kommentarzusammenhang und vorhandenem Sprecherverzeichnis; keine neue eigenständige Stimmidentifikation."
+      },
+      "observation": "Der Schluss stellt die tatsächlichen Ergebnisse im Dauerbetrieb über den bloßen Höhenrekord.",
+      "reason": "Der Text begrenzt die zuvor formulierte Begeisterung durch eine noch ausstehende Bewährung.",
+      "context": "Die Einschränkung steht im Text selbst; weitere Inhalte eingeblendeter Grafiken wurden in diesem Durchgang nicht nachgeprüft.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Untertitel können Erkennungsfehler enthalten. Tonfall, Mimik, Montage und weitere Bildeinblendungen sind in diesem Durchgang nicht durchgehend geprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Eigene sprachliche Nachprüfung am 23.11.2026 anhand zugänglicher Originaluntertitel von https://www.youtube.com/watch?v=_CVUhCARuqM; Abgleich mit Sprecherverzeichnis und Aussagenbestand. Keine neue durchgehende Bild-/Tonkontrolle.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Darstellung anhand der angegebenen Untertitelstellen erstmals eigenständig eingeordnet; Befunde als KI-Vorschläge, audiovisuelle Grenzen offengelegt."
+        }
+      ]
+    }
+  ]
+}

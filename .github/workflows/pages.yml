@@ -40,6 +40,8 @@ jobs:
           node scripts/faktenindex.js pruefen
       - name: Faktencheck-Daten prüfen
         run: node scripts/build-index.js --check
+      - name: Darstellung prüfen (getrennt von Faktenbewertungen)
+        run: node --test site/rhetoric-test.js
       - name: Verlauf prüfen (aus der Git-Historie berechnet)
         run: node --test site/verlauf-test.js
 

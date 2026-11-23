@@ -94,6 +94,11 @@
       "date": "2026-11-22",
       "agent": "Codex",
       "change": "Erklärung der grauen Ampel bei abgeschlossener Prüfung ergänzt; Aussagen und Themen unverändert. Gas- und Windkraftbezug der vorhandenen Zuordnung erneut geprüft, keine zusätzliche öffentliche Kategorie."
+    },
+    {
+      "date": "2026-11-23",
+      "agent": "Codex",
+      "change": "Themen bei Ergänzung der Darstellung geprüft: Hinweise betreffen die bereits zugeordneten Sachthemen; keine neuen Tatsachenbehauptungen oder Themen erforderlich."
     }
   ]
 }
