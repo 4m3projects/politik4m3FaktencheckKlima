@@ -37,7 +37,7 @@ Die Gegenprüfung kontrollierte insbesondere, ob der tatsächlich gesprochene Sa
 - **Monitoringbericht:** Kritik an Auswahl und Ausgestaltung ist von der stärkeren Behauptung vollständiger fachlicher Grundlagenlosigkeit zu unterscheiden. Im Bericht genannte Optionen sind ihrerseits keine uneingeschränkten Umsetzungsempfehlungen.
 - **Quellenvergleich:** Die vertauschten Smart-Meter-Zitate wurden direkt gegen die beiden Originalpapiere geprüft. Der Fehler hebt ihre tatsächliche politische Ähnlichkeit nicht auf.
 
-Offene historische und wirtschaftliche Angaben behalten ihren Bearbeitungsstatus. Eine nicht vollständig aufgeklärte Quelle oder ein möglicher Interessenkonflikt wird nicht als Nachweis eines verborgenen Motivs oder eines Rechtsverstoßes behandelt. Politische Wertungen und Wirkungsprognosen bleiben als solche erkennbar.
+Die zunächst offenen historischen und wirtschaftlichen Angaben wurden in der dokumentierten Nachprüfung mit neuen Originalbelegen eingeordnet; verbleibende Forschungsfragen stehen weiterhin beim jeweiligen Befund. Eine nicht vollständig aufgeklärte Quelle oder ein möglicher Interessenkonflikt wird nicht als Nachweis eines verborgenen Motivs oder eines Rechtsverstoßes behandelt. Politische Wertungen und Wirkungsprognosen bleiben als solche erkennbar.
 
 ## Zugriffsgrenzen und Dokumentversionen
 
@@ -56,3 +56,13 @@ Die Bedeutung der Aussagen wird anhand ihrer Rolle in der Argumentation beurteil
 Faktenindex, Ampel und Prüfabdeckung werden ausschließlich durch die gemeinsamen Projektmodule berechnet. Dieses Protokoll speichert weder einen Indexwert noch eine Zielampel oder veränderliche Ergebniszählungen. Die Abdeckung betrifft den erfassten Aussagenbestand, nicht vollständig audiovisuell geprüfte Sekunden. Darstellungsbeobachtungen bleiben eigenständige KI-Vorschläge ohne Faktenpunkte.
 
 Die technischen Prüfungen gehören zur abschließenden Repository-Integration. Tatsächlich ausgeführte Kommandos, Ergebnisse und etwaige verbleibende Einschränkungen werden im zugehörigen Pull Request dokumentiert. Dieses Protokoll ersetzt keinen Testnachweis.
+
+## Nachprüfung nach dem ersten Live-Stand
+
+Auf den ausdrücklichen Fortsetzungs- und Veröffentlichungsauftrag wurden die offenen Punkte über getrennte Recherchewege vertieft. Die [Nachprüfung](06_nachpruefung.md) dokumentiert Quellen, konkrete Rechenschritte und enger gefasste Anschlussfragen. A0008, A0010, A0011 und A0012 erhalten ihre erste abschließende Einordnung; es wird kein vorheriges abgeschlossenes Faktenurteil geändert. Bei A0034 werden Quellen und Begründung ergänzt, das Urteil bleibt gleich.
+
+Die VKU-Begrenzungsforderung und das behauptete Gewinnmotiv wurden getrennt beurteilt. Ein unabhängiger Agent bestätigte die eigenen Anteile 0,5/0/0,5 und den unveränderten Faktor 1,5; der Verlauf steht in den strukturierten Daten. Beim BDEW-Mandat wurde eine zunächst erwogene Teilbewertung nach genauer Wortlautprüfung verworfen: Die Aussage bezeichnet den Verband, ohne ein gesondertes Bundesvorstandsmandat eindeutig zu beanspruchen. Die bestätigte NRW-Funktion wird deshalb als belegt mit Präzisierung geführt.
+
+Die Hauptrecherche kontrollierte die Westnetz-Tabellen visuell und wiederholte den BNetzA-Vergleich unabhängig. Zwei Zeilen mit fehlenden Feldern wurden dabei aus der vierteiligen Summenrechnung ausgeschlossen, statt Leerfelder als Null zu behandeln. Der höchste Wert bleibt Westnetz; die veröffentlichte Auswertung nennt korrekt 196 vollständige Datensätze aus insgesamt 198 Firmenzeilen. Der Hinweis Stand 19. Januar 2026 wird als Dateifassung beschrieben, nicht als bewiesenes Datum der erstmaligen Veröffentlichung.
+
+Ein zusätzlicher Versuch der Bildprüfung über den Browser blieb technisch erfolglos: Die Originalseite war erreichbar und zeigte die Untertitel bei 12:10, das Videobild blieb auch nach einmaligem Neuladen im Ladezustand. Es wurde weder eine Anmeldung noch eine Zugangsumgehung versucht. Dieser Versuch bestätigt keine sichtbaren Zitattafeln und ersetzt keinen Tonabgleich. Die A/V-Aufträge bleiben offen; es wird keine weitere Transkriptlieferung verlangt, da die Untertitel bereits vorliegen.

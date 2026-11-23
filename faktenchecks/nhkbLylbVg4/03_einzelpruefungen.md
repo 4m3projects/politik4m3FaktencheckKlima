@@ -1,10 +1,10 @@
 # Greenpeace zu Katherina Reiche – Einzelprüfungen
 
-Prüfstand: 23.11.2026. Originalvideo: 17.12.2025, 14:56. Maßgeblich sind die strukturierten Daten; dieser Bericht gibt den aktuellen Erststand wieder.
+Prüfstand: 23.11.2026. Originalvideo: 17.12.2025, 14:56. Maßgeblich sind die strukturierten Daten; dieser Bericht gibt den aktuellen Stand einschließlich der Nachprüfung wieder.
 
 Alle verfügbaren deutschen Untertitel von 00:00 bis zum Schluss wurden gelesen. Sachbehauptungen, politische Wertungen und zugeschriebene Reiche-Zitate werden getrennt erfasst; Wiederholungen sind zusammengeführt. Die berechnete Abdeckung bezieht sich auf diesen Aussagenbestand, nicht auf audiovisuell geprüfte Sekunden oder eine garantierte Erfassung jeder Bildeinblendung.
 
-Originalvideo vom 17.12.2025; geprüft am 23.11.2026 mit Blick auf die zum Videodatum belegbare Lage. Direkter Metadaten-/Untertitelabruf ohne vidIQ und ohne Medien. Keine vollständige Kontrolle von Originalton, Zitattafeln, Grafiken, Musik oder Schnitt. Datierungs- und Zuordnungsbefunde beziehen sich bis zum A/V-Abgleich auf die abgerufenen Untertitel. Später abrufbare Quellen wurden auf historischen Aussagebezug geprüft; aktuelle Dateien beweisen nicht automatisch historischen Versionsstand.
+Originalvideo vom 17.12.2025; geprüft am 23.11.2026 mit Blick auf die zum Videodatum belegbare Lage. Direkter Metadaten-/Untertitelabruf ohne vidIQ und ohne Medien. Keine vollständige Kontrolle von Originalton, Zitattafeln, Grafiken, Musik oder Schnitt. Datierungs- und Zuordnungsbefunde beziehen sich bis zum A/V-Abgleich auf die abgerufenen Untertitel. Später abrufbare Quellen wurden auf historischen Aussagebezug geprüft; aktuelle Dateien beweisen nicht automatisch historischen Versionsstand. Nachprüfung: konkrete VKU-Begrenzungsforderung, historisches NRW-BDEW-Mandat, Strom-Größenvergleich und Gas-Tätigkeitsergebnisse ergänzt; ursprüngliche offene Sachangaben jetzt mit ausdrücklich begrenzten Ergebnissen eingeordnet. Der direkte Browserversuch am 23.11.2026 blieb trotz einmaligem Neuladen bei 12:10 ohne laufendes Videobild; keine zusätzliche A/V-Prüfung behauptet.
 
 ## nhkbLylbVg4-A0001 · 00:00
 
@@ -94,17 +94,19 @@ Quellen: [S006](04_quellen.md#s006).
 
 ## nhkbLylbVg4-A0008 · 01:14
 
-**In Bearbeitung · Tatsachenbehauptung**
+**Teilweise belegt · Tatsachenbehauptung**
 
 Reiche arbeitete im VKU gegen den schnellen Windenergieausbau, weil Stadtwerke mit ihren neuen Gaskraftwerken länger Gewinne erzielen sollten.
 
-Für eine konkrete VKU-Intervention Reiches gegen schnellen Windausbau ist bislang kein unmittelbar tragfähiger Primärbeleg gefunden. Das Interview von 2015 belegt das Eintreten für Gaskraftwerke und die Sorge um Stadtwerke-Finanzen, aber nicht diese Kausalkette. Dem pauschalen Bild steht eine gemeinsame Mitteilung von IKEM, VKU und enercity vom 4. September 2019 gegenüber: Reiche fordert dort verbindliche Flächenziele und schnellere Genehmigungen für mehr Windenergie. Das widerlegt nicht jede mögliche frühere Einzelposition. Zudem führt eine längere Kraftwerkslaufzeit nur bei hinreichend positiven Deckungsbeiträgen zu mehr Gewinn; Laufzeit allein ist kein Gewinnmaß.
+Der VKU schlug am 28. April 2016 jährlich 2.000 MW netto für Windkraft-Ausschreibungen gegenüber dem bisherigen 2.500-MW-Ausbaupfad vor und befürwortete bei Überschreiten des Gesamtkorridors eine Drosselung. Bei Beibehaltung der staatlichen Windformel verlangte er 2.000 MW alternativ als Mindestmenge; die Zahl ist daher nicht isoliert als unbedingter Höchstdeckel zu lesen. Im FR-Originalinterview vertritt Reiche persönlich diesen begrenzten Korridor und beschreibt separat wirtschaftliche Nachteile des schnellen Erneuerbaren-Ausbaus für Gaskraftwerke. Der Handlungskern ist damit belegt, die behauptete konkrete Gewinnabsicht nicht: Das VKU-Papier nennt Netzplanung, Kosten und Berechenbarkeit als Gründe. Am 4. September 2019 forderte Reiche ausdrücklich schnelleren Windausbau; das widerlegt die frühere Begrenzungsposition nicht, begrenzt aber eine pauschale Darstellung ihrer gesamten VKU-Zeit.
 
 Fundstellen: 01:14–01:29.
 
-Quellen: [S006](04_quellen.md#s006); [S007](04_quellen.md#s007).
+Quellen: [S006](04_quellen.md#s006); [S007](04_quellen.md#s007); [S064](04_quellen.md#s064); [S065](04_quellen.md#s065).
 
-Noch zu klären: Welche konkrete Äußerung oder Intervention gegen schnellen Windausbau meint Greenpeace? Lässt sich die behauptete Gewinnabsicht durch Äußerungen oder Dokumente belegen? Welche Stadtwerke, Investitionen und Zeiträume sind gemeint?
+Noch zu klären: Gibt es einen Originalbeleg, der die Wind-Begrenzungsforderung ausdrücklich mit länger erzielbaren Gewinnen konkreter kommunaler Gaskraftwerke begründet? Welche Stadtwerke, Investitionen und Zeiträume sind mit der behaupteten Gewinnabsicht gemeint?
+
+Die eigenständige Gegenprüfung bestätigt die Trennung von belegtem Handlungsteil und ungeklärtem Motiv (Anteile 0,5/0/0,5); der Bedeutungsfaktor 1,5 bleibt unverändert.
 
 ## nhkbLylbVg4-A0009 · 01:30
 
@@ -120,45 +122,45 @@ Quellen: [S003](04_quellen.md#s003); [S008](04_quellen.md#s008); [S009](04_quell
 
 ## nhkbLylbVg4-A0010 · 01:36
 
-**In Bearbeitung · Tatsachenbehauptung**
+**Teilweise belegt · Tatsachenbehauptung**
 
 Westenergie ist Deutschlands größter regionaler Betreiber von Gas-, Strom- und Wassernetzen.
 
-Das zeitgenössische Unternehmenspapier bezeichnet Westenergie als größten regionalen Energie- und Infrastrukturdienstleister und nennt Strom, Gas und Wasser. Diese Selbstbeschreibung belegt nicht unabhängig den im Video verwendeten Betreiber-Superlativ. Für einen abschließenden Vergleich fehlen Stichtag, Abgrenzung und Größenmaß, etwa Netzlänge, angeschlossene Kunden oder Umsatz. Die belegte CEO-Tätigkeit und E.ON-Zugehörigkeit werden davon getrennt bewertet.
+Die zeitgenössische Unternehmensselbstbeschreibung nennt Westenergie den größten regionalen Energie- und Infrastrukturdienstleister. Für das Stromnetzgeschäft gibt es nun einen unabhängig nachgerechneten Teilbeleg: Die Tochter Westnetz lag 2024 mit 3.951.295 angeschlossenen Letztverbrauchern vorn, wenn die vier veröffentlichten Spannungsebenen im BNetzA-Datensatz addiert werden. Vergleichbar sind 196 vollständig numerische Betreiberzeilen; bei zwei weiteren fehlen Teilfelder, die nicht als Null behandelt wurden. Die Dateifassung vom 19. Januar 2026 bestätigt rückblickend historische Stromdaten und war in dieser Fassung nach dem Videodatum. Ein gemeinsamer Größenrang für Gas-, Strom- und Wassernetze oder die gesamte Westenergie-Gruppe folgt daraus nicht; dafür fehlen Unternehmensabgrenzung und Größenmaß. Die Videoformulierung wird nicht in drei getrennte Spitzenplatzbehauptungen pro Sparte umgedeutet.
 
 Fundstellen: 01:36–01:45.
 
-Quellen: [S003](04_quellen.md#s003); [S008](04_quellen.md#s008); [S009](04_quellen.md#s009).
+Quellen: [S003](04_quellen.md#s003); [S008](04_quellen.md#s008); [S009](04_quellen.md#s009); [S071](04_quellen.md#s071); [S072](04_quellen.md#s072).
 
-Noch zu klären: Nach welcher Kennzahl und zu welchem Stichtag gilt der Betreiber-Superlativ? Einen vergleichbaren Primärdatensatz oder eine zeitgenössische Erläuterung finden.
+Noch zu klären: Welches Größenmaß meint der spartenübergreifende Superlativ? Welche Unternehmensgrenze ist gemeint: Westenergie-Gruppe, AG oder Westnetz?
 
 ## nhkbLylbVg4-A0011 · 01:41
 
-**In Bearbeitung · Tatsachenbehauptung**
+**Nicht ausreichend belegbar · Tatsachenbehauptung**
 
 Westenergie macht Milliardengewinne mit der Nutzung fossiler Infrastruktur.
 
-Westenergie ist ein diversifiziertes Unternehmen mit Strom-, Gas-, Wasser- und weiteren Infrastrukturaktivitäten. Der Jahresabschluss der Westenergie AG 2024 weist ein Ergebnis vor Gewinnabführung von 901,3 Millionen Euro aus, wesentlich geprägt durch Beteiligungserträge; der Vorjahreswert beträgt 572,2 Millionen Euro. Aus diesen AG-Gesamtwerten lässt sich kein fossiler Gewinnanteil ableiten. Das Video nennt weder Bezugszeitraum noch Unternehmensabgrenzung oder Ergebniskennzahl. Mehrjährige Milliardengewinne lassen sich mit einem einzelnen Jahreswert auch nicht widerlegen. Es fehlt eine Rechnung, die den Betrag fossiler Infrastruktur zuordnet.
+Die Westnetz-Tätigkeitsabschlüsse weisen für Gasverteilung ein Ergebnis nach Steuern von −7,9 Millionen Euro 2022, 45,5 Millionen 2023 und 62,4 Millionen 2024 aus; die eigene Summe der veröffentlichten gerundeten Werte beträgt 100,0 Millionen Euro. Das belegt konkrete Gasnetzgewinne in zwei Jahren, keinen Milliardenbetrag. Das Westenergie-AG-Gesamtergebnis und das E.ON-Netz-EBITDA betreffen andere Abgrenzungen und umfassen weitere Tätigkeiten; Gasumsatz ist ebenfalls kein Gewinn. Konzerninterne Gewinnabführungen dürfen nicht mehrfach gezählt werden. Nach Prüfung von Tätigkeitsabschlüssen und Konzernberichterstattung bleiben der gemeinte Zeitraum, die Unternehmensgrenze und Ergebnisdefinition unklar. Die geprüften drei Jahre einer Tochter bestätigen den behaupteten fossilen Milliardenbetrag nicht, widerlegen aber auch keine mögliche längere oder anders konsolidierte Gruppensumme. Für 2020/2021 wurde kein frei zugänglicher Original-Tätigkeitsabschluss erschlossen; eine vollständige Fünfjahresprüfung wird nicht behauptet.
 
 Fundstellen: 01:41–01:51.
 
-Quellen: [S009](04_quellen.md#s009); [S008](04_quellen.md#s008).
+Quellen: [S009](04_quellen.md#s009); [S008](04_quellen.md#s008); [S069](04_quellen.md#s069); [S070](04_quellen.md#s070); [S073](04_quellen.md#s073).
 
-Noch zu klären: Bezieht sich 'Milliarden' auf ein Jahr, mehrere Jahre oder einen Konzernwert? Welche Ergebniskennzahl und Unternehmensabgrenzung verwendet Greenpeace? Welcher Teil stammt tatsächlich aus Gas- beziehungsweise anderer fossiler Infrastruktur?
+Noch zu klären: Welchen Zeitraum und welche Kennzahl meinte Greenpeace mit Milliardengewinnen? Welche Westenergie-Beteiligungen sind in der behaupteten fossilen Summe enthalten und wie werden konzerninterne Gewinnabführungen eliminiert? Original-Tätigkeitsabschlüsse 2020/2021 und gegebenenfalls weitere Beteiligungen erschließen; fehlende Werte nicht hochrechnen.
 
 ## nhkbLylbVg4-A0012 · 01:52
 
-**In Bearbeitung · Tatsachenbehauptung**
+**Belegt · Tatsachenbehauptung**
 
 Parallel war Reiche im Vorstand des Bundesverbands der Energie- und Wasserwirtschaft.
 
-Eine historische Sekundärquelle nennt Reiche als Mitglied des Vorstands der BDEW-Landesgruppe Nordrhein-Westfalen. Dies ist nicht identisch mit dem Bundesvorstand. Die aktuell erreichbare Originalseite betrifft ebenfalls die NRW-Landesgruppe, trägt aber einen Stand nach Veröffentlichung des Videos und belegt ihre damalige Mitgliedschaft nicht mehr. Für ein endgültiges Urteil fehlt eine historische Originalmitteilung oder Vorstandsliste. Die Bezeichnung als Deutschlands 'mächtigste Energielobby' ist eine politische Bewertung ohne ausgewiesenen Vergleichsmaßstab.
+Reiche wurde in den Vorstand der BDEW-Landesgruppe Nordrhein-Westfalen gewählt. Der wiedergewählte Landesvorsitzende Sven Becker nennt sie in seinem Originalbeitrag unter den Gewählten. Die institutionelle BDEW-Mitteilung vom 2. Februar 2024 belegt die Wahl am Vortag für eine regulär zweijährige Wahlperiode. Das fällt in Reiches Tätigkeit als Westenergie-Vorstandsvorsitzende. Der überprüfte Wortlaut nennt den ausgeschriebenen Verbandsnamen, ohne ausdrücklich ein gesondertes Bundesvorstandsmandat zu behaupten; der belegte Netzwerkbezug wird deshalb mit der Präzisierung NRW als belegt bewertet. Weder eine zusätzliche Mitgliedschaft im Bundesvorstand noch eine lückenlose persönliche Amtszeit bis 2026 wird daraus abgeleitet. Die Bezeichnung als mächtigste Energielobby ist eine politische Bewertung, kein geprüfter Größenvergleich.
 
 Fundstellen: 01:52–02:03.
 
-Quellen: [S010](04_quellen.md#s010); [S011](04_quellen.md#s011).
+Quellen: [S010](04_quellen.md#s010); [S011](04_quellen.md#s011); [S066](04_quellen.md#s066); [S067](04_quellen.md#s067); [S068](04_quellen.md#s068).
 
-Noch zu klären: Historische BDEW-Originalquelle für Reiches Mitgliedschaft und das genaue Gremium beschaffen. Klärt Greenpeace im Bild die Ebene Landesgruppe NRW oder Bundesvorstand?
+Noch zu klären: Bei der späteren Bildprüfung kontrollieren, ob die Einblendung über die allgemein gehaltene Formulierung hinaus eine bestimmte Vorstandsebene beansprucht.
 
 ## nhkbLylbVg4-A0013 · 01:57
 
@@ -420,13 +422,13 @@ Quellen: [S035](04_quellen.md#s035).
 
 Neue Gaskraftwerke sollen mit Milliarden aus der Staatskasse unterstützt werden.
 
-Öffentliche Förderung neuer Kraftwerke war geplant; dafür war auch ein Haushaltstitel angelegt. Die Bundesregierung konnte im November 2025 aber noch keine verlässlichen Angaben zu Gesamtkosten und Finanzierung machen. Belegt ist damit das Fördervorhaben einschließlich eines Haushaltsbezugs. Die konkrete Milliardenhöhe und der endgültige Finanzierungsmix sind mit den geprüften Angaben nicht abschließend nachgewiesen. Das Video formuliert eine Absicht; fehlende endgültige Beschlüsse widerlegen diese Absicht nicht.
+Öffentliche Förderung neuer Kraftwerke war geplant; der Haushaltsentwurf 2026 führt dafür Titel 6092/893 12 mit 250.000 Euro, ohne eigene Verpflichtungsermächtigung. Die November-Beschlussempfehlung und der spätere finale Plan ergeben keinen höheren Titelbetrag. Dieser Jahresansatz umfasst auch Umsetzungskosten und ist kein Maß für sämtliche späteren Förderkosten. Eine FÖS-Analyse im Auftrag des BUND vom April 2025 modellierte 22,2–32,4 Milliarden Euro Gesamtförderkosten für die damalige 20-GW-Erweiterung einschließlich weiterer Förderelemente. Die Rechnung nutzt ältere BMWK-Annahmen und lässt den Finanzierungsweg ausdrücklich offen, auch eine Stromumlage wird betrachtet. Damit ist eine zeitgenössisch modellierte Milliarden-Größenordnung belegt, aber weder ein amtlicher Kostenansatz des später veränderten Plans noch eine konkrete Milliardenfinanzierung aus der Staatskasse. Die Bundesregierung konnte im November 2025 verlässliche Kosten- und Finanzierungsangaben noch nicht machen. Das Video formuliert eine Absicht; fehlende endgültige Beschlüsse widerlegen diese nicht.
 
 Fundstellen: 06:22–06:34, 10:43–10:54.
 
-Quellen: [S036](04_quellen.md#s036); [S037](04_quellen.md#s037); [S038](04_quellen.md#s038).
+Quellen: [S036](04_quellen.md#s036); [S037](04_quellen.md#s037); [S038](04_quellen.md#s038); [S074](04_quellen.md#s074); [S075](04_quellen.md#s075); [S076](04_quellen.md#s076); [S077](04_quellen.md#s077).
 
-Noch zu klären: Zeitgenössische Kostenansätze und Finanzierung der Kraftwerksförderung bis 17.12.2025 weiter präzisieren; Absicht, Haushaltsansatz und endgültige Zusage auseinanderhalten.
+Noch zu klären: Welche bis 17.12.2025 veröffentlichte amtliche Kalkulation ordnet Milliardenkosten des konkret veränderten Kraftwerksplans eindeutig dem Staatshaushalt zu? Szenarien, Jahresansatz, Finanzierung und verbindliche Zusage getrennt halten.
 
 ## nhkbLylbVg4-A0035 · 06:29
 

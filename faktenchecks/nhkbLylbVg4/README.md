@@ -6,19 +6,22 @@ Der Beitrag verbindet gut belegte Angaben zu Reiches beruflichen Stationen, wirt
 
 Konkrete Fehler betreffen insbesondere die Datierung zweier historischer Aussagen und die Quellenzuordnung zweier Smart-Meter-Zitate im abgerufenen Untertiteltext. Andere Passagen benötigen genauere Abgrenzungen, etwa bei Erzeugungs- und Systemkosten, Netzqualität oder der Ableitung politischer Maßnahmen aus dem Monitoringbericht. Das widerlegt nicht pauschal die Kritik an Reiches Politik.
 
+Die Nachprüfung ergänzt konkrete Belege zur früheren Windpolitik, zum BDEW-Mandat, zum Stromnetz-Größenrang und zu den veröffentlichten Gas-Tätigkeitsergebnissen. Die Milliardenhöhe geplanter Kraftwerksförderung wird zusätzlich anhand einer zeitgenössischen Szenariorechnung eingeordnet.
+
 ## Video und Prüfung
 
 - [Originalvideo](https://www.youtube.com/watch?v=nhkbLylbVg4)
 - [Einzelbewertungen im Portal](https://4m3projects.github.io/politik4m3FaktencheckKlima/#/video/nhkbLylbVg4)
 - [Video mit synchronisierten Bewertungen](https://4m3projects.github.io/politik4m3FaktencheckKlima/#/video/nhkbLylbVg4/video)
 - [Ausführliche Analyse](02_analyse.md), [alle Einzelprüfungen](03_einzelpruefungen.md), [Quellen und Zugriffsgrundlage](04_quellen.md)
+- [Nachprüfung und reproduzierbare Berechnungen](06_nachpruefung.md)
 - [Offene Prüfaufträge](PRUEFAUFTRAG.md), [Folgeauftrag #50](https://github.com/4m3projects/politik4m3FaktencheckKlima/issues/50), [Methodik und Gegenprüfung](05_pruefprotokoll.md)
 
 ## Zentrale Ergebnisse
 
 | Passage | Ergebnis | Wesentliche Grundlage |
 | --- | --- | --- |
-| Berufliche Stationen, 01:02–02:03 | Bundestag, VKU, Westenergie und Wasserstoffrat sind dokumentiert; das genaue historische BDEW-Gremium bleibt offen. | [Amtlicher Lebenslauf](https://www.bundesregierung.de/breg-de/bundesregierung/bundeskabinett/katherina-reiche-2342740) |
+| Berufliche Stationen, 01:02–02:03 | Bundestag, VKU, Westenergie und Wasserstoffrat sind dokumentiert; zusätzlich ist die Wahl in den BDEW-Landesvorstand NRW 2024 belegt. | [Amtlicher Lebenslauf](https://www.bundesregierung.de/breg-de/bundesregierung/bundeskabinett/katherina-reiche-2342740), [namentlicher BDEW-Beleg](04_quellen.md#s066) und [Wahlmitteilung](04_quellen.md#s067) |
 | Grimm, 02:05–02:54 | Beraterkreis, Siemens-Energy-Mandat und Grundvergütung sind belegt; ein diskutierter Interessenkonflikt beweist keinen Rechtsverstoß. | [HHU](https://www.hhu.de/news/justus-haucap-wird-berater-von-wirtschaftsministerin-katherina-reiche), Original-Vergütungsbericht in den Einzelquellen |
 | Jahresangaben, 00:15 und 03:35 | Das Intro war spätestens 2009 veröffentlicht; die Kerntechnik-Rede stammt von 2005. Aussagen und Sprecherin werden dadurch nicht widerlegt. | [CDU-Original](https://www.youtube.com/watch?v=2YPiGZ7qedw), [Bundestagsprotokoll](https://dserver.bundestag.de/btp/15/15151.pdf) |
 | Gasentlastung, 05:05–05:40 | KTF-Finanzierung und Förderung fossilen Verbrauchs sind real; die Preisentlastung ist an Gaskunden weiterzugeben. | [Bundestagsbeschluss](https://www.bundestag.de/dokumente/textarchiv/2025/kw45-de-energiewirtschaftsgesetz-1116750) |
@@ -33,6 +36,6 @@ Die vollständigen deutschen Untertitel wurden selbstständig direkt von YouTube
 
 Untertitel enthalten Erkennungsfehler. Namen, Zahlen, Datierungen und Zitate wurden deshalb mit Originaldokumenten beziehungsweise den Untertiteln verlinkter Originalaufzeichnungen abgeglichen. Eine vollständige Kontrolle von Originalton, sichtbaren Zitaten, Grafiken, Musik und Schnitt steht aus. Zeitmarken sind ungefähr. Gerade die Datierungs- und Quellenzuordnungsfehler bleiben vor einem vollständigen audiovisuellen Urteil an diese Prüfgrundlage gebunden.
 
-Vier historische beziehungsweise wirtschaftliche Angaben sind noch in Bearbeitung; weitere Detailfragen stehen bei den jeweiligen Befunden. Offene Recherche wird nicht als Widerlegung behandelt. Politische Meinungen, Prognosen und distanziert wiedergegebene Reiche-Zitate werden getrennt geführt.
+Die vier zuvor offenen historischen beziehungsweise wirtschaftlichen Angaben sind nach zusätzlichen Originalquellen eingeordnet: BDEW-Mandat belegt, VKU-Windforderung und Betreiber-Größenrang teilweise belegt, fossile Milliardengewinne nicht ausreichend belegbar. Fortsetzungsfragen stehen bei den Befunden; ein ungeklärter Milliardenbetrag wird nicht als widerlegt behandelt. Politische Meinungen, Prognosen und distanziert wiedergegebene Reiche-Zitate werden getrennt geführt.
 
 Faktenindex, Ampel und Prüfabdeckung entstehen ausschließlich aus den gemeinsamen Projektmodulen. Die Abdeckung beschreibt den erfassten Aussagenbestand, nicht vollständig geprüfte Videosekunden. Wiederholungen werden zusammengeführt. Die beiden falschen Jahresangaben erhalten wegen ihrer geringen Bedeutung für die Hauptthese nur geringes Gewicht. Darstellungsbeobachtungen bleiben separate KI-Vorschläge ohne Faktenpunkte.

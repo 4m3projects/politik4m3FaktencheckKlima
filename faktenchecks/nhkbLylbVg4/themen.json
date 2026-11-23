@@ -78,12 +78,12 @@
     {
       "topic": "energie/windkraft",
       "relevance": "Behandelt",
-      "basis": "Behaupteter früherer Widerstand gegen schnelleren Ausbau; zusätzlich heutige Ausbaupfade.",
+      "basis": "Frühere Forderung nach begrenztem Ausbaukorridor und ihr behauptetes wirtschaftliches Motiv; zusätzlich spätere Ausbaupfade.",
       "segments": [
         {
           "startSeconds": 74,
           "endSeconds": 89,
-          "note": "Behaupteter früherer Widerstand gegen schnelleren Ausbau; zusätzlich heutige Ausbaupfade."
+          "note": "Frühere Forderung nach begrenztem Ausbaukorridor und ihr behauptetes wirtschaftliches Motiv; zusätzlich spätere Ausbaupfade."
         },
         {
           "startSeconds": 681,
@@ -556,6 +556,11 @@
       "date": "2026-11-23",
       "agent": "Kai",
       "change": "Erstzuordnung des Greenpeace-Videos nach vollständiger Untertitellektüre und Sachprüfung."
+    },
+    {
+      "date": "2026-11-23",
+      "agent": "Kai",
+      "change": "Nachprüfung A0008/A0010/A0011/A0012 mit bestehenden Themen abgeglichen; Windkraft-Begründung an den nun belegten Begrenzungsvorschlag angepasst. Keine neue Kategorie und keine Themenänderung an anderen Videos erforderlich."
     }
   ]
 }
