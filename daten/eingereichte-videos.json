@@ -11,16 +11,6 @@
       "status": "Eingereicht – Inhaltsprüfung ausstehend",
       "statusNote": "Die Video-URL wurde vom Auftraggeber eingereicht. Titel, Kanal, Laufzeit und gesprochene Aussagen konnten noch nicht unabhängig abgerufen werden. Es gibt daher keine Aussagenbewertung und keine Faktenampel.",
       "issueUrl": "https://github.com/4m3projects/politik4m3FaktencheckKlima/issues/41"
-    },
-    {
-      "id": "sp5TM1dh4Og",
-      "videoUrl": "https://www.youtube.com/watch?v=sp5TM1dh4Og",
-      "title": "Eingereichter Klima-Podcast sp5TM1dh4Og",
-      "titleStatus": "Vorläufiger Einreichungstitel – Originaltitel und Kanal noch nicht unabhängig verifiziert",
-      "submittedOn": "2026-11-24",
-      "status": "Eingereicht – Inhaltsprüfung ausstehend",
-      "statusNote": "Der Podcast wurde für den Klima- und Energie-Faktencheck eingereicht. Originalmetadaten und Transkript waren beim ersten Zugriff nicht zuverlässig abrufbar. Deshalb gibt es noch keine überprüften Einzelbehauptungen, keinen Faktenindex und keine Ampel.",
-      "issueUrl": "https://github.com/4m3projects/politik4m3FaktencheckKlima/issues/57"
     }
   ]
 }

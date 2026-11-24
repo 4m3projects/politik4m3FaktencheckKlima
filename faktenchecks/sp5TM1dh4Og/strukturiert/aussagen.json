@@ -1,0 +1,3752 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "videoId": "sp5TM1dh4Og",
+    "videoUrl": "https://www.youtube.com/watch?v=sp5TM1dh4Og",
+    "kind": "Vollständige Nutzertranskript-Lektüre und breit angelegte quellengestützte Sachanalyse (kein vollständiger Bild-/Tonabgleich)",
+    "asOf": "2026-11-24",
+    "durationSeconds": 4097,
+    "coverageNote": "Alle gelieferten Textabschnitte 00:00 bis 01:08:04 gelesen; Videolaufzeit 68:17 nach Podcastverzeichnis. Automatische Wortfehler, Sprecherwechsel und exakte Zeitgrenzen sind nicht durch Hörprüfung bestätigt. 56 wichtige Einzelpositionen erfasst, jedoch keine Gewähr, dass visuelle Einblendungen/Äußerungen außerhalb der Textspur erfasst sind. Berechnete Abdeckung bezieht sich ausschließlich auf inventarisierte Tatsachenaussagen.",
+    "researchNote": "Webbasierte Prüfung mit öffentlich zugänglichen Quellen von IPCC, UN, UNFCCC, BVerfG, IEA, IRENA, Destatis, UBA, EU und Fachmedien. Vorläufige Bedeutung, kein zweiter Agentenreview. Kontextpolitische Aussagen, Gegenpositionen und unklare Zahlen nicht ohne Beweise falsch bewertet. vidIQ wurde nicht benutzt."
+  },
+  "speakers": [
+    {
+      "id": "SP01",
+      "name": "Paul Ronzheimer",
+      "videoRole": "Moderation / Host",
+      "identityBasis": "Podcastverzeichnis und vollständiger Gesprächskontext des Nutzertranskripts."
+    },
+    {
+      "id": "SP02",
+      "name": "Luisa Neubauer",
+      "videoRole": "Podcast-Gästin",
+      "identityBasis": "Podcastverzeichnis und Begrüßung."
+    }
+  ],
+  "sources": [
+    {
+      "id": "V01",
+      "title": "Eingereichtes deutschsprachiges Podcast-Transkript",
+      "url": "https://www.youtube.com/watch?v=sp5TM1dh4Og",
+      "details": "Vom Nutzer geliefertes Volltranskript 00:00–01:08:04, mit automatischen Erkennungsfehlern. Originalton und Bilder nicht durchgehend selbst kontrolliert.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Vom Nutzer geliefertes Transkript vollständig gelesen, Originalton/-bild nicht geprüft."
+    },
+    {
+      "id": "V02",
+      "title": "RONZHEIMER. – offizielle Podcastfolge",
+      "url": "https://ronzheimer.podigee.io/915-krise-krieg-greta-ist-die-klima-bewegung-am-ende-mit-luisa-neubauer",
+      "details": "Publisher-Seite identifiziert: 24.11.2026, Paul Ronzheimer im Gespräch mit Luisa Neubauer, ca. 68:17.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Öffentliche Publisher- und Podcastverzeichnis-Angaben in Suchauszügen kontrolliert, kein vollständiger Audioabruf."
+    },
+    {
+      "id": "Q01",
+      "title": "WDR: Fridays for Future – Teilnehmer 20. September 2019",
+      "url": "https://www1.wdr.de/nrw/klimastreik-teilnehmer-gruppen-100.html",
+      "details": "Veranstalterangabe von 1,4 Millionen bundesweit, keine unabhängige Zählung aller einzelnen Personen.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q02",
+      "title": "bpb: AfD-Programmatik",
+      "url": "https://www.bpb.de/themen/parteien/parteien-in-deutschland/afd/273132/die-programmatik-der-afd/",
+      "details": "Klimapolitische Programmatik und Zweifel am menschengemachten Klimawandel.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q03",
+      "title": "Bundesverfassungsgericht: Klimabeschluss 2021",
+      "url": "https://bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rs20210324_1bvr265618.html",
+      "details": "Klimaschutz aus Art. 20a GG und künftige Freiheit, nicht unbegrenzte Erfolgsgarantie.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q04",
+      "title": "IRENA Renewable Power Generation Costs in 2025",
+      "url": "https://www.irena.org/Publications/2026/Jul/Renewable-Power-Generation-Costs-in-2025",
+      "details": "Kostenvorteil vieler 2025 neu gebauter erneuerbarer Kraftwerke im Vergleich zu neuen fossilen Kraftwerken, nicht komplette Systemkosten.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q05",
+      "title": "Bundesregierung: Kohleausstiegsgesetz",
+      "url": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/FAQ/Kohleausstiegsgesetz/faq-kohleausstiegsgesetz.html",
+      "details": "Gesetzlicher schrittweiser Ausstieg aus der Kohleverstromung spätestens 2038.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q06",
+      "title": "US Environmental Protection Agency: Volkswagen-Verstöße",
+      "url": "https://www.epa.gov/vw/learn-about-volkswagen-violations",
+      "details": "2015 aufgedeckte illegale Diesel-Abschalteinrichtungen des Konzerns.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q07",
+      "title": "EU-Kommission: Zölle auf chinesische BEV",
+      "url": "https://trade.ec.europa.eu/access-to-markets/en/news/eu-commission-imposes-countervailing-duties-imports-battery-electric-vehicles-bevs-china",
+      "details": "EU-Antisubventionsuntersuchung und Ausgleichszölle seit 2024.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q08",
+      "title": "UBA: Beschäftigung im Bereich erneuerbare Energien",
+      "url": "https://www.umweltbundesamt.de/daten/umweltindikatoren/indikator-beschaeftigte-im-bereich-erneuerbare",
+      "details": "Zeitreihen und methodische Einordnung; historischer Rückgang zwischen Hochphase um 2011 und 2019.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q09",
+      "title": "Salzgitter AG: SALCOS",
+      "url": "https://salcos.salzgitter-ag.com/de/index.html",
+      "details": "Offizielle Unternehmensangaben zum Aufbau wasserstoffbasierter Direktreduktion, geplanter Produktionsbeginn 2027.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q10",
+      "title": "Vereinte Nationen: COP31 ohne Gesamtpakt",
+      "url": "https://www.un.org/en/desa/cop31-ends-without-climate-pact-as-un-chief-warns-there-is-no-ambiguity-in-science",
+      "details": "Abschluss der Antalya-Konferenz 2026 ohne einvernehmlichen Gesamt-Klimapakt.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q11",
+      "title": "Carbon Brief: COP31-Abschluss und Streit um fossile Energien",
+      "url": "https://www.carbonbrief.org/cop31-key-outcomes-agreed-at-the-un-climate-talks-in-antalya",
+      "details": "Auswertung 23.11.2026: EU-Einwände, 126 Roadmap-Befürworter, mindestens 32 ausdrücklich ablehnende Staaten.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q12",
+      "title": "UNFCCC: COP28 in Dubai",
+      "url": "https://unfccc.int/cop28/5-key-takeaways",
+      "details": "2023 internationaler Aufruf zum Übergang weg von fossilen Energien, kein verbindlicher gemeinsamer Ausstiegsfahrplan.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q13",
+      "title": "Umweltbundesamt: Erneuerbare Energien 2025",
+      "url": "https://www.umweltbundesamt.de/themen/erneuerbare-energien-in-deutschland-wachstum-2025",
+      "details": "Deutschland 2025: 23,8 % erneuerbare Energien am Bruttoendenergieverbrauch, 55,1 % am Bruttostromverbrauch.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q14",
+      "title": "IEA Global Energy Review 2026 – CO2",
+      "url": "https://www.iea.org/reports/global-energy-review-2026/co2-emissions",
+      "details": "Energiebedingte CO2-Emissionen 2025 knapp 38,4 Gt, etwa 0,4 % über Vorjahr.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q15",
+      "title": "IEA Global Energy Review 2026 – Electricity Supply",
+      "url": "https://www.iea.org/reports/global-energy-review-2026/electricity-supply",
+      "details": "Globale Erneuerbaren-Stromerzeugung 2025 34 %, fossile Stromerzeugung leicht rückläufig.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q16",
+      "title": "IEA: Financing Electricity Access in Africa",
+      "url": "https://www.iea.org/reports/financing-electricity-access-in-africa/state-of-play",
+      "details": "2024 rund 600 Millionen Menschen in Subsahara-Afrika ohne Stromzugang.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q17",
+      "title": "IPCC AR6 Synthesebericht – SPM",
+      "url": "https://www.ipcc.ch/report/ar6/syr/summary-for-policymakers/",
+      "details": "Menschengemachte Erwärmung, Extremwetterrisiken, Anpassungspotenziale und Grenzen, Verteilung der Folgen.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q18",
+      "title": "Nature Health: Europa-Hitzemortalität 2026",
+      "url": "https://www.nature.com/articles/s44360-026-00220-z",
+      "details": "Für Sommer 2026 auf 50.391 hitzebedingte Todesfälle in 854 europäischen Städten modelliert, keine gesamteuropäische Vollzählung.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q19",
+      "title": "Handelsblatt: Prognos-Hitzekosten 2026",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/hitzewelle-hitze-wird-zum-milliardenrisiko-fuer-den-standort-deutschland/100239736.html",
+      "details": "16.07.2026: Prognos schätzt 6,32 Mrd. Euro Juni-Hitzewellenkosten, bei sehr heißen Tagen bis knapp 1 Mrd. Euro.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q20",
+      "title": "UNFCCC: NDCs unter dem Pariser Abkommen",
+      "url": "https://unfccc.int/process-and-meetings/the-paris-agreement/nationally-determined-contributions-ndcs",
+      "details": "Pflicht, nationale Klimabeiträge einzureichen und fortzuschreiben, aber keine einklagbare Erreichung jedes selbst gesetzten Minderungswertes.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q21",
+      "title": "Destatis: Rohöleinfuhren",
+      "url": "https://www.destatis.de/EN/Themes/Economy/Foreign-Trade/Tables/crude-oil-yearly.html",
+      "details": "2025 rund 35,8 Mrd. Euro Einfuhrwert Rohöl; nur diese Warenkategorie.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q22",
+      "title": "Destatis: Erdgas-Einfuhr",
+      "url": "https://www.destatis.de/DE/Themen/Wirtschaft/Aussenhandel/Tabellen/erdgas-jaehrlich.html",
+      "details": "2025 rund 24,8 Mrd. Euro Einfuhrwert erfasstes Erdgas, nicht automatisch alle LNG- und Ölprodukte.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q23",
+      "title": "Our World in Data: Weltanteile jährlicher CO2-Emissionen",
+      "url": "https://ourworldindata.org/grapher/annual-share-of-co2-emissions?tab=table&time=latest",
+      "details": "Territoriale fossile/industrielle Emissionen 2025: Deutschland etwa 1,47 %, Afrika etwa 4,0 %.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q24",
+      "title": "IEA Global EV Outlook 2026",
+      "url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars",
+      "details": "2025 weltweit mehr als 20 Millionen verkaufte Elektroautos inkl. Plug-in-Hybriden, etwa ein Viertel der Neuzulassungen.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q25",
+      "title": "SPD Berlin: Stand der Koalitionsgespräche",
+      "url": "https://spd.berlin/magazin/aktuelles/stand-der-gespraeche/",
+      "details": "17.11.2026: Verhandlungen von Linke, SPD und Grünen seit dem 02.11., keine abgeschlossene Regierungsbildung.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q26",
+      "title": "WMO El-Niño-Prognose 2026/27",
+      "url": "https://wmo.int/news/media-centre/el-nino-set-become-very-strong-raising-risks-of-extreme-weather-2027",
+      "details": "September 2026: erhöhtes Risiko eines sehr starken El-Niño-Ereignisses, lokale Schäden offen.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q27",
+      "title": "NOAA ENSO Diagnostic Discussion November 2026",
+      "url": "https://cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.html",
+      "details": "November 2026: hohe Wahrscheinlichkeit starken El Niño bis Frühjahr 2027.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q28",
+      "title": "L'Orient-Le Jour: Thiago Ávila bei Nasrallah-Beerdigung",
+      "url": "https://today.lorientlejour.com/article/1449088/influencers-aligned-with-hezbollah-invited-to-the-funeral.html",
+      "details": "Libanesische Berichterstattung 24.02.2025 über Anwesenheit Thiago Ávilas.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q29",
+      "title": "Jewish Chronicle: Ávila und Gaza-Flottille",
+      "url": "https://www.thejc.com/news/israel/gaza-flotilla-activist-called-hezbollah-terror-chief-inspiring-and-chanted-death-to-america-bl9yaqlj",
+      "details": "Bericht 09.06.2025 über Ávilas Nasrallah-Äußerung und gemeinsame Gaza-Schifffahrt.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q30",
+      "title": "UN-Sonderexperten: Demonstrationsfreiheit in Deutschland",
+      "url": "https://www.un.org/unispal/document/un-experts-16oct25/",
+      "details": "16.10.2025: Kritik unabhängiger UN-Menschenrechtsexperten an Einschränkungen palästinasolidarischer Proteste.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q31",
+      "title": "UN-Untersuchungskommission: Gaza-Einordnung 2025",
+      "url": "https://www.un.org/unispal/document/israel-has-committed-genocide-in-the-gaza-strip-un-commission-finds-16sep25/",
+      "details": "16.09.2025: Bericht einer unabhängigen UN-Untersuchungskommission; kein abschließendes Urteil des Internationalen Gerichtshofs.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q32",
+      "title": "Internationaler Gerichtshof: Südafrika gegen Israel, Case 192",
+      "url": "https://www.icj-cij.org/case/192",
+      "details": "Original-Gerichtsseite zum anhängigen Verfahren und einstweiligen Anordnungen, noch keine Entscheidung zur Hauptsache im untersuchten Zeitpunkt.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    }
+  ],
+  "claims": [
+    {
+      "id": "sp5TM1dh4Og-A0001",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Fridays for Future mobilisierte 2019 in Deutschland mehr als eine Million Menschen.",
+      "reason": "Für den 20. September 2019 nannten die Veranstalter 1,4 Millionen Protestierende in Deutschland. Die Zahl ist keine unabhängige Zählung einzigartiger Personen.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 27,
+          "endSeconds": 43,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q01",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q01"
+            ],
+            "result": "Für den 20. September 2019 nannten die Veranstalter 1,4 Millionen Protestierende in Deutschland. Die Zahl ist keine unabhängige Zählung einzigartiger Personen."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale Sachbehauptung für die Argumentation, unabhängig vom Urteil gewählt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0002",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Luisa Neubauer tritt als Aktivistin von Fridays for Future und Mitglied der Grünen auf.",
+      "reason": "Die Gastvorstellung und ihre Selbstauskunft über die Grünen bestätigen die beiden Rollen. Eine vom Gast unabhängige Parteimitgliederprüfung wurde nicht vorgenommen.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 73,
+          "endSeconds": 89,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "V02",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "V02"
+            ],
+            "result": "Die Gastvorstellung und ihre Selbstauskunft über die Grünen bestätigen die beiden Rollen. Eine vom Gast unabhängige Parteimitgliederprüfung wurde nicht vorgenommen."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Nebenaspekt ohne tragende Rolle für die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0003",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Die AfD stellt den menschengemachten Klimawandel in ihrer Programmatik infrage.",
+      "reason": "Die von der bpb ausgewertete AfD-Programmatik lehnt zentrale klimapolitische Grundlagen ab und äußert Zweifel am menschlichen Einfluss. Nicht jeder Wähler vertritt damit dieselbe Position.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 190,
+          "endSeconds": 206,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q02",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q02"
+            ],
+            "result": "Die von der bpb ausgewertete AfD-Programmatik lehnt zentrale klimapolitische Grundlagen ab und äußert Zweifel am menschlichen Einfluss. Nicht jeder Wähler vertritt damit dieselbe Position."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale Sachbehauptung für die Argumentation, unabhängig vom Urteil gewählt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0004",
+      "chapter": 1,
+      "kind": "Meinung",
+      "status": "Abgeschlossen",
+      "description": "Die AfD sei grundsätzlich mit einem menschenrechtsorientierten Klimaprotest unvereinbar.",
+      "reason": "Das ist eine politische und normative Einordnung. Einzelne Parteipositionen wären konkret zu untersuchen, aber die pauschale Gesamtwertung ist kein messbarer Einzelfakt.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 420,
+          "endSeconds": 436,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q02",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q02"
+            ],
+            "result": "Das ist eine politische und normative Einordnung. Einzelne Parteipositionen wären konkret zu untersuchen, aber die pauschale Gesamtwertung ist kein messbarer Einzelfakt."
+          }
+        ]
+      },
+      "verdict": "Meinung / Prognose",
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0005",
+      "chapter": 2,
+      "kind": "Meinung",
+      "status": "Abgeschlossen",
+      "description": "Die Klimabewegung habe bewiesen, dass sich mit dem Klimathema Wahlen gewinnen lassen.",
+      "reason": "Es handelt sich um eine politische Deutung von Mobilisierung und Wahlen; ein direkt nachgewiesener Kausaleffekt einzelner Proteste auf Wahlergebnisse wird nicht quantifiziert.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 555,
+          "endSeconds": 571,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Transkript vollständig gelesen, aber entscheidende externe Originalgrundlage fehlt oder Aussage ist normativ.",
+            "sourceIds": [],
+            "result": "Es handelt sich um eine politische Deutung von Mobilisierung und Wahlen; ein direkt nachgewiesener Kausaleffekt einzelner Proteste auf Wahlergebnisse wird nicht quantifiziert."
+          }
+        ]
+      },
+      "verdict": "Meinung / Prognose",
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0006",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "description": "Die AfD habe 2019 bis 2021 historisch niedrige Zustimmungswerte gehabt.",
+      "reason": "Der Superlativ historisch niedrig verlangt eine definierte Umfrageserie und den Vergleich über die ganze Parteigeschichte. Das wurde nicht unabhängig ausgewertet.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 604,
+          "endSeconds": 620,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        }
+      ],
+      "research": {
+        "confidence": "Niedrig",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Transkript vollständig gelesen, aber entscheidende externe Originalgrundlage fehlt oder Aussage ist normativ.",
+            "sourceIds": [],
+            "result": "Der Superlativ historisch niedrig verlangt eine definierte Umfrageserie und den Vergleich über die ganze Parteigeschichte. Das wurde nicht unabhängig ausgewertet."
+          }
+        ]
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0007",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Das Pariser Klimaabkommen existierte 2016 und Trump zog die USA gleich danach zurück.",
+      "reason": "Das Abkommen wurde 2015 beschlossen. Trump kündigte den Austritt erst 2017 an, rechtswirksam erfolgte er 2020. Im lockeren historischen Rückblick werden diese Schritte zeitlich gerafft.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 699,
+          "endSeconds": 715,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q20",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q20"
+            ],
+            "result": "Das Abkommen wurde 2015 beschlossen. Trump kündigte den Austritt erst 2017 an, rechtswirksam erfolgte er 2020. Im lockeren historischen Rückblick werden diese Schritte zeitlich gerafft."
+          }
+        ]
+      },
+      "verdict": "Teilweise belegt",
+      "shortReason": "Das Abkommen wurde 2015 beschlossen.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0008",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Deutschland hat einen gesetzlich beschlossenen Kohleausstieg begonnen.",
+      "reason": "Das Kohleausstiegsgesetz sieht die schrittweise Stilllegung bis spätestens 2038 vor. Ein bereits vollendeter Ausstieg wird damit nicht behauptet.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 728,
+          "endSeconds": 744,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q05",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q05"
+            ],
+            "result": "Das Kohleausstiegsgesetz sieht die schrittweise Stilllegung bis spätestens 2038 vor. Ein bereits vollendeter Ausstieg wird damit nicht behauptet."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0009",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Das Bundesverfassungsgericht habe jedem das Recht zugesprochen, auf einem gesunden Planeten alt zu werden.",
+      "reason": "Der Klimabeschluss schützt künftige Freiheit und bekräftigt staatliche Klimaschutzpflichten. Er formuliert keine unbegrenzte Zusicherung für alle, auf einem stets gesunden Planeten alt zu werden.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 734,
+          "endSeconds": 750,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q03",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q03"
+            ],
+            "result": "Der Klimabeschluss schützt künftige Freiheit und bekräftigt staatliche Klimaschutzpflichten. Er formuliert keine unbegrenzte Zusicherung für alle, auf einem stets gesunden Planeten alt zu werden."
+          }
+        ]
+      },
+      "verdict": "Irreführend / Kontext fehlt",
+      "shortReason": "Der Klimabeschluss schützt künftige Freiheit und bekräftigt staatliche Klimaschutzpflichten.",
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale Sachbehauptung für die Argumentation, unabhängig vom Urteil gewählt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0010",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Erneuerbare Energien sind heute die günstigsten Stromquellen überhaupt.",
+      "reason": "IRENA belegt für viele neue Wind- und Solarprojekte niedrige Stromgestehungskosten. Die Aussage unterscheidet nicht zwischen neuen Erzeugungsanlagen und den Vollkosten des Versorgungssystems.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 743,
+          "endSeconds": 759,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q04",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q04"
+            ],
+            "result": "IRENA belegt für viele neue Wind- und Solarprojekte niedrige Stromgestehungskosten. Die Aussage unterscheidet nicht zwischen neuen Erzeugungsanlagen und den Vollkosten des Versorgungssystems."
+          }
+        ]
+      },
+      "verdict": "Teilweise belegt",
+      "shortReason": "IRENA belegt für viele neue Wind- und Solarprojekte niedrige Stromgestehungskosten.",
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale Sachbehauptung für die Argumentation, unabhängig vom Urteil gewählt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0011",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "description": "Das deutsche EEG sei international ein großer Exportschlager gewesen.",
+      "reason": "Die internationale Übernahme einzelner EEG-Elemente wurde hier nicht anhand ausgewählter Gesetzesvergleiche nachgewiesen. Exportschlager ist außerdem eine Wertung.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 902,
+          "endSeconds": 918,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        }
+      ],
+      "research": {
+        "confidence": "Niedrig",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Transkript vollständig gelesen, aber entscheidende externe Originalgrundlage fehlt oder Aussage ist normativ.",
+            "sourceIds": [],
+            "result": "Die internationale Übernahme einzelner EEG-Elemente wurde hier nicht anhand ausgewählter Gesetzesvergleiche nachgewiesen. Exportschlager ist außerdem eine Wertung."
+          }
+        ]
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Nebenaspekt ohne tragende Rolle für die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0012",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Ein Teil der deutschen Automobilindustrie manipulierte Dieselabgasmessungen.",
+      "reason": "Die US-Umweltbehörde EPA dokumentierte den Volkswagen-Abgasskandal und illegale Abschalteinrichtungen. Das belegt konkrete Manipulation, nicht sämtliche behaupteten Markteffekte.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 1190,
+          "endSeconds": 1206,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q06",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q06"
+            ],
+            "result": "Die US-Umweltbehörde EPA dokumentierte den Volkswagen-Abgasskandal und illegale Abschalteinrichtungen. Das belegt konkrete Manipulation, nicht sämtliche behaupteten Markteffekte."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0013",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "description": "Der Dieselbetrug habe Deutschlands Führungsrolle beim Elektroauto entscheidend verspielt.",
+      "reason": "Die Handlung ist dokumentiert, die weitreichende ökonomische Kausalbehauptung jedoch nicht durch einen geeigneten kontrafaktischen Vergleich belegt.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 1210,
+          "endSeconds": 1226,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q06",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        },
+        {
+          "sourceId": "Q24",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Niedrig",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q06",
+              "Q24"
+            ],
+            "result": "Die Handlung ist dokumentiert, die weitreichende ökonomische Kausalbehauptung jedoch nicht durch einen geeigneten kontrafaktischen Vergleich belegt."
+          }
+        ]
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0014",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Chinesische Hersteller von Elektroautos profitieren von staatlichen Subventionen.",
+      "reason": "Die EU-Kommission dokumentiert Vorteile für chinesische BEV-Hersteller und erließ Ausgleichszölle. Das heißt nicht, dass jede Marke und jedes Fahrzeug gleich stark gefördert wird.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 1225,
+          "endSeconds": 1241,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q07",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q07"
+            ],
+            "result": "Die EU-Kommission dokumentiert Vorteile für chinesische BEV-Hersteller und erließ Ausgleichszölle. Das heißt nicht, dass jede Marke und jedes Fahrzeug gleich stark gefördert wird."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0015",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Im deutschen Erneuerbaren-Sektor gingen zeitweise über 100.000 Arbeitsplätze verloren.",
+      "reason": "Historische Beschäftigungsreihen zeigen einen erheblichen Rückgang vom Hochstand um 2011 bis 2019. Die neueren Reihen haben geänderte Definitionen; Zeitpunkt und Vergleichsbasis sind zu nennen.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 1245,
+          "endSeconds": 1261,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q08",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q08"
+            ],
+            "result": "Historische Beschäftigungsreihen zeigen einen erheblichen Rückgang vom Hochstand um 2011 bis 2019. Die neueren Reihen haben geänderte Definitionen; Zeitpunkt und Vergleichsbasis sind zu nennen."
+          }
+        ]
+      },
+      "verdict": "Teilweise belegt",
+      "shortReason": "Historische Beschäftigungsreihen zeigen einen erheblichen Rückgang vom Hochstand um 2011 bis 2019.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0016",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "description": "Die damalige Bundesregierung habe diesen Arbeitsplatzverlust vor allem durch Blockade der Energiewende verursacht.",
+      "reason": "Es gibt mehrere mögliche Erklärungsfaktoren wie internationalen Wettbewerb und Preisentwicklung. Eine belastbare Allein- oder Hauptursachen-Zerlegung liegt nicht vor.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 1265,
+          "endSeconds": 1281,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q08",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Niedrig",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q08"
+            ],
+            "result": "Es gibt mehrere mögliche Erklärungsfaktoren wie internationalen Wettbewerb und Preisentwicklung. Eine belastbare Allein- oder Hauptursachen-Zerlegung liegt nicht vor."
+          }
+        ]
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0017",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Salzgitter arbeitet am Aufbau von klimafreundlicherer Stahlproduktion.",
+      "reason": "SALCOS beschreibt den Bau der wasserstoffbasierten Direktreduktionsroute; der Betriebsbeginn ist noch geplant. Noch keine volle industrielle Erfolgsmessung.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 1278,
+          "endSeconds": 1294,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q09",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q09"
+            ],
+            "result": "SALCOS beschreibt den Bau der wasserstoffbasierten Direktreduktionsroute; der Betriebsbeginn ist noch geplant. Noch keine volle industrielle Erfolgsmessung."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0018",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Die EU lehnte bei COP31 einen Schlussentwurf ohne klares Bekenntnis weg von fossilen Energien ab.",
+      "reason": "Der Entwurf scheiterte am fehlenden Konsens; EU und andere Staaten widersprachen der Abschwächung. Die Konferenz beschloss dennoch andere Einzelmaßnahmen.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 1305,
+          "endSeconds": 1321,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q10",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        },
+        {
+          "sourceId": "Q11",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q10",
+              "Q11"
+            ],
+            "result": "Der Entwurf scheiterte am fehlenden Konsens; EU und andere Staaten widersprachen der Abschwächung. Die Konferenz beschloss dennoch andere Einzelmaßnahmen."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Tragender Themen- oder Zahlenpunkt der zentralen Kontroverse, unabhängig vom Urteil gewählt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0019",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "description": "Nepal wurde in jüngster Zeit von mehreren schweren Fluten hintereinander getroffen.",
+      "reason": "Der Gesprächskontext bestimmt keine eindeutige Flut, Region oder Jahreszahl. Die konkrete Ereigniskette und Schadenszahlen wurden nicht unabhängig rekonstruiert.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 1382,
+          "endSeconds": 1398,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q17",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Niedrig",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q17"
+            ],
+            "result": "Der Gesprächskontext bestimmt keine eindeutige Flut, Region oder Jahreszahl. Die konkrete Ereigniskette und Schadenszahlen wurden nicht unabhängig rekonstruiert."
+          }
+        ]
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0020",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "description": "US-Hilfekürzungen hätten in Nepal ein Bergwarnsystem lahmgelegt und dadurch Opfer einer Flut verursacht.",
+      "reason": "Es fehlen ein bezeichnetes Ereignis, der betroffene Warnsystembetreiber, Finanzierungsvorgänge und Nachweise über ausgefallene Warnungen. Dieser konkrete Ursachenzusammenhang bleibt offen.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 1408,
+          "endSeconds": 1424,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        }
+      ],
+      "research": {
+        "confidence": "Niedrig",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Transkript vollständig gelesen, aber entscheidende externe Originalgrundlage fehlt oder Aussage ist normativ.",
+            "sourceIds": [],
+            "result": "Es fehlen ein bezeichnetes Ereignis, der betroffene Warnsystembetreiber, Finanzierungsvorgänge und Nachweise über ausgefallene Warnungen. Dieser konkrete Ursachenzusammenhang bleibt offen."
+          }
+        ]
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale Sachbehauptung für die Argumentation, unabhängig vom Urteil gewählt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0021",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Die menschengemachte Erwärmung verschärft Klimaextremrisiken und trifft besonders verletzliche Länder.",
+      "reason": "Der IPCC weist steigende Risiken sowie ungleiche Betroffenheit nach. Eine bestimmte nepalesische Flut lässt sich damit allein nicht im Einzelfall quantifizieren.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 1419,
+          "endSeconds": 1435,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q17",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q17"
+            ],
+            "result": "Der IPCC weist steigende Risiken sowie ungleiche Betroffenheit nach. Eine bestimmte nepalesische Flut lässt sich damit allein nicht im Einzelfall quantifizieren."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale Sachbehauptung für die Argumentation, unabhängig vom Urteil gewählt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0022",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Öl- und Gasexportländer bremsten bei COP31 Verhandlungen über das fossile Zeitalter.",
+      "reason": "Der dokumentierte Streit zwischen ambitionierteren Ländern und Öl-/Gasinteressen stützt den Kern. Eine absichtsvolle Unterwanderung ist eine darüber hinausgehende politische Interpretation.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 1461,
+          "endSeconds": 1477,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q10",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        },
+        {
+          "sourceId": "Q11",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q10",
+              "Q11"
+            ],
+            "result": "Der dokumentierte Streit zwischen ambitionierteren Ländern und Öl-/Gasinteressen stützt den Kern. Eine absichtsvolle Unterwanderung ist eine darüber hinausgehende politische Interpretation."
+          }
+        ]
+      },
+      "verdict": "Teilweise belegt",
+      "shortReason": "Der dokumentierte Streit zwischen ambitionierteren Ländern und Öl-/Gasinteressen stützt den Kern.",
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale Sachbehauptung für die Argumentation, unabhängig vom Urteil gewählt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0023",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Bei COP28 habe sich die Welt bereits auf den verbindlichen Ausstieg aus Öl, Gas und Kohle geeinigt.",
+      "reason": "2023 wurde ein globaler Übergang weg von fossilen Energien beschlossen. Ein rechtlich verbindlicher Ausstiegsfahrplan mit festen Abschaltdaten wurde nicht vereinbart.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 1484,
+          "endSeconds": 1500,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q12",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q12"
+            ],
+            "result": "2023 wurde ein globaler Übergang weg von fossilen Energien beschlossen. Ein rechtlich verbindlicher Ausstiegsfahrplan mit festen Abschaltdaten wurde nicht vereinbart."
+          }
+        ]
+      },
+      "verdict": "Irreführend / Kontext fehlt",
+      "shortReason": "2023 wurde ein globaler Übergang weg von fossilen Energien beschlossen.",
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale Sachbehauptung für die Argumentation, unabhängig vom Urteil gewählt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0024",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "description": "130 Staaten hätten den Abschlusskompromiss von COP31 zurückgewiesen.",
+      "reason": "Die Untertitelfassung ist hier unklar. Berichte unterscheiden 126 Unterstützer der Fossil-Roadmap und wenigstens 32 Ablehnende des Paktentwurfs; ohne Originalton keine sichere Widerlegung.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 1531,
+          "endSeconds": 1547,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q11",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Niedrig",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q11"
+            ],
+            "result": "Die Untertitelfassung ist hier unklar. Berichte unterscheiden 126 Unterstützer der Fossil-Roadmap und wenigstens 32 Ablehnende des Paktentwurfs; ohne Originalton keine sichere Widerlegung."
+          }
+        ]
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0025",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Öl, Kohle und Gas deckten 2025 in Deutschland noch ungefähr 75 Prozent der gesamten Endenergie.",
+      "reason": "2025 betrug der Erneuerbaren-Anteil am Bruttoendenergieverbrauch 23,8 Prozent. Der Rest ist nicht exakt gleichbedeutend mit Öl, Gas und Kohle. Die Aussage ist ein vorgelesenes Zitat von Ralf Fücks.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 1554,
+          "endSeconds": 1570,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Fremdbezug",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q13",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q13"
+            ],
+            "result": "2025 betrug der Erneuerbaren-Anteil am Bruttoendenergieverbrauch 23,8 Prozent. Der Rest ist nicht exakt gleichbedeutend mit Öl, Gas und Kohle. Die Aussage ist ein vorgelesenes Zitat von Ralf Fücks."
+          }
+        ]
+      },
+      "verdict": "Teilweise belegt",
+      "shortReason": "2025 betrug der Erneuerbaren-Anteil am Bruttoendenergieverbrauch 23,8 Prozent.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Ralf Fücks",
+        "presentation": "Vorgelesenes Zitat",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Der Moderator liest die fremde Position als Gegenstand der Diskussion vor und bestätigt sie nicht eigenständig.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0026",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Solar- und Windenergie verdrängen weltweit bisher kaum fossile Energieträger.",
+      "reason": "Die IEA dokumentiert reale Verdrängungseffekte und 2025 leicht rückläufige fossile Stromerzeugung. Die fossile Gesamtenergienutzung bleibt hoch, ist aber nicht dasselbe wie kaum Verdrängung.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 1572,
+          "endSeconds": 1588,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Fremdbezug",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q15",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q15"
+            ],
+            "result": "Die IEA dokumentiert reale Verdrängungseffekte und 2025 leicht rückläufige fossile Stromerzeugung. Die fossile Gesamtenergienutzung bleibt hoch, ist aber nicht dasselbe wie kaum Verdrängung."
+          }
+        ]
+      },
+      "verdict": "Irreführend / Kontext fehlt",
+      "shortReason": "Die IEA dokumentiert reale Verdrängungseffekte und 2025 leicht rückläufige fossile Stromerzeugung.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Ralf Fücks",
+        "presentation": "Vorgelesenes Zitat",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Der Moderator liest die fremde Position als Gegenstand der Diskussion vor und bestätigt sie nicht eigenständig.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0027",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Globale energiebedingte CO2-Emissionen stiegen 2025 auf einen Rekordwert.",
+      "reason": "Die IEA schätzt knapp 38,4 Gigatonnen CO2 im Jahr 2025, etwa 0,4 Prozent mehr als im Vorjahr. Diese Behauptung ist Teil eines fremden, vorgelesenen Zitats.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 1581,
+          "endSeconds": 1597,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Fremdbezug",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q14",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q14"
+            ],
+            "result": "Die IEA schätzt knapp 38,4 Gigatonnen CO2 im Jahr 2025, etwa 0,4 Prozent mehr als im Vorjahr. Diese Behauptung ist Teil eines fremden, vorgelesenen Zitats."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Ralf Fücks",
+        "presentation": "Vorgelesenes Zitat",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Der Moderator liest die fremde Position als Gegenstand der Diskussion vor und bestätigt sie nicht eigenständig.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0028",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "In Subsahara-Afrika haben Hunderte Millionen Menschen keinen Stromzugang.",
+      "reason": "Die IEA beziffert für 2024 rund 600 Millionen Menschen ohne Stromzugang. Eine Versorgung muss nicht zwingend über ein zentrales Stromnetz erfolgen.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 1665,
+          "endSeconds": 1681,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q16",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q16"
+            ],
+            "result": "Die IEA beziffert für 2024 rund 600 Millionen Menschen ohne Stromzugang. Eine Versorgung muss nicht zwingend über ein zentrales Stromnetz erfolgen."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale Sachbehauptung für die Argumentation, unabhängig vom Urteil gewählt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0029",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "An dramatische Dürre und Überflutung könne man sich überhaupt nicht anpassen.",
+      "reason": "Der IPCC beschreibt schwerwiegende Anpassungsgrenzen, aber auch verfügbare Schutzmaßnahmen. Überhaupt keine Anpassung ist als allgemeine Aussage zu pauschal.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 1710,
+          "endSeconds": 1726,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q17",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q17"
+            ],
+            "result": "Der IPCC beschreibt schwerwiegende Anpassungsgrenzen, aber auch verfügbare Schutzmaßnahmen. Überhaupt keine Anpassung ist als allgemeine Aussage zu pauschal."
+          }
+        ]
+      },
+      "verdict": "Irreführend / Kontext fehlt",
+      "shortReason": "Der IPCC beschreibt schwerwiegende Anpassungsgrenzen, aber auch verfügbare Schutzmaßnahmen.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0030",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Im europäischen Sommer 2026 starben rund 50.000 Menschen infolge von Hitze.",
+      "reason": "Die Modellstudie schätzt 50.391 hitzebedingte Todesfälle in 854 europäischen Städten. Sie zählt nicht sämtliche Todesfälle in Europa vollständig.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 1740,
+          "endSeconds": 1756,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q18",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q18"
+            ],
+            "result": "Die Modellstudie schätzt 50.391 hitzebedingte Todesfälle in 854 europäischen Städten. Sie zählt nicht sämtliche Todesfälle in Europa vollständig."
+          }
+        ]
+      },
+      "verdict": "Teilweise belegt",
+      "shortReason": "Die Modellstudie schätzt 50.391 hitzebedingte Todesfälle in 854 europäischen Städten.",
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale Sachbehauptung für die Argumentation, unabhängig vom Urteil gewählt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0031",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "description": "Internationale Gasprojekte in armen Ländern verschärfen deren Verschuldung und schaden örtlicher Stromversorgung.",
+      "reason": "Der im Untertitel unklare Landes- bzw. Projektname wurde nicht bestätigt. Für eine genaue Bewertung fehlen Projekte, Kreditkonditionen und lokale Stromversorgungsdaten.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 1784,
+          "endSeconds": 1800,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        }
+      ],
+      "research": {
+        "confidence": "Niedrig",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Transkript vollständig gelesen, aber entscheidende externe Originalgrundlage fehlt oder Aussage ist normativ.",
+            "sourceIds": [],
+            "result": "Der im Untertitel unklare Landes- bzw. Projektname wurde nicht bestätigt. Für eine genaue Bewertung fehlen Projekte, Kreditkonditionen und lokale Stromversorgungsdaten."
+          }
+        ]
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0032",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "description": "Bundeskanzler Merz habe COP31 persönlich nicht besucht.",
+      "reason": "Der Gesprächskontext deutet seine Abwesenheit an. Ein amtlicher Delegations- und Terminplan für Antalya wurde noch nicht unabhängig eingesehen.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 1863,
+          "endSeconds": 1879,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        }
+      ],
+      "research": {
+        "confidence": "Niedrig",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Transkript vollständig gelesen, aber entscheidende externe Originalgrundlage fehlt oder Aussage ist normativ.",
+            "sourceIds": [],
+            "result": "Der Gesprächskontext deutet seine Abwesenheit an. Ein amtlicher Delegations- und Terminplan für Antalya wurde noch nicht unabhängig eingesehen."
+          }
+        ]
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0033",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Die deutsche Klimapolitik ist auch eine Frage des Grundgesetzes.",
+      "reason": "Das Bundesverfassungsgericht hat Klimaschutzpflichten aus Art. 20a GG sowie zukünftige Freiheitsschutzbelange bekräftigt. Einzelmaßnahmen bleiben politisch und juristisch abzuwägen.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 2004,
+          "endSeconds": 2020,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q03",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q03"
+            ],
+            "result": "Das Bundesverfassungsgericht hat Klimaschutzpflichten aus Art. 20a GG sowie zukünftige Freiheitsschutzbelange bekräftigt. Einzelmaßnahmen bleiben politisch und juristisch abzuwägen."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale Sachbehauptung für die Argumentation, unabhängig vom Urteil gewählt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0034",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Ein heißer Sommertag kostet die deutsche Wirtschaft fast eine Milliarde Euro.",
+      "reason": "Eine Prognos-Modellrechnung kommt an Tagen über 35 Grad auf Schäden bis knapp eine Milliarde Euro. Die Aussage darf nicht auf jeden Hitzetag ohne Schwellenwert übertragen werden.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 2060,
+          "endSeconds": 2076,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q19",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q19"
+            ],
+            "result": "Eine Prognos-Modellrechnung kommt an Tagen über 35 Grad auf Schäden bis knapp eine Milliarde Euro. Die Aussage darf nicht auf jeden Hitzetag ohne Schwellenwert übertragen werden."
+          }
+        ]
+      },
+      "verdict": "Teilweise belegt",
+      "shortReason": "Eine Prognos-Modellrechnung kommt an Tagen über 35 Grad auf Schäden bis knapp eine Milliarde Euro.",
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Tragender Themen- oder Zahlenpunkt der zentralen Kontroverse, unabhängig vom Urteil gewählt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0035",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Eine deutsche Hitzewelle im Sommer 2026 verursachte mehr als sechs Milliarden Euro Schaden.",
+      "reason": "Das Prognos-Modell schätzt für die Hitzewelle Ende Juni 2026 6,32 Milliarden Euro Schäden. Es ist keine vollständig gemessene volkswirtschaftliche Verlustbilanz.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 2073,
+          "endSeconds": 2089,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q19",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q19"
+            ],
+            "result": "Das Prognos-Modell schätzt für die Hitzewelle Ende Juni 2026 6,32 Milliarden Euro Schäden. Es ist keine vollständig gemessene volkswirtschaftliche Verlustbilanz."
+          }
+        ]
+      },
+      "verdict": "Teilweise belegt",
+      "shortReason": "Das Prognos-Modell schätzt für die Hitzewelle Ende Juni 2026 6,32 Milliarden Euro Schäden.",
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Tragender Themen- oder Zahlenpunkt der zentralen Kontroverse, unabhängig vom Urteil gewählt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0036",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Alle Staaten seien rechtlich verpflichtet, ihre jeweiligen Paris-Klimaziele zu erreichen.",
+      "reason": "Das Pariser Abkommen bindet Vertragsparteien bei Beitragsmeldungen und Verfahrensschritten. Die Zielerreichung jedes national festgelegten Beitrags ist keine einklagbare völkerrechtliche Erfolgspflicht.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 2119,
+          "endSeconds": 2135,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q20",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q20"
+            ],
+            "result": "Das Pariser Abkommen bindet Vertragsparteien bei Beitragsmeldungen und Verfahrensschritten. Die Zielerreichung jedes national festgelegten Beitrags ist keine einklagbare völkerrechtliche Erfolgspflicht."
+          }
+        ]
+      },
+      "verdict": "Irreführend / Kontext fehlt",
+      "shortReason": "Das Pariser Abkommen bindet Vertragsparteien bei Beitragsmeldungen und Verfahrensschritten.",
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale Sachbehauptung für die Argumentation, unabhängig vom Urteil gewählt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0037",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Deutschland gebe jährlich 70 bis 130 Milliarden Euro für Öl- und Gasimporte aus.",
+      "reason": "2025 betrugen erfasste Rohöl- und Erdgasimporte zusammen rund 60,6 Milliarden Euro; andere Warenpositionen fehlen. 2022 lagen die beiden Werte bei rund 127,8 Milliarden Euro. Die Spanne schwankt nach Jahr und Definition.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 2155,
+          "endSeconds": 2171,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q21",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        },
+        {
+          "sourceId": "Q22",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q21",
+              "Q22"
+            ],
+            "result": "2025 betrugen erfasste Rohöl- und Erdgasimporte zusammen rund 60,6 Milliarden Euro; andere Warenpositionen fehlen. 2022 lagen die beiden Werte bei rund 127,8 Milliarden Euro. Die Spanne schwankt nach Jahr und Definition."
+          }
+        ]
+      },
+      "verdict": "Teilweise belegt",
+      "shortReason": "2025 betrugen erfasste Rohöl- und Erdgasimporte zusammen rund 60,6 Milliarden Euro; andere Warenpositionen fehlen.",
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Tragender Themen- oder Zahlenpunkt der zentralen Kontroverse, unabhängig vom Urteil gewählt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0038",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Erneuerbare Energie ermöglicht besonders preiswerte und unabhängige deutsche Energieversorgung.",
+      "reason": "Viele neue Anlagen haben günstige Stromgestehungskosten und senken Brennstoffimporte. Vollsystemkosten hängen zusätzlich von Netzen, Speichern und weiteren Importen ab.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 2201,
+          "endSeconds": 2217,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q04",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        },
+        {
+          "sourceId": "Q13",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q04",
+              "Q13"
+            ],
+            "result": "Viele neue Anlagen haben günstige Stromgestehungskosten und senken Brennstoffimporte. Vollsystemkosten hängen zusätzlich von Netzen, Speichern und weiteren Importen ab."
+          }
+        ]
+      },
+      "verdict": "Teilweise belegt",
+      "shortReason": "Viele neue Anlagen haben günstige Stromgestehungskosten und senken Brennstoffimporte.",
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale Sachbehauptung für die Argumentation, unabhängig vom Urteil gewählt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0039",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Deutschland sei für über zwei Prozent der weltweiten CO2-Emissionen verantwortlich.",
+      "reason": "2025 betrug Deutschlands Anteil an territorialen fossilen und industriellen CO2-Emissionen etwa 1,47 Prozent. Andere Abgrenzungen wie historische Verantwortung oder Treibhausgase sind ausdrücklich zu unterscheiden; Originalton gegenchecken.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 2228,
+          "endSeconds": 2244,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q23",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q23"
+            ],
+            "result": "2025 betrug Deutschlands Anteil an territorialen fossilen und industriellen CO2-Emissionen etwa 1,47 Prozent. Andere Abgrenzungen wie historische Verantwortung oder Treibhausgase sind ausdrücklich zu unterscheiden; Originalton gegenchecken."
+          }
+        ]
+      },
+      "verdict": "Irreführend / Kontext fehlt",
+      "shortReason": "2025 betrug Deutschlands Anteil an territorialen fossilen und industriellen CO2-Emissionen etwa 1,47 Prozent.",
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale Sachbehauptung für die Argumentation, unabhängig vom Urteil gewählt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0040",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Afrika trägt ungefähr vier Prozent der weltweiten fossilen CO2-Emissionen bei.",
+      "reason": "Global Carbon Budget weist für Afrika im Jahr 2025 rund vier Prozent territorialer fossiler und industrieller CO2-Emissionen aus. Landnutzungsänderungen sind nicht enthalten.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 2237,
+          "endSeconds": 2253,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q23",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q23"
+            ],
+            "result": "Global Carbon Budget weist für Afrika im Jahr 2025 rund vier Prozent territorialer fossiler und industrieller CO2-Emissionen aus. Landnutzungsänderungen sind nicht enthalten."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale Sachbehauptung für die Argumentation, unabhängig vom Urteil gewählt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0041",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "China baut erneuerbare Stromerzeugung in großem Umfang aus.",
+      "reason": "Die IEA dokumentiert starke Zuwächse sauberer Stromerzeugung in China. Das Land setzt dennoch weiterhin erhebliche fossile Energie ein.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 2248,
+          "endSeconds": 2264,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q15",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q15"
+            ],
+            "result": "Die IEA dokumentiert starke Zuwächse sauberer Stromerzeugung in China. Das Land setzt dennoch weiterhin erhebliche fossile Energie ein."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0042",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "description": "US-Demokraten hätten durch Werbung für erneuerbare Energien eine Wahl gewonnen.",
+      "reason": "Die konkrete Wahl und kausale Wirkung der Werbung bleiben undefiniert. Der Moderator bezweifelt im Gespräch ausdrücklich eine monokausale Erklärung.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 2255,
+          "endSeconds": 2271,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        }
+      ],
+      "research": {
+        "confidence": "Niedrig",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Transkript vollständig gelesen, aber entscheidende externe Originalgrundlage fehlt oder Aussage ist normativ.",
+            "sourceIds": [],
+            "result": "Die konkrete Wahl und kausale Wirkung der Werbung bleiben undefiniert. Der Moderator bezweifelt im Gespräch ausdrücklich eine monokausale Erklärung."
+          }
+        ]
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Nebenaspekt ohne tragende Rolle für die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Distanziert",
+        "basis": "Der Moderator widerspricht dem behaupteten Wahlzusammenhang ausdrücklich.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0043",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Elektroautos werden weltweit in Millionenhöhe verkauft.",
+      "reason": "Laut IEA wurden 2025 über 20 Millionen Elektroautos einschließlich Plug-in-Hybriden verkauft, rund ein Viertel aller Neuwagen.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 2581,
+          "endSeconds": 2597,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q24",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q24"
+            ],
+            "result": "Laut IEA wurden 2025 über 20 Millionen Elektroautos einschließlich Plug-in-Hybriden verkauft, rund ein Viertel aller Neuwagen."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0044",
+      "chapter": 4,
+      "kind": "Meinung",
+      "status": "Abgeschlossen",
+      "description": "Verbrennungsmotoren hätten auf dem Weltmarkt keine langfristige Zukunft.",
+      "reason": "Wirtschaftsprognose und strategische Meinung statt gegenwärtig abschließend prüfbarer Tatsachenangabe. Weiter vorhandene Märkte widersprechen nicht zwingend einer langfristigen Prognose.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 2590,
+          "endSeconds": 2606,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q24",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q24"
+            ],
+            "result": "Wirtschaftsprognose und strategische Meinung statt gegenwärtig abschließend prüfbarer Tatsachenangabe. Weiter vorhandene Märkte widersprechen nicht zwingend einer langfristigen Prognose."
+          }
+        ]
+      },
+      "verdict": "Meinung / Prognose",
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0045",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "description": "Bei einem jüngsten Klimastreik hätten erneut etwa 10.000 Menschen demonstriert.",
+      "reason": "Ohne eindeutig benannten Ort und Veranstaltungstag wurde keine aussagekräftige Veranstalter- oder Polizeizählung geprüft.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 2735,
+          "endSeconds": 2751,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        }
+      ],
+      "research": {
+        "confidence": "Niedrig",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Transkript vollständig gelesen, aber entscheidende externe Originalgrundlage fehlt oder Aussage ist normativ.",
+            "sourceIds": [],
+            "result": "Ohne eindeutig benannten Ort und Veranstaltungstag wurde keine aussagekräftige Veranstalter- oder Polizeizählung geprüft."
+          }
+        ]
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Nebenaspekt ohne tragende Rolle für die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0046",
+      "chapter": 5,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Im November 2026 verhandeln Linke, SPD und Grüne über eine Berliner Regierung.",
+      "reason": "Die Berliner SPD dokumentiert Gespräche seit dem 2. November; der Moderator beschreibt Gespräche, keine bereits beschlossene Koalition.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 3052,
+          "endSeconds": 3068,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q25",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q25"
+            ],
+            "result": "Die Berliner SPD dokumentiert Gespräche seit dem 2. November; der Moderator beschreibt Gespräche, keine bereits beschlossene Koalition."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Nebenaspekt ohne tragende Rolle für die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0047",
+      "chapter": 5,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "description": "Ein Filmemacher bezeichnete einen Greta-Thunberg-Clip über deutsche Klimastreiks als aus dem Kontext gerissen.",
+      "reason": "Es fehlt eine unabhängige Sichtung der vollständigen Dokumentarszene und der wörtlichen Stellungnahme des Filmemachers. Der Podcast schreibt die Interpretation dem Filmemacher zu.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 3090,
+          "endSeconds": 3106,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        }
+      ],
+      "research": {
+        "confidence": "Niedrig",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Transkript vollständig gelesen, aber entscheidende externe Originalgrundlage fehlt oder Aussage ist normativ.",
+            "sourceIds": [],
+            "result": "Es fehlt eine unabhängige Sichtung der vollständigen Dokumentarszene und der wörtlichen Stellungnahme des Filmemachers. Der Podcast schreibt die Interpretation dem Filmemacher zu."
+          }
+        ]
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Nebenaspekt ohne tragende Rolle für die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0048",
+      "chapter": 5,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "description": "Greta Thunberg habe selbst gesagt, sie wolle seit Tag eins den Kapitalismus abschaffen.",
+      "reason": "Der Originalwortlaut aus der Dokumentation wurde nicht selbst eingesehen. Nur als vom Moderator wiedergegebene fremde Äußerung erfasst, ohne eigene Zurechnung.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 3220,
+          "endSeconds": 3236,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Fremdbezug",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        }
+      ],
+      "research": {
+        "confidence": "Niedrig",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Transkript vollständig gelesen, aber entscheidende externe Originalgrundlage fehlt oder Aussage ist normativ.",
+            "sourceIds": [],
+            "result": "Der Originalwortlaut aus der Dokumentation wurde nicht selbst eingesehen. Nur als vom Moderator wiedergegebene fremde Äußerung erfasst, ohne eigene Zurechnung."
+          }
+        ]
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Nebenaspekt ohne tragende Rolle für die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Greta Thunberg",
+        "presentation": "Vorgelesenes Zitat",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Der Moderator liest die fremde Position als Gegenstand der Diskussion vor und bestätigt sie nicht eigenständig.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0049",
+      "chapter": 5,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Für 2026/27 wird ein sehr starker El Niño erwartet.",
+      "reason": "WMO und NOAA veröffentlichten entsprechende probabilistische Prognosen. Die Wahrscheinlichkeit konkreter Opferzahlen bleibt dabei offen.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 3252,
+          "endSeconds": 3268,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q26",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        },
+        {
+          "sourceId": "Q27",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q26",
+              "Q27"
+            ],
+            "result": "WMO und NOAA veröffentlichten entsprechende probabilistische Prognosen. Die Wahrscheinlichkeit konkreter Opferzahlen bleibt dabei offen."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0050",
+      "chapter": 6,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Greta Thunberg und Thiago Ávila reisten 2025 gemeinsam mit einem Gaza-Hilfsschiff.",
+      "reason": "Die gemeinsame Teilnahme an der Madleen-Fahrt ist dokumentiert. Daraus ergibt sich noch keine Zustimmung zu allen Aussagen des Mitreisenden.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 3436,
+          "endSeconds": 3452,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q29",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q29"
+            ],
+            "result": "Die gemeinsame Teilnahme an der Madleen-Fahrt ist dokumentiert. Daraus ergibt sich noch keine Zustimmung zu allen Aussagen des Mitreisenden."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0051",
+      "chapter": 6,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Thiago Ávila nahm an der Beisetzung des Hisbollah-Führers Hassan Nasrallah teil.",
+      "reason": "Die Teilnahme wurde von einer libanesischen Zeitung vor Ort berichtet. Persönliche Gesinnung folgt daraus nicht allein.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 3450,
+          "endSeconds": 3466,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q28",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        },
+        {
+          "sourceId": "Q29",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q28",
+              "Q29"
+            ],
+            "result": "Die Teilnahme wurde von einer libanesischen Zeitung vor Ort berichtet. Persönliche Gesinnung folgt daraus nicht allein."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0052",
+      "chapter": 6,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Thiago Ávila bezeichnete Nasrallah öffentlich als inspirierend.",
+      "reason": "Ein journalistischer Bericht dokumentiert die entsprechende öffentliche Äußerung. Ein späterer Abgleich mit dem Originalpost ist sinnvoll.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 3458,
+          "endSeconds": 3474,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q29",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q29"
+            ],
+            "result": "Ein journalistischer Bericht dokumentiert die entsprechende öffentliche Äußerung. Ein späterer Abgleich mit dem Originalpost ist sinnvoll."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0053",
+      "chapter": 6,
+      "kind": "Tatsachenbehauptung",
+      "status": "In Bearbeitung",
+      "description": "Greta Thunberg habe sich niemals von betreffenden Terrororganisationen oder deren Anhängern distanziert.",
+      "reason": "Ein absolutes niemals verlangt vollständige Prüfung ihrer öffentlichen Äußerungen. Die Reise mit Ávila beweist allein keine Billigung und keine durchgehende fehlende Distanzierung.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 3530,
+          "endSeconds": 3546,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        }
+      ],
+      "research": {
+        "confidence": "Niedrig",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Transkript vollständig gelesen, aber entscheidende externe Originalgrundlage fehlt oder Aussage ist normativ.",
+            "sourceIds": [],
+            "result": "Ein absolutes niemals verlangt vollständige Prüfung ihrer öffentlichen Äußerungen. Die Reise mit Ávila beweist allein keine Billigung und keine durchgehende fehlende Distanzierung."
+          }
+        ]
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0054",
+      "chapter": 6,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "UN-Menschenrechtsexperten kritisierten Einschränkungen pro-palästinensischer Demonstrationen in Deutschland.",
+      "reason": "Die unabhängigen UN-Sonderexperten veröffentlichten dazu im Oktober 2025 eine Erklärung. Es handelt sich nicht um ein Urteil eines Gerichts oder aller UN-Mitgliedstaaten.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 3710,
+          "endSeconds": 3726,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q30",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q30"
+            ],
+            "result": "Die unabhängigen UN-Sonderexperten veröffentlichten dazu im Oktober 2025 eine Erklärung. Es handelt sich nicht um ein Urteil eines Gerichts oder aller UN-Mitgliedstaaten."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Nebenaspekt ohne tragende Rolle für die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0055",
+      "chapter": 6,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Eine UN-Untersuchungskommission bewertete israelische Handlungen in Gaza als Völkermord.",
+      "reason": "Im September 2025 traf eine unabhängige UN-Untersuchungskommission diese Bewertung. Israel bestreitet sie; sie ist nicht mit einem rechtskräftigen Urteil des Internationalen Gerichtshofs gleichzusetzen.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 3952,
+          "endSeconds": 3968,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q31",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q31"
+            ],
+            "result": "Im September 2025 traf eine unabhängige UN-Untersuchungskommission diese Bewertung. Israel bestreitet sie; sie ist nicht mit einem rechtskräftigen Urteil des Internationalen Gerichtshofs gleichzusetzen."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "sp5TM1dh4Og-A0056",
+      "chapter": 6,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Ein abschließendes Urteil des Internationalen Gerichtshofs zur Gaza-Genozidklage stand im November 2026 noch aus.",
+      "reason": "Der IGH hatte Verfahrensschritte und vorläufige Anordnungen, aber noch keine endgültige Entscheidung zur Hauptsache verkündet. Die Aussage beschreibt den rechtlichen Verfahrensstand.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 3969,
+          "endSeconds": 3985,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP02",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Zuordnung aus Gesprächsrollen im Texttranskript; keine lückenlose Originaltonprüfung.",
+          "timeBasis": "Anfang des erkannten Transkriptblocks, keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V01",
+          "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q32",
+          "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        }
+      ],
+      "research": {
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT)",
+            "strategy": "Nutzertranskript mit gesondert recherchierten Originalquellen beziehungsweise Fachrecherchen abgeglichen.",
+            "sourceIds": [
+              "Q32"
+            ],
+            "result": "Der IGH hatte Verfahrensschritte und vorläufige Anordnungen, aber noch keine endgültige Entscheidung zur Hauptsache verkündet. Die Aussage beschreibt den rechtlichen Verfahrensstand."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Nebenaspekt ohne tragende Rolle für die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Luisa Neubauer",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
+        "assessedBy": "Kai (ChatGPT)",
+        "assessedOn": "2026-11-24"
+      }
+    }
+  ]
+}

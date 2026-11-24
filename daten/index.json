@@ -371,6 +371,34 @@
           "checkedOn": "2026-11-23"
         }
       }
+    },
+    {
+      "id": "sp5TM1dh4Og",
+      "title": "Krise, Krieg, Greta: Ist die Klima-Bewegung am Ende? Mit Luisa Neubauer",
+      "structured": true,
+      "rhetoric": false,
+      "files": [
+        "03_einzelpruefungen.md",
+        "04_pruefprotokoll.md",
+        "README.md"
+      ],
+      "video": {
+        "schemaVersion": 1,
+        "videoId": "sp5TM1dh4Og",
+        "role": "original",
+        "channel": "RONZHEIMER.",
+        "title": "Krise, Krieg, Greta: Ist die Klima-Bewegung am Ende? Mit Luisa Neubauer",
+        "videoUrl": "https://www.youtube.com/watch?v=sp5TM1dh4Og",
+        "publishedAt": "2026-11-24",
+        "durationSeconds": 4097,
+        "workStatus": "Teilbestand geprüft",
+        "format": "video",
+        "identification": {
+          "basis": "Öffentliches RONZHEIMER.-Podcastverzeichnis und vollständige vom Auftraggeber bereitgestellte deutsche Transkription zur YouTube-ID; Originalton und Einblendungen nicht selbst durchgehend gesichtet.",
+          "certainty": "Belegt",
+          "checkedOn": "2026-11-24"
+        }
+      }
     }
   ]
 }

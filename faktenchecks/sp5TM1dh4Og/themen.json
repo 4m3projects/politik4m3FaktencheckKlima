@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 1,
+  "videoId": "sp5TM1dh4Og",
+  "basis": "Sachthemen nach kompletter Textlektüre und abgegrenzten Einzelbehauptungen; andere Diskussionsthemen wie Berlin, Greta und Gaza nicht künstlich als Klimafakten eingeordnet.",
+  "topics": [
+    {
+      "topic": "klima",
+      "relevance": "Schwerpunkt",
+      "basis": "Klimabewegung, Extremwetter, globale Klimaverhandlungen und Klimarecht.",
+      "segments": []
+    },
+    {
+      "topic": "energie",
+      "relevance": "Behandelt",
+      "basis": "Eigenständige Tatsachenaussagen zu energie.",
+      "segments": []
+    },
+    {
+      "topic": "energie/preise",
+      "relevance": "Behandelt",
+      "basis": "Eigenständige Tatsachenaussagen zu energie/preise.",
+      "segments": []
+    },
+    {
+      "topic": "energie/erdgas",
+      "relevance": "Erwähnt",
+      "basis": "Eigenständige Tatsachenaussagen zu energie/erdgas.",
+      "segments": []
+    },
+    {
+      "topic": "energie/versorgungssicherheit",
+      "relevance": "Behandelt",
+      "basis": "Eigenständige Tatsachenaussagen zu energie/versorgungssicherheit.",
+      "segments": []
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "sp5TM1dh4Og-A0001",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0002",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0003",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0005",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0007",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0008",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0009",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0010",
+      "topics": [
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0011",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0012",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0013",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0014",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0015",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0016",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0017",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0018",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0019",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0020",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0021",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0022",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0023",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0024",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0025",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0026",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0027",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0028",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0029",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0030",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0031",
+      "topics": [
+        "energie/erdgas"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0032",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0033",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0034",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0035",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0036",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0037",
+      "topics": [
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0038",
+      "topics": [
+        "energie/versorgungssicherheit"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0039",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0040",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0041",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0042",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0043",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0044",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0045",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0047",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "sp5TM1dh4Og-A0049",
+      "topics": [
+        "klima"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-24",
+      "agent": "Kai (ChatGPT)",
+      "change": "Erstzuordnung nach vollständiger Nutzertranskriptlektüre, vorhandene Themen-IDs wiederverwendet, keine Änderungen an anderen Videozuordnungen."
+    }
+  ]
+}
