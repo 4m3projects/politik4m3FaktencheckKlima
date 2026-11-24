@@ -3,31 +3,31 @@
   "generatedBy": "scripts/build-index.js",
   "uniqueStatements": 56,
   "statusCounts": {
-    "Abgeschlossen": 46,
-    "In Bearbeitung": 10,
+    "Abgeschlossen": 53,
+    "In Bearbeitung": 3,
     "Offen": 0,
     "Nicht überprüfbar": 0
   },
   "factClaims": 53,
-  "completedFacts": 43,
+  "completedFacts": 50,
   "openFacts": 0,
-  "inProgressFacts": 10,
+  "inProgressFacts": 3,
   "unverifiableFacts": 0,
-  "percentageDenominator": 43,
+  "percentageDenominator": 50,
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 26,
-      "completedFactPercent": 60.5
+      "completedCount": 28,
+      "completedFactPercent": 56
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 11,
-      "completedFactPercent": 25.6
+      "completedCount": 15,
+      "completedFactPercent": 30
     },
     {
       "category": "Irreführend / Kontext fehlt",
-      "completedCount": 6,
+      "completedCount": 7,
       "completedFactPercent": 14
     },
     {
