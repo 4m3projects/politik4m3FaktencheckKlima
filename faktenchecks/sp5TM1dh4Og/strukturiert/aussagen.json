@@ -6,8 +6,8 @@
     "kind": "Vollständige Nutzertranskript-Lektüre und breit angelegte quellengestützte Sachanalyse (kein vollständiger Bild-/Tonabgleich)",
     "asOf": "2026-11-24",
     "durationSeconds": 4097,
-    "coverageNote": "Alle gelieferten Textabschnitte 00:00 bis 01:08:04 gelesen; Videolaufzeit 68:17 nach Podcastverzeichnis. Automatische Wortfehler, Sprecherwechsel und exakte Zeitgrenzen sind nicht durch Hörprüfung bestätigt. 56 wichtige Einzelpositionen erfasst, jedoch keine Gewähr, dass visuelle Einblendungen/Äußerungen außerhalb der Textspur erfasst sind. Berechnete Abdeckung bezieht sich ausschließlich auf inventarisierte Tatsachenaussagen.",
-    "researchNote": "Webbasierte Prüfung mit öffentlich zugänglichen Quellen von IPCC, UN, UNFCCC, BVerfG, IEA, IRENA, Destatis, UBA, EU und Fachmedien. Vorläufige Bedeutung, kein zweiter Agentenreview. Kontextpolitische Aussagen, Gegenpositionen und unklare Zahlen nicht ohne Beweise falsch bewertet. vidIQ wurde nicht benutzt."
+    "coverageNote": "Alle gelieferten Textabschnitte 00:00 bis 01:08:04 gelesen; Videolaufzeit 68:17 nach Podcastverzeichnis. Automatische Wortfehler, Sprecherwechsel und exakte Zeitgrenzen sind nicht durch Hörprüfung bestätigt. 56 wichtige Einzelpositionen erfasst (davon 43 abschließend geprüfte und 10 noch offene Tatsachenaussagen), jedoch keine Gewähr, dass visuelle Einblendungen/Äußerungen außerhalb der Textspur erfasst sind. Berechnete Abdeckung bezieht sich ausschließlich auf inventarisierte Tatsachenaussagen.",
+    "researchNote": "Webbasierte Prüfung mit öffentlich zugänglichen Quellen von IPCC, UN, UNFCCC, BVerfG, IEA, IRENA, Destatis, UBA, EU und Fachmedien. Vorläufige Bedeutung, kein zweiter Agentenreview. Kontextpolitische Aussagen, Gegenpositionen und unklare Zahlen nicht ohne Beweise falsch bewertet. vidIQ wurde nicht benutzt. Nachrecherche 24.11.2026: Vier vorher offene Sachbehauptungen anhand neu geprüfter Publikationen vorsichtig eingestuft. Bei Frühwarnsystemen in Nepal, Demonstrationszahlen und Greta-Kapitalismus-Äußerung Quellenkontext nachgetragen, ohne fehlenden Originalfilm-/Tonabgleich zu übergehen. Faktoren/Anteile unverändert; neue Urteile benötigen unabhängige Gegenprüfung."
   },
   "speakers": [
     {
@@ -295,6 +295,96 @@
       "details": "Original-Gerichtsseite zum anhängigen Verfahren und einstweiligen Anordnungen, noch keine Entscheidung zur Hauptsache im untersuchten Zeitpunkt.",
       "accessedOn": "2026-11-24",
       "accessBasis": "Relevante öffentliche Quellenpassagen, Originaldaten oder zugängliche Abstracts in der Webrecherche geprüft; keine durchgängige Volltext-/PDF-Lektüre behauptet."
+    },
+    {
+      "id": "Q33",
+      "title": "Bundesregierung: Regierungspressekonferenz vom 6. November 2026",
+      "url": "https://www.bundesregierung.de/breg-de/aktuelles/regierungspressekonferenz-vom-6-november-2026-2460276",
+      "details": "Regierungssprecher Steffen Kornelius bestätigt ausdrücklich, dass Kanzler Merz wegen anderer Verpflichtungen nicht zur COP31 reist; Umweltminister Schneider führt die Delegation in der Ministerwoche.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Offizielles vollständiges Pressekonferenzprotokoll online gelesen.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q34",
+      "title": "taz vom 13.11.2026: Hubertus Koch erklärt Greta-Clip-Kontext",
+      "url": "https://taz.de/Video-Clip-aus-Doku-Film/%216229794/",
+      "details": "Filmemacher Koch wird mit seiner öffentlichen Instagram-Aussage zitiert, ein Kurzclip aus seiner Dokumentation werde aus dem Kontext gerissen; längerer Zusammenhang und politische Deutung werden berichtet.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Journalistischen Bericht samt wiedergegebener Filmemacher-Stellungnahme gelesen; sein Instagram-Original nicht selbst kontrolliert.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q35",
+      "title": "Weltbank: Nepal Development Update (Oktober 2026)",
+      "url": "https://www.worldbank.org/en/country/nepal/publication/nepaldevelopmentupdate",
+      "details": "Das Weltbankkapitel zum Flutereignis vom 26. August 2026 nennt ausdrücklich eine größere Gletscherflut im selben Korridor im Juli 2025. Wiederholte Flutereignisse sind damit gesondert bestätigt.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Offizielle Überblicksseite einschließlich betreffendem Flutkapitel gelesen; nicht jedes statistische Detail des Gesamtberichts geprüft.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q36",
+      "title": "Energy Policy (2019): Subsidizing renewables as part of taking leadership in international climate policy",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0301421519301272",
+      "details": "Peer-reviewter Abstract beschreibt deutsches EEG und seine internationale Rolle für Technikdiffusion/Politiktransfer insbesondere Richtung China.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Veröffentlichter Abstract gelesen, nicht der kostenpflichtige Gesamtartikel.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q37",
+      "title": "Energy Research & Social Science: Historical institutionalist perspective on feed-in tariffs",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2214629618305152",
+      "details": "Peer-reviewter Abstract: Deutschland war ein früher Treiber technologiespezifischer Einspeisetarife, die danach von weiteren europäischen Ländern aufgegriffen wurden.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Veröffentlichter Abstract gelesen; kein vollständiger Methodenteil.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q38",
+      "title": "Foreign Policy 15.10.2026: Nepal Lost Flood-Detection Tools After USAID Was Destroyed",
+      "url": "https://foreignpolicy.com/2026/10/15/nepal-usaid-doge-floods-united-states-funding/",
+      "details": "Bericht zu gestrichenem Programm SERVIR-HKH: teils weiter funktionsfähige Werkzeuge, aber gestoppte Verbesserungen und Unterstützung; US-Außenministerium vertritt abweichende Bewertung zur zeitlichen Beendigung.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Zugängliche relevante Berichtsabschnitte/Quellenangaben gelesen; nicht alle hinter einer Bezahlschranke liegenden Teile.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q39",
+      "title": "El País 09.10.2026: USAID cuts left Nepal exposed to deadly floods",
+      "url": "https://english.elpais.com/international/2026-10-09/how-usaid-cuts-left-nepals-children-exposed-to-deadly-floods.html?outputType=amp",
+      "details": "Belegt Aufbau von Frühwarn- und Überwachungskapazitäten durch NASA/USAID-Programm SERVIR-HKH und dessen Ende 2025; beschreibt Risikovergrößerung, nicht einen einzelnen beweisbaren Todesfall durch konkrete fehlende Warnung.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Zugänglichen Reportageteil zum Förderende und zum Wirkungsmechanismus gelesen.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q40",
+      "title": "Fridays for Future: 13.11.2026 Klimastreik in über 70 deutschen Städten",
+      "url": "https://fridaysforfuture.de/pm-fridays-for-future-protestiert-am-freitag-in-ueber-70-staedten-anlaesslich-weltklimakonferenz/",
+      "details": "Pressemitteilung vom 11. November nennt landesweite Proteste an über 70 Orten am 13. November 2026; keine unabhängig erfasste deutschlandweite Gesamtteilnehmerzahl.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Pressemitteilung der Veranstalter gelesen; Ankündigung nicht als Nachzählung missverstanden.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q41",
+      "title": "rbb24/tagesschau: Fridays-for-Future-Demonstration in Berlin am 13.11.2026",
+      "url": "https://www.rbb24.de/politik/beitrag/2026/11/weltklimakonferenz-fridays-for-future-demos-berlin-brandenburg.html",
+      "details": "13.11.2026: Berlin rund 1000 Teilnehmende laut Polizei bzw. rund 3500 laut Veranstaltern, etwa 70 Orte bundesweit; Merz nimmt nicht an COP31 teil.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Regionalbericht samt getrennt ausgewiesenen Polizei- und Veranstalterzahlen gelesen; keine Gesamtsumme für ganz Deutschland.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q42",
+      "title": "Faktenfackel: Kontext des Greta-Thunberg-Filmausschnitts",
+      "url": "https://faktenfackel.de/quellen/medien/apollo-news/links/greta-graichen-lachen-untergang",
+      "details": "Quellenkontrolle referiert den Dokumentarfilm von Hubertus Koch mit Filmzeit ca. 08:23: die Äußerung zu Kapitalismus erfolgt in einer ironischen Aufzählung von Vorwürfen, kann aber auch als Bejahung gelesen werden.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Ausführliche sekundäre Filmprüfung gelesen; eigenen vollständigen Originalfilmabgleich noch nicht vorgenommen.",
+      "kind": "Nachrecherche"
     }
   ],
   "claims": [
@@ -898,9 +988,9 @@
       "id": "sp5TM1dh4Og-A0011",
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
-      "status": "In Bearbeitung",
+      "status": "Abgeschlossen",
       "description": "Das deutsche EEG sei international ein großer Exportschlager gewesen.",
-      "reason": "Die internationale Übernahme einzelner EEG-Elemente wurde hier nicht anhand ausgewählter Gesetzesvergleiche nachgewiesen. Exportschlager ist außerdem eine Wertung.",
+      "reason": "Die wissenschaftliche Literatur beschreibt das deutsche EEG als frühen Wegbereiter von Einspeisetarifen und als bedeutenden Einfluss auf die internationale Verbreitung ähnlicher Fördermodelle. Damit ist die weltweite Vorbildrolle belegt. Ob das EEG als konkretes deutsches Gesetz oder als kommerzieller Exportschlager einzustufen ist, bleibt eine rhetorische Wertung; gleichartige Auslandsregelungen sind nicht identisch mit dem deutschen EEG.",
       "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
       "occurrences": [
         {
@@ -919,10 +1009,18 @@
         {
           "sourceId": "V01",
           "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q36",
+          "note": "Nachrecherche 24.11.2026; siehe genaue Quelle, Definition und Einschränkung."
+        },
+        {
+          "sourceId": "Q37",
+          "note": "Nachrecherche 24.11.2026; siehe genaue Quelle, Definition und Einschränkung."
         }
       ],
       "research": {
-        "confidence": "Niedrig",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-24",
@@ -930,6 +1028,16 @@
             "strategy": "Transkript vollständig gelesen, aber entscheidende externe Originalgrundlage fehlt oder Aussage ist normativ.",
             "sourceIds": [],
             "result": "Die internationale Übernahme einzelner EEG-Elemente wurde hier nicht anhand ausgewählter Gesetzesvergleiche nachgewiesen. Exportschlager ist außerdem eine Wertung."
+          },
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT) – Nachrecherche",
+            "strategy": "Erneute eigenständige themenbezogene Quellenrecherche; Abgleich der Fundstelle im gelieferten Podcasttranskript mit zusätzlichen Behörden-, Forschungs- und Medienquellen; keine neue Originaltonprüfung.",
+            "sourceIds": [
+              "Q36",
+              "Q37"
+            ],
+            "result": "Die wissenschaftliche Literatur beschreibt das deutsche EEG als frühen Wegbereiter von Einspeisetarifen und als bedeutenden Einfluss auf die internationale Verbreitung ähnlicher Fördermodelle. Damit ist die weltweite Vorbildrolle belegt. Ob das EEG als konkretes deutsches Gesetz oder als kommerzieller Exportschlager einzustufen ist, bleibt eine rhetorische Wertung; gleichartige Auslandsregelungen sind nicht identisch mit dem deutschen EEG."
           }
         ]
       },
@@ -949,6 +1057,11 @@
         "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24"
+      },
+      "verdict": "Teilweise belegt",
+      "shortReason": "Die wissenschaftliche Literatur beschreibt das deutsche EEG als frühen Wegbereiter von Einspeisetarifen und als bedeutenden Einfluss auf die internationale Verbreitung ähnlicher Fördermodelle.",
+      "migration": {
+        "assessmentChange": "24.11.2026, Kai (ChatGPT): vorher In Bearbeitung ohne Urteil, nun Teilweise belegt. Grund: neue gesondert dokumentierte Quellen Q36, Q37. Die vorläufige Gewichtung blieb unverändert."
       }
     },
     {
@@ -1403,9 +1516,9 @@
       "id": "sp5TM1dh4Og-A0019",
       "chapter": 3,
       "kind": "Tatsachenbehauptung",
-      "status": "In Bearbeitung",
+      "status": "Abgeschlossen",
       "description": "Nepal wurde in jüngster Zeit von mehreren schweren Fluten hintereinander getroffen.",
-      "reason": "Der Gesprächskontext bestimmt keine eindeutige Flut, Region oder Jahreszahl. Die konkrete Ereigniskette und Schadenszahlen wurden nicht unabhängig rekonstruiert.",
+      "reason": "Der Weltbankbericht vom Oktober 2026 nennt eine schwere Flut vom 26. August 2026 im Bhote-Koshi-/Trishuli-Korridor und verweist ausdrücklich auf eine weitere größere Gletscherflut im selben grenzüberschreitenden Himalaya-Korridor im Juli 2025. Der sachliche Kern wiederholter schwerer Fluten ist damit belegt. Die konkreten Lebensgeschichten der im Podcast angesprochenen Personen wurden nicht unabhängig nachgeprüft.",
       "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
       "occurrences": [
         {
@@ -1428,10 +1541,14 @@
         {
           "sourceId": "Q17",
           "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        },
+        {
+          "sourceId": "Q35",
+          "note": "Nachrecherche 24.11.2026; siehe genaue Quelle, Definition und Einschränkung."
         }
       ],
       "research": {
-        "confidence": "Niedrig",
+        "confidence": "Hoch",
         "rounds": [
           {
             "date": "2026-11-24",
@@ -1441,6 +1558,15 @@
               "Q17"
             ],
             "result": "Der Gesprächskontext bestimmt keine eindeutige Flut, Region oder Jahreszahl. Die konkrete Ereigniskette und Schadenszahlen wurden nicht unabhängig rekonstruiert."
+          },
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT) – Nachrecherche",
+            "strategy": "Erneute eigenständige themenbezogene Quellenrecherche; Abgleich der Fundstelle im gelieferten Podcasttranskript mit zusätzlichen Behörden-, Forschungs- und Medienquellen; keine neue Originaltonprüfung.",
+            "sourceIds": [
+              "Q35"
+            ],
+            "result": "Der Weltbankbericht vom Oktober 2026 nennt eine schwere Flut vom 26. August 2026 im Bhote-Koshi-/Trishuli-Korridor und verweist ausdrücklich auf eine weitere größere Gletscherflut im selben grenzüberschreitenden Himalaya-Korridor im Juli 2025. Der sachliche Kern wiederholter schwerer Fluten ist damit belegt. Die konkreten Lebensgeschichten der im Podcast angesprochenen Personen wurden nicht unabhängig nachgeprüft."
           }
         ]
       },
@@ -1460,6 +1586,10 @@
         "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24"
+      },
+      "verdict": "Belegt",
+      "migration": {
+        "assessmentChange": "24.11.2026, Kai (ChatGPT): vorher In Bearbeitung ohne Urteil, nun Belegt. Grund: neue gesondert dokumentierte Quellen Q35. Die vorläufige Gewichtung blieb unverändert."
       }
     },
     {
@@ -1468,7 +1598,7 @@
       "kind": "Tatsachenbehauptung",
       "status": "In Bearbeitung",
       "description": "US-Hilfekürzungen hätten in Nepal ein Bergwarnsystem lahmgelegt und dadurch Opfer einer Flut verursacht.",
-      "reason": "Es fehlen ein bezeichnetes Ereignis, der betroffene Warnsystembetreiber, Finanzierungsvorgänge und Nachweise über ausgefallene Warnungen. Dieser konkrete Ursachenzusammenhang bleibt offen.",
+      "reason": "Medienrecherchen dokumentieren, dass das NASA-/USAID-Projekt SERVIR-HKH zur Überwachung und Hochwasserwarnung in Nepal im Januar 2025 endete und bestimmte technische Weiterentwicklungen und Unterstützungsleistungen ausfielen. Laut Foreign Policy bestanden jedoch einige Werkzeuge weiter; zur Ursache und zum Ende des Programms liegen unterschiedliche Darstellungen vor. Nicht belegt ist bislang, dass bei der konkret angesprochenen Flut alle Berg-Monitoringsysteme ausgefallen waren, keine Warnung gegeben wurde und sich dadurch bestimmte Opferzahlen erklären lassen. Deshalb bleibt die genaue Kausalkette offen.",
       "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
       "occurrences": [
         {
@@ -1487,10 +1617,18 @@
         {
           "sourceId": "V01",
           "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q38",
+          "note": "Nachrecherche 24.11.2026; siehe genaue Quelle, Definition und Einschränkung."
+        },
+        {
+          "sourceId": "Q39",
+          "note": "Nachrecherche 24.11.2026; siehe genaue Quelle, Definition und Einschränkung."
         }
       ],
       "research": {
-        "confidence": "Niedrig",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-24",
@@ -1498,6 +1636,16 @@
             "strategy": "Transkript vollständig gelesen, aber entscheidende externe Originalgrundlage fehlt oder Aussage ist normativ.",
             "sourceIds": [],
             "result": "Es fehlen ein bezeichnetes Ereignis, der betroffene Warnsystembetreiber, Finanzierungsvorgänge und Nachweise über ausgefallene Warnungen. Dieser konkrete Ursachenzusammenhang bleibt offen."
+          },
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT) – Nachrecherche",
+            "strategy": "Erneute eigenständige themenbezogene Quellenrecherche; Abgleich der Fundstelle im gelieferten Podcasttranskript mit zusätzlichen Behörden-, Forschungs- und Medienquellen; keine neue Originaltonprüfung.",
+            "sourceIds": [
+              "Q38",
+              "Q39"
+            ],
+            "result": "Medienrecherchen dokumentieren, dass das NASA-/USAID-Projekt SERVIR-HKH zur Überwachung und Hochwasserwarnung in Nepal im Januar 2025 endete und bestimmte technische Weiterentwicklungen und Unterstützungsleistungen ausfielen. Laut Foreign Policy bestanden jedoch einige Werkzeuge weiter; zur Ursache und zum Ende des Programms liegen unterschiedliche Darstellungen vor. Nicht belegt ist bislang, dass bei der konkret angesprochenen Flut alle Berg-Monitoringsysteme ausgefallen waren, keine Warnung gegeben wurde und sich dadurch bestimmte Opferzahlen erklären lassen. Deshalb bleibt die genaue Kausalkette offen."
           }
         ]
       },
@@ -2230,9 +2378,9 @@
       "id": "sp5TM1dh4Og-A0032",
       "chapter": 3,
       "kind": "Tatsachenbehauptung",
-      "status": "In Bearbeitung",
+      "status": "Abgeschlossen",
       "description": "Bundeskanzler Merz habe COP31 persönlich nicht besucht.",
-      "reason": "Der Gesprächskontext deutet seine Abwesenheit an. Ein amtlicher Delegations- und Terminplan für Antalya wurde noch nicht unabhängig eingesehen.",
+      "reason": "In der Regierungspressekonferenz vom 6. November 2026 erklärte Regierungssprecher Steffen Kornelius ausdrücklich, Bundeskanzler Friedrich Merz könne wegen anderer Termine nicht zur COP31 reisen. Umweltminister Carsten Schneider übernahm die politische Vertretung; ein rbb-Bericht vom 13. November bestätigt die Nichtteilnahme. Die Tatsachenbehauptung ist belegt, politische Bewertungen der Priorität des Kanzlers sind davon getrennt.",
       "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
       "occurrences": [
         {
@@ -2251,10 +2399,18 @@
         {
           "sourceId": "V01",
           "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q33",
+          "note": "Nachrecherche 24.11.2026; siehe genaue Quelle, Definition und Einschränkung."
+        },
+        {
+          "sourceId": "Q41",
+          "note": "Nachrecherche 24.11.2026; siehe genaue Quelle, Definition und Einschränkung."
         }
       ],
       "research": {
-        "confidence": "Niedrig",
+        "confidence": "Hoch",
         "rounds": [
           {
             "date": "2026-11-24",
@@ -2262,6 +2418,16 @@
             "strategy": "Transkript vollständig gelesen, aber entscheidende externe Originalgrundlage fehlt oder Aussage ist normativ.",
             "sourceIds": [],
             "result": "Der Gesprächskontext deutet seine Abwesenheit an. Ein amtlicher Delegations- und Terminplan für Antalya wurde noch nicht unabhängig eingesehen."
+          },
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT) – Nachrecherche",
+            "strategy": "Erneute eigenständige themenbezogene Quellenrecherche; Abgleich der Fundstelle im gelieferten Podcasttranskript mit zusätzlichen Behörden-, Forschungs- und Medienquellen; keine neue Originaltonprüfung.",
+            "sourceIds": [
+              "Q33",
+              "Q41"
+            ],
+            "result": "In der Regierungspressekonferenz vom 6. November 2026 erklärte Regierungssprecher Steffen Kornelius ausdrücklich, Bundeskanzler Friedrich Merz könne wegen anderer Termine nicht zur COP31 reisen. Umweltminister Carsten Schneider übernahm die politische Vertretung; ein rbb-Bericht vom 13. November bestätigt die Nichtteilnahme. Die Tatsachenbehauptung ist belegt, politische Bewertungen der Priorität des Kanzlers sind davon getrennt."
           }
         ]
       },
@@ -2281,6 +2447,10 @@
         "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24"
+      },
+      "verdict": "Belegt",
+      "migration": {
+        "assessmentChange": "24.11.2026, Kai (ChatGPT): vorher In Bearbeitung ohne Urteil, nun Belegt. Grund: neue gesondert dokumentierte Quellen Q33, Q41. Die vorläufige Gewichtung blieb unverändert."
       }
     },
     {
@@ -3058,7 +3228,7 @@
       "kind": "Tatsachenbehauptung",
       "status": "In Bearbeitung",
       "description": "Bei einem jüngsten Klimastreik hätten erneut etwa 10.000 Menschen demonstriert.",
-      "reason": "Ohne eindeutig benannten Ort und Veranstaltungstag wurde keine aussagekräftige Veranstalter- oder Polizeizählung geprüft.",
+      "reason": "Am 13. November 2026 organisierte Fridays for Future Proteste in mehr als 70 deutschen Städten. In Berlin meldeten Polizei und Veranstalter ungefähr 1.000 beziehungsweise 3.500 Teilnehmende. Das belegt einen jüngeren Klimastreik, aber keine unabhängig konsolidierte bundesweite Teilnehmerzahl von 10.000 und auch nicht sicher, welches Ereignis Neubauer mit der Zahl meinte. Die konkrete Summe bleibt offen.",
       "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
       "occurrences": [
         {
@@ -3077,10 +3247,18 @@
         {
           "sourceId": "V01",
           "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q40",
+          "note": "Nachrecherche 24.11.2026; siehe genaue Quelle, Definition und Einschränkung."
+        },
+        {
+          "sourceId": "Q41",
+          "note": "Nachrecherche 24.11.2026; siehe genaue Quelle, Definition und Einschränkung."
         }
       ],
       "research": {
-        "confidence": "Niedrig",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-24",
@@ -3088,6 +3266,16 @@
             "strategy": "Transkript vollständig gelesen, aber entscheidende externe Originalgrundlage fehlt oder Aussage ist normativ.",
             "sourceIds": [],
             "result": "Ohne eindeutig benannten Ort und Veranstaltungstag wurde keine aussagekräftige Veranstalter- oder Polizeizählung geprüft."
+          },
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT) – Nachrecherche",
+            "strategy": "Erneute eigenständige themenbezogene Quellenrecherche; Abgleich der Fundstelle im gelieferten Podcasttranskript mit zusätzlichen Behörden-, Forschungs- und Medienquellen; keine neue Originaltonprüfung.",
+            "sourceIds": [
+              "Q40",
+              "Q41"
+            ],
+            "result": "Am 13. November 2026 organisierte Fridays for Future Proteste in mehr als 70 deutschen Städten. In Berlin meldeten Polizei und Veranstalter ungefähr 1.000 beziehungsweise 3.500 Teilnehmende. Das belegt einen jüngeren Klimastreik, aber keine unabhängig konsolidierte bundesweite Teilnehmerzahl von 10.000 und auch nicht sicher, welches Ereignis Neubauer mit der Zahl meinte. Die konkrete Summe bleibt offen."
           }
         ]
       },
@@ -3168,9 +3356,9 @@
       "id": "sp5TM1dh4Og-A0047",
       "chapter": 5,
       "kind": "Tatsachenbehauptung",
-      "status": "In Bearbeitung",
+      "status": "Abgeschlossen",
       "description": "Ein Filmemacher bezeichnete einen Greta-Thunberg-Clip über deutsche Klimastreiks als aus dem Kontext gerissen.",
-      "reason": "Es fehlt eine unabhängige Sichtung der vollständigen Dokumentarszene und der wörtlichen Stellungnahme des Filmemachers. Der Podcast schreibt die Interpretation dem Filmemacher zu.",
+      "reason": "Die taz dokumentierte am 13. November 2026 ausdrücklich die öffentliche Stellungnahme des Filmemachers Hubertus Koch, ein kurzer Ausschnitt aus seinem Film werde aus dem Kontext gerissen. Damit ist die begrenzte Aussage belegt, dass Koch dies erklärt hat. Ob alle verbreiteten Deutungen der Szene zutreffen, lässt sich nicht allein aus dieser Stellungnahme entscheiden; Kochs Instagram-Original wurde nicht gesondert angesehen.",
       "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
       "occurrences": [
         {
@@ -3189,10 +3377,14 @@
         {
           "sourceId": "V01",
           "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q34",
+          "note": "Nachrecherche 24.11.2026; siehe genaue Quelle, Definition und Einschränkung."
         }
       ],
       "research": {
-        "confidence": "Niedrig",
+        "confidence": "Hoch",
         "rounds": [
           {
             "date": "2026-11-24",
@@ -3200,6 +3392,15 @@
             "strategy": "Transkript vollständig gelesen, aber entscheidende externe Originalgrundlage fehlt oder Aussage ist normativ.",
             "sourceIds": [],
             "result": "Es fehlt eine unabhängige Sichtung der vollständigen Dokumentarszene und der wörtlichen Stellungnahme des Filmemachers. Der Podcast schreibt die Interpretation dem Filmemacher zu."
+          },
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT) – Nachrecherche",
+            "strategy": "Erneute eigenständige themenbezogene Quellenrecherche; Abgleich der Fundstelle im gelieferten Podcasttranskript mit zusätzlichen Behörden-, Forschungs- und Medienquellen; keine neue Originaltonprüfung.",
+            "sourceIds": [
+              "Q34"
+            ],
+            "result": "Die taz dokumentierte am 13. November 2026 ausdrücklich die öffentliche Stellungnahme des Filmemachers Hubertus Koch, ein kurzer Ausschnitt aus seinem Film werde aus dem Kontext gerissen. Damit ist die begrenzte Aussage belegt, dass Koch dies erklärt hat. Ob alle verbreiteten Deutungen der Szene zutreffen, lässt sich nicht allein aus dieser Stellungnahme entscheiden; Kochs Instagram-Original wurde nicht gesondert angesehen."
           }
         ]
       },
@@ -3210,6 +3411,10 @@
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24",
         "assessedBeforeVerdict": false
+      },
+      "verdict": "Belegt",
+      "migration": {
+        "assessmentChange": "24.11.2026, Kai (ChatGPT): vorher In Bearbeitung ohne Urteil, nun Belegt. Grund: neue gesondert dokumentierte Quellen Q34. Die vorläufige Gewichtung blieb unverändert."
       }
     },
     {
@@ -3218,7 +3423,7 @@
       "kind": "Tatsachenbehauptung",
       "status": "In Bearbeitung",
       "description": "Greta Thunberg habe selbst gesagt, sie wolle seit Tag eins den Kapitalismus abschaffen.",
-      "reason": "Der Originalwortlaut aus der Dokumentation wurde nicht selbst eingesehen. Nur als vom Moderator wiedergegebene fremde Äußerung erfasst, ohne eigene Zurechnung.",
+      "reason": "Eine getrennte journalistische Filmprüfung lokalisiert eine sinngemäße Äußerung Greta Thunbergs über den Kapitalismus im Film von Hubertus Koch bei etwa Minute 08:23. Sie fällt nach einer offenbar ironischen Aufzählung von Vorwürfen. Der Wortlaut wird sekundär berichtet; ob damit ihr persönlicher, von Anfang an unverändert verfolgter politischer Plan gemeint war, ist daraus allein nicht eindeutig. Der Originalfilm (https://www.youtube.com/watch?v=zc1rItlQB2U) muss noch an der Stelle unmittelbar geprüft werden; bis dahin kein endgültiges Wortlaut- und Bedeutungsurteil.",
       "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
       "occurrences": [
         {
@@ -3237,10 +3442,14 @@
         {
           "sourceId": "V01",
           "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q42",
+          "note": "Nachrecherche 24.11.2026; siehe genaue Quelle, Definition und Einschränkung."
         }
       ],
       "research": {
-        "confidence": "Niedrig",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-24",
@@ -3248,6 +3457,15 @@
             "strategy": "Transkript vollständig gelesen, aber entscheidende externe Originalgrundlage fehlt oder Aussage ist normativ.",
             "sourceIds": [],
             "result": "Der Originalwortlaut aus der Dokumentation wurde nicht selbst eingesehen. Nur als vom Moderator wiedergegebene fremde Äußerung erfasst, ohne eigene Zurechnung."
+          },
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT) – Nachrecherche",
+            "strategy": "Erneute eigenständige themenbezogene Quellenrecherche; Abgleich der Fundstelle im gelieferten Podcasttranskript mit zusätzlichen Behörden-, Forschungs- und Medienquellen; keine neue Originaltonprüfung.",
+            "sourceIds": [
+              "Q42"
+            ],
+            "result": "Eine getrennte journalistische Filmprüfung lokalisiert eine sinngemäße Äußerung Greta Thunbergs über den Kapitalismus im Film von Hubertus Koch bei etwa Minute 08:23. Sie fällt nach einer offenbar ironischen Aufzählung von Vorwürfen. Der Wortlaut wird sekundär berichtet; ob damit ihr persönlicher, von Anfang an unverändert verfolgter politischer Plan gemeint war, ist daraus allein nicht eindeutig. Der Originalfilm (https://www.youtube.com/watch?v=zc1rItlQB2U) muss noch an der Stelle unmittelbar geprüft werden; bis dahin kein endgültiges Wortlaut- und Bedeutungsurteil."
           }
         ]
       },

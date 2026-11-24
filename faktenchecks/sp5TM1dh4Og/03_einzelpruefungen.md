@@ -2,6 +2,7 @@
 
 Prüfung durch Kai, 2026-11-24. Grundlage: vollständig gelesenes deutsches Nutzertranskript, nicht die eigene lückenlose Hör- und Bildprüfung. Die Videozeitmarken sind **ungefähr** und die Einzelurteile **vorläufig bis zum unabhängigen Review**. Offene Aussagen sind nicht widerlegt. Fremde Zitate bleiben von der Podcast-Zurechnung ausgenommen.
 
+
 ## sp5TM1dh4Og-A0001 – Fridays for Future mobilisierte 2019 in Deutschland mehr als eine Million Menschen.
 
 - **Zeit:** ungefähr 00:00:27. **Sprecher:** Paul Ronzheimer.
@@ -32,7 +33,7 @@ Prüfung durch Kai, 2026-11-24. Grundlage: vollständig gelesenes deutsches Nutz
 - **Bewertung:** Meinung / Prognose.
 - **Begründung:** Das ist eine politische und normative Einordnung. Einzelne Parteipositionen wären konkret zu untersuchen, aber die pauschale Gesamtwertung ist kein messbarer Einzelfakt.
 - **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q02](https://www.bpb.de/themen/parteien/parteien-in-deutschland/afd/273132/die-programmatik-der-afd/).
-- **Bedeutung:** 0.5 (vorläufig). 
+- **Bedeutung:** 1 (vorläufig). 
 
 ## sp5TM1dh4Og-A0005 – Die Klimabewegung habe bewiesen, dass sich mit dem Klimathema Wahlen gewinnen lassen.
 
@@ -40,7 +41,7 @@ Prüfung durch Kai, 2026-11-24. Grundlage: vollständig gelesenes deutsches Nutz
 - **Bewertung:** Meinung / Prognose.
 - **Begründung:** Es handelt sich um eine politische Deutung von Mobilisierung und Wahlen; ein direkt nachgewiesener Kausaleffekt einzelner Proteste auf Wahlergebnisse wird nicht quantifiziert.
 - **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og).
-- **Bedeutung:** 1.5 (vorläufig). 
+- **Bedeutung:** 1 (vorläufig). 
 
 ## sp5TM1dh4Og-A0006 – Die AfD habe 2019 bis 2021 historisch niedrige Zustimmungswerte gehabt.
 
@@ -85,9 +86,9 @@ Prüfung durch Kai, 2026-11-24. Grundlage: vollständig gelesenes deutsches Nutz
 ## sp5TM1dh4Og-A0011 – Das deutsche EEG sei international ein großer Exportschlager gewesen.
 
 - **Zeit:** ungefähr 00:15:02. **Sprecher:** Luisa Neubauer.
-- **Bewertung:** In Bearbeitung (kein Urteil).
-- **Begründung:** Die internationale Übernahme einzelner EEG-Elemente wurde hier nicht anhand ausgewählter Gesetzesvergleiche nachgewiesen. Exportschlager ist außerdem eine Wertung.
-- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og).
+- **Bewertung:** Teilweise belegt.
+- **Begründung:** Die wissenschaftliche Literatur beschreibt das deutsche EEG als frühen Wegbereiter von Einspeisetarifen und als bedeutenden Einfluss auf die internationale Verbreitung ähnlicher Fördermodelle. Damit ist die weltweite Vorbildrolle belegt. Ob das EEG als konkretes deutsches Gesetz oder als kommerzieller Exportschlager einzustufen ist, bleibt eine rhetorische Wertung; gleichartige Auslandsregelungen sind nicht identisch mit dem deutschen EEG.
+- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q36](https://www.sciencedirect.com/science/article/abs/pii/S0301421519301272), [Q37](https://www.sciencedirect.com/science/article/pii/S2214629618305152).
 - **Bedeutung:** 0.5 (vorläufig). 
 
 ## sp5TM1dh4Og-A0012 – Ein Teil der deutschen Automobilindustrie manipulierte Dieselabgasmessungen.
@@ -149,17 +150,17 @@ Prüfung durch Kai, 2026-11-24. Grundlage: vollständig gelesenes deutsches Nutz
 ## sp5TM1dh4Og-A0019 – Nepal wurde in jüngster Zeit von mehreren schweren Fluten hintereinander getroffen.
 
 - **Zeit:** ungefähr 00:23:02. **Sprecher:** Luisa Neubauer.
-- **Bewertung:** In Bearbeitung (kein Urteil).
-- **Begründung:** Der Gesprächskontext bestimmt keine eindeutige Flut, Region oder Jahreszahl. Die konkrete Ereigniskette und Schadenszahlen wurden nicht unabhängig rekonstruiert.
-- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q17](https://www.ipcc.ch/report/ar6/syr/summary-for-policymakers/).
+- **Bewertung:** Belegt.
+- **Begründung:** Der Weltbankbericht vom Oktober 2026 nennt eine schwere Flut vom 26. August 2026 im Bhote-Koshi-/Trishuli-Korridor und verweist ausdrücklich auf eine weitere größere Gletscherflut im selben grenzüberschreitenden Himalaya-Korridor im Juli 2025. Der sachliche Kern wiederholter schwerer Fluten ist damit belegt. Die konkreten Lebensgeschichten der im Podcast angesprochenen Personen wurden nicht unabhängig nachgeprüft.
+- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q17](https://www.ipcc.ch/report/ar6/syr/summary-for-policymakers/), [Q35](https://www.worldbank.org/en/country/nepal/publication/nepaldevelopmentupdate).
 - **Bedeutung:** 1 (vorläufig). 
 
 ## sp5TM1dh4Og-A0020 – US-Hilfekürzungen hätten in Nepal ein Bergwarnsystem lahmgelegt und dadurch Opfer einer Flut verursacht.
 
 - **Zeit:** ungefähr 00:23:28. **Sprecher:** Luisa Neubauer.
 - **Bewertung:** In Bearbeitung (kein Urteil).
-- **Begründung:** Es fehlen ein bezeichnetes Ereignis, der betroffene Warnsystembetreiber, Finanzierungsvorgänge und Nachweise über ausgefallene Warnungen. Dieser konkrete Ursachenzusammenhang bleibt offen.
-- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og).
+- **Begründung:** Medienrecherchen dokumentieren, dass das NASA-/USAID-Projekt SERVIR-HKH zur Überwachung und Hochwasserwarnung in Nepal im Januar 2025 endete und bestimmte technische Weiterentwicklungen und Unterstützungsleistungen ausfielen. Laut Foreign Policy bestanden jedoch einige Werkzeuge weiter; zur Ursache und zum Ende des Programms liegen unterschiedliche Darstellungen vor. Nicht belegt ist bislang, dass bei der konkret angesprochenen Flut alle Berg-Monitoringsysteme ausgefallen waren, keine Warnung gegeben wurde und sich dadurch bestimmte Opferzahlen erklären lassen. Deshalb bleibt die genaue Kausalkette offen.
+- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q38](https://foreignpolicy.com/2026/10/15/nepal-usaid-doge-floods-united-states-funding/), [Q39](https://english.elpais.com/international/2026-10-09/how-usaid-cuts-left-nepals-children-exposed-to-deadly-floods.html?outputType=amp).
 - **Bedeutung:** 1.5 (vorläufig). 
 
 ## sp5TM1dh4Og-A0021 – Die menschengemachte Erwärmung verschärft Klimaextremrisiken und trifft besonders verletzliche Länder.
@@ -253,9 +254,9 @@ Prüfung durch Kai, 2026-11-24. Grundlage: vollständig gelesenes deutsches Nutz
 ## sp5TM1dh4Og-A0032 – Bundeskanzler Merz habe COP31 persönlich nicht besucht.
 
 - **Zeit:** ungefähr 00:31:03. **Sprecher:** Luisa Neubauer.
-- **Bewertung:** In Bearbeitung (kein Urteil).
-- **Begründung:** Der Gesprächskontext deutet seine Abwesenheit an. Ein amtlicher Delegations- und Terminplan für Antalya wurde noch nicht unabhängig eingesehen.
-- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og).
+- **Bewertung:** Belegt.
+- **Begründung:** In der Regierungspressekonferenz vom 6. November 2026 erklärte Regierungssprecher Steffen Kornelius ausdrücklich, Bundeskanzler Friedrich Merz könne wegen anderer Termine nicht zur COP31 reisen. Umweltminister Carsten Schneider übernahm die politische Vertretung; ein rbb-Bericht vom 13. November bestätigt die Nichtteilnahme. Die Tatsachenbehauptung ist belegt, politische Bewertungen der Priorität des Kanzlers sind davon getrennt.
+- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q33](https://www.bundesregierung.de/breg-de/aktuelles/regierungspressekonferenz-vom-6-november-2026-2460276), [Q41](https://www.rbb24.de/politik/beitrag/2026/11/weltklimakonferenz-fridays-for-future-demos-berlin-brandenburg.html).
 - **Bedeutung:** 1 (vorläufig). 
 
 ## sp5TM1dh4Og-A0033 – Die deutsche Klimapolitik ist auch eine Frage des Grundgesetzes.
@@ -358,8 +359,8 @@ Prüfung durch Kai, 2026-11-24. Grundlage: vollständig gelesenes deutsches Nutz
 
 - **Zeit:** ungefähr 00:45:35. **Sprecher:** Luisa Neubauer.
 - **Bewertung:** In Bearbeitung (kein Urteil).
-- **Begründung:** Ohne eindeutig benannten Ort und Veranstaltungstag wurde keine aussagekräftige Veranstalter- oder Polizeizählung geprüft.
-- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og).
+- **Begründung:** Am 13. November 2026 organisierte Fridays for Future Proteste in mehr als 70 deutschen Städten. In Berlin meldeten Polizei und Veranstalter ungefähr 1.000 beziehungsweise 3.500 Teilnehmende. Das belegt einen jüngeren Klimastreik, aber keine unabhängig konsolidierte bundesweite Teilnehmerzahl von 10.000 und auch nicht sicher, welches Ereignis Neubauer mit der Zahl meinte. Die konkrete Summe bleibt offen.
+- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q40](https://fridaysforfuture.de/pm-fridays-for-future-protestiert-am-freitag-in-ueber-70-staedten-anlaesslich-weltklimakonferenz/), [Q41](https://www.rbb24.de/politik/beitrag/2026/11/weltklimakonferenz-fridays-for-future-demos-berlin-brandenburg.html).
 - **Bedeutung:** 0.5 (vorläufig). 
 
 ## sp5TM1dh4Og-A0046 – Im November 2026 verhandeln Linke, SPD und Grüne über eine Berliner Regierung.
@@ -373,17 +374,17 @@ Prüfung durch Kai, 2026-11-24. Grundlage: vollständig gelesenes deutsches Nutz
 ## sp5TM1dh4Og-A0047 – Ein Filmemacher bezeichnete einen Greta-Thunberg-Clip über deutsche Klimastreiks als aus dem Kontext gerissen.
 
 - **Zeit:** ungefähr 00:51:30. **Sprecher:** Paul Ronzheimer.
-- **Bewertung:** In Bearbeitung (kein Urteil).
-- **Begründung:** Es fehlt eine unabhängige Sichtung der vollständigen Dokumentarszene und der wörtlichen Stellungnahme des Filmemachers. Der Podcast schreibt die Interpretation dem Filmemacher zu.
-- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og).
+- **Bewertung:** Belegt.
+- **Begründung:** Die taz dokumentierte am 13. November 2026 ausdrücklich die öffentliche Stellungnahme des Filmemachers Hubertus Koch, ein kurzer Ausschnitt aus seinem Film werde aus dem Kontext gerissen. Damit ist die begrenzte Aussage belegt, dass Koch dies erklärt hat. Ob alle verbreiteten Deutungen der Szene zutreffen, lässt sich nicht allein aus dieser Stellungnahme entscheiden; Kochs Instagram-Original wurde nicht gesondert angesehen.
+- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q34](https://taz.de/Video-Clip-aus-Doku-Film/%216229794/).
 - **Bedeutung:** 0.5 (vorläufig). 
 
 ## sp5TM1dh4Og-A0048 – Greta Thunberg habe selbst gesagt, sie wolle seit Tag eins den Kapitalismus abschaffen.
 
 - **Zeit:** ungefähr 00:53:40. **Sprecher:** Greta Thunberg (vorgelesenes Zitat).
 - **Bewertung:** In Bearbeitung (kein Urteil).
-- **Begründung:** Der Originalwortlaut aus der Dokumentation wurde nicht selbst eingesehen. Nur als vom Moderator wiedergegebene fremde Äußerung erfasst, ohne eigene Zurechnung.
-- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og).
+- **Begründung:** Eine getrennte journalistische Filmprüfung lokalisiert eine sinngemäße Äußerung Greta Thunbergs über den Kapitalismus im Film von Hubertus Koch bei etwa Minute 08:23. Sie fällt nach einer offenbar ironischen Aufzählung von Vorwürfen. Der Wortlaut wird sekundär berichtet; ob damit ihr persönlicher, von Anfang an unverändert verfolgter politischer Plan gemeint war, ist daraus allein nicht eindeutig. Der Originalfilm (https://www.youtube.com/watch?v=zc1rItlQB2U) muss noch an der Stelle unmittelbar geprüft werden; bis dahin kein endgültiges Wortlaut- und Bedeutungsurteil.
+- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q42](https://faktenfackel.de/quellen/medien/apollo-news/links/greta-graichen-lachen-untergang).
 - **Bedeutung:** 0.5 (vorläufig). Nur fremdes Zitat – nicht dem Podcast als eigenes Faktenurteil zugerechnet.
 
 ## sp5TM1dh4Og-A0049 – Für 2026/27 wird ein sehr starker El Niño erwartet.
