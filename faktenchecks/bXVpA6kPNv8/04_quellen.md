@@ -442,6 +442,22 @@ Originalbericht 28.01.2025: Datum der erwähnten Nachricht; Ereignislieferung 20
 
 **Zugriff 2026-11-23:** Originalquelle im Rechercheteam geöffnet und einschlägige Fundstellen gelesen; Reichweite und Eigeninteressen bei der Einzelbewertung berücksichtigt.
 
+## M15 · GICON: Beginn der Hochbauarbeiten am Höhenwindturm
+
+[Quelle öffnen](https://www.gicon.de/aktuelles/artikel/365-meter-als-ziel-beginn-der-hochbauarbeiten-am-gicon-r-hoehenwindturm)
+
+16.07.2025: Für die 3,8-MW-Turbine von VENSYS prognostiziert GICON mindestens rund 18 GWh Jahresertrag und etwa 6.000 Haushalte. Projektprognose, kein Messwert.
+
+**Zugriff 2026-11-24:** Kai: Originalmeldung geöffnet; Absatz zur 3,8-MW-Turbine, Jahresertrag und Haushaltszahl gelesen.
+
+## M16 · GICON: Höhenwindturm eingeweiht und am Netz
+
+[Quelle öffnen](https://w3.windmesse.de/windenergie/pm/49923-gicon-hohenwindturm-windenergie-schipkau-serienfertigung)
+
+19.11.2026: Die veröffentlichte GICON-Originalmeldung bestätigt Einweihung und Netzanschluss, nennt aber keinen gemessenen Jahresertrag.
+
+**Zugriff 2026-11-24:** Kai: Auf Windmesse veröffentlichte Originalmeldung der GICON-Pressestelle geöffnet; Vorspann und Angaben zum Betrieb gelesen.
+
 ## H01 · Stefan Holzheu: BGR-Fehlerdiskussion, 30.11.2020
 
 [Quelle öffnen](https://www.bayceer.uni-bayreuth.de/infraschall/de/windenergi/gru/html.php?id_obj=157370)
