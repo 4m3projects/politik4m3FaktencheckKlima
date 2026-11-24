@@ -6,8 +6,8 @@
     "kind": "Vollständige Nutzertranskript-Lektüre und breit angelegte quellengestützte Sachanalyse (kein vollständiger Bild-/Tonabgleich)",
     "asOf": "2026-11-24",
     "durationSeconds": 4097,
-    "coverageNote": "Alle gelieferten Textabschnitte 00:00 bis 01:08:04 gelesen; Videolaufzeit 68:17 nach Podcastverzeichnis. Automatische Wortfehler, Sprecherwechsel und exakte Zeitgrenzen sind nicht durch Hörprüfung bestätigt. 56 wichtige Einzelpositionen erfasst (davon 43 abschließend geprüfte und 10 noch offene Tatsachenaussagen), jedoch keine Gewähr, dass visuelle Einblendungen/Äußerungen außerhalb der Textspur erfasst sind. Berechnete Abdeckung bezieht sich ausschließlich auf inventarisierte Tatsachenaussagen.",
-    "researchNote": "Webbasierte Prüfung mit öffentlich zugänglichen Quellen von IPCC, UN, UNFCCC, BVerfG, IEA, IRENA, Destatis, UBA, EU und Fachmedien. Vorläufige Bedeutung, kein zweiter Agentenreview. Kontextpolitische Aussagen, Gegenpositionen und unklare Zahlen nicht ohne Beweise falsch bewertet. vidIQ wurde nicht benutzt. Nachrecherche 24.11.2026: Vier vorher offene Sachbehauptungen anhand neu geprüfter Publikationen vorsichtig eingestuft. Bei Frühwarnsystemen in Nepal, Demonstrationszahlen und Greta-Kapitalismus-Äußerung Quellenkontext nachgetragen, ohne fehlenden Originalfilm-/Tonabgleich zu übergehen. Faktoren/Anteile unverändert; neue Urteile benötigen unabhängige Gegenprüfung."
+    "coverageNote": "Alle gelieferten Textabschnitte 00:00 bis 01:08:04 gelesen; Videolaufzeit 68:17 nach Podcastverzeichnis. Automatische Wortfehler, Sprecherwechsel und exakte Zeitgrenzen sind nicht durch Hörprüfung bestätigt. 56 wichtige Einzelpositionen erfasst (davon 50 abschließend geprüfte und 3 noch offene Tatsachenaussagen), jedoch keine Gewähr, dass visuelle Einblendungen/Äußerungen außerhalb der Textspur erfasst sind. Berechnete Abdeckung bezieht sich ausschließlich auf inventarisierte Tatsachenaussagen.",
+    "researchNote": "Webbasierte Prüfung mit öffentlich zugänglichen Quellen von IPCC, UN, UNFCCC, BVerfG, IEA, IRENA, Destatis, UBA, EU und Fachmedien. Vorläufige Bedeutung, kein zweiter Agentenreview. Kontextpolitische Aussagen, Gegenpositionen und unklare Zahlen nicht ohne Beweise falsch bewertet. vidIQ wurde nicht benutzt. Nachrecherche 24.11.2026: Vier vorher offene Sachbehauptungen anhand neu geprüfter Publikationen vorsichtig eingestuft. Bei Frühwarnsystemen in Nepal, Demonstrationszahlen und Greta-Kapitalismus-Äußerung Quellenkontext nachgetragen, ohne fehlenden Originalfilm-/Tonabgleich zu übergehen. Faktoren/Anteile unverändert; neue Urteile benötigen unabhängige Gegenprüfung. Weitere selbständige Nachrecherche 24.11.2026: sieben vormals offene Punkte vorsichtig abgeschlossen, drei Wortlaut- bzw. Kontrafaktfragen belassen. Quellenvergleich: AfD-Wahlen, Solarbeschäftigung, Betreiberhinweise für Nepal, US-Wahlkampfbotschaften, DLF, Doku-Zitat und Hamas-Verurteilung 2023. Gewichte bleiben vorläufig und benötigen unabhängige Kontrolle."
   },
   "speakers": [
     {
@@ -385,6 +385,159 @@
       "accessedOn": "2026-11-24",
       "accessBasis": "Ausführliche sekundäre Filmprüfung gelesen; eigenen vollständigen Originalfilmabgleich noch nicht vorgenommen.",
       "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q43",
+      "title": "Politische Vierteljahresschrift: The Changing Face of the AfD Electorate (2025)",
+      "url": "https://link.springer.com/article/10.1007/s11615-025-00612-y",
+      "details": "Politbarometer-Auswertung 2013–2022: 2013 ca. 2 Prozent AfD-Wahlneigung, 2015 unter 5 Prozent, 2020 bis Frühjahr 2022 durchschnittlich rund 6 Prozent.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Offene HTML-Fachstudie, einschlägigen Methodik- und Ergebnisteil gelesen.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q44",
+      "title": "Deutscher Bundestag: Bundestagswahlergebnisse seit 1949",
+      "url": "https://www.bundestag.de/parlament/wahlen/ergebnisse_seit1949-244692",
+      "details": "Offizielle AfD-Zweitstimmen: 2013 4,7 Prozent, 2017 12,6 Prozent, 2021 10,3 Prozent, 2025 20,8 Prozent; Wahlergebnisse sind keine Umfragen.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Offizielle HTML-Tabelle gelesen.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q45",
+      "title": "Bertelsmann Stiftung: Beschäftigungsrekord erneuerbare Energien (2026)",
+      "url": "https://www.bertelsmann-stiftung.de/de/themen/aktuelle-meldungen/2026/beschaeftigungsrekord-bei-erneuerbaren-energien-aber-kehrtwende-der-politik-gefaehrdet-arbeitsplaetze",
+      "details": "Pressemitteilung 24.06.2026: Solarbranche in Deutschland 2011 156.700, 2013 70.200, 2017 39.900 Beschäftigte; Förderkürzungen relevanter Faktor, nicht zwingend einzige Ursache.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Offiziellen öffentlichen Meldungstext über Suchauszüge gelesen, nicht die komplette zugrunde liegende Studie.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q46",
+      "title": "Deutscher Bundestag 2013: Deutsche Solarbranche schrumpft stark",
+      "url": "https://www.bundestag.de/webarchiv/presse/hib/2013_07/01-256480",
+      "details": "Bundesregierung machte 2013 weltweite Überkapazitäten verantwortlich und bestritt eine ursächliche EEG-Änderung. Dies ist eine damalige Regierungsposition, keine endgültige unabhängige Ursachenanalyse.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Offizielle Archivmeldung vollständig gelesen.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q47",
+      "title": "OECD Umweltprüfbericht Deutschland 2023",
+      "url": "https://www.oecd.org/de/publications/oecd-umweltprufberichte-deutschland-2023_9a336992-de/full-report/component-6.html",
+      "details": "OECD: 2011–2021 Beschäftigung in Erneuerbaren um 17 Prozent gesunken; starke asiatische Konkurrenz als wichtige Ursache für Solarjobs.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Originalen HTML-OECD-Bericht im relevanten Abschnitt gelesen.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q48",
+      "title": "ICIMOD-Jahresrückblick 2025: USAID-Finanzierungsabbrüche",
+      "url": "https://www.icimod.org/directorate/2025-reflections-walking-with-the-mountains/",
+      "details": "ICIMOD bestätigt, dass US-Finanzierungsrückgänge die Weiterbetreuung verschiedener SERVIR-HKH-Partner beeinträchtigten.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Offizielle institutionelle Veröffentlichung vom Januar 2026 im einschlägigen Teil gelesen.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q49",
+      "title": "SERVIR-HKH: Betreiberstatus der Frühwarnwerkzeuge",
+      "url": "https://servir.icimod.org/",
+      "details": "Offizieller öffentlich indexierter Hinweis: SERVIR-HKH endete Januar 2025, dessen Werkzeuge sind weiterhin aktiv und betriebsfähig; Betreiberperspektive, die fehlende Unterstützungsleistungen nicht ausschließt.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Originalstatus via öffentliche Suchauszüge gelesen; direkter Seitenaufruf hatte zeitweise Serverfehler.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q50",
+      "title": "Deutschlandfunk 13.11.2026: Klimastreiks bundesweit",
+      "url": "https://www.deutschlandfunk.de/klimabewegung-fridays-for-future-mobilisiert-bundesweit-zehntausende-102.html",
+      "details": "Veranstalter schätzten mehrere Zehntausend Protestierende an rund 70 Orten in Deutschland, keine bundesweit einheitliche Polizeizählung.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Öffentliche Textpassagen der Meldung im Suchresultat gelesen, Direktabruf zeitweise nicht möglich.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q51",
+      "title": "S&P Global 20.08.2026: Wahlkampf und saubere Energie",
+      "url": "https://www.spglobal.com/energy/en/news-research/latest-news/electric-power/082026-clean-energy-politics-get-boost-from-affordability-debate-in-midterm-campaigns",
+      "details": "Demokratische Wahlkampagnen warben mit Wind- und Solarenergie, vor allem im Zusammenhang mit Stromkosten; kein Beweis für ursächlichen Wahlausgang.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Öffentlich lesbare Zusammenfassung/Rechercheauszüge, nicht den vollständigen Bezahltext.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q52",
+      "title": "Center for American Progress 04.11.2026: Powering the Midterms",
+      "url": "https://www.americanprogress.org/article/powering-the-midterms-how-candidates-connected-clean-energy-and-affordability/",
+      "details": "Parteinahe Wahlanalyse: Gewinner verbanden erneuerbare Energie und Kostenentlastung. Politische Interessenlage der Quelle beachten.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Öffentlich zugängliche Zusammenfassung gelesen; mit unabhängigem Pressebericht verglichen.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q53",
+      "title": "Axios 06.11.2026: Democrats' blue wave leaves climate behind",
+      "url": "https://www.axios.com/2026/11/06/democrats-blue-wave-climate-silence",
+      "details": "Wahlkämpfe konzentrierten sich vor allem auf Bezahlbarkeit und Energiepreise; Klima als separates Thema oft nachrangig. Keine Kausalanalyse für bestimmte Siege.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Öffentlich lesbaren Artikeltext in relevanten Auszügen gelesen.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q54",
+      "title": "taz 22.10.2023: Greta Thunberg verurteilt Hamas-Angriffe",
+      "url": "https://taz.de/Nach-umstrittenem-Post-auf-X/!5967826/",
+      "details": "Dokumentiert Thunbergs eigenen Post vom 21.10.2023, der die schrecklichen Angriffe der Hamas ausdrücklich verurteilt. Dies sagt nichts über ihre Beziehung zu konkreten späteren Mitaktivisten aus.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Artikel mit wiedergegebener Originaläußerung und Korrekturhinweis vollständig gelesen.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q55",
+      "title": "Le Monde 19.11.2023: Greta Thunbergs Gaza-Position",
+      "url": "https://www.lemonde.fr/en/international/article/2023/11/19/greta-thunberg-s-gaza-stance-splits-the-fridays-for-future-climate-movement_6268612_4.html",
+      "details": "Unabhängige Bestätigung des Thunberg-Posts vom 21.10.2023 gegen die Hamas-Angriffe; dokumentiert zugleich damalige Kontroversen.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Öffentliche Artikelpassagen gelesen, nicht kompletten Bezahlinhalt.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q56",
+      "title": "WELT 14.11.2026: Greta-Kapitalismus-Szene aus Koch-Film",
+      "url": "https://www.welt.de/vermischtes/article6af5803cd2f851d14ad004b6/greta-thunberg-die-machen-das-immer-noch-lacht-sie-ueber-deutsche-klima-proteste.html",
+      "details": "Die Filmpassage wird mit ironischer Vorwurfsaufzählung und Thunbergs Aussage zitiert, man habe den Kapitalismus von Anfang an stürzen wollen. Keine Aussage über Position jedes FFF-Mitglieds.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Öffentlichen ausführlichen journalistischen Bericht gelesen, Originalfilm nicht eigenständig vollständig geprüft.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q57",
+      "title": "IISD 2024: Senegal's Big LNG Gamble",
+      "url": "https://www.iisd.org/publications/report/senegal-lng-gamble",
+      "details": "Risiken von Senegals LNG-Exportvorhaben für lokale Energieversorgung, Staatseinnahmen und Fehlinvestitionen; Risikoanalyse statt Nachweis eingetretener Schuldenspirale.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Offizielle HTML-Berichtszusammenfassung gelesen, nicht die komplette PDF.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q58",
+      "title": "Bundestag 27.10.2026: Keine JETP-Darlehen an Senegal vergeben",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1229794",
+      "details": "Laut Bundesregierung für die Just Energy Transition Partnership mit Senegal bisher deutsche Haushaltszuschüsse, EU und EIB bislang keine JETP-Darlehen an Senegal; hohe bereits bestehende Staatsverschuldung.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Relevanten offiziellen Meldungswortlaut in öffentlichem Suchergebnis gelesen.",
+      "kind": "Nachrecherche"
+    },
+    {
+      "id": "Q59",
+      "title": "BMZ: Deutsche Energie- und Entwicklungszusammenarbeit mit Senegal",
+      "url": "https://www.bmz.de/de/laender/senegal",
+      "details": "Staatliche Partnerschaft fördert erneuerbare Energien, Energieeffizienz und Zugang zu Strom, nicht automatisch Gasförderung.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Offizielle BMZ-Länderübersicht im einschlägigen Teil gelesen.",
+      "kind": "Nachrecherche"
     }
   ],
   "claims": [
@@ -672,10 +825,10 @@
       "id": "sp5TM1dh4Og-A0006",
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
-      "status": "In Bearbeitung",
+      "status": "Abgeschlossen",
       "description": "Die AfD habe 2019 bis 2021 historisch niedrige Zustimmungswerte gehabt.",
-      "reason": "Der Superlativ historisch niedrig verlangt eine definierte Umfrageserie und den Vergleich über die ganze Parteigeschichte. Das wurde nicht unabhängig ausgewertet.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "reason": "Die AfD hatte in der Zeit 2020/21 im Vergleich zu 2017 und zur Entwicklung nach 2022 relativ niedrige Zustimmungs- und Wahlneigungswerte. Die Politbarometer-Längsschnittanalyse weist 2020 bis Frühjahr 2022 im Mittel rund sechs Prozent AfD-Wahlneigung aus. Ein historisches Allzeittief war das aber nicht: Schon 2013/15 wurden niedrigere Werte erfasst, bei der Bundestagswahl 2013 waren es 4,7 Prozent gegenüber 10,3 Prozent 2021. Die Formulierung historisch niedrig trifft als Vergleich mit der späteren Entwicklung zu, nicht als Tiefststand der gesamten Parteigeschichte.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Vertiefte Nachrecherche vom 24.11.2026; die Transkript- und audiovisuelle Unsicherheit bleibt bestehen.",
       "occurrences": [
         {
           "startSeconds": 604,
@@ -693,10 +846,18 @@
         {
           "sourceId": "V01",
           "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q43",
+          "note": "Neue externe Prüfung vom 24.11.2026; Reichweite siehe Quelle und Begründung."
+        },
+        {
+          "sourceId": "Q44",
+          "note": "Neue externe Prüfung vom 24.11.2026; Reichweite siehe Quelle und Begründung."
         }
       ],
       "research": {
-        "confidence": "Niedrig",
+        "confidence": "Hoch",
         "rounds": [
           {
             "date": "2026-11-24",
@@ -704,6 +865,16 @@
             "strategy": "Transkript vollständig gelesen, aber entscheidende externe Originalgrundlage fehlt oder Aussage ist normativ.",
             "sourceIds": [],
             "result": "Der Superlativ historisch niedrig verlangt eine definierte Umfrageserie und den Vergleich über die ganze Parteigeschichte. Das wurde nicht unabhängig ausgewertet."
+          },
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT) – vertiefte Quellenrecherche",
+            "strategy": "Neue Fach-, Behörden-, Betreiber- und unabhängige Medienquellen mit dem gegebenen Transkript verglichen; keine vollständige audiovisuelle Sichtung und keine unabhängige KI-Gegenprüfung.",
+            "sourceIds": [
+              "Q43",
+              "Q44"
+            ],
+            "result": "Die AfD hatte in der Zeit 2020/21 im Vergleich zu 2017 und zur Entwicklung nach 2022 relativ niedrige Zustimmungs- und Wahlneigungswerte. Die Politbarometer-Längsschnittanalyse weist 2020 bis Frühjahr 2022 im Mittel rund sechs Prozent AfD-Wahlneigung aus. Ein historisches Allzeittief war das aber nicht: Schon 2013/15 wurden niedrigere Werte erfasst, bei der Bundestagswahl 2013 waren es 4,7 Prozent gegenüber 10,3 Prozent 2021. Die Formulierung historisch niedrig trifft als Vergleich mit der späteren Entwicklung zu, nicht als Tiefststand der gesamten Parteigeschichte."
           }
         ]
       },
@@ -723,6 +894,11 @@
         "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24"
+      },
+      "verdict": "Teilweise belegt",
+      "shortReason": "Die AfD hatte in der Zeit 2020/21 im Vergleich zu 2017 und zur Entwicklung nach 2022 relativ niedrige Zustimmungs- und Wahlneigungswerte.",
+      "migration": {
+        "assessmentChange": "2026-11-24: Kai (ChatGPT); vorher In Bearbeitung ohne Urteil, jetzt Teilweise belegt. Neue Quellen: Q43, Q44. Gewichtfaktor unverändert; keine Zweitagentenprüfung."
       }
     },
     {
@@ -1134,8 +1310,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "In Bearbeitung",
       "description": "Der Dieselbetrug habe Deutschlands Führungsrolle beim Elektroauto entscheidend verspielt.",
-      "reason": "Die Handlung ist dokumentiert, die weitreichende ökonomische Kausalbehauptung jedoch nicht durch einen geeigneten kontrafaktischen Vergleich belegt.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "reason": "Der Dieselbetrug bei Volkswagen ist amtlich dokumentiert, und der spätere internationale Elektroauto-Boom ist messbar. Daraus lässt sich jedoch kein überprüfbarer Gegenverlauf ableiten, in dem Deutschland ohne Abgasmanipulation sicher zum führenden Elektroautostandort geworden wäre. Der im Podcast behauptete entscheidende industrielle Ursachenzusammenhang bleibt eine nicht quantifizierte kontrafaktische Deutung; dafür wäre eine unabhängige Branchen- und Investitionsanalyse mit Alternativerklärungen nötig.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Vertiefte Nachrecherche vom 24.11.2026; die Transkript- und audiovisuelle Unsicherheit bleibt bestehen.",
       "occurrences": [
         {
           "startSeconds": 1210,
@@ -1164,7 +1340,7 @@
         }
       ],
       "research": {
-        "confidence": "Niedrig",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-24",
@@ -1175,6 +1351,13 @@
               "Q24"
             ],
             "result": "Die Handlung ist dokumentiert, die weitreichende ökonomische Kausalbehauptung jedoch nicht durch einen geeigneten kontrafaktischen Vergleich belegt."
+          },
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT) – vertiefte Quellenrecherche",
+            "strategy": "Neue Fach-, Behörden-, Betreiber- und unabhängige Medienquellen mit dem gegebenen Transkript verglichen; keine vollständige audiovisuelle Sichtung und keine unabhängige KI-Gegenprüfung.",
+            "sourceIds": [],
+            "result": "Der Dieselbetrug bei Volkswagen ist amtlich dokumentiert, und der spätere internationale Elektroauto-Boom ist messbar. Daraus lässt sich jedoch kein überprüfbarer Gegenverlauf ableiten, in dem Deutschland ohne Abgasmanipulation sicher zum führenden Elektroautostandort geworden wäre. Der im Podcast behauptete entscheidende industrielle Ursachenzusammenhang bleibt eine nicht quantifizierte kontrafaktische Deutung; dafür wäre eine unabhängige Branchen- und Investitionsanalyse mit Alternativerklärungen nötig."
           }
         ]
       },
@@ -1329,10 +1512,10 @@
       "id": "sp5TM1dh4Og-A0016",
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
-      "status": "In Bearbeitung",
+      "status": "Abgeschlossen",
       "description": "Die damalige Bundesregierung habe diesen Arbeitsplatzverlust vor allem durch Blockade der Energiewende verursacht.",
-      "reason": "Es gibt mehrere mögliche Erklärungsfaktoren wie internationalen Wettbewerb und Preisentwicklung. Eine belastbare Allein- oder Hauptursachen-Zerlegung liegt nicht vor.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "reason": "Der Beschäftigungseinbruch in der Solarbranche nach 2011 und der Einfluss politisch gekürzter Solarförderung sind dokumentiert. Die Bertelsmann-Stiftung nennt Förderkürzungen als eine wichtige Ursache und die OECD betont gleichzeitig asiatische Konkurrenz; die damalige Bundesregierung sah 2013 allein weltweite Überkapazitäten als Ursache und widersprach einer ursächlichen EEG-Kürzung. Die pauschale Erklärung, vor allem eine Merkel-Regierung habe die Arbeitsplatzverluste durch Blockade verursacht, blendet wesentliche weitere Faktoren aus und ist als Alleinursache nicht belegt.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Vertiefte Nachrecherche vom 24.11.2026; die Transkript- und audiovisuelle Unsicherheit bleibt bestehen.",
       "occurrences": [
         {
           "startSeconds": 1265,
@@ -1354,10 +1537,22 @@
         {
           "sourceId": "Q08",
           "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        },
+        {
+          "sourceId": "Q45",
+          "note": "Neue externe Prüfung vom 24.11.2026; Reichweite siehe Quelle und Begründung."
+        },
+        {
+          "sourceId": "Q46",
+          "note": "Neue externe Prüfung vom 24.11.2026; Reichweite siehe Quelle und Begründung."
+        },
+        {
+          "sourceId": "Q47",
+          "note": "Neue externe Prüfung vom 24.11.2026; Reichweite siehe Quelle und Begründung."
         }
       ],
       "research": {
-        "confidence": "Niedrig",
+        "confidence": "Hoch",
         "rounds": [
           {
             "date": "2026-11-24",
@@ -1367,6 +1562,17 @@
               "Q08"
             ],
             "result": "Es gibt mehrere mögliche Erklärungsfaktoren wie internationalen Wettbewerb und Preisentwicklung. Eine belastbare Allein- oder Hauptursachen-Zerlegung liegt nicht vor."
+          },
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT) – vertiefte Quellenrecherche",
+            "strategy": "Neue Fach-, Behörden-, Betreiber- und unabhängige Medienquellen mit dem gegebenen Transkript verglichen; keine vollständige audiovisuelle Sichtung und keine unabhängige KI-Gegenprüfung.",
+            "sourceIds": [
+              "Q45",
+              "Q46",
+              "Q47"
+            ],
+            "result": "Der Beschäftigungseinbruch in der Solarbranche nach 2011 und der Einfluss politisch gekürzter Solarförderung sind dokumentiert. Die Bertelsmann-Stiftung nennt Förderkürzungen als eine wichtige Ursache und die OECD betont gleichzeitig asiatische Konkurrenz; die damalige Bundesregierung sah 2013 allein weltweite Überkapazitäten als Ursache und widersprach einer ursächlichen EEG-Kürzung. Die pauschale Erklärung, vor allem eine Merkel-Regierung habe die Arbeitsplatzverluste durch Blockade verursacht, blendet wesentliche weitere Faktoren aus und ist als Alleinursache nicht belegt."
           }
         ]
       },
@@ -1386,6 +1592,11 @@
         "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24"
+      },
+      "verdict": "Teilweise belegt",
+      "shortReason": "Der Beschäftigungseinbruch in der Solarbranche nach 2011 und der Einfluss politisch gekürzter Solarförderung sind dokumentiert.",
+      "migration": {
+        "assessmentChange": "2026-11-24: Kai (ChatGPT); vorher In Bearbeitung ohne Urteil, jetzt Teilweise belegt. Neue Quellen: Q45, Q46, Q47. Gewichtfaktor unverändert; keine Zweitagentenprüfung."
       }
     },
     {
@@ -1596,10 +1807,10 @@
       "id": "sp5TM1dh4Og-A0020",
       "chapter": 3,
       "kind": "Tatsachenbehauptung",
-      "status": "In Bearbeitung",
+      "status": "Abgeschlossen",
       "description": "US-Hilfekürzungen hätten in Nepal ein Bergwarnsystem lahmgelegt und dadurch Opfer einer Flut verursacht.",
-      "reason": "Medienrecherchen dokumentieren, dass das NASA-/USAID-Projekt SERVIR-HKH zur Überwachung und Hochwasserwarnung in Nepal im Januar 2025 endete und bestimmte technische Weiterentwicklungen und Unterstützungsleistungen ausfielen. Laut Foreign Policy bestanden jedoch einige Werkzeuge weiter; zur Ursache und zum Ende des Programms liegen unterschiedliche Darstellungen vor. Nicht belegt ist bislang, dass bei der konkret angesprochenen Flut alle Berg-Monitoringsysteme ausgefallen waren, keine Warnung gegeben wurde und sich dadurch bestimmte Opferzahlen erklären lassen. Deshalb bleibt die genaue Kausalkette offen.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "reason": "ICIMOD bestätigte selbst, dass US-Finanzierungsumbrüche 2025 die Betreuung von Partnern des NASA/USAID-Programms SERVIR-HKH beeinträchtigten. Der Betreiber führt aber zugleich auf seiner Projektseite aus, dass bestehende Warn- und Monitoringwerkzeuge aktiv und funktionsfähig blieben. Journalistische Recherchen zeigen weggefallene Weiterentwicklungen und Nutzerschulungen. Nicht nachgewiesen ist, dass bei der gemeinten Flut alle Bergwarnsysteme ausfielen, überhaupt keine Warnungen erfolgten und sich daraus konkret bestimmte Todesfälle erklären lassen. Der Programmverlust ist real, die pauschale Ausfall- und Opferkette jedoch überzogen.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Vertiefte Nachrecherche vom 24.11.2026; die Transkript- und audiovisuelle Unsicherheit bleibt bestehen.",
       "occurrences": [
         {
           "startSeconds": 1408,
@@ -1625,10 +1836,18 @@
         {
           "sourceId": "Q39",
           "note": "Nachrecherche 24.11.2026; siehe genaue Quelle, Definition und Einschränkung."
+        },
+        {
+          "sourceId": "Q48",
+          "note": "Neue externe Prüfung vom 24.11.2026; Reichweite siehe Quelle und Begründung."
+        },
+        {
+          "sourceId": "Q49",
+          "note": "Neue externe Prüfung vom 24.11.2026; Reichweite siehe Quelle und Begründung."
         }
       ],
       "research": {
-        "confidence": "Mittel",
+        "confidence": "Hoch",
         "rounds": [
           {
             "date": "2026-11-24",
@@ -1646,6 +1865,16 @@
               "Q39"
             ],
             "result": "Medienrecherchen dokumentieren, dass das NASA-/USAID-Projekt SERVIR-HKH zur Überwachung und Hochwasserwarnung in Nepal im Januar 2025 endete und bestimmte technische Weiterentwicklungen und Unterstützungsleistungen ausfielen. Laut Foreign Policy bestanden jedoch einige Werkzeuge weiter; zur Ursache und zum Ende des Programms liegen unterschiedliche Darstellungen vor. Nicht belegt ist bislang, dass bei der konkret angesprochenen Flut alle Berg-Monitoringsysteme ausgefallen waren, keine Warnung gegeben wurde und sich dadurch bestimmte Opferzahlen erklären lassen. Deshalb bleibt die genaue Kausalkette offen."
+          },
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT) – vertiefte Quellenrecherche",
+            "strategy": "Neue Fach-, Behörden-, Betreiber- und unabhängige Medienquellen mit dem gegebenen Transkript verglichen; keine vollständige audiovisuelle Sichtung und keine unabhängige KI-Gegenprüfung.",
+            "sourceIds": [
+              "Q48",
+              "Q49"
+            ],
+            "result": "ICIMOD bestätigte selbst, dass US-Finanzierungsumbrüche 2025 die Betreuung von Partnern des NASA/USAID-Programms SERVIR-HKH beeinträchtigten. Der Betreiber führt aber zugleich auf seiner Projektseite aus, dass bestehende Warn- und Monitoringwerkzeuge aktiv und funktionsfähig blieben. Journalistische Recherchen zeigen weggefallene Weiterentwicklungen und Nutzerschulungen. Nicht nachgewiesen ist, dass bei der gemeinten Flut alle Bergwarnsysteme ausfielen, überhaupt keine Warnungen erfolgten und sich daraus konkret bestimmte Todesfälle erklären lassen. Der Programmverlust ist real, die pauschale Ausfall- und Opferkette jedoch überzogen."
           }
         ]
       },
@@ -1655,7 +1884,13 @@
         "weightStatus": "Vorläufig",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "shares": {
+          "p": 0.25,
+          "f": 0.25,
+          "u": 0.5
+        },
+        "sharesReason": "Ein Teil ist konkret belegt, ein Teil durch den Betreiber-/Originalbeleg widerlegt, und der ursächliche Zusammenhang bleibt gesondert unbewiesen. Anteile nach Aussagegehalt, nicht nach gewünschter Ampel."
       },
       "attribution": {
         "statementBy": "Gast",
@@ -1665,6 +1900,11 @@
         "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24"
+      },
+      "verdict": "Teilweise belegt",
+      "shortReason": "ICIMOD bestätigte selbst, dass US-Finanzierungsumbrüche 2025 die Betreuung von Partnern des NASA/USAID-Programms SERVIR-HKH beeinträchtigten.",
+      "migration": {
+        "assessmentChange": "2026-11-24: Kai (ChatGPT); vorher In Bearbeitung ohne Urteil, jetzt Teilweise belegt. Neue Quellen: Q48, Q49. Gewichtfaktor unverändert; keine Zweitagentenprüfung."
       }
     },
     {
@@ -1872,8 +2112,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "In Bearbeitung",
       "description": "130 Staaten hätten den Abschlusskompromiss von COP31 zurückgewiesen.",
-      "reason": "Die Untertitelfassung ist hier unklar. Berichte unterscheiden 126 Unterstützer der Fossil-Roadmap und wenigstens 32 Ablehnende des Paktentwurfs; ohne Originalton keine sichere Widerlegung.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "reason": "Carbon Brief berichtet, dass 126 Staaten eine stärkere Formulierung zum Ausstieg aus fossilen Brennstoffen unterstützten, während mindestens 32 Staaten den Schlussentwurf ausdrücklich ablehnten; weitere Gruppen erklärten fehlenden Konsens. Die automatisch transkribierte Stelle um 25:31 (ungefähr 130 Staaten und Ablehnung) ist grammatisch mehrdeutig und könnte sich auf die ungefähr 126 Roadmap-Befürworter beziehen. Ohne verifizierten Originalton ist weder eine genaue Widerlegung noch eine sichere Bestätigung einer Abstimmungszahl zulässig.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Vertiefte Nachrecherche vom 24.11.2026; die Transkript- und audiovisuelle Unsicherheit bleibt bestehen.",
       "occurrences": [
         {
           "startSeconds": 1531,
@@ -1898,7 +2138,7 @@
         }
       ],
       "research": {
-        "confidence": "Niedrig",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-24",
@@ -1908,6 +2148,15 @@
               "Q11"
             ],
             "result": "Die Untertitelfassung ist hier unklar. Berichte unterscheiden 126 Unterstützer der Fossil-Roadmap und wenigstens 32 Ablehnende des Paktentwurfs; ohne Originalton keine sichere Widerlegung."
+          },
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT) – vertiefte Quellenrecherche",
+            "strategy": "Neue Fach-, Behörden-, Betreiber- und unabhängige Medienquellen mit dem gegebenen Transkript verglichen; keine vollständige audiovisuelle Sichtung und keine unabhängige KI-Gegenprüfung.",
+            "sourceIds": [
+              "Q11"
+            ],
+            "result": "Carbon Brief berichtet, dass 126 Staaten eine stärkere Formulierung zum Ausstieg aus fossilen Brennstoffen unterstützten, während mindestens 32 Staaten den Schlussentwurf ausdrücklich ablehnten; weitere Gruppen erklärten fehlenden Konsens. Die automatisch transkribierte Stelle um 25:31 (ungefähr 130 Staaten und Ablehnung) ist grammatisch mehrdeutig und könnte sich auf die ungefähr 126 Roadmap-Befürworter beziehen. Ohne verifizierten Originalton ist weder eine genaue Widerlegung noch eine sichere Bestätigung einer Abstimmungszahl zulässig."
           }
         ]
       },
@@ -2323,8 +2572,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "In Bearbeitung",
       "description": "Internationale Gasprojekte in armen Ländern verschärfen deren Verschuldung und schaden örtlicher Stromversorgung.",
-      "reason": "Der im Untertitel unklare Landes- bzw. Projektname wurde nicht bestätigt. Für eine genaue Bewertung fehlen Projekte, Kreditkonditionen und lokale Stromversorgungsdaten.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "reason": "Als möglicherweise gemeintes Beispiel kommt Senegal infrage, das LNG-Exportprojekte und große Herausforderungen bei Staatsverschuldung und Stromversorgung aufweist. Das IISD beschreibt Risiken fossiler Infrastruktur für Einnahmen und örtliche Energieversorgung. Der Bundestag dokumentiert jedoch, dass im Rahmen der JETP mit Senegal bis Oktober 2026 deutsche Zusagen nur Zuschüsse umfassten und EU/EIB noch keine entsprechenden Darlehen vergeben hatten; das BMZ beschreibt deutsche Unterstützung vor allem für erneuerbare Energie. Eine durch konkrete deutsche Gasförderung ausgelöste Schuldenspirale ist damit nicht nachgewiesen. Landesname, Projekt und Verträge bleiben ohne verifizierten Originalton unklar.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Vertiefte Nachrecherche vom 24.11.2026; die Transkript- und audiovisuelle Unsicherheit bleibt bestehen.",
       "occurrences": [
         {
           "startSeconds": 1784,
@@ -2342,10 +2591,22 @@
         {
           "sourceId": "V01",
           "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q57",
+          "note": "Neue externe Prüfung vom 24.11.2026; Reichweite siehe Quelle und Begründung."
+        },
+        {
+          "sourceId": "Q58",
+          "note": "Neue externe Prüfung vom 24.11.2026; Reichweite siehe Quelle und Begründung."
+        },
+        {
+          "sourceId": "Q59",
+          "note": "Neue externe Prüfung vom 24.11.2026; Reichweite siehe Quelle und Begründung."
         }
       ],
       "research": {
-        "confidence": "Niedrig",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-24",
@@ -2353,6 +2614,17 @@
             "strategy": "Transkript vollständig gelesen, aber entscheidende externe Originalgrundlage fehlt oder Aussage ist normativ.",
             "sourceIds": [],
             "result": "Der im Untertitel unklare Landes- bzw. Projektname wurde nicht bestätigt. Für eine genaue Bewertung fehlen Projekte, Kreditkonditionen und lokale Stromversorgungsdaten."
+          },
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT) – vertiefte Quellenrecherche",
+            "strategy": "Neue Fach-, Behörden-, Betreiber- und unabhängige Medienquellen mit dem gegebenen Transkript verglichen; keine vollständige audiovisuelle Sichtung und keine unabhängige KI-Gegenprüfung.",
+            "sourceIds": [
+              "Q57",
+              "Q58",
+              "Q59"
+            ],
+            "result": "Als möglicherweise gemeintes Beispiel kommt Senegal infrage, das LNG-Exportprojekte und große Herausforderungen bei Staatsverschuldung und Stromversorgung aufweist. Das IISD beschreibt Risiken fossiler Infrastruktur für Einnahmen und örtliche Energieversorgung. Der Bundestag dokumentiert jedoch, dass im Rahmen der JETP mit Senegal bis Oktober 2026 deutsche Zusagen nur Zuschüsse umfassten und EU/EIB noch keine entsprechenden Darlehen vergeben hatten; das BMZ beschreibt deutsche Unterstützung vor allem für erneuerbare Energie. Eine durch konkrete deutsche Gasförderung ausgelöste Schuldenspirale ist damit nicht nachgewiesen. Landesname, Projekt und Verträge bleiben ohne verifizierten Originalton unklar."
           }
         ]
       },
@@ -3049,10 +3321,10 @@
       "id": "sp5TM1dh4Og-A0042",
       "chapter": 4,
       "kind": "Tatsachenbehauptung",
-      "status": "In Bearbeitung",
+      "status": "Abgeschlossen",
       "description": "US-Demokraten hätten durch Werbung für erneuerbare Energien eine Wahl gewonnen.",
-      "reason": "Die konkrete Wahl und kausale Wirkung der Werbung bleiben undefiniert. Der Moderator bezweifelt im Gespräch ausdrücklich eine monokausale Erklärung.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "reason": "Die Demokraten gewannen am 3. November 2026 zahlreiche US-Wahlen, und manche ihrer Kandidaten warben ausdrücklich mit Wind- und Solarenergie als Mittel gegen hohe Stromkosten. Diese beiden Komponenten sind dokumentiert. Unabhängige Auswertungen zeigen aber, dass die Wahlkämpfe stark von allgemeiner Bezahlbarkeit geprägt waren und Klimaschutz als eigenständiges Thema vergleichsweise selten vorkam. Ob Kampagnen für erneuerbare Energien einen konkreten Wahlsieg verursacht haben, lässt sich damit nicht belegen; genau diese Kausalität stellte der Moderator infrage.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Vertiefte Nachrecherche vom 24.11.2026; die Transkript- und audiovisuelle Unsicherheit bleibt bestehen.",
       "occurrences": [
         {
           "startSeconds": 2255,
@@ -3070,10 +3342,22 @@
         {
           "sourceId": "V01",
           "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q51",
+          "note": "Neue externe Prüfung vom 24.11.2026; Reichweite siehe Quelle und Begründung."
+        },
+        {
+          "sourceId": "Q52",
+          "note": "Neue externe Prüfung vom 24.11.2026; Reichweite siehe Quelle und Begründung."
+        },
+        {
+          "sourceId": "Q53",
+          "note": "Neue externe Prüfung vom 24.11.2026; Reichweite siehe Quelle und Begründung."
         }
       ],
       "research": {
-        "confidence": "Niedrig",
+        "confidence": "Hoch",
         "rounds": [
           {
             "date": "2026-11-24",
@@ -3081,6 +3365,17 @@
             "strategy": "Transkript vollständig gelesen, aber entscheidende externe Originalgrundlage fehlt oder Aussage ist normativ.",
             "sourceIds": [],
             "result": "Die konkrete Wahl und kausale Wirkung der Werbung bleiben undefiniert. Der Moderator bezweifelt im Gespräch ausdrücklich eine monokausale Erklärung."
+          },
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT) – vertiefte Quellenrecherche",
+            "strategy": "Neue Fach-, Behörden-, Betreiber- und unabhängige Medienquellen mit dem gegebenen Transkript verglichen; keine vollständige audiovisuelle Sichtung und keine unabhängige KI-Gegenprüfung.",
+            "sourceIds": [
+              "Q51",
+              "Q52",
+              "Q53"
+            ],
+            "result": "Die Demokraten gewannen am 3. November 2026 zahlreiche US-Wahlen, und manche ihrer Kandidaten warben ausdrücklich mit Wind- und Solarenergie als Mittel gegen hohe Stromkosten. Diese beiden Komponenten sind dokumentiert. Unabhängige Auswertungen zeigen aber, dass die Wahlkämpfe stark von allgemeiner Bezahlbarkeit geprägt waren und Klimaschutz als eigenständiges Thema vergleichsweise selten vorkam. Ob Kampagnen für erneuerbare Energien einen konkreten Wahlsieg verursacht haben, lässt sich damit nicht belegen; genau diese Kausalität stellte der Moderator infrage."
           }
         ]
       },
@@ -3100,6 +3395,11 @@
         "basis": "Der Moderator widerspricht dem behaupteten Wahlzusammenhang ausdrücklich.",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24"
+      },
+      "verdict": "Teilweise belegt",
+      "shortReason": "Die Demokraten gewannen am 3.",
+      "migration": {
+        "assessmentChange": "2026-11-24: Kai (ChatGPT); vorher In Bearbeitung ohne Urteil, jetzt Teilweise belegt. Neue Quellen: Q51, Q52, Q53. Gewichtfaktor unverändert; keine Zweitagentenprüfung."
       }
     },
     {
@@ -3226,10 +3526,10 @@
       "id": "sp5TM1dh4Og-A0045",
       "chapter": 4,
       "kind": "Tatsachenbehauptung",
-      "status": "In Bearbeitung",
+      "status": "Abgeschlossen",
       "description": "Bei einem jüngsten Klimastreik hätten erneut etwa 10.000 Menschen demonstriert.",
-      "reason": "Am 13. November 2026 organisierte Fridays for Future Proteste in mehr als 70 deutschen Städten. In Berlin meldeten Polizei und Veranstalter ungefähr 1.000 beziehungsweise 3.500 Teilnehmende. Das belegt einen jüngeren Klimastreik, aber keine unabhängig konsolidierte bundesweite Teilnehmerzahl von 10.000 und auch nicht sicher, welches Ereignis Neubauer mit der Zahl meinte. Die konkrete Summe bleibt offen.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "reason": "Am 13. November 2026 fanden in rund 70 deutschen Städten Aktionen von Fridays for Future statt. Deutschlandfunk berichtete unter Berufung auf die Veranstalter von insgesamt mehreren Zehntausend Teilnehmenden. Die im Podcast beiläufig genannte Größenordnung von 10.000 Menschen war damit mindestens erreicht; sie ist nicht als exakte, amtlich nachgezählte Gesamtteilnehmerzahl zu verstehen.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Vertiefte Nachrecherche vom 24.11.2026; die Transkript- und audiovisuelle Unsicherheit bleibt bestehen.",
       "occurrences": [
         {
           "startSeconds": 2735,
@@ -3255,10 +3555,14 @@
         {
           "sourceId": "Q41",
           "note": "Nachrecherche 24.11.2026; siehe genaue Quelle, Definition und Einschränkung."
+        },
+        {
+          "sourceId": "Q50",
+          "note": "Neue externe Prüfung vom 24.11.2026; Reichweite siehe Quelle und Begründung."
         }
       ],
       "research": {
-        "confidence": "Mittel",
+        "confidence": "Hoch",
         "rounds": [
           {
             "date": "2026-11-24",
@@ -3276,6 +3580,15 @@
               "Q41"
             ],
             "result": "Am 13. November 2026 organisierte Fridays for Future Proteste in mehr als 70 deutschen Städten. In Berlin meldeten Polizei und Veranstalter ungefähr 1.000 beziehungsweise 3.500 Teilnehmende. Das belegt einen jüngeren Klimastreik, aber keine unabhängig konsolidierte bundesweite Teilnehmerzahl von 10.000 und auch nicht sicher, welches Ereignis Neubauer mit der Zahl meinte. Die konkrete Summe bleibt offen."
+          },
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT) – vertiefte Quellenrecherche",
+            "strategy": "Neue Fach-, Behörden-, Betreiber- und unabhängige Medienquellen mit dem gegebenen Transkript verglichen; keine vollständige audiovisuelle Sichtung und keine unabhängige KI-Gegenprüfung.",
+            "sourceIds": [
+              "Q50"
+            ],
+            "result": "Am 13. November 2026 fanden in rund 70 deutschen Städten Aktionen von Fridays for Future statt. Deutschlandfunk berichtete unter Berufung auf die Veranstalter von insgesamt mehreren Zehntausend Teilnehmenden. Die im Podcast beiläufig genannte Größenordnung von 10.000 Menschen war damit mindestens erreicht; sie ist nicht als exakte, amtlich nachgezählte Gesamtteilnehmerzahl zu verstehen."
           }
         ]
       },
@@ -3295,6 +3608,10 @@
         "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24"
+      },
+      "verdict": "Belegt",
+      "migration": {
+        "assessmentChange": "2026-11-24: Kai (ChatGPT); vorher In Bearbeitung ohne Urteil, jetzt Belegt. Neue Quellen: Q50. Gewichtfaktor unverändert; keine Zweitagentenprüfung."
       }
     },
     {
@@ -3421,10 +3738,10 @@
       "id": "sp5TM1dh4Og-A0048",
       "chapter": 5,
       "kind": "Tatsachenbehauptung",
-      "status": "In Bearbeitung",
-      "description": "Greta Thunberg habe selbst gesagt, sie wolle seit Tag eins den Kapitalismus abschaffen.",
-      "reason": "Eine getrennte journalistische Filmprüfung lokalisiert eine sinngemäße Äußerung Greta Thunbergs über den Kapitalismus im Film von Hubertus Koch bei etwa Minute 08:23. Sie fällt nach einer offenbar ironischen Aufzählung von Vorwürfen. Der Wortlaut wird sekundär berichtet; ob damit ihr persönlicher, von Anfang an unverändert verfolgter politischer Plan gemeint war, ist daraus allein nicht eindeutig. Der Originalfilm (https://www.youtube.com/watch?v=zc1rItlQB2U) muss noch an der Stelle unmittelbar geprüft werden; bis dahin kein endgültiges Wortlaut- und Bedeutungsurteil.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "status": "Abgeschlossen",
+      "description": "Greta Thunberg äußerte in Hubertus Kochs Dokumentation sinngemäß, man habe den Kapitalismus von Anfang an stürzen wollen.",
+      "reason": "Die Passage in Hubertus Kochs Film wird von WELT und einer getrennten Filmanalyse unabhängig dokumentiert. Nach einer ironisch gerahmten Aufzählung medialer Vorwürfe bejaht Thunberg sinngemäß, man habe den Kapitalismus von Anfang an stürzen wollen. Dass der Satz gefallen ist, ist hinreichend dokumentiert; wie buchstäblich ihr ironischer Kontext und das Pronomen wir aufzufassen sind, bleibt eine Interpretationsfrage. Daraus folgt keine belegte Satzung oder ein Gründungsziel von Fridays for Future Deutschland. Das Originalvideo des Films wurde nicht selbst vollständig audiovisuell überprüft.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Vertiefte Nachrecherche vom 24.11.2026; die Transkript- und audiovisuelle Unsicherheit bleibt bestehen.",
       "occurrences": [
         {
           "startSeconds": 3220,
@@ -3446,6 +3763,10 @@
         {
           "sourceId": "Q42",
           "note": "Nachrecherche 24.11.2026; siehe genaue Quelle, Definition und Einschränkung."
+        },
+        {
+          "sourceId": "Q56",
+          "note": "Neue externe Prüfung vom 24.11.2026; Reichweite siehe Quelle und Begründung."
         }
       ],
       "research": {
@@ -3466,6 +3787,15 @@
               "Q42"
             ],
             "result": "Eine getrennte journalistische Filmprüfung lokalisiert eine sinngemäße Äußerung Greta Thunbergs über den Kapitalismus im Film von Hubertus Koch bei etwa Minute 08:23. Sie fällt nach einer offenbar ironischen Aufzählung von Vorwürfen. Der Wortlaut wird sekundär berichtet; ob damit ihr persönlicher, von Anfang an unverändert verfolgter politischer Plan gemeint war, ist daraus allein nicht eindeutig. Der Originalfilm (https://www.youtube.com/watch?v=zc1rItlQB2U) muss noch an der Stelle unmittelbar geprüft werden; bis dahin kein endgültiges Wortlaut- und Bedeutungsurteil."
+          },
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT) – vertiefte Quellenrecherche",
+            "strategy": "Neue Fach-, Behörden-, Betreiber- und unabhängige Medienquellen mit dem gegebenen Transkript verglichen; keine vollständige audiovisuelle Sichtung und keine unabhängige KI-Gegenprüfung.",
+            "sourceIds": [
+              "Q56"
+            ],
+            "result": "Die Passage in Hubertus Kochs Film wird von WELT und einer getrennten Filmanalyse unabhängig dokumentiert. Nach einer ironisch gerahmten Aufzählung medialer Vorwürfe bejaht Thunberg sinngemäß, man habe den Kapitalismus von Anfang an stürzen wollen. Dass der Satz gefallen ist, ist hinreichend dokumentiert; wie buchstäblich ihr ironischer Kontext und das Pronomen wir aufzufassen sind, bleibt eine Interpretationsfrage. Daraus folgt keine belegte Satzung oder ein Gründungsziel von Fridays for Future Deutschland. Das Originalvideo des Films wurde nicht selbst vollständig audiovisuell überprüft."
           }
         ]
       },
@@ -3485,6 +3815,10 @@
         "basis": "Der Moderator liest die fremde Position als Gegenstand der Diskussion vor und bestätigt sie nicht eigenständig.",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24"
+      },
+      "verdict": "Belegt",
+      "migration": {
+        "assessmentChange": "2026-11-24: Kai (ChatGPT); vorher In Bearbeitung ohne Urteil, jetzt Belegt. Neue Quellen: Q56. Gewichtfaktor unverändert; keine Zweitagentenprüfung."
       }
     },
     {
@@ -3730,10 +4064,10 @@
       "id": "sp5TM1dh4Og-A0053",
       "chapter": 6,
       "kind": "Tatsachenbehauptung",
-      "status": "In Bearbeitung",
-      "description": "Greta Thunberg habe sich niemals von betreffenden Terrororganisationen oder deren Anhängern distanziert.",
-      "reason": "Ein absolutes niemals verlangt vollständige Prüfung ihrer öffentlichen Äußerungen. Die Reise mit Ávila beweist allein keine Billigung und keine durchgehende fehlende Distanzierung.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "status": "Abgeschlossen",
+      "description": "Greta Thunberg habe sich nie öffentlich von Hamas-Terror und Personen aus deren Umfeld distanziert.",
+      "reason": "Der pauschale Vorwurf, Greta Thunberg habe die Hamas-Angriffe niemals verurteilt, ignoriert einen dokumentierten Gegenbeleg: Am 21. Oktober 2023 schrieb sie auf X ausdrücklich, dass sie gegen die schrecklichen Angriffe der Hamas sei. taz und Le Monde dokumentierten diese Äußerung. Die absolute Negativaussage ist damit für Hamas-Angriffe falsch. Ob Thunberg sich ausdrücklich von jedem späteren Mitreisenden wie Thiago Ávila oder von dessen einzelnen Äußerungen distanziert hat, ist davon zu unterscheiden und wurde nicht lückenlos geprüft. Eine gemeinsame Schifffahrt beweist weder Zustimmung zu Terrorismus noch eine solche Distanzierung.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Vertiefte Nachrecherche vom 24.11.2026; die Transkript- und audiovisuelle Unsicherheit bleibt bestehen.",
       "occurrences": [
         {
           "startSeconds": 3530,
@@ -3751,10 +4085,18 @@
         {
           "sourceId": "V01",
           "note": "Materialnachweis aus Nutzertranskript; keine unabhängige Wahrheitsquelle."
+        },
+        {
+          "sourceId": "Q54",
+          "note": "Neue externe Prüfung vom 24.11.2026; Reichweite siehe Quelle und Begründung."
+        },
+        {
+          "sourceId": "Q55",
+          "note": "Neue externe Prüfung vom 24.11.2026; Reichweite siehe Quelle und Begründung."
         }
       ],
       "research": {
-        "confidence": "Niedrig",
+        "confidence": "Hoch",
         "rounds": [
           {
             "date": "2026-11-24",
@@ -3762,6 +4104,16 @@
             "strategy": "Transkript vollständig gelesen, aber entscheidende externe Originalgrundlage fehlt oder Aussage ist normativ.",
             "sourceIds": [],
             "result": "Ein absolutes niemals verlangt vollständige Prüfung ihrer öffentlichen Äußerungen. Die Reise mit Ávila beweist allein keine Billigung und keine durchgehende fehlende Distanzierung."
+          },
+          {
+            "date": "2026-11-24",
+            "agent": "Kai (ChatGPT) – vertiefte Quellenrecherche",
+            "strategy": "Neue Fach-, Behörden-, Betreiber- und unabhängige Medienquellen mit dem gegebenen Transkript verglichen; keine vollständige audiovisuelle Sichtung und keine unabhängige KI-Gegenprüfung.",
+            "sourceIds": [
+              "Q54",
+              "Q55"
+            ],
+            "result": "Der pauschale Vorwurf, Greta Thunberg habe die Hamas-Angriffe niemals verurteilt, ignoriert einen dokumentierten Gegenbeleg: Am 21. Oktober 2023 schrieb sie auf X ausdrücklich, dass sie gegen die schrecklichen Angriffe der Hamas sei. taz und Le Monde dokumentierten diese Äußerung. Die absolute Negativaussage ist damit für Hamas-Angriffe falsch. Ob Thunberg sich ausdrücklich von jedem späteren Mitreisenden wie Thiago Ávila oder von dessen einzelnen Äußerungen distanziert hat, ist davon zu unterscheiden und wurde nicht lückenlos geprüft. Eine gemeinsame Schifffahrt beweist weder Zustimmung zu Terrorismus noch eine solche Distanzierung."
           }
         ]
       },
@@ -3771,7 +4123,18 @@
         "weightStatus": "Vorläufig",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "shares": {
+          "p": 0.25,
+          "f": 0.5,
+          "u": 0.25
+        },
+        "sharesReason": "Ein Teil ist konkret belegt, ein Teil durch den Betreiber-/Originalbeleg widerlegt, und der ursächliche Zusammenhang bleibt gesondert unbewiesen. Anteile nach Aussagegehalt, nicht nach gewünschter Ampel."
+      },
+      "verdict": "Irreführend / Kontext fehlt",
+      "shortReason": "Der pauschale Vorwurf, Greta Thunberg habe die Hamas-Angriffe niemals verurteilt, ignoriert einen dokumentierten Gegenbeleg: Am 21.",
+      "migration": {
+        "assessmentChange": "2026-11-24: Kai (ChatGPT); vorher In Bearbeitung ohne Urteil, jetzt Irreführend / Kontext fehlt. Neue Quellen: Q54, Q55. Gewichtfaktor unverändert; keine Zweitagentenprüfung."
       }
     },
     {
