@@ -17,8 +17,8 @@ jobs:
       - name: JavaScript Syntax prüfen
         run: |
           for f in site/*.js; do node --check "$f"; done
-      - name: Berichtssprungmarken prüfen
-        run: node --test site/report-anchor-test.js
+      - name: Berichts- und Tastatursprünge prüfen
+        run: node --test site/report-anchor-test.js site/skip-link-test.js
 
       - name: Gemeinsamer Faktenindex identisch mit dem Hauptprojekt
         # docs/FAKTENINDEX.md, Abschnitt 1: Regel, Anzeige, Tests und Doku sind in allen drei Faktencheck-Repositories
