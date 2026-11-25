@@ -481,3 +481,29 @@ Lorenz Storch, 31.05.2021, eigene Reportage und Abschnitt zur Entschuldigung des
 Marianne Schreck, Lichtung 9/2022, Artikel S.4–7; einschlägig S.6, Prävention. Ausreichend breite Forststraßen können als Brandschneise wirken und Einsatzfahrzeugen Zugang geben. Einfluss von Feuchtigkeit, Brennmaterial, Vegetation, Topografie und Wind; keine Schutzgarantie oder quantitative Windpark-Risikostudie. Onlinefassung 13.10.2022 auf Waldwissen.net.
 
 **Zugriff 2026-11-23:** Unabhängiger Rechercheagent öffnete und las Original-PDF und zugehörige BFW-Onlinefassung; allgemeiner Mechanismus getrennt von standortspezifischer Wirksamkeit beurteilt.
+
+## Nachrecherche vom 25.11.2026 (Kai)
+
+### IF19 · LUBW: Stellungnahme zur ZDF-Dokumentation „Infraschall – Unerhörter Lärm“
+
+[Quelle öffnen](https://www.windwahn.com/wp-content/uploads/2020/03/200124LUBW-Stellungnahme-Planet-e.pdf)
+
+Original der Landesanstalt für Umwelt Baden-Württemberg, archivierte Kopie auf einer Drittseite. Stand laut Impressum 22.01.2019; die Jahreszahl im Dateinamen ist nicht maßgeblich.
+
+**Zugriff 2026-11-25:** PDF, S. 3–6: Widerspruch gegen die Darstellung der LUBW-Kurven im ZDF und Abgrenzung der Messziele. Kein expliziter Hinweis auf den später identifizierten numerischen BGR-Umrechnungsfehler.
+
+### IF20 · Stefan Holzheu: E-Mail an die BGR vom 6. April 2020
+
+[Quelle öffnen](https://media.frag-den-staat.de/files/foi/603987/E-Mailv.06.04.2021zuInfraschall.pdf)
+
+Geschwärzte Originalkorrespondenz, über FragDenStaat veröffentlicht. Datumszeile im Dokument 06.04.2020; der Dateiname enthält ein abweichendes Jahr.
+
+**Zugriff 2026-11-25:** Einseitiges Original gelesen: Holzheu wies auf deutlich niedrigere Vergleichsmessungen und Fragen zur Bandberechnung hin; in dieser Mail bezifferte er den Fehler noch nicht mit 36 dB.
+
+### F20 · Polizeiinspektion Lauterecken: Brand eines Windrads bei Kirrweiler
+
+[Quelle öffnen](https://www.presseportal.de/blaulicht/pm/178877/6224414)
+
+Polizeimeldung vom 26.02.2026, 10:33 Uhr. Brand am Vorabend; Anlage brannte kontrolliert aus. Eine Schadenssumme nennt die Mitteilung nicht.
+
+**Zugriff 2026-11-25:** Vollständiger Text der Original-Pressemitteilung im Webindex gelesen; kein gesonderter Polizeibericht oder Versicherungsbescheid zugänglich.

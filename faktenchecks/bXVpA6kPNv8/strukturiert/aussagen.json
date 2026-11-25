@@ -4,7 +4,7 @@
     "videoId": "bXVpA6kPNv8",
     "videoUrl": "https://www.youtube.com/watch?v=bXVpA6kPNv8",
     "kind": "Vollständige Captionlektüre; quellengeprüfter Teilbestand wesentlicher Aussagen",
-    "asOf": "2026-11-23",
+    "asOf": "2026-11-25",
     "durationSeconds": 933,
     "coverageNote": "Deutsche Automatikuntertitel über die gesamte Laufzeit gelesen und mit dem Nutzertranskript sowie Redaktionsskript abgeglichen. Die erfassten Aussagen bilden alle Sachkapitel ab. Originalton, Einblendungen, Ausschnitte und Schnitt wurden nicht vollständig audiovisuell kontrolliert. Die berechnete Prüfabdeckung bezieht sich ausschließlich auf die erfassten Aussagen. Alle Sachkapitel sind erfasst; dies beansprucht nicht die separate Erfassung jeder Selbstreferenz oder jeder Behauptung über Kommentarreaktionen.",
     "researchNote": "Infraschall, Brände, Insekten und Begleitangaben in getrennten Recherchepaketen geprüft; wichtige Schlussfolgerungen unabhängig gegengelesen. Private Brandlisten, einzelne historische Vorgänge und uneindeutige Projektprognosen bleiben offen. Verwendete Quellen tatsächlich gelesen, Quellenliste allein ist kein Beweis. Bedeutung nach Argumentationsrolle ohne Zielindex bestimmt; gemeinsame Standardanteile unverändert. Vollständiger Bild-/Tonabgleich steht aus."
@@ -505,6 +505,33 @@
       "details": "Marianne Schreck, Lichtung 9/2022, Artikel S.4–7; einschlägig S.6, Prävention. Ausreichend breite Forststraßen können als Brandschneise wirken und Einsatzfahrzeugen Zugang geben. Einfluss von Feuchtigkeit, Brennmaterial, Vegetation, Topografie und Wind; keine Schutzgarantie oder quantitative Windpark-Risikostudie. Onlinefassung 13.10.2022 auf Waldwissen.net.",
       "accessedOn": "2026-11-23",
       "accessBasis": "Unabhängiger Rechercheagent öffnete und las Original-PDF und zugehörige BFW-Onlinefassung; allgemeiner Mechanismus getrennt von standortspezifischer Wirksamkeit beurteilt."
+    },
+    {
+      "id": "IF19",
+      "title": "LUBW: Stellungnahme zur ZDF-Dokumentation „Infraschall – Unerhörter Lärm“",
+      "url": "https://www.windwahn.com/wp-content/uploads/2020/03/200124LUBW-Stellungnahme-Planet-e.pdf",
+      "details": "Original der Landesanstalt für Umwelt Baden-Württemberg, archivierte Kopie auf einer Drittseite. Stand laut Impressum 22.01.2019; die Jahreszahl im Dateinamen ist nicht maßgeblich.",
+      "accessBasis": "PDF, S. 3–6: Widerspruch gegen die Darstellung der LUBW-Kurven im ZDF und Abgrenzung der Messziele. Kein expliziter Hinweis auf den später identifizierten numerischen BGR-Umrechnungsfehler.",
+      "kind": "Amtliche Stellungnahme",
+      "accessedOn": "2026-11-25"
+    },
+    {
+      "id": "IF20",
+      "title": "Stefan Holzheu: E-Mail an die BGR vom 6. April 2020",
+      "url": "https://media.frag-den-staat.de/files/foi/603987/E-Mailv.06.04.2021zuInfraschall.pdf",
+      "details": "Geschwärzte Originalkorrespondenz, über FragDenStaat veröffentlicht. Datumszeile im Dokument 06.04.2020; der Dateiname enthält ein abweichendes Jahr.",
+      "accessBasis": "Einseitiges Original gelesen: Holzheu wies auf deutlich niedrigere Vergleichsmessungen und Fragen zur Bandberechnung hin; in dieser Mail bezifferte er den Fehler noch nicht mit 36 dB.",
+      "kind": "Originalkorrespondenz",
+      "accessedOn": "2026-11-25"
+    },
+    {
+      "id": "F20",
+      "title": "Polizeiinspektion Lauterecken: Brand eines Windrads bei Kirrweiler",
+      "url": "https://www.presseportal.de/blaulicht/pm/178877/6224414",
+      "details": "Polizeimeldung vom 26.02.2026, 10:33 Uhr. Brand am Vorabend; Anlage brannte kontrolliert aus. Eine Schadenssumme nennt die Mitteilung nicht.",
+      "accessBasis": "Vollständiger Text der Original-Pressemitteilung im Webindex gelesen; kein gesonderter Polizeibericht oder Versicherungsbescheid zugänglich.",
+      "kind": "Polizeiliche Primärquelle",
+      "accessedOn": "2026-11-25"
     }
   ],
   "claims": [
@@ -4992,7 +5019,7 @@
       "kind": "Tatsachenbehauptung",
       "status": "In Bearbeitung",
       "description": "Die BGR habe Hinweise auf ihre falschen Infraschallberechnungen jahrelang ignoriert.",
-      "reason": "Holzheus zeitgenössischer Beitrag vom 30.11.2020 dokumentiert Diskussionen seit März 2020 und eine Fehlerhypothese im Juli. Die veröffentlichte BGR-Antwort vom 12.01.2021 verteidigt die damalige Berechnung. Das belegt eine verzögerte Auseinandersetzung über Monate, aber noch keine lückenlose mehrjährige Chronologie konkreter Fehlerhinweise und deren Umgang. Die amtliche Bestätigung des Rechenfehlers beweist diesen zusätzlichen Vorwurf nicht. Weitere datierte Originalhinweise sind erforderlich.",
+      "reason": "Die LUBW widersprach bereits im Januar 2019 der Darstellung ihrer Messkurven in einer ZDF-Sendung und erklärte, warum BGR und LUBW unterschiedliche Messziele hatten. Das belegt frühen fachlichen Widerspruch, aber keinen konkreten Hinweis auf den später identifizierten BGR-Umrechnungsfehler. Eine freigegebene Originalmail belegt, dass Holzheu die BGR am 6. April 2020 auf die abweichenden Pegel und Fragen zur Auswertung hinwies. Im Juli 2020 formulierte er laut seinem zeitgenössischen Bericht die Fehlerhypothese; im Januar 2021 verteidigte die BGR die Berechnung, 2021 wurde der Fehler bestätigt. Dass die BGR konkrete Hinweise auf genau diesen Rechenfehler schon mehrere Jahre vor der Korrektur erhalten und ignoriert habe, ist damit weiterhin nicht belegt. Fachlicher Widerspruch ersetzt keinen Nachweis einer ignorierten Korrekturmeldung.",
       "assessmentBasis": "Vollständige deutsche Originalcaptions mit Nutzertranskript und Redaktionsskript abgeglichen; Sachprüfung anhand der zugeordneten Originalquellen und ihrer Reichweite. Eigene Paraphrase, ungefähre Zeitposition; keine audiovisuelle Vollkontrolle.",
       "occurrences": [
         {
@@ -5026,6 +5053,14 @@
         {
           "sourceId": "IF11",
           "note": "2021-05-04; gedruckte S. 36–37 / PDF-Seiten 42–43. Bestätigt 36-dB-Umrechnungsfehler, Messungen 2004, Korrektur 2021; Untersuchung betraf Messstationen, nicht Gesundheit; bedauert Verunsicherung."
+        },
+        {
+          "sourceId": "IF19",
+          "note": "Impressum: 22.01.2019; S. 3–5: Kritik an der Darstellung der Kurven und Erläuterung der unterschiedlichen Messaufgaben, keine Benennung des 36-dB-Fehlers."
+        },
+        {
+          "sourceId": "IF20",
+          "note": "Datumszeile: 06.04.2020. Der BGR ausdrücklich gemeldete Diskrepanz; noch keine Bezifferung eines 36-dB-Umrechnungsfehlers."
         }
       ],
       "research": {
@@ -5052,6 +5087,19 @@
               "IF11"
             ],
             "result": "Holzheus zeitgenössischer Beitrag vom 30.11.2020 dokumentiert Diskussionen seit März 2020 und eine Fehlerhypothese im Juli. Die veröffentlichte BGR-Antwort vom 12.01.2021 verteidigt die damalige Berechnung. Das belegt eine verzögerte Auseinandersetzung über Monate, aber noch keine lückenlose mehrjährige Chronologie konkreter Fehlerhinweise und deren Umgang. Die amtliche Bestätigung des Rechenfehlers beweist diesen zusätzlichen Vorwurf nicht. Weitere datierte Originalhinweise sind erforderlich."
+          },
+          {
+            "date": "2026-11-25",
+            "agent": "Kai",
+            "strategy": "Frühe datierte LUBW-Stellungnahme, freigegebene Originalmail und bereits veröffentlichte Stellungnahmen mit der amtlichen Korrekturchronologie abgleichen.",
+            "sourceIds": [
+              "IF19",
+              "IF20",
+              "H01",
+              "IF12",
+              "IF11"
+            ],
+            "result": "Die LUBW widersprach bereits im Januar 2019 der Darstellung ihrer Messkurven in einer ZDF-Sendung und erklärte, warum BGR und LUBW unterschiedliche Messziele hatten. Das belegt frühen fachlichen Widerspruch, aber keinen konkreten Hinweis auf den später identifizierten BGR-Umrechnungsfehler. Eine freigegebene Originalmail belegt, dass Holzheu die BGR am 6. April 2020 auf die abweichenden Pegel und Fragen zur Auswertung hinwies. Im Juli 2020 formulierte er laut seinem zeitgenössischen Bericht die Fehlerhypothese; im Januar 2021 verteidigte die BGR die Berechnung, 2021 wurde der Fehler bestätigt. Dass die BGR konkrete Hinweise auf genau diesen Rechenfehler schon mehrere Jahre vor der Korrektur erhalten und ignoriert habe, ist damit weiterhin nicht belegt. Fachlicher Widerspruch ersetzt keinen Nachweis einer ignorierten Korrekturmeldung."
           }
         ]
       },
@@ -5089,7 +5137,7 @@
       "kind": "Tatsachenbehauptung",
       "status": "In Bearbeitung",
       "description": "Der Windradbrand bei Kirrweiler habe einen Millionenschaden verursacht.",
-      "reason": "Die frühe Regierungsantwort bestätigt den Brand, nennt eine Schadenssumme jedoch nur im wiedergegebenen Fragetext unter Berufung auf Medien. Das ist keine eigene abgeschlossene Schadensfeststellung der Landesregierung. Ein unabhängiger bezifferter Ermittlungs-, Betreiber- oder Versicherungsnachweis liegt nicht vor; die Summe bleibt offen.",
+      "reason": "Die Polizei bestätigt das kontrollierte Ausbrennen der Anlage, beziffert den Schaden aber nicht. Die Landesregierung identifiziert die Anlage als WEA 3. Die in derselben Drucksache genannte Schätzung von etwa 1,5 Millionen Euro steht im Fragetext des Abgeordneten als Medienangabe, nicht in der amtlichen Antwort. Öffentlich auffindbare Meldungen zur weiteren Begutachtung ersetzen keine bezifferte amtliche, Betreiber- oder Versicherungsfeststellung. Die Schadenssumme bleibt offen; der Brand selbst ist separat belegt.",
       "assessmentBasis": "Vollständige deutsche Originalcaptions mit Nutzertranskript und Redaktionsskript abgeglichen; Sachprüfung anhand der zugeordneten Originalquellen und ihrer Reichweite. Eigene Paraphrase, ungefähre Zeitposition; keine audiovisuelle Vollkontrolle.",
       "occurrences": [
         {
@@ -5115,6 +5163,10 @@
         {
           "sourceId": "F07",
           "note": "01./02.04.2026, Regierungsantwort PDF-S.2–4: WEA 3 Kirrweiler. Brandursache und mögliches Verschulden damals noch in Ermittlung, Bodengutachten offen. Millionensumme steht nur im Fragetext unter Berufung auf Medien."
+        },
+        {
+          "sourceId": "F20",
+          "note": "Bestätigt Brand, Einsatz und kontrolliertes Ausbrennen im Februar 2026; keine Schadenssumme."
         }
       ],
       "research": {
@@ -5139,6 +5191,16 @@
               "F07"
             ],
             "result": "Zusätzliche offene Sachbehauptung, kein negatives Urteil und kein zusätzlicher Beleg für hohe Brandhäufigkeit."
+          },
+          {
+            "date": "2026-11-25",
+            "agent": "Kai",
+            "strategy": "Amtliche Erstmeldung und Landtagsantwort nach Brand, Betreiber, Anlagenkennung und Schadenshöhe getrennt auswerten; nach späterer bezifferter Bestätigung suchen.",
+            "sourceIds": [
+              "F20",
+              "F07"
+            ],
+            "result": "Die Polizei bestätigt das kontrollierte Ausbrennen der Anlage, beziffert den Schaden aber nicht. Die Landesregierung identifiziert die Anlage als WEA 3. Die in derselben Drucksache genannte Schätzung von etwa 1,5 Millionen Euro steht im Fragetext des Abgeordneten als Medienangabe, nicht in der amtlichen Antwort. Öffentlich auffindbare Meldungen zur weiteren Begutachtung ersetzen keine bezifferte amtliche, Betreiber- oder Versicherungsfeststellung. Die Schadenssumme bleibt offen; der Brand selbst ist separat belegt."
           }
         ]
       },
