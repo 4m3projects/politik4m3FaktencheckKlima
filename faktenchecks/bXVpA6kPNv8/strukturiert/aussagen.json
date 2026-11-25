@@ -532,6 +532,96 @@
       "accessBasis": "Vollständiger Text der Original-Pressemitteilung im Webindex gelesen; kein gesonderter Polizeibericht oder Versicherungsbescheid zugänglich.",
       "kind": "Polizeiliche Primärquelle",
       "accessedOn": "2026-11-25"
+    },
+    {
+      "id": "F21",
+      "title": "Polizeiinspektion Lüneburg: Brand bei Süttorf/Thomasburg",
+      "url": "https://www.presseportal.de/blaulicht/pm/59488/6189210",
+      "details": "01.01.2026: Flammen am Rotor; gemeldet im Abschnitt „Neetze – Windkraftrad in Brand“.",
+      "accessBasis": "01.01.2026: Flammen am Rotor; gemeldet im Abschnitt „Neetze – Windkraftrad in Brand“.",
+      "kind": "Polizeiliche Primärquelle",
+      "accessedOn": "2026-11-25"
+    },
+    {
+      "id": "F22",
+      "title": "Polizeidirektion Lübeck: Windradbrand in Westermarkelsdorf",
+      "url": "https://www.presseportal.de/blaulicht/pm/43738/6208516",
+      "details": "02.02.2026: Gondelbrand im Bürgerwindpark auf Fehmarn.",
+      "accessBasis": "02.02.2026: Gondelbrand im Bürgerwindpark auf Fehmarn.",
+      "kind": "Polizeiliche Primärquelle",
+      "accessedOn": "2026-11-25"
+    },
+    {
+      "id": "F23",
+      "title": "Polizeidirektion Görlitz: Windkraftanlage in Crostwitz",
+      "url": "https://medienservice.sachsen.de/medien/news/1096018",
+      "details": "Abschnitt „Windkraftanlage in Flammen“: 30.03.2026; Feuer griff auf Rotorblätter über.",
+      "accessBasis": "Abschnitt „Windkraftanlage in Flammen“: 30.03.2026; Feuer griff auf Rotorblätter über.",
+      "kind": "Polizeiliche Primärquelle",
+      "accessedOn": "2026-11-25"
+    },
+    {
+      "id": "F24",
+      "title": "Kreis Unna: Nachuntersuchung zum Brand im Windpark Bönen",
+      "url": "https://www.kreis-unna.de/Serviceportal/Nachrichten/Keine-Hinweise-auf-Schadstoffe.php?FID=3674.12488.1&ModID=255",
+      "details": "22.07.2026: Der Kreis dokumentiert den Brand vom 14.06.2026 getrennt von der späteren Bodenuntersuchung.",
+      "accessBasis": "22.07.2026: Der Kreis dokumentiert den Brand vom 14.06.2026 getrennt von der späteren Bodenuntersuchung.",
+      "kind": "Amtliche Primärquelle",
+      "accessedOn": "2026-11-25"
+    },
+    {
+      "id": "F25",
+      "title": "Kreisfeuerwehrverband Dithmarschen: Windradbrand in Dingen",
+      "url": "https://www.presseportal.de/blaulicht/pm/68036/6389797",
+      "details": "13.11.2026: Offene Flammen und kontrolliertes Abbrennen. Nach dem Datum der bekannten redaktionellen Skriptfassung, aber vor dem Upload.",
+      "accessBasis": "13.11.2026: Offene Flammen und kontrolliertes Abbrennen. Nach dem Datum der bekannten redaktionellen Skriptfassung, aber vor dem Upload.",
+      "kind": "Feuerwehr-Primärquelle",
+      "accessedOn": "2026-11-25"
+    },
+    {
+      "id": "F26",
+      "title": "Polizeiinspektion Göttingen: Schwelbrand bei Dramfeld",
+      "url": "https://www.presseportal.de/blaulicht/pm/119508/6353513",
+      "details": "16.09.2026: Schwelbrand im Inneren, ausdrücklich ohne offenes Feuer; nicht in die Siebenerliste aufgenommen.",
+      "accessBasis": "16.09.2026: Schwelbrand im Inneren, ausdrücklich ohne offenes Feuer; nicht in die Siebenerliste aufgenommen.",
+      "kind": "Polizeiliche Primärquelle",
+      "accessedOn": "2026-11-25"
+    },
+    {
+      "id": "F27",
+      "title": "Feuerwehr Dinslaken: Gemeldeter Windradbrand nicht bestätigt",
+      "url": "https://www.presseportal.de/blaulicht/pm/116534/6280394",
+      "details": "22.05.2026: Die alarmierte Feuerwehr bestätigte keinen Brand. Nicht gezählt.",
+      "accessBasis": "22.05.2026: Die alarmierte Feuerwehr bestätigte keinen Brand. Nicht gezählt.",
+      "kind": "Feuerwehr-Primärquelle",
+      "accessedOn": "2026-11-25"
+    },
+    {
+      "id": "IF21",
+      "title": "Jakobsen (2005): Infrasound Emission from Wind Turbines",
+      "url": "https://journals.sagepub.com/doi/10.1260/026309205775374451",
+      "details": "S. 145–148: Auswertung publizierter Infraschallmessungen, darunter damalige Anlagen mit Rotor vor dem Turm. Keine klinische Untersuchung.",
+      "accessBasis": "S. 145–148: Auswertung publizierter Infraschallmessungen, darunter damalige Anlagen mit Rotor vor dem Turm. Keine klinische Untersuchung.",
+      "kind": "Fachaufsatz, Volltext geprüft",
+      "accessedOn": "2026-11-25"
+    },
+    {
+      "id": "IF22",
+      "title": "Van den Berg (2004): Effects of the wind profile at night on wind turbine sound",
+      "url": "https://research.rug.nl/en/publications/effects-of-the-wind-profile-at-night-on-wind-turbine-sound/",
+      "details": "Zusammenfassung im Universitätsrepositorium: nächtliche Schallmessungen am Windpark Rhede, keine spezifische Diagnose- oder Infraschallstudie.",
+      "accessBasis": "Zusammenfassung im Universitätsrepositorium: nächtliche Schallmessungen am Windpark Rhede, keine spezifische Diagnose- oder Infraschallstudie.",
+      "kind": "Originalstudie, Abstract geprüft",
+      "accessedOn": "2026-11-25"
+    },
+    {
+      "id": "IF23",
+      "title": "Pedersen und Persson Waye (2004): Perception and annoyance due to wind turbine noise",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15658697/",
+      "details": "Veröffentlichter Autorenabstract: Zusammenhang zwischen berechneten Windturbinengeräuschpegeln und berichteter Belästigung; keine klinische Prüfung eines Syndroms.",
+      "accessBasis": "Veröffentlichter Autorenabstract: Zusammenhang zwischen berechneten Windturbinengeräuschpegeln und berichteter Belästigung; keine klinische Prüfung eines Syndroms.",
+      "kind": "Originalstudie, Abstract geprüft",
+      "accessedOn": "2026-11-25"
     }
   ],
   "claims": [
@@ -1891,7 +1981,7 @@
       "kind": "Tatsachenbehauptung",
       "status": "In Bearbeitung",
       "description": "Die Redaktion fand für die letzten zwölf Monate sieben deutsche Windradbrände in Presse-, Social-Media- und Feuerwehrmeldungen.",
-      "reason": "Einzelne Ereignisse sind primär belegt. Eine vollständige Liste aller sieben vom Kanal recherchierten Brände mit Ort, Datum und Stichtag der Zwölfmonatsperiode liegt jedoch nicht vor. Deshalb ist die behauptete Summe weder unabhängig nachgezählt noch widerlegt. Sie wird als zugeschriebene Redaktionsangabe erfasst und bleibt in Bearbeitung.",
+      "reason": "In den zwölf Monaten bis zur Videoveröffentlichung am 23.11.2026 lassen sich mindestens sieben verschiedene deutsche Windradbrände anhand von Polizei-, Feuerwehr- oder Kreismeldungen nachvollziehen: Süttorf/Thomasburg, Westermarkelsdorf auf Fehmarn, Kirrweiler/Homberg, Crostwitz, Biebelried/Repperndorf, Bönen, Dingen. Der Fall Dingen liegt nach dem Datum der eingesehenen Skriptfassung (02.11.2026). Dramfeld war ein interner Schwelbrand ohne offenes Feuer; Dinslaken ein nicht bestätigter Alarm. Beide wurden nicht mitgezählt. Die Zahl ist eine unabhängig belegte Untergrenze für unser Vergleichsfenster, keine bundesweite Gesamtzahl und kein Nachweis der konkreten sieben Fälle oder des redaktionellen Stichtags.",
       "assessmentBasis": "Vollständige deutsche Originalcaptions mit Nutzertranskript und Redaktionsskript abgeglichen; Sachprüfung anhand der zugeordneten Originalquellen und ihrer Reichweite. Eigene Paraphrase, ungefähre Zeitposition; keine audiovisuelle Vollkontrolle.",
       "occurrences": [
         {
@@ -1925,6 +2015,38 @@
         {
           "sourceId": "F09",
           "note": "31.03.2021, S.10 Abschnitt 4.1: damalige Datenlücken bei Schadensfällen. Kein neuer nationaler Datensatz für 2026."
+        },
+        {
+          "sourceId": "F21",
+          "note": "01.01.2026: Flammen am Rotor; gemeldet im Abschnitt „Neetze – Windkraftrad in Brand“."
+        },
+        {
+          "sourceId": "F22",
+          "note": "02.02.2026: Gondelbrand im Bürgerwindpark auf Fehmarn."
+        },
+        {
+          "sourceId": "F20",
+          "note": "Polizeimeldung vom 26.02.2026, 10:33 Uhr. Brand am Vorabend; Anlage brannte kontrolliert aus. Eine Schadenssumme nennt die Mitteilung nicht."
+        },
+        {
+          "sourceId": "F23",
+          "note": "Abschnitt „Windkraftanlage in Flammen“: 30.03.2026; Feuer griff auf Rotorblätter über."
+        },
+        {
+          "sourceId": "F24",
+          "note": "22.07.2026: Der Kreis dokumentiert den Brand vom 14.06.2026 getrennt von der späteren Bodenuntersuchung."
+        },
+        {
+          "sourceId": "F25",
+          "note": "13.11.2026: Offene Flammen und kontrolliertes Abbrennen. Nach dem Datum der bekannten redaktionellen Skriptfassung, aber vor dem Upload."
+        },
+        {
+          "sourceId": "F26",
+          "note": "16.09.2026: Schwelbrand im Inneren, ausdrücklich ohne offenes Feuer; nicht in die Siebenerliste aufgenommen."
+        },
+        {
+          "sourceId": "F27",
+          "note": "22.05.2026: Die alarmierte Feuerwehr bestätigte keinen Brand. Nicht gezählt."
         }
       ],
       "research": {
@@ -1951,6 +2073,24 @@
               "F09"
             ],
             "result": "Einzelne Ereignisse sind primär belegt. Eine vollständige Liste aller sieben vom Kanal recherchierten Brände mit Ort, Datum und Stichtag der Zwölfmonatsperiode liegt jedoch nicht vor. Deshalb ist die behauptete Summe weder unabhängig nachgezählt noch widerlegt. Sie wird als zugeschriebene Redaktionsangabe erfasst und bleibt in Bearbeitung."
+          },
+          {
+            "date": "2026-11-25",
+            "agent": "Kai",
+            "strategy": "Deduplizierter Abgleich konkreter Brandmeldungen in einem vorab definierten Vergleichsfenster und erneuter Abgleich der redaktionellen Skriptfassung.",
+            "sourceIds": [
+              "V002",
+              "F21",
+              "F22",
+              "F20",
+              "F23",
+              "F08",
+              "F24",
+              "F25",
+              "F26",
+              "F27"
+            ],
+            "result": "In den zwölf Monaten bis zur Videoveröffentlichung am 23.11.2026 lassen sich mindestens sieben verschiedene deutsche Windradbrände anhand von Polizei-, Feuerwehr- oder Kreismeldungen nachvollziehen: Süttorf/Thomasburg, Westermarkelsdorf auf Fehmarn, Kirrweiler/Homberg, Crostwitz, Biebelried/Repperndorf, Bönen, Dingen. Der Fall Dingen liegt nach dem Datum der eingesehenen Skriptfassung (02.11.2026). Dramfeld war ein interner Schwelbrand ohne offenes Feuer; Dinslaken ein nicht bestätigter Alarm. Beide wurden nicht mitgezählt. Die Zahl ist eine unabhängig belegte Untergrenze für unser Vergleichsfenster, keine bundesweite Gesamtzahl und kein Nachweis der konkreten sieben Fälle oder des redaktionellen Stichtags."
           }
         ]
       },
@@ -4744,7 +4884,7 @@
       "kind": "Tatsachenbehauptung",
       "status": "In Bearbeitung",
       "description": "Als die Debatte Mitte der 2000er aufkam, habe es dazu noch keine konkrete Forschung gegeben.",
-      "reason": "Die Reichweite des Wortes dazu ist nicht eindeutig: Geht es um das später so bezeichnete Wind-Turbine-Syndrom bei modernen Anlagen oder allgemein um tieffrequenten Windradschall? Konkrete Vorläuferforschung gab es etwa im SERI-Bericht 1985 zu hörbaren tieffrequenten Impulsen einer alten Downwind-Bauform. Diese andere Exposition widerlegt nicht automatisch die engere moderne Gesundheitsfrage. Die UBA-Studie 2014 bestätigt Erkenntnislücken. Deshalb wird aus der unpräzisen historischen Formulierung kein sicheres Falschurteil konstruiert.",
+      "reason": "Die öffentlich verlinkte Skriptfassung bezieht die Aussage auf die damalige Debatte um Beschwerden und das später so bezeichnete Wind-Turbine-Syndrom. Für die breitere Frage nach Windradgeräuschen gab es bereits 2004 Messungen an einem Windpark (Van den Berg) und eine Studie zu Geräuschpegel und berichteter Belästigung (Pedersen und Persson Waye). Jakobsen wertete 2005 speziell Infraschallmessungen aus, darunter solche an damaligen Anlagen mit Rotor vor dem Turm. Die akustische Forschung ist damit nicht erst später entstanden. Diese Arbeiten prüfen aber nicht das konkret behauptete klinische Beschwerdebild und belegen weder dessen Existenz noch die Vollständigkeit der damaligen Forschung. Das enge historische Sachurteil bleibt offen; eine neue Originaltonkontrolle wurde nicht durchgeführt.",
       "assessmentBasis": "Vollständige deutsche Originalcaptions mit Nutzertranskript und Redaktionsskript abgeglichen; Sachprüfung anhand der zugeordneten Originalquellen und ihrer Reichweite. Eigene Paraphrase, ungefähre Zeitposition; keine audiovisuelle Vollkontrolle.",
       "occurrences": [
         {
@@ -4774,6 +4914,18 @@
         {
           "sourceId": "IF04",
           "note": "2014; gedruckte S. 14 und 63–64 / PDF-Index 13 und 62–63. Keine gesicherten Belege für negative unterschwellige Wirkungen; unterscheidet Wahrnehmungs-/Hörschwelle, mögliche hörbare Begleitanteile und generelle Infraschallquellen."
+        },
+        {
+          "sourceId": "IF21",
+          "note": "S. 145–148: Auswertung publizierter Infraschallmessungen, darunter damalige Anlagen mit Rotor vor dem Turm. Keine klinische Untersuchung."
+        },
+        {
+          "sourceId": "IF22",
+          "note": "Zusammenfassung im Universitätsrepositorium: nächtliche Schallmessungen am Windpark Rhede, keine spezifische Diagnose- oder Infraschallstudie."
+        },
+        {
+          "sourceId": "IF23",
+          "note": "Veröffentlichter Autorenabstract: Zusammenhang zwischen berechneten Windturbinengeräuschpegeln und berichteter Belästigung; keine klinische Prüfung eines Syndroms."
         }
       ],
       "research": {
@@ -4798,6 +4950,18 @@
               "IF04"
             ],
             "result": "Die Reichweite des Wortes dazu ist nicht eindeutig: Geht es um das später so bezeichnete Wind-Turbine-Syndrom bei modernen Anlagen oder allgemein um tieffrequenten Windradschall? Konkrete Vorläuferforschung gab es etwa im SERI-Bericht 1985 zu hörbaren tieffrequenten Impulsen einer alten Downwind-Bauform. Diese andere Exposition widerlegt nicht automatisch die engere moderne Gesundheitsfrage. Die UBA-Studie 2014 bestätigt Erkenntnislücken. Deshalb wird aus der unpräzisen historischen Formulierung kein sicheres Falschurteil konstruiert."
+          },
+          {
+            "date": "2026-11-25",
+            "agent": "Kai",
+            "strategy": "Kontext in der veröffentlichten Skriptfassung erneut gelesen; akustische Messung und Belästigungsforschung von der klinischen Frage getrennt.",
+            "sourceIds": [
+              "V002",
+              "IF21",
+              "IF22",
+              "IF23"
+            ],
+            "result": "Die öffentlich verlinkte Skriptfassung bezieht die Aussage auf die damalige Debatte um Beschwerden und das später so bezeichnete Wind-Turbine-Syndrom. Für die breitere Frage nach Windradgeräuschen gab es bereits 2004 Messungen an einem Windpark (Van den Berg) und eine Studie zu Geräuschpegel und berichteter Belästigung (Pedersen und Persson Waye). Jakobsen wertete 2005 speziell Infraschallmessungen aus, darunter solche an damaligen Anlagen mit Rotor vor dem Turm. Die akustische Forschung ist damit nicht erst später entstanden. Diese Arbeiten prüfen aber nicht das konkret behauptete klinische Beschwerdebild und belegen weder dessen Existenz noch die Vollständigkeit der damaligen Forschung. Das enge historische Sachurteil bleibt offen; eine neue Originaltonkontrolle wurde nicht durchgeführt."
           }
         ]
       },

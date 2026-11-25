@@ -54,3 +54,21 @@ Am 23.11.2026 bestanden nach Übernahme der gemeinsamen Korrektur alle lokalen F
 **A0048 (weiter offen):** Die Polizei bestätigt das kontrollierte Ausbrennen der Anlage, beziffert den Schaden aber nicht. Die Landesregierung identifiziert die Anlage als WEA 3. Die in derselben Drucksache genannte Schätzung von etwa 1,5 Millionen Euro steht im Fragetext des Abgeordneten als Medienangabe, nicht in der amtlichen Antwort. Öffentlich auffindbare Meldungen zur weiteren Begutachtung ersetzen keine bezifferte amtliche, Betreiber- oder Versicherungsfeststellung. Die Schadenssumme bleibt offen; der Brand selbst ist separat belegt.
 
 Quellen: IF19, IF20 und F20 im [Quellenbericht](04_quellen.md), abgeglichen mit H01/IF12/IF11 bzw. F07. Keine neue Vollsichtung, keine Änderung an Urteil, Gewicht oder Ampelschwelle.
+
+## Brandvergleich und Forschungsstand (Kai, 25.11.2026)
+
+**A0015:** In den zwölf Monaten bis zur Videoveröffentlichung am 23.11.2026 lassen sich mindestens sieben verschiedene deutsche Windradbrände anhand von Polizei-, Feuerwehr- oder Kreismeldungen nachvollziehen: Süttorf/Thomasburg, Westermarkelsdorf auf Fehmarn, Kirrweiler/Homberg, Crostwitz, Biebelried/Repperndorf, Bönen, Dingen. Der Fall Dingen liegt nach dem Datum der eingesehenen Skriptfassung (02.11.2026). Dramfeld war ein interner Schwelbrand ohne offenes Feuer; Dinslaken ein nicht bestätigter Alarm. Beide wurden nicht mitgezählt. Die Zahl ist eine unabhängig belegte Untergrenze für unser Vergleichsfenster, keine bundesweite Gesamtzahl und kein Nachweis der konkreten sieben Fälle oder des redaktionellen Stichtags.
+
+| Ereignisdatum | Ort | Primärquelle |
+| --- | --- | --- |
+| 01.01.2026 | Süttorf/Thomasburg (Niedersachsen) | [F21](https://www.presseportal.de/blaulicht/pm/59488/6189210) |
+| 02.02.2026 | Westermarkelsdorf auf Fehmarn (Schleswig-Holstein) | [F22](https://www.presseportal.de/blaulicht/pm/43738/6208516) |
+| 25.02.2026 | Kirrweiler/Homberg (Rheinland-Pfalz) | [F20](https://www.presseportal.de/blaulicht/pm/178877/6224414) |
+| 30.03.2026 | Crostwitz (Sachsen) | [F23](https://medienservice.sachsen.de/medien/news/1096018) |
+| 23.05.2026 | Biebelried/Repperndorf (Bayern) | [F08](https://www.feuerwehr-stadtschwarzach.de/einsatz/116013/) |
+| 14.06.2026 | Bönen (Nordrhein-Westfalen) | [F24](https://www.kreis-unna.de/Serviceportal/Nachrichten/Keine-Hinweise-auf-Schadstoffe.php?FID=3674.12488.1&ModID=255) |
+| 13.11.2026 | Dingen (Schleswig-Holstein) | [F25](https://www.presseportal.de/blaulicht/pm/68036/6389797) |
+
+**A0044:** Die öffentlich verlinkte Skriptfassung bezieht die Aussage auf die damalige Debatte um Beschwerden und das später so bezeichnete Wind-Turbine-Syndrom. Für die breitere Frage nach Windradgeräuschen gab es bereits 2004 Messungen an einem Windpark (Van den Berg) und eine Studie zu Geräuschpegel und berichteter Belästigung (Pedersen und Persson Waye). Jakobsen wertete 2005 speziell Infraschallmessungen aus, darunter solche an damaligen Anlagen mit Rotor vor dem Turm. Die akustische Forschung ist damit nicht erst später entstanden. Diese Arbeiten prüfen aber nicht das konkret behauptete klinische Beschwerdebild und belegen weder dessen Existenz noch die Vollständigkeit der damaligen Forschung. Das enge historische Sachurteil bleibt offen; eine neue Originaltonkontrolle wurde nicht durchgeführt.
+
+Die Ergänzung ändert keine Urteile, Gewichte, Ampelschwellen oder Aussagezahlen.

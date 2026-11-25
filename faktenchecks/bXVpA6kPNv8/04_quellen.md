@@ -507,3 +507,65 @@ Geschwärzte Originalkorrespondenz, über FragDenStaat veröffentlicht. Datumsze
 Polizeimeldung vom 26.02.2026, 10:33 Uhr. Brand am Vorabend; Anlage brannte kontrolliert aus. Eine Schadenssumme nennt die Mitteilung nicht.
 
 **Zugriff 2026-11-25:** Vollständiger Text der Original-Pressemitteilung im Webindex gelesen; kein gesonderter Polizeibericht oder Versicherungsbescheid zugänglich.
+
+## Ergänzende Quellen zu A0015 und A0044 (Kai, 25.11.2026)
+
+### F21 · Polizeiinspektion Lüneburg: Brand bei Süttorf/Thomasburg
+
+[Quelle öffnen](https://www.presseportal.de/blaulicht/pm/59488/6189210)
+
+01.01.2026: Flammen am Rotor; gemeldet im Abschnitt „Neetze – Windkraftrad in Brand“. **Zugriff 25.11.2026:** Polizeiliche Primärquelle.
+
+### F22 · Polizeidirektion Lübeck: Windradbrand in Westermarkelsdorf
+
+[Quelle öffnen](https://www.presseportal.de/blaulicht/pm/43738/6208516)
+
+02.02.2026: Gondelbrand im Bürgerwindpark auf Fehmarn. **Zugriff 25.11.2026:** Polizeiliche Primärquelle.
+
+### F23 · Polizeidirektion Görlitz: Windkraftanlage in Crostwitz
+
+[Quelle öffnen](https://medienservice.sachsen.de/medien/news/1096018)
+
+Abschnitt „Windkraftanlage in Flammen“: 30.03.2026; Feuer griff auf Rotorblätter über. **Zugriff 25.11.2026:** Polizeiliche Primärquelle.
+
+### F24 · Kreis Unna: Nachuntersuchung zum Brand im Windpark Bönen
+
+[Quelle öffnen](https://www.kreis-unna.de/Serviceportal/Nachrichten/Keine-Hinweise-auf-Schadstoffe.php?FID=3674.12488.1&ModID=255)
+
+22.07.2026: Der Kreis dokumentiert den Brand vom 14.06.2026 getrennt von der späteren Bodenuntersuchung. **Zugriff 25.11.2026:** Amtliche Primärquelle.
+
+### F25 · Kreisfeuerwehrverband Dithmarschen: Windradbrand in Dingen
+
+[Quelle öffnen](https://www.presseportal.de/blaulicht/pm/68036/6389797)
+
+13.11.2026: Offene Flammen und kontrolliertes Abbrennen. Nach dem Datum der bekannten redaktionellen Skriptfassung, aber vor dem Upload. **Zugriff 25.11.2026:** Feuerwehr-Primärquelle.
+
+### F26 · Polizeiinspektion Göttingen: Schwelbrand bei Dramfeld
+
+[Quelle öffnen](https://www.presseportal.de/blaulicht/pm/119508/6353513)
+
+16.09.2026: Schwelbrand im Inneren, ausdrücklich ohne offenes Feuer; nicht in die Siebenerliste aufgenommen. **Zugriff 25.11.2026:** Polizeiliche Primärquelle.
+
+### F27 · Feuerwehr Dinslaken: Gemeldeter Windradbrand nicht bestätigt
+
+[Quelle öffnen](https://www.presseportal.de/blaulicht/pm/116534/6280394)
+
+22.05.2026: Die alarmierte Feuerwehr bestätigte keinen Brand. Nicht gezählt. **Zugriff 25.11.2026:** Feuerwehr-Primärquelle.
+
+### IF21 · Jakobsen (2005): Infrasound Emission from Wind Turbines
+
+[Quelle öffnen](https://journals.sagepub.com/doi/10.1260/026309205775374451)
+
+S. 145–148: Auswertung publizierter Infraschallmessungen, darunter damalige Anlagen mit Rotor vor dem Turm. Keine klinische Untersuchung. **Zugriff 25.11.2026:** Fachaufsatz, Volltext geprüft.
+
+### IF22 · Van den Berg (2004): Effects of the wind profile at night on wind turbine sound
+
+[Quelle öffnen](https://research.rug.nl/en/publications/effects-of-the-wind-profile-at-night-on-wind-turbine-sound/)
+
+Zusammenfassung im Universitätsrepositorium: nächtliche Schallmessungen am Windpark Rhede, keine spezifische Diagnose- oder Infraschallstudie. **Zugriff 25.11.2026:** Originalstudie, Abstract geprüft.
+
+### IF23 · Pedersen und Persson Waye (2004): Perception and annoyance due to wind turbine noise
+
+[Quelle öffnen](https://pubmed.ncbi.nlm.nih.gov/15658697/)
+
+Veröffentlichter Autorenabstract: Zusammenhang zwischen berechneten Windturbinengeräuschpegeln und berichteter Belästigung; keine klinische Prüfung eines Syndroms. **Zugriff 25.11.2026:** Originalstudie, Abstract geprüft.
