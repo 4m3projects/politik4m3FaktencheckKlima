@@ -1,0 +1,789 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "videoId": "zpg5TZDHrv0",
+    "videoUrl": "https://www.youtube.com/watch?v=zpg5TZDHrv0",
+    "kind": "Erstprüfung des gesamten Liedverlaufs",
+    "asOf": "2026-11-26",
+    "durationSeconds": 311,
+    "coverageNote": "Privates Master von 0:00 bis 5:11 mit zwei lokal erzeugten ASR-Fassungen durchgesehen. Erfasst sind die klar erkennbaren eigenständigen Tatsachen, Prognosen und die zentrale politische Wertung. Mehrfach gesungene Aussagen sind zusammengefasst. Unverständliche Ad-libs werden nicht als Tatsachen transkribiert. Keine unabhängige Bildprüfung und kein Abgleich der öffentlichen Audiospur.",
+    "researchNote": "Der Art-Track ist die Referenzfassung. Titel und Video-ID am Original, Umfang und Zeitmarken am eigenen bereitgestellten Master geprüft. Quellen mit Stand bei Veröffentlichung (23.10.2026) eingeordnet; spätere Quellen nur als ausdrücklich gekennzeichnete Nachträge. Hinweise aus dem Klima-Faktencheck 5UboW16rU1w, Kapitel 9, und FUTqodPqWac wurden mit Originalquellen geprüft."
+  },
+  "speakers": [
+    {
+      "id": "SP01",
+      "name": "Politik4M3-Liedstimme",
+      "videoRole": "Gesungener Text",
+      "identityBasis": "Eigener Art-Track; keine personenbezogene Behauptung über die Stimme."
+    }
+  ],
+  "sources": [
+    {
+      "id": "I",
+      "title": "IAEA: Kleine modulare Reaktoren",
+      "url": "https://nucleus.iaea.org/sites/smr/Shared%20Documents/Small%20Modular%20Reactors%20a%20new%20nuclear%20energy%20paradigm.pdf",
+      "details": "Allgemeine Einordnung: bis etwa 300 MW elektrisch je Modul; modular ist ein Fertigungs- und Einsatzkonzept.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalpublikation, Fachdatenbankeintrag oder offizielle Dokumentseite geprüft."
+    },
+    {
+      "id": "K",
+      "title": "Krall, Macfarlane und Ewing, PNAS (2022)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35639689/",
+      "details": "Energiebezogener Modellvergleich für drei Entwürfe gegen einen 1.100-MW-Reaktor; Abfallströme getrennt. DOI 10.1073/pnas.2111833119.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalpublikation, Fachdatenbankeintrag oder offizielle Dokumentseite geprüft."
+    },
+    {
+      "id": "Q",
+      "title": "IAEA SMR Regulators’ Forum (2024)",
+      "url": "https://www.iaea.org/sites/default/files/24/02/smr_rf_phase_3_report_-_safety_security_and_safeguards_from_a_regulatory_perspective_an_integrated_approach.pdf",
+      "details": "Übergreifender regulatorischer Ansatz; Betriebssicherheit, physische Sicherung und Sicherungsmaßnahmen sind eigenständige Aufgaben.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalpublikation, Fachdatenbankeintrag oder offizielle Dokumentseite geprüft."
+    },
+    {
+      "id": "C",
+      "title": "CNSC: REGDOC-1.1.5 für SMR-Antragsteller",
+      "url": "https://www.cnsc-ccsn.gc.ca/eng/acts-and-regulations/regulatory-documents/published/html/regdoc1-1-5/index.cfm",
+      "details": "Kanadischer Regulierungsrahmen: standort- und anlagenspezifische Nachweise; Anforderungen sind skalierbar, nicht automatisch entbehrlich.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalpublikation, Fachdatenbankeintrag oder offizielle Dokumentseite geprüft."
+    },
+    {
+      "id": "D",
+      "title": "CNSC: Darlington, Projektchronik",
+      "url": "https://www.cnsc-ccsn.gc.ca/eng/reactors/new-reactor-power-plant-projects/new-reactor-power-plant-facilities/darlington-new-nuclear-project/project-timeline/",
+      "details": "Baugenehmigung vom April 2025 für eine Einheit; Antrag auf Betriebsgenehmigung 2026.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalpublikation, Fachdatenbankeintrag oder offizielle Dokumentseite geprüft."
+    },
+    {
+      "id": "N",
+      "title": "OECD Nuclear Energy Agency: SMR Dashboard, vierte Ausgabe",
+      "url": "https://www.cms.oecd-nea.org/jcms/pl_122015/release-of-the-nea-small-modular-reactor-digital-dashboard-fourth-edition",
+      "details": "Stand der Projektdaten 18. Mai 2026. Unterscheidet Genehmigung, Standort, Finanzierung, Lieferkette, Beteiligung und Brennstoff.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalpublikation, Fachdatenbankeintrag oder offizielle Dokumentseite geprüft."
+    },
+    {
+      "id": "U",
+      "title": "UAMPS: Carbon Free Power Project",
+      "url": "https://www.uamps.com/carbon-free",
+      "details": "Gemeinsame Beendigung mit NuScale am 8. November 2023.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalpublikation, Fachdatenbankeintrag oder offizielle Dokumentseite geprüft."
+    },
+    {
+      "id": "O",
+      "title": "OPG: Quartalsbericht Q3 2026, Darlington",
+      "url": "https://www.opg.com/wp-content/uploads/2026/11/2026_Q3_OPG_PR_MDA__FS_-_FINAL_FINAL_secured.pdf",
+      "details": "Nachtrag nach Songrelease: Oktober 2030 wird für Einheit 1 nicht mehr erwartet; Projekttermin und Kosten werden überprüft.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalpublikation, Fachdatenbankeintrag oder offizielle Dokumentseite geprüft."
+    },
+    {
+      "id": "B",
+      "title": "BGE: Fragen und Antworten zur Endlagersuche",
+      "url": "https://www.bge.de/de/endlagersuche/fragen-und-antworten/",
+      "details": "Deutschland sucht einen Standort für ein Endlager für hochradioaktive Abfälle; das Verfahren läuft.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalpublikation, Fachdatenbankeintrag oder offizielle Dokumentseite geprüft."
+    },
+    {
+      "id": "F",
+      "title": "Entsorgungsfondsgesetz",
+      "url": "https://www.gesetze-im-internet.de/entsorgfondsg/BJNR011410017.html",
+      "details": "Deutsche Finanzierung der Zwischen- und Endlagerung historischer Abfälle; kein Kostenvoranschlag für einen neuen SMR.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalpublikation, Fachdatenbankeintrag oder offizielle Dokumentseite geprüft."
+    },
+    {
+      "id": "R",
+      "title": "IAEA: SMR Technology Overview, 14. März 2024",
+      "url": "https://nucleus.iaea.org/sites/nids/capacity/TM-infrastructure/TM%20Infra%202024%20Documents/Session%208%20-%20Deployment%20of%20SMRs/8.1.2.%20IAEA_Subki_SMR%20Technology%20overview_14Mar24.pdf",
+      "details": "Dokumentiert kommerziellen Betrieb von Akademik Lomonosov (Russland) und HTR-PM (China); keine Aussage über die globale Zahl im November 2026.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalpublikation, Fachdatenbankeintrag oder offizielle Dokumentseite geprüft."
+    }
+  ],
+  "claims": [
+    {
+      "id": "zpg5TZDHrv0-A0001",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Auch SMRs erzeugen radioaktive Abfälle.",
+      "reason": "Die Größe eines Reaktors macht seinen Betrieb nicht abfallfrei. Der Fachvergleich behandelt mehrere Abfallströme; radioaktiver Abfall ist vom direkten CO₂-Ausstoß zu unterscheiden.",
+      "assessmentBasis": "Paraphrase des Songs. Originalquellen und Aussagegrenzen geprüft.",
+      "occurrences": [
+        {
+          "startSeconds": 27,
+          "endSeconds": 37,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        },
+        {
+          "startSeconds": 63,
+          "endSeconds": 66,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        },
+        {
+          "startSeconds": 124,
+          "endSeconds": 126,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        },
+        {
+          "startSeconds": 203,
+          "endSeconds": 206,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        },
+        {
+          "startSeconds": 222,
+          "endSeconds": 225,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        },
+        {
+          "startSeconds": 237,
+          "endSeconds": 247,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        },
+        {
+          "startSeconds": 268,
+          "endSeconds": 271,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "I",
+          "note": "Allgemeine Einordnung: bis etwa 300 MW elektrisch je Modul; modular ist ein Fertigungs- und Einsatzkonzept."
+        },
+        {
+          "sourceId": "K",
+          "note": "Energiebezogener Modellvergleich für drei Entwürfe gegen einen 1.100-MW-Reaktor; Abfallströme getrennt. DOI 10.1073/pnas.2111833119."
+        }
+      ],
+      "openQuestions": []
+    },
+    {
+      "id": "zpg5TZDHrv0-A0002",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Ein kleiner Reaktor könne absolut weniger Abfall erzeugen, wenn er weniger Strom liefert.",
+      "reason": "Bei gleichem Abfall je erzeugter Stromeinheit ergibt eine geringere Produktion weniger absoluten Abfall. Der Quotient ist aber nicht für alle Reaktordesigns gleich; Leistung in MW und erzeugte Energie in MWh sind nicht dasselbe.",
+      "assessmentBasis": "Paraphrase des Songs. Originalquellen und Aussagegrenzen geprüft.",
+      "occurrences": [
+        {
+          "startSeconds": 37,
+          "endSeconds": 42,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "I",
+          "note": "Allgemeine Einordnung: bis etwa 300 MW elektrisch je Modul; modular ist ein Fertigungs- und Einsatzkonzept."
+        },
+        {
+          "sourceId": "K",
+          "note": "Energiebezogener Modellvergleich für drei Entwürfe gegen einen 1.100-MW-Reaktor; Abfallströme getrennt. DOI 10.1073/pnas.2111833119."
+        }
+      ],
+      "openQuestions": [],
+      "shortReason": "Weniger erzeugter Strom kann weniger absoluten Abfall bedeuten; der Abfall je MWh hängt vom Entwurf und Abfallstrom ab."
+    },
+    {
+      "id": "zpg5TZDHrv0-A0003",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Bei manchen SMR-Entwürfen kann pro erzeugter Stromeinheit mehr zu entsorgender radioaktiver Abfall anfallen.",
+      "reason": "Die Studie von Krall et al. modelliert drei Entwürfe und vergleicht sie mit einem großen Druckwasserreaktor. Für die betrachteten Entwürfe und Abfallströme sind größere energiebezogene Abfallvolumina dokumentiert (Faktoren 2–30 in der Zusammenfassung). Das ist weder ein Messwert für alle SMRs noch ein einheitlicher Faktor für den gesamten Abfall.",
+      "assessmentBasis": "Paraphrase des Songs. Originalquellen und Aussagegrenzen geprüft.",
+      "occurrences": [
+        {
+          "startSeconds": 42,
+          "endSeconds": 57,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "K",
+          "note": "Energiebezogener Modellvergleich für drei Entwürfe gegen einen 1.100-MW-Reaktor; Abfallströme getrennt. DOI 10.1073/pnas.2111833119."
+        }
+      ],
+      "openQuestions": []
+    },
+    {
+      "id": "zpg5TZDHrv0-A0004",
+      "chapter": 1,
+      "kind": "Meinung",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Der Song lehnt den Ausbau von Atomkraft und dafür eingesetzte öffentliche Mittel ab.",
+      "reason": "Politische Wertung und Aufforderung; kein konkreter Haushaltsbeschluss und kein behaupteter tatsächlich gezahlter Milliardenbetrag.",
+      "assessmentBasis": "Aus dem Songkontext als Wertung oder Prognose eingeordnet.",
+      "occurrences": [
+        {
+          "startSeconds": 57,
+          "endSeconds": 74,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Werturteil",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        },
+        {
+          "startSeconds": 117,
+          "endSeconds": 124,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Werturteil",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        },
+        {
+          "startSeconds": 197,
+          "endSeconds": 217,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Werturteil",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        },
+        {
+          "startSeconds": 277,
+          "endSeconds": 284,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Werturteil",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        }
+      ],
+      "sourceRefs": [],
+      "openQuestions": []
+    },
+    {
+      "id": "zpg5TZDHrv0-A0005",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Auch kleine Reaktoren müssen auf Sicherheit geprüft und gegen unbefugte Eingriffe geschützt werden.",
+      "reason": "Der Regulierungsrahmen unterscheidet Sicherheit und Sicherung, verlangt einschlägige Nachweise und betrachtet die konkrete Anlage mitsamt Standort. Weniger Leistung hebt die Pflichten nicht auf.",
+      "assessmentBasis": "Paraphrase des Songs. Originalquellen und Aussagegrenzen geprüft.",
+      "occurrences": [
+        {
+          "startSeconds": 86,
+          "endSeconds": 97,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        },
+        {
+          "startSeconds": 109,
+          "endSeconds": 117,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        },
+        {
+          "startSeconds": 245,
+          "endSeconds": 248,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "Q",
+          "note": "Übergreifender regulatorischer Ansatz; Betriebssicherheit, physische Sicherung und Sicherungsmaßnahmen sind eigenständige Aufgaben."
+        },
+        {
+          "sourceId": "C",
+          "note": "Kanadischer Regulierungsrahmen: standort- und anlagenspezifische Nachweise; Anforderungen sind skalierbar, nicht automatisch entbehrlich."
+        }
+      ],
+      "openQuestions": []
+    },
+    {
+      "id": "zpg5TZDHrv0-A0006",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Viele getrennte Standorte erhöhen gegenüber einem Standort den Aufwand für Kontrolle und Bewachung.",
+      "reason": "Bei getrennten Standorten sind standortspezifische Anforderungen zu berücksichtigen. Die Zahl im Song ist hypothetisch. Die Quellen belegen keine allgemeingültigen Mehrkosten und keinen pauschalen Sicherheitsnachteil für jede Konfiguration; mehrere Module können denselben Standort nutzen.",
+      "assessmentBasis": "Paraphrase des Songs. Originalquellen und Aussagegrenzen geprüft.",
+      "occurrences": [
+        {
+          "startSeconds": 97,
+          "endSeconds": 107,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "Q",
+          "note": "Übergreifender regulatorischer Ansatz; Betriebssicherheit, physische Sicherung und Sicherungsmaßnahmen sind eigenständige Aufgaben."
+        },
+        {
+          "sourceId": "C",
+          "note": "Kanadischer Regulierungsrahmen: standort- und anlagenspezifische Nachweise; Anforderungen sind skalierbar, nicht automatisch entbehrlich."
+        },
+        {
+          "sourceId": "D",
+          "note": "Baugenehmigung vom April 2025 für eine Einheit; Antrag auf Betriebsgenehmigung 2026."
+        }
+      ],
+      "openQuestions": [],
+      "shortReason": "Weitere Standorte brauchen eigene Nachweise; ein allgemeiner Kosten- oder Sicherheitsmultiplikator ist daraus nicht ableitbar."
+    },
+    {
+      "id": "zpg5TZDHrv0-A0007",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Passive Sicherheitssysteme können Vorteile haben, ersetzen physische Sicherung aber nicht.",
+      "reason": "Bestimmte Konzepte können bei der Betriebssicherheit von passiven Merkmalen profitieren. Das regulatorische Forum behandelt Schutz gegen beabsichtigte Einwirkungen separat. Der Vorteil ist entwurfsabhängig, kein Beleg für eine pauschal geringere Gesamtausfallgefahr.",
+      "assessmentBasis": "Paraphrase des Songs. Originalquellen und Aussagegrenzen geprüft.",
+      "occurrences": [
+        {
+          "startSeconds": 107,
+          "endSeconds": 111,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "I",
+          "note": "Allgemeine Einordnung: bis etwa 300 MW elektrisch je Modul; modular ist ein Fertigungs- und Einsatzkonzept."
+        },
+        {
+          "sourceId": "Q",
+          "note": "Übergreifender regulatorischer Ansatz; Betriebssicherheit, physische Sicherung und Sicherungsmaßnahmen sind eigenständige Aufgaben."
+        },
+        {
+          "sourceId": "C",
+          "note": "Kanadischer Regulierungsrahmen: standort- und anlagenspezifische Nachweise; Anforderungen sind skalierbar, nicht automatisch entbehrlich."
+        }
+      ],
+      "openQuestions": []
+    },
+    {
+      "id": "zpg5TZDHrv0-A0008",
+      "chapter": 3,
+      "kind": "Prognose",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Wiederholt gebaute, gleiche Module könnten durch Serienfertigung günstiger werden.",
+      "reason": "Das ist ein plausibler Lern- und Skaleneffekt, keine gemessene allgemeine Kostenentwicklung. Die erste Anlage und folgende Einheiten müssen vergleichbar abgegrenzt werden.",
+      "assessmentBasis": "Paraphrase des Songs. Originalquellen und Aussagegrenzen geprüft.",
+      "occurrences": [
+        {
+          "startSeconds": 138,
+          "endSeconds": 157,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Werturteil",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        },
+        {
+          "startSeconds": 185,
+          "endSeconds": 197,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Werturteil",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        },
+        {
+          "startSeconds": 248,
+          "endSeconds": 252,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Werturteil",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "I",
+          "note": "Allgemeine Einordnung: bis etwa 300 MW elektrisch je Modul; modular ist ein Fertigungs- und Einsatzkonzept."
+        },
+        {
+          "sourceId": "N",
+          "note": "Stand der Projektdaten 18. Mai 2026. Unterscheidet Genehmigung, Standort, Finanzierung, Lieferkette, Beteiligung und Brennstoff."
+        },
+        {
+          "sourceId": "D",
+          "note": "Baugenehmigung vom April 2025 für eine Einheit; Antrag auf Betriebsgenehmigung 2026."
+        }
+      ],
+      "openQuestions": []
+    },
+    {
+      "id": "zpg5TZDHrv0-A0009",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Die erste Anlage kann besonders teuer sein; zwei Anlagen reichen nicht als Beleg für wirtschaftliche Massenfertigung.",
+      "reason": "Pilot-, Genehmigungs- und Einführungsaufwand sind projektspezifisch. Darlington und das abgebrochene US-Projekt sind Beispiele für unterschiedliche Entwicklungsstände. Ein universeller Mindestwert für Stückzahlen oder ein Kostenvergleich pro kWh folgt daraus nicht.",
+      "assessmentBasis": "Paraphrase des Songs. Originalquellen und Aussagegrenzen geprüft.",
+      "occurrences": [
+        {
+          "startSeconds": 147,
+          "endSeconds": 152,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "N",
+          "note": "Stand der Projektdaten 18. Mai 2026. Unterscheidet Genehmigung, Standort, Finanzierung, Lieferkette, Beteiligung und Brennstoff."
+        },
+        {
+          "sourceId": "D",
+          "note": "Baugenehmigung vom April 2025 für eine Einheit; Antrag auf Betriebsgenehmigung 2026."
+        },
+        {
+          "sourceId": "U",
+          "note": "Gemeinsame Beendigung mit NuScale am 8. November 2023."
+        }
+      ],
+      "openQuestions": [],
+      "shortReason": "Erstprojekte sind kein Beleg für spätere Serienkosten; die nötige Stückzahl hängt vom Projekt ab."
+    },
+    {
+      "id": "zpg5TZDHrv0-A0010",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "SMR-Projekte verfolgen verschiedene Entwürfe und befinden sich in unterschiedlichen Zulassungs- und Finanzierungsstadien.",
+      "reason": "IAEA und NEA dokumentieren mehrere Reaktorarten und getrennte Entwicklungsschritte. Darlington zeigt zugleich, dass konkrete Projekte existieren; das Lied stellt die ausreichende Nachfrage als Frage und behauptet nicht, dass es überhaupt keine Projekte gibt.",
+      "assessmentBasis": "Paraphrase des Songs. Originalquellen und Aussagegrenzen geprüft.",
+      "occurrences": [
+        {
+          "startSeconds": 167,
+          "endSeconds": 185,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        },
+        {
+          "startSeconds": 159,
+          "endSeconds": 167,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        },
+        {
+          "startSeconds": 248,
+          "endSeconds": 252,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "I",
+          "note": "Allgemeine Einordnung: bis etwa 300 MW elektrisch je Modul; modular ist ein Fertigungs- und Einsatzkonzept."
+        },
+        {
+          "sourceId": "N",
+          "note": "Stand der Projektdaten 18. Mai 2026. Unterscheidet Genehmigung, Standort, Finanzierung, Lieferkette, Beteiligung und Brennstoff."
+        },
+        {
+          "sourceId": "D",
+          "note": "Baugenehmigung vom April 2025 für eine Einheit; Antrag auf Betriebsgenehmigung 2026."
+        },
+        {
+          "sourceId": "R",
+          "note": "Dokumentiert kommerziellen Betrieb von Akademik Lomonosov (Russland) und HTR-PM (China); keine Aussage über die globale Zahl im November 2026."
+        }
+      ],
+      "openQuestions": []
+    },
+    {
+      "id": "zpg5TZDHrv0-A0011",
+      "chapter": 3,
+      "kind": "Prognose",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "description": "Verteilte Nachfrage und unterschiedliche Anforderungen können Serienfertigung erschweren; Standards könnten helfen.",
+      "reason": "Plausible Bedingung, keine feststehende Marktfolge. Partnerschaften, Standardisierung oder gemeinsame Standorte können die Ausgangslage verändern; keine allgemeine Stückzahl oder Preisersparnis belegt.",
+      "assessmentBasis": "Paraphrase des Songs. Originalquellen und Aussagegrenzen geprüft.",
+      "occurrences": [
+        {
+          "startSeconds": 173,
+          "endSeconds": 190,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Werturteil",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "N",
+          "note": "Stand der Projektdaten 18. Mai 2026. Unterscheidet Genehmigung, Standort, Finanzierung, Lieferkette, Beteiligung und Brennstoff."
+        },
+        {
+          "sourceId": "I",
+          "note": "Allgemeine Einordnung: bis etwa 300 MW elektrisch je Modul; modular ist ein Fertigungs- und Einsatzkonzept."
+        }
+      ],
+      "openQuestions": []
+    },
+    {
+      "id": "zpg5TZDHrv0-A0012",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Ein allgemeiner Nachweis für günstigen SMR-Strom aus Massenproduktion steht noch aus.",
+      "reason": "Der NEA-Projektstand unterscheidet Entwicklungsreife und Betrieb. Ein US-Projekt wurde beendet, ein kanadisches befindet sich im Genehmigungs- und Bauprozess. Der OPG-Bericht vom November ist nur ein späteres Update, kein Befund zum Veröffentlichungsdatum. Bestehender Betrieb einzelner Anlagen beweist keinen generellen Preisvorteil.",
+      "assessmentBasis": "Paraphrase des Songs. Originalquellen und Aussagegrenzen geprüft.",
+      "occurrences": [
+        {
+          "startSeconds": 192,
+          "endSeconds": 197,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "N",
+          "note": "Stand der Projektdaten 18. Mai 2026. Unterscheidet Genehmigung, Standort, Finanzierung, Lieferkette, Beteiligung und Brennstoff."
+        },
+        {
+          "sourceId": "U",
+          "note": "Gemeinsame Beendigung mit NuScale am 8. November 2023."
+        },
+        {
+          "sourceId": "D",
+          "note": "Baugenehmigung vom April 2025 für eine Einheit; Antrag auf Betriebsgenehmigung 2026."
+        },
+        {
+          "sourceId": "R",
+          "note": "Dokumentiert kommerziellen Betrieb von Akademik Lomonosov (Russland) und HTR-PM (China); keine Aussage über die globale Zahl im November 2026."
+        },
+        {
+          "sourceId": "O",
+          "note": "Nachtrag nach Songrelease: Oktober 2030 wird für Einheit 1 nicht mehr erwartet; Projekttermin und Kosten werden überprüft."
+        }
+      ],
+      "openQuestions": [],
+      "shortReason": "Konkrete Projekte und einzelne Betriebsbeispiele sind kein Nachweis für generell günstigeren Strom aus einer Massenserie."
+    },
+    {
+      "id": "zpg5TZDHrv0-A0013",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Auch nach der Stromproduktion bleiben Entsorgungsaufgaben und dafür fallen Kosten an.",
+      "reason": "Die finanzielle Verantwortung endet nicht mit dem Stromverkauf. Das Entsorgungsfondsgesetz zeigt für Deutschland die Finanzierung von Zwischen- und Endlageraufgaben; es liefert keinen Eurobetrag für die Liedbeispiele.",
+      "assessmentBasis": "Paraphrase des Songs. Originalquellen und Aussagegrenzen geprüft.",
+      "occurrences": [
+        {
+          "startSeconds": 227,
+          "endSeconds": 238,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "K",
+          "note": "Energiebezogener Modellvergleich für drei Entwürfe gegen einen 1.100-MW-Reaktor; Abfallströme getrennt. DOI 10.1073/pnas.2111833119."
+        },
+        {
+          "sourceId": "F",
+          "note": "Deutsche Finanzierung der Zwischen- und Endlagerung historischer Abfälle; kein Kostenvoranschlag für einen neuen SMR."
+        },
+        {
+          "sourceId": "B",
+          "note": "Deutschland sucht einen Standort für ein Endlager für hochradioaktive Abfälle; das Verfahren läuft."
+        }
+      ],
+      "openQuestions": []
+    },
+    {
+      "id": "zpg5TZDHrv0-A0014",
+      "chapter": 4,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "description": "Der Bau eines kleinen Reaktors löst das ungelöste Endlagerproblem nicht.",
+      "reason": "Für hochradioaktive Abfälle in Deutschland ist weiterhin eine Standortauswahl erforderlich. Das ist keine Behauptung, dass weltweit keine konkreten Endlagerprojekte existieren oder dass es kein technisches Entsorgungskonzept gibt.",
+      "assessmentBasis": "Paraphrase des Songs. Originalquellen und Aussagegrenzen geprüft.",
+      "occurrences": [
+        {
+          "startSeconds": 232,
+          "endSeconds": 239,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Eigener Song: gesungene Leadstimme bzw. Refrain des Art-Tracks; keine Identifizierung einer natürlichen Sängerperson.",
+          "timeBasis": "Aus dem privaten bereitgestellten Master; anhand der Zeitmarken der deutschen Spracherkennung eingegrenzt."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "I",
+          "note": "Allgemeine Einordnung: bis etwa 300 MW elektrisch je Modul; modular ist ein Fertigungs- und Einsatzkonzept."
+        },
+        {
+          "sourceId": "B",
+          "note": "Deutschland sucht einen Standort für ein Endlager für hochradioaktive Abfälle; das Verfahren läuft."
+        },
+        {
+          "sourceId": "K",
+          "note": "Energiebezogener Modellvergleich für drei Entwürfe gegen einen 1.100-MW-Reaktor; Abfallströme getrennt. DOI 10.1073/pnas.2111833119."
+        }
+      ],
+      "openQuestions": [],
+      "shortReason": "Deutschland hat noch keinen ausgewählten Standort für sein Endlager für hochradioaktive Abfälle."
+    }
+  ]
+}

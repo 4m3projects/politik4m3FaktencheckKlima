@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "videoId": "zpg5TZDHrv0",
+  "basis": "Songabschnitte und Prüfbericht, Schwerpunkt zivile Kernkraft. Vorhandene Themen-IDs.",
+  "topics": [
+    {
+      "topic": "energie/atomkraft",
+      "relevance": "Schwerpunkt",
+      "basis": "SMRs, Abfall, Sicherheit, Serie.",
+      "segments": [
+        {
+          "startSeconds": 27,
+          "endSeconds": 239,
+          "note": "Abfall, Sicherheit, Serienfertigung und Endlagerung."
+        }
+      ]
+    },
+    {
+      "topic": "energie/preise",
+      "relevance": "Behandelt",
+      "basis": "Serienkosten als Hypothese, Projektstand.",
+      "segments": [
+        {
+          "startSeconds": 138,
+          "endSeconds": 197,
+          "note": "Projektkosten, Nachfrage und Standardisierung."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "zpg5TZDHrv0-A0001",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "zpg5TZDHrv0-A0002",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "zpg5TZDHrv0-A0003",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "zpg5TZDHrv0-A0004",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "zpg5TZDHrv0-A0005",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "zpg5TZDHrv0-A0006",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "zpg5TZDHrv0-A0007",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "zpg5TZDHrv0-A0008",
+      "topics": [
+        "energie/atomkraft",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "zpg5TZDHrv0-A0009",
+      "topics": [
+        "energie/atomkraft",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "zpg5TZDHrv0-A0010",
+      "topics": [
+        "energie/atomkraft",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "zpg5TZDHrv0-A0011",
+      "topics": [
+        "energie/atomkraft",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "zpg5TZDHrv0-A0012",
+      "topics": [
+        "energie/atomkraft",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "zpg5TZDHrv0-A0013",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "zpg5TZDHrv0-A0014",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Erste Zuordnung für den Art-Track."
+    }
+  ]
+}
