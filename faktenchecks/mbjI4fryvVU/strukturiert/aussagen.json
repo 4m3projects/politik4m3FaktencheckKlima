@@ -7,7 +7,7 @@
     "asOf": "2026-11-22",
     "durationSeconds": 311,
     "coverageNote": "Deutsche Originalcaptions über die gesamte Laufzeit gelesen; Sachbehauptungen, Selbstauskünfte, Wertungen und Prognosen getrennt. Die berechnete Abdeckung bezieht sich auf den erfassten Bestand. Ausschließlich eingeblendete Aussagen und Originalton sind nicht lückenlos kontrolliert. Gezielte Bildstichproben bei 00: 20 und 00: 35 wurden zusätzlich direkt im Originalplayer betrachtet; sie ersetzen keine audiovisuelle Vollprüfung. Erneute direkte Bildkontrolle bei 00:20 und 00:32 am 22.11.2026; keine vollständige audiovisuelle Sichtung.",
-    "researchNote": "Gezielte Wissenssuche, Primärquellen und Gegenrecherche. Der Status bleibt Teilbestand geprüft; Originalton, alle kurzzeitigen Einblendungen und nicht entscheidbare Einzelbezüge bleiben ausdrücklich offen. Nachprüfung: vier zuvor offene Aussagen erstmals bewertet; Biogasanlage durch ergänzende Primärquellen in KL-C0002 berichtigt. Drei offene Punkte brauchen weiterhin Betriebs-, Inventar- oder Modellnachweise. Gewichte und Anteile unverändert."
+    "researchNote": "Gezielte Wissenssuche, Primärquellen und Gegenrecherche. Der Status bleibt Teilbestand geprüft; Originalton, alle kurzzeitigen Einblendungen und nicht entscheidbare Einzelbezüge bleiben ausdrücklich offen. Nachprüfung: vier zuvor offene Aussagen erstmals bewertet; Biogasanlage durch ergänzende Primärquellen in KL-C0002 berichtigt. Drei offene Punkte brauchen weiterhin Betriebs-, Inventar- oder Modellnachweise. Gewichte und Anteile unverändert. Kai (26.11.2026): 6 alte Teilurteile anhand der originalen automatischen YouTube-Textspur und der jeweiligen Sachquellen einzeln erneut geprüft; kein Ton- oder Bildvollabgleich."
   },
   "speakers": [
     {
@@ -161,6 +161,14 @@
       "kind": "Primärquelle",
       "accessedOn": "2026-11-22",
       "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die genannten Abschnitte gelesen."
+    },
+    {
+      "id": "KA-PVPS26",
+      "title": "IEA PVPS: Snapshot of Global PV Markets 2026",
+      "url": "https://iea-pvps.org/wp-content/uploads/2026/04/Snapshot-of-Global-PV-Markets-2026.pdf",
+      "details": "Vergleich der installierten Photovoltaikleistung je Einwohner Ende 2025, nicht Anlagenanzahl. Neuere Daten, kein Beleg, dass der Bericht am Videotag schon bekannt war.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalquelle an der angegebenen Fundstelle geprüft."
     }
   ],
   "claims": [
@@ -264,11 +272,11 @@
       "id": "mbjI4fryvVU-A0002",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Der Hof deckt seinen Strombedarf überwiegend aus eigener Erzeugung und steuert ihn per Software.",
-      "reason": "Der beteiligte Fördergeber dokumentiert bereits für 2024 ein Energiemanagementsystem auf Prinsenʼs Hof mit PV, Vergärer, Windrad und Containerspeicher. Der Zusammenhang von eigener Erzeugung, Speicher und Software ist konkret gestützt. Die darüber hinaus behauptete überwiegende Eigenversorgung ist ohne Erzeugungs-, Bezugs- und Verbrauchszeitreihe nicht quantitativ nachgerechnet; eine Jahresbilanz oder die Bezeichnung energieneutral wäre dafür allein kein Nachweis.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "status": "Offen",
+      "verdict": null,
+      "description": "Der gezeigte Hof bezieht für den laufenden Betrieb meistens Strom aus eigener Erzeugung.",
+      "reason": "Im Original geht es zunächst um den Melkroboter und den üblichen Hofbetrieb; der Beitrag nennt zugleich Netzbezug bei Engpässen. Der Fördergeber belegt Erzeugungsanlagen, Speicher und Managementsystem. Ohne getrennte zeitliche Messwerte für Eigenerzeugung, Netzbezug und Verbraucher lässt sich die behauptete überwiegende Eigendeckung nicht bestimmen. Die unabhängig prüfbare Softwaresteuerung steht in A0024.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 34,
@@ -317,6 +325,17 @@
               "Q09"
             ],
             "result": "Der beteiligte Fördergeber dokumentiert bereits für 2024 ein Energiemanagementsystem auf Prinsenʼs Hof mit PV, Vergärer, Windrad und Containerspeicher. Der Zusammenhang von eigener Erzeugung, Speicher und Software ist konkret gestützt. Die darüber hinaus behauptete überwiegende Eigenversorgung ist ohne Erzeugungs-, Bezugs- und Verbrauchszeitreihe nicht quantitativ nachgerechnet; eine Jahresbilanz oder die Bezeichnung energieneutral wäre dafür allein kein Nachweis."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q01",
+              "Q09"
+            ],
+            "result": "Im Original geht es zunächst um den Melkroboter und den üblichen Hofbetrieb; der Beitrag nennt zugleich Netzbezug bei Engpässen. Der Fördergeber belegt Erzeugungsanlagen, Speicher und Managementsystem. Ohne getrennte zeitliche Messwerte für Eigenerzeugung, Netzbezug und Verbraucher lässt sich die behauptete überwiegende Eigendeckung nicht bestimmen. Die unabhängig prüfbare Softwaresteuerung steht in A0024."
           }
         ]
       },
@@ -343,10 +362,28 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Der Hof deckt seinen Strombedarf überwiegend aus eigener Erzeugung und steuert ihn per Software."
+            },
+            "next": {
+              "status": "Offen",
+              "verdict": null,
+              "description": "Der gezeigte Hof bezieht für den laufenden Betrieb meistens Strom aus eigener Erzeugung."
+            },
+            "reason": "Im Original geht es zunächst um den Melkroboter und den üblichen Hofbetrieb; der Beitrag nennt zugleich Netzbezug bei Engpässen. Der Fördergeber belegt Erzeugungsanlagen, Speicher und Managementsystem. Ohne getrennte zeitliche Messwerte für Eigenerzeugung, Netzbezug und Verbraucher lässt sich die behauptete überwiegende Eigendeckung nicht bestimmen. Die unabhängig prüfbare Softwaresteuerung steht in A0024."
           }
         ]
       },
-      "shortReason": "Eigene Erzeugung und Softwaresteuerung sind dokumentiert; eine nachgerechnete Mehrheitseigenversorgungsquote fehlt."
+      "openQuestions": [
+        "Welche zeitlich aufgelösten Messdaten weisen aus, bei welchen Verbrauchern und wie häufig eigener Strom gereicht hat?"
+      ]
     },
     {
       "id": "mbjI4fryvVU-A0003",
@@ -605,10 +642,10 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "verdict": "Irreführend / Kontext fehlt",
       "description": "Die Niederlande haben weltweit die meisten Solaranlagen pro Einwohner.",
-      "reason": "Der vor dem Video verfügbare IEA-PVPS-Vergleich führt die Niederlande bei installierter PV-Leistung pro Kopf an. Er zählt keine Anlagenstücke; außerdem gilt der Vergleich für den berichteten Datenstand.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "reason": "Der Interviewpartner nennt die meisten Solaranlagen pro Einwohner und geht unmittelbar zu Gigawatt über. Der zeitgenössische IEA-PVPS-Bericht führt die Niederlande für Ende 2024 bei PV-Nennleistung je Einwohner an, nicht bei der Stückzahl von Anlagen. Der neuere Bericht für Ende 2025 führt Australien mit 1.629 W vor den Niederlanden mit 1.601 W; ob diese Veröffentlichung beim Upload bereits verfügbar war, ist nicht belegt. Ohne Maß und Bezugsjahr ist ein dauerhafter Spitzenplatz bei der Anlagenanzahl nicht aus dem Vergleich ableitbar.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 135,
@@ -631,6 +668,10 @@
         {
           "sourceId": "Q05",
           "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "KA-PVPS26",
+          "note": "In der Einzelnachprüfung herangezogene Originalquelle."
         }
       ],
       "research": {
@@ -644,10 +685,20 @@
               "Q05"
             ],
             "result": "Der vor dem Video verfügbare IEA-PVPS-Vergleich führt die Niederlande bei installierter PV-Leistung pro Kopf an. Er zählt keine Anlagenstücke; außerdem gilt der Vergleich für den berichteten Datenstand."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q05",
+              "KA-PVPS26"
+            ],
+            "result": "Der Interviewpartner nennt die meisten Solaranlagen pro Einwohner und geht unmittelbar zu Gigawatt über. Der zeitgenössische IEA-PVPS-Bericht führt die Niederlande für Ende 2024 bei PV-Nennleistung je Einwohner an, nicht bei der Stückzahl von Anlagen. Der neuere Bericht für Ende 2025 führt Australien mit 1.629 W vor den Niederlanden mit 1.601 W; ob diese Veröffentlichung beim Upload bereits verfügbar war, ist nicht belegt. Ohne Maß und Bezugsjahr ist ein dauerhafter Spitzenplatz bei der Anlagenanzahl nicht aus dem Vergleich ableitbar."
           }
         ]
       },
-      "shortReason": "Der Spitzenplatz gilt für installierte PV-Leistung pro Kopf, nicht für die Zahl der Anlagen.",
       "attribution": {
         "statementBy": "Zitierte Person",
         "person": "Robin Berg",
@@ -680,9 +731,26 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Die Niederlande haben weltweit die meisten Solaranlagen pro Einwohner."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Die Niederlande haben weltweit die meisten Solaranlagen pro Einwohner."
+            },
+            "reason": "Der Interviewpartner nennt die meisten Solaranlagen pro Einwohner und geht unmittelbar zu Gigawatt über. Der zeitgenössische IEA-PVPS-Bericht führt die Niederlande für Ende 2024 bei PV-Nennleistung je Einwohner an, nicht bei der Stückzahl von Anlagen. Der neuere Bericht für Ende 2025 führt Australien mit 1.629 W vor den Niederlanden mit 1.601 W; ob diese Veröffentlichung beim Upload bereits verfügbar war, ist nicht belegt. Ohne Maß und Bezugsjahr ist ein dauerhafter Spitzenplatz bei der Anlagenanzahl nicht aus dem Vergleich ableitbar."
           }
         ]
-      }
+      },
+      "shortReason": "Der damalige Vergleich betraf Watt je Einwohner und nicht die Zahl der Anlagen."
     },
     {
       "id": "mbjI4fryvVU-A0007",
@@ -773,10 +841,10 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "verdict": "Irreführend / Kontext fehlt",
       "description": "In Spitzenzeiten wird nur etwa die Hälfte dieser 30 Gigawatt benötigt.",
-      "reason": "TenneT beziffert den landesweiten Spitzenbedarf Ende 2025 auf rund 19 GW. Das liegt deutlich unter 30 GW installierter PV-Nennleistung, aber über der mit der Hälfte nahegelegten Größe von 15 GW. Zudem sind Nennleistung und zeitgleiche tatsächliche Einspeisung verschieden. Welche Spitzenzeiten der O-Ton meint, bleibt ohne datierten Lastgang unklar; die grobe Überschussproblematik ist gestützt, der genaue Vergleich nicht.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "reason": "Die rund 30 GW entsprechen in der Größenordnung der PV-Nennleistung; CBS bezifferte den niederländischen Gesamtbestand Ende 2024 auf 28,6 GW. TenneT schrieb Ende 2025 von rund 19 GW landesweiter Spitzenlast: etwa 63 % von 30 GW, nicht nahe 15 GW. Außerdem ist die Nennleistung kein Messwert für die gleichzeitige Einspeisung. Der O-Ton legt keine konkrete Stunde fest; die allgemeine Überschussproblematik bleibt plausibel.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 145,
@@ -825,6 +893,17 @@
               "Q12"
             ],
             "result": "TenneT beziffert den landesweiten Spitzenbedarf Ende 2025 auf rund 19 GW. Das liegt deutlich unter 30 GW installierter PV-Nennleistung, aber über der mit der Hälfte nahegelegten Größe von 15 GW. Zudem sind Nennleistung und zeitgleiche tatsächliche Einspeisung verschieden. Welche Spitzenzeiten der O-Ton meint, bleibt ohne datierten Lastgang unklar; die grobe Überschussproblematik ist gestützt, der genaue Vergleich nicht."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q04",
+              "Q12"
+            ],
+            "result": "Die rund 30 GW entsprechen in der Größenordnung der PV-Nennleistung; CBS bezifferte den niederländischen Gesamtbestand Ende 2024 auf 28,6 GW. TenneT schrieb Ende 2025 von rund 19 GW landesweiter Spitzenlast: etwa 63 % von 30 GW, nicht nahe 15 GW. Außerdem ist die Nennleistung kein Messwert für die gleichzeitige Einspeisung. Der O-Ton legt keine konkrete Stunde fest; die allgemeine Überschussproblematik bleibt plausibel."
           }
         ]
       },
@@ -860,10 +939,26 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "In Spitzenzeiten wird nur etwa die Hälfte dieser 30 Gigawatt benötigt."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "In Spitzenzeiten wird nur etwa die Hälfte dieser 30 Gigawatt benötigt."
+            },
+            "reason": "Die rund 30 GW entsprechen in der Größenordnung der PV-Nennleistung; CBS bezifferte den niederländischen Gesamtbestand Ende 2024 auf 28,6 GW. TenneT schrieb Ende 2025 von rund 19 GW landesweiter Spitzenlast: etwa 63 % von 30 GW, nicht nahe 15 GW. Außerdem ist die Nennleistung kein Messwert für die gleichzeitige Einspeisung. Der O-Ton legt keine konkrete Stunde fest; die allgemeine Überschussproblematik bleibt plausibel."
           }
         ]
       },
-      "shortReason": "TenneT nennt rund 19 GW Spitzenbedarf; 15 GW und ein zeitgleicher Vergleich mit 30 GW PV-Nennleistung sind nicht nachgewiesen."
+      "shortReason": "Nationale Spitzenlast lag laut TenneT bei etwa 19 GW; PV-Nennleistung und zeitgleiche Einspeisung sind nicht dasselbe."
     },
     {
       "id": "mbjI4fryvVU-A0009",
@@ -1046,10 +1141,10 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Utrecht beansprucht eine Pionierrolle für groß angelegtes bidirektionales Carsharing.",
-      "reason": "Der im O-Ton nicht geografisch präzisierte Pionieranspruch wird von den Projektpartnern für das konkrete öffentliche AC-V2G-Carsharing-System in Europa erhoben. Das bestätigt den eng umrissenen Projektanspruch, nicht einen unabhängigen Weltvergleich aller V2G-Formate.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "verdict": "Belegt",
+      "description": "Utrecht hat ein öffentliches groß angelegtes AC-V2G-Carsharing-System als europäisches Pionierprojekt gestartet.",
+      "reason": "Die Projektpartner samt Stadt meldeten Europas ersten Dienst dieser konkreten Art im Juni 2025. Zum Start waren 50 Renault 5 verfügbar; 500 Fahrzeuge wurden als Ausbauziel genannt. Eine weltweite Rangliste aller älteren Pilotformen oder ein Nachweis, dass die 500 schon beim Start betrieben wurden, folgt daraus nicht.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 180,
@@ -1085,10 +1180,19 @@
               "Q02"
             ],
             "result": "Die Projektpartner benennen den ersten groß angelegten öffentlichen AC-V2G-Carsharing-Betrieb Europas. Der Pionieranspruch betrifft dieses konkrete System, nicht jede frühere V2G-Erprobung weltweit."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q02"
+            ],
+            "result": "Die Projektpartner samt Stadt meldeten Europas ersten Dienst dieser konkreten Art im Juni 2025. Zum Start waren 50 Renault 5 verfügbar; 500 Fahrzeuge wurden als Ausbauziel genannt. Eine weltweite Rangliste aller älteren Pilotformen oder ein Nachweis, dass die 500 schon beim Start betrieben wurden, folgt daraus nicht."
           }
         ]
       },
-      "shortReason": "Die belegte Pionierrolle betrifft das konkrete öffentliche AC-V2G-Carsharing-System in Europa.",
       "attribution": {
         "statementBy": "Zitierte Person",
         "person": "Robin Berg",
@@ -1121,6 +1225,22 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Utrecht beansprucht eine Pionierrolle für groß angelegtes bidirektionales Carsharing."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Utrecht hat ein öffentliches groß angelegtes AC-V2G-Carsharing-System als europäisches Pionierprojekt gestartet."
+            },
+            "reason": "Die Projektpartner samt Stadt meldeten Europas ersten Dienst dieser konkreten Art im Juni 2025. Zum Start waren 50 Renault 5 verfügbar; 500 Fahrzeuge wurden als Ausbauziel genannt. Eine weltweite Rangliste aller älteren Pilotformen oder ein Nachweis, dass die 500 schon beim Start betrieben wurden, folgt daraus nicht."
           }
         ]
       }
@@ -1391,10 +1511,10 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "verdict": "Irreführend / Kontext fehlt",
       "description": "Mit einer solchen Batterieladung lassen sich etwa 400 bis 500 Kilometer fahren.",
-      "reason": "Die relevante 52-kWh-Renault 5-Variante wurde vor dem Video mit bis 410 km WLTP angeboten.400 km passen zur Normgrößenordnung; 500 km sind mit dieser Modellangabe nicht nachgewiesen. Es wird dem Sprecher keine von ihm nicht gegebene Alltagsgarantie unterstellt.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "reason": "Der O-Ton stellt 400 bis 500 km als Reichweite der Batterie im gezeigten Zusammenhang dar. Renault spezifiziert die bidirektionale 52-kWh-Variante des gezeigten Modells mit bis 410 km WLTP. Der untere Teil passt also zur Normgröße; 500 km sind keine ausgewiesene Normreichweite. Dem Interview wird weder eine individuelle Alltagsgarantie noch eine Behauptung technischer Unmöglichkeit zugeschrieben.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 219,
@@ -1430,10 +1550,19 @@
               "Q07"
             ],
             "result": "Die relevante 52-kWh-Renault 5-Variante wurde vor dem Video mit bis 410 km WLTP angeboten.400 km passen zur Normgrößenordnung; 500 km und eine Garantie im Alltagsbetrieb sind damit nicht belegt."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q07"
+            ],
+            "result": "Der O-Ton stellt 400 bis 500 km als Reichweite der Batterie im gezeigten Zusammenhang dar. Renault spezifiziert die bidirektionale 52-kWh-Variante des gezeigten Modells mit bis 410 km WLTP. Der untere Teil passt also zur Normgröße; 500 km sind keine ausgewiesene Normreichweite. Dem Interview wird weder eine individuelle Alltagsgarantie noch eine Behauptung technischer Unmöglichkeit zugeschrieben."
           }
         ]
       },
-      "shortReason": "Bis 410 km WLTP sind für eine passende Variante dokumentiert; 500 km Alltag sind damit nicht nachgewiesen.",
       "attribution": {
         "statementBy": "Zitierte Person",
         "person": "Robin Berg",
@@ -1466,9 +1595,26 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Mit einer solchen Batterieladung lassen sich etwa 400 bis 500 Kilometer fahren."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Mit einer solchen Batterieladung lassen sich etwa 400 bis 500 Kilometer fahren."
+            },
+            "reason": "Der O-Ton stellt 400 bis 500 km als Reichweite der Batterie im gezeigten Zusammenhang dar. Renault spezifiziert die bidirektionale 52-kWh-Variante des gezeigten Modells mit bis 410 km WLTP. Der untere Teil passt also zur Normgröße; 500 km sind keine ausgewiesene Normreichweite. Dem Interview wird weder eine individuelle Alltagsgarantie noch eine Behauptung technischer Unmöglichkeit zugeschrieben."
           }
         ]
-      }
+      },
+      "shortReason": "Für die passende Fahrzeugversion sind bis 410 km WLTP angegeben, nicht 500 km."
     },
     {
       "id": "mbjI4fryvVU-A0016",
@@ -1683,11 +1829,11 @@
       "id": "mbjI4fryvVU-A0019",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "status": "Offen",
+      "verdict": null,
       "description": "Das Reservierungssystem stellt zuverlässig ausreichend geladene Autos bereit.",
-      "reason": "MyWheels beschreibt ausdrücklich die Reservierung per App und sagt ausreichend geladene Fahrzeuge zur gebuchten Abfahrtszeit zu. Das bestätigt die geplante Betriebsfunktion. Eine öffentlich ausgewertete Quote erfolgreicher Bereitstellungen, Ausfälle und Mindestreserven liegt hier nicht vor; die undatierte aktuelle Anbieterbeschreibung ist außerdem kein unabhängiger Nachweis zuverlässigen Betriebs zum Videodatum.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "reason": "Die Sprecherin beschreibt ausreichend geladene Fahrzeuge ausdrücklich als zuverlässig vom Buchungssystem sichergestellt. MyWheels bestätigt dieselbe Funktion, empfiehlt für eine volle Batterie bei Langstrecke aber eine Reservierung mindestens zwei Stunden vorher. Das ist eine Betriebsbeschreibung, kein Datensatz über tatsächliche Verfügbarkeit und Ausfälle zur damaligen Zeit. Einzelne gezeigte Nutzungen ersetzen keinen Zuverlässigkeitsnachweis.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 277,
@@ -1736,6 +1882,17 @@
               "Q13"
             ],
             "result": "MyWheels beschreibt ausdrücklich die Reservierung per App und sagt ausreichend geladene Fahrzeuge zur gebuchten Abfahrtszeit zu. Das bestätigt die geplante Betriebsfunktion. Eine öffentlich ausgewertete Quote erfolgreicher Bereitstellungen, Ausfälle und Mindestreserven liegt hier nicht vor; die undatierte aktuelle Anbieterbeschreibung ist außerdem kein unabhängiger Nachweis zuverlässigen Betriebs zum Videodatum."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q02",
+              "Q13"
+            ],
+            "result": "Die Sprecherin beschreibt ausreichend geladene Fahrzeuge ausdrücklich als zuverlässig vom Buchungssystem sichergestellt. MyWheels bestätigt dieselbe Funktion, empfiehlt für eine volle Batterie bei Langstrecke aber eine Reservierung mindestens zwei Stunden vorher. Das ist eine Betriebsbeschreibung, kein Datensatz über tatsächliche Verfügbarkeit und Ausfälle zur damaligen Zeit. Einzelne gezeigte Nutzungen ersetzen keinen Zuverlässigkeitsnachweis."
           }
         ]
       },
@@ -1762,10 +1919,28 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Eigenständiger Abgleich mit nach Captionlektüre vorbereiteten Gewichtsvorschlägen; bestehende Zahl bestätigt."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Das Reservierungssystem stellt zuverlässig ausreichend geladene Autos bereit."
+            },
+            "next": {
+              "status": "Offen",
+              "verdict": null,
+              "description": "Das Reservierungssystem stellt zuverlässig ausreichend geladene Autos bereit."
+            },
+            "reason": "Die Sprecherin beschreibt ausreichend geladene Fahrzeuge ausdrücklich als zuverlässig vom Buchungssystem sichergestellt. MyWheels bestätigt dieselbe Funktion, empfiehlt für eine volle Batterie bei Langstrecke aber eine Reservierung mindestens zwei Stunden vorher. Das ist eine Betriebsbeschreibung, kein Datensatz über tatsächliche Verfügbarkeit und Ausfälle zur damaligen Zeit. Einzelne gezeigte Nutzungen ersetzen keinen Zuverlässigkeitsnachweis."
           }
         ]
       },
-      "shortReason": "Der Betreiber sagt geladene Autos zum Buchungsbeginn zu; eine unabhängige Verfügbarkeitsstatistik fehlt."
+      "openQuestions": [
+        "Wie hoch war die Quote ausreichend geladener Fahrzeuge bei tatsächlichen Buchungen, und wie war „ausreichend“ definiert?"
+      ]
     },
     {
       "id": "mbjI4fryvVU-A0020",
@@ -2096,6 +2271,78 @@
           }
         ]
       }
+    },
+    {
+      "id": "mbjI4fryvVU-A0024",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Der gezeigte Milchviehhof steuert Erzeugung und Speicher mit einem digitalen Energiemanagementsystem.",
+      "reason": "Der beteiligte Fördergeber LTO Noord dokumentiert im Jahresbericht 2024 das Energiemanagementsystem bei Arjan Prinsen und die Verbindung mit PV, Vergärer, Windrad und Akkus. Der Fallleitfaden des Gelders Energieakkoord bestätigt die Nutzung von PV-Strom und Batteriespeicher. Diese Technik ist getrennt von der nicht unabhängig nachgewiesenen überwiegenden Eigendeckung (A0002) prüfbar.",
+      "assessmentBasis": "Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur und Projektdokumentation; keine Tonvollprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 34,
+          "endSeconds": 46,
+          "precision": "Ungefähr",
+          "attributionStatus": "Plausibel",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Aus Einleitung, Namensnennung und Gesprächs-/O-Ton-Kontext der deutschen Captions; kein sekundengenauer Hörabgleich.",
+          "roleBasis": "Eigenständiger Beitrag der angegebenen Person; Übernahme wird bei fremden Aussagen separat erklärt.",
+          "timeBasis": "Ungefähres Intervall der Originalcaptions; keine sekundengenaue Satzgrenze."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Materialbeleg, kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "Q01",
+          "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "Q09",
+          "note": "Fundstelle, Interessen und zeitliche Grenzen stehen im Quellenverzeichnis der Nachprüfung."
+        }
+      ],
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Textspur und Projektdokumentation abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q01",
+              "Q09"
+            ],
+            "result": "Der beteiligte Fördergeber LTO Noord dokumentiert im Jahresbericht 2024 das Energiemanagementsystem bei Arjan Prinsen und die Verbindung mit PV, Vergärer, Windrad und Akkus. Der Fallleitfaden des Gelders Energieakkoord bestätigt die Nutzung von PV-Strom und Batteriespeicher. Diese Technik ist getrennt von der nicht unabhängig nachgewiesenen überwiegenden Eigendeckung (A0002) prüfbar."
+          }
+        ]
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-26",
+        "assessedBeforeVerdict": false,
+        "weightReason": "Unabhängiges technisches Detail zur dokumentierten Hofsteuerung, nicht die behauptete Eigendeckungsquote.",
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "description",
+            "previous": "Softwaresteuerung war in A0002 enthalten",
+            "next": "Der gezeigte Milchviehhof steuert Erzeugung und Speicher mit einem digitalen Energiemanagementsystem.",
+            "reason": "Eigenständig prüfbare technische Aussage."
+          }
+        ]
+      },
+      "openQuestions": []
     }
   ]
 }
