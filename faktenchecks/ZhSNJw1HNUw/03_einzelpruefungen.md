@@ -48,9 +48,9 @@ Der absolute Nullpunkt liegt bei −273,15 °C, gerundet also −273 °C. Im Kon
 
 ## 0005 · Luft bei −10 °C enthalte rund 90 % der Wärme von Zimmerluft.
 
-**Fundstellen:** 03:29–03:45. **Einordnung:** Teilweise belegt.
+**Fundstellen:** 03:29–03:45. **Einordnung:** Irreführend / Kontext fehlt.
 
-263,15/293,15 = 0,8977. Als Idealnäherung für dieselbe Luftmenge und Zusammensetzung ist das Verhältnis thermischer innerer Energie plausibel. Bedingungen fehlen; es ist keine Aussage über nutzbare Heizwärme oder Effizienz. Gleiches Volumen bei gleichem Druck ist wegen anderer Dichte ein anderer Vergleich.
+Bei gleicher Menge annähernd idealer Luft ergibt der Vergleich der absoluten Temperaturen (263,15 K ÷ 293,15 K) knapp 90 Prozent für ein vereinfachtes Modell der thermischen inneren Energie. Im Video klingt das wie eine Angabe über die in der Luft vorhandene „Wärme“ ohne gleiche Stoffmenge und Bezug. Wie viel Energie eine Wärmepumpe tatsächlich entziehen kann, hängt unter anderem vom durchströmenden Luftmassestrom und der Abkühlung ab, nicht von dieser 90-Prozent-Zahl.
 
 **Quellen und Fundstellen:**
 
@@ -171,9 +171,9 @@ Beim Drosseln entsteht ein kälteres Flüssigkeits-Dampf-Gemisch. Teilverdampfun
 
 ## 0016 · Strom werde ausschließlich für die Verdichtung benötigt.
 
-**Fundstellen:** 06:44–07:01. **Einordnung:** Teilweise belegt.
+**Fundstellen:** 06:44–07:01. **Einordnung:** Irreführend / Kontext fehlt.
 
-Der Verdichter ist der Hauptantrieb. Reale Geräte benötigen außerdem Strom für Ventilatoren, Pumpen, Regelung und gegebenenfalls Zusatzheizung. Diese Verbraucher stehen in den verlinkten Datenblättern.
+Der Verdichter ist der zentrale Stromverbraucher des erläuterten Kältekreislaufs. Wenn aus der vereinfachten Strombeschreibung der Verbrauch der Anlage abgeleitet wird, fehlen aber elektrische Nebenverbraucher. Herstellerdaten weisen den Ventilator sowie Regelung, Pumpen und je nach Konfiguration einen elektrischen Zuheizer aus. Das Schweizer Bundesamt für Energie unterscheidet diese Systemgrenzen ausdrücklich.
 
 **Quellen und Fundstellen:**
 
@@ -335,9 +335,9 @@ UBA veröffentlicht 344 g CO₂/kWh für 2025. Der Datenstatus ist geschätzt; e
 
 ## 0036 · Eine Kilowattstunde Wärme aus einer Gasheizung verursacht im vereinfachten Vergleich ungefähr 190 g CO₂.
 
-**Fundstellen:** 09:58–10:14. **Einordnung:** Teilweise belegt.
+**Fundstellen:** 09:58–10:14. **Einordnung:** Belegt.
 
-190 g ist für einen sehr effizienten Brennwertkessel plausibel. Die genannte Verordnung liefert zunächst 182,0448 g CO₂ je bezogener Brennstoff-kWh auf Brennwertbasis. Mit 95 % Nutzungsgrad ergeben sich 191,6 g CO₂ je kWh Wärme, mit 90 % 202,3 g je kWh Wärme. Ohne Nutzungsgrad ist 190 kein allgemeiner Wert für Gasheizungen. Die vorher erwähnten kleinen Verluste passen zu dieser Näherung. Kein Rechenfehler: Der fehlende konkrete Nutzungsgrad begrenzt die Verallgemeinerung. Der niedrige Gaswert lässt den Wärmepumpenvorteil eher vorsichtig ausfallen. Prüfgrenze: Vorketten und Methanverluste sind in dieser direkten CO₂-Rechnung nicht enthalten. Der niedrige Gasvergleichswert macht den Wärmepumpenvorteil eher vorsichtig.
+Die EBeV nennt für Erdgas 3,2508 GJ je MWh Brennwert und 56 kg CO₂ je GJ Heizwert; das ergibt 182,0 g direkte CO₂-Emissionen je kWh Brennstoff. Bei 95 % brennwertbezogenem Nutzungsgrad werden daraus rund 192 g je kWh Wärme. Die ausdrücklich ungefähre Rechnung passt zum zuvor beschriebenen effizienten Gasheizungsbeispiel, nicht zu jedem Kessel; bei 90 % wären es etwa 202 g. Vorkette und Methanverluste sind nicht enthalten.
 
 **Quellen und Fundstellen:**
 
@@ -452,9 +452,9 @@ Der Median beträgt 34.898 Euro, der arithmetische Mittelwert 36.397 Euro. „Mi
 
 ## 0047 · Selbstnutzer erhalten beim Austausch einer Öl-, Nachtspeicher- oder alten Gasheizung derzeit 46 % von höchstens 28.000 Euro.
 
-**Fundstellen:** 12:03–12:36. **Einordnung:** Teilweise belegt.
+**Fundstellen:** 12:03–12:36. **Einordnung:** Irreführend / Kontext fehlt.
 
-Die Förderzahlen sind zum Prüfdatum richtig: 30 Prozent Grundförderung plus 16 Prozent Klimageschwindigkeitsbonus auf höchstens 28.000 Euro für die erste Wohneinheit. Für den Bonus muss die ausgetauschte Altanlage allerdings funktionstüchtig sein; zentrale Gasheizungen müssen grundsätzlich mindestens 20 Jahre alt sein. Die im Video bereits genannten Selbstnutzung und alte Gasheizung sind relevante, aber nicht vollständige Bedingungen. Der Kritikpunkt betrifft vor allem die ausgelassene Funktionstüchtigkeit, nicht eine angeblich veraltete Förderzahl. 28.000 Euro sind die Kostenbasis, nicht der ausgezahlte Zuschuss. Prüfgrenze: 46 % aus 28.000 Euro dürfen nicht mit veralteten Förderwerten widerlegt werden. Die teilweise Bewertung betrifft die pauschale Anspruchsformulierung, nicht die aktuellen Zahlen.
+Die KfW nennt für das Videojahr 16 Prozent Geschwindigkeitsbonus und bis 28.000 Euro förderfähige Kosten der ersten Wohneinheit; zu 30 Prozent regulärer Grundförderung ergeben sich 46 Prozent. Die pauschale Zusage lässt entscheidende Voraussetzungen weg: Die Altanlage muss unter anderem funktionsfähig sein, bei zentralen Gasheizungen gilt grundsätzlich ein Mindestalter von 20 Jahren, und je nach neuem Gerät gelten weitere Bedingungen. 28.000 Euro sind keine Auszahlung.
 
 **Quellen und Fundstellen:**
 
@@ -494,11 +494,11 @@ Typ Viessmann 251.A10 passt: 3,16 und 2,13 im Originaldatenblatt, gerundet 3,2/2
 - [Viessmann VITOCAL 250-A, Hersteller-Datenblatt 6195458 DE 4/2025](https://www.viessmann.de/content/dam/public-brands/master/products/heat-pump/vitocal-250-a/DB-6195458-vitocal-250-a.pdf): Typ 251.A10, technische Daten S. 9–11; Anlagenaufbau S. 2–6; R290-Monoblock; A−7/W35 COP 3,16; A−7/W55 COP 2,13; Heizbetrieb ab −20 °C; Nebenverbraucher ausgewiesen.
 - [Viessmann VITOCAL 250-A, im Video verlinkte Händlerfassung](https://documents.unidomo.de/de/viessmann/6195458VDP00006_1.pdf): PDF S. 8, vierte Modellspalte 251.A10; COP 3,16 und 2,1; erste Modellspalte A04 dagegen 3,2 und 2,2.
 
-## 0027 · Bei Frost arbeitet die Wärmepumpe weiter, nur mit geringerer Effizienz.
+## 0027 · Im gezeigten Beispiel arbeitet die Luft-Wasser-Wärmepumpe bei −7 °C weiter, mit niedrigerem COP als bei milderer Luft.
 
-**Fundstellen:** 12:36–12:52. **Einordnung:** Teilweise belegt.
+**Fundstellen:** 12:36–12:52. **Einordnung:** Belegt.
 
-Für −7 °C im Beispiel richtig. Allgemein fehlen Leistungsgrenzen, Abtauung und ggf. Zusatzheizbedarf. Hersteller nennt für das Gerät Heizbetrieb ab −20 °C; keine unbegrenzte Frostzusage.
+Der Satz folgt unmittelbar auf das ausdrücklich angeführte Beispiel bei −7 °C. Viessmann nennt für den Typ 251.A10 bei −7/35 °C einen COP von 3,16 und bei −7/55 °C von 2,13; bei +7/35 °C liegt er bei 5,31. Die Aussage ist in dieser konkreten Kälteprobe belegt. Daraus folgt weder garantierte Heizleistung noch Betrieb bei jeder Frosttemperatur; Abtauung und Gebäude-Wärmebedarf bleiben relevant.
 
 **Quellen und Fundstellen:**
 
@@ -568,16 +568,17 @@ Keine allgemeine sofortige Austauschpflicht aller Bestandsanlagen. Bestehende So
 
 - [BT-Drs.20/7619 GEG-Beschlussempfehlung 2023](https://dserver.bundestag.de/btd/20/076/2007619.pdf): PDF S.33–34 §71 Abs.8, S.81 fossile Brennstoffe bis Ende2044; S.91 Gebietsausweisung.
 
-## 0055 · Ab 2045 hätte keine Heizung mehr mit Gas oder Öl betrieben werden dürfen.
+## 0055 · Nach der damaligen GEG-Fassung hätten Heizkessel ab 2045 nicht mehr mit fossilem Gas oder Heizöl betrieben werden dürfen.
 
-**Fundstellen:** 14:13–14:28. **Einordnung:** Teilweise belegt.
+**Fundstellen:** 14:13–14:28. **Einordnung:** Belegt.
 
-Gemeint und rechtlich vorgesehen war das Ende fossiler Brennstoffe. Nicht jede Gas-/Öltechnik war unabhängig vom verwendeten Brennstoff verboten. Im Alltagskontext sind fossile Brennstoffe naheliegend; die Teilbewertung betrifft begrenzten Präzisierungsbedarf, keinen erfundenen Rechtsgrundsatz.
+Im Abschnitt über das frühere Gebäudeenergiegesetz ist mit Gas und Öl der fossile Einsatz gemeint. Der verkündete § 72 Abs. 4 begrenzte genau diesen Betrieb auf Ende 2044. Er untersagte nicht jede Gas- oder Ölkesseltechnik unabhängig vom eingesetzten Brennstoff. Dieser Punkt bewertet die 2023er Fassung, nicht die inzwischen geltende Reform.
 
 **Quellen und Fundstellen:**
 
 - [BT-Drs.20/7619 GEG-Beschlussempfehlung 2023](https://dserver.bundestag.de/btd/20/076/2007619.pdf): PDF S.33–34 §71 Abs.8, S.81 fossile Brennstoffe bis Ende2044; S.91 Gebietsausweisung.
 - [GModG Gesamttext](https://www.gesetze-im-internet.de/geg/BJNR172810020.html): Inkrafttreten2020, Änderung2026, §71 weggefallen, §42a Klimaneutralität2045.
+- [BGBl. I 2023 Nr. 280](https://www.recht.bund.de/bgbl/1/2023/280/regelungstext.pdf?__blob=publicationFile): historische verkündete Fassung; §§ 71 Abs. 8/9 und 72 Abs. 4.
 
 ## 0056 · BILD veröffentlichte Ende Februar 2023 einen geleakten Gesetzesentwurf unter zugespitztem Verbots-Titel.
 
@@ -843,13 +844,14 @@ Entspricht der Grundstruktur der verabschiedeten Reform.
 
 ## 0081 · In anderen Gebäuden sollte die 65-Prozent-Regel gelten, sobald die Gemeinde einen Wärmeplan hat.
 
-**Fundstellen:** 18:52–19:08. **Einordnung:** Teilweise belegt.
+**Fundstellen:** 18:52–19:08. **Einordnung:** Widerlegt.
 
-Ein Wärmeplan allein löste die vorzeitige Pflicht nicht aus. Nötig waren eine zusätzliche Gebietsausweisung und ein Monat nach deren Bekanntgabe; spätestens griffen feste Fristen.
+§ 71 Abs. 8 der verkündeten Fassung setzte bei vorzeitigem Beginn eine gesonderte, bekannt gemachte Entscheidung über ein Wärmenetz- oder Wasserstoffnetzausbaugebiet voraus. Die Pflicht griff dann einen Monat nach Bekanntgabe. Ein Wärmeplan für sich war nicht der behauptete Auslöser; ohne Gebietsausweisung galten die im Gesetz genannten Stichtage.
 
 **Quellen und Fundstellen:**
 
 - [BT-Drs.20/7619 GEG-Beschlussempfehlung 2023](https://dserver.bundestag.de/btd/20/076/2007619.pdf): PDF S.33–34 §71 Abs.8, S.81 fossile Brennstoffe bis Ende2044; S.91 Gebietsausweisung.
+- [BGBl. I 2023 Nr. 280](https://www.recht.bund.de/bgbl/1/2023/280/regelungstext.pdf?__blob=publicationFile): historische verkündete Fassung; §§ 71 Abs. 8/9 und 72 Abs. 4.
 
 ## 0082 · Die 65-Prozent-Regel wurde zum 29. Juli 2026 aufgehoben; neue Gas- und Ölheizungen bleiben unter den geltenden Maßgaben wählbar.
 
@@ -869,13 +871,14 @@ Die Aufhebung ist amtlich bestätigt. Die vorherige Fristverlängerung ist nun a
 
 ## 0083 · Neue Gas- und Ölheizungen müssen ab 2029 steigende Anteile Biogas oder Bioöl einsetzen.
 
-**Fundstellen:** 19:26–19:42. **Einordnung:** Teilweise belegt.
+**Fundstellen:** 19:26–19:42. **Einordnung:** Irreführend / Kontext fehlt.
 
-Eine Biotreppe besteht. Der Wortlaut ist aber nicht auf diese Brennstoffe beschränkt: bestimmte Wasserstoffpfade und Derivate sowie Erfüllungsalternativen über Solarthermie, Wärmerückgewinnung oder Wärmepumpenhybride sind zugelassen.
+Die Stufen ab 2029 sind als Grundprinzip korrekt, die Aussage lässt aber Brennstoffoptionen und Reichweite weg. Schon § 71 Abs. 9 GEG 2023 nannte Biomasse oder grünen/blauen Wasserstoff einschließlich Derivaten für in der Übergangszeit installierte, nicht anderweitig erfüllende Anlagen. Der beim Upload geltende § 43 GModG eröffnet eigene Erfüllungswege. Ein ausnahmsloser Zwang speziell zu Biogas oder Bioöl folgt aus keiner der beiden angeführten Fassungen.
 
 **Quellen und Fundstellen:**
 
 - [§43 GModG](https://www.gesetze-im-internet.de/geg/__43.html): Biotreppe10/15/30/60%; mehrere Brennstoffe und technische Erfüllungsalternativen.
+- [BGBl. I 2023 Nr. 280](https://www.recht.bund.de/bgbl/1/2023/280/regelungstext.pdf?__blob=publicationFile): historische verkündete Fassung; §§ 71 Abs. 8/9 und 72 Abs. 4.
 
 ## 0084 · Wärmepumpen sind der am häufigsten gewünschte Heizungstyp; drei Viertel der Besitzer würden wieder eine wählen.
 

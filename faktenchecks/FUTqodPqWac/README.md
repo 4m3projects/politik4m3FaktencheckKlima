@@ -20,3 +20,7 @@ Der Titel klingt nach einer pauschalen Abrechnung. Im Video trennt Schoebel dage
 Das vollständige bereitgestellte YouTube-Transkript wurde der Reihe nach gesichtet. Fundstellen sind nahe Zeitbereiche aus Untertiteln und keine framegenau geprüften Zitate. Bildmaterial, Einblendungen und Originalton wurden nicht separat verifiziert. Beitrag und zitierte Person bleiben getrennt. Offene Punkte sind u. a. die beschädigte Untertitelzeile zu Chinas Baustarts, die Kommissions-Formulierung zum Unfallrisiko, die behauptete schnelle Amortisation und die exakte Euro-Schätzung für Fukushima. Ein erstes Ampelergebnis wird aus den Einträgen berechnet, nicht aus dem Titel oder von Hand gesetzt.
 
 Die Registeransicht „Aussagen“ enthält die Einzelbefunde, Zeitmarken und verlinkten Quellen. Das vollständige fremde Transkript wird nicht veröffentlicht.
+
+## Einzelnachprüfung vom 26.11.2026
+
+Kai hat alle 17 früheren Teilurteile anhand des bereitgestellten Originaltranskripts und der angeführten Sachquellen geprüft. Die Vergleichswerte für Chinas Wind-, Solar- und Kernstrom sind in derselben WNISR-Reihe nachweisbar. Beim Laufzeitbeschluss 2010 galt der Beginn des kommerziellen Betriebs, nicht das Baujahr. Der erneuerbare Stromanteil 2011 lag rund bei 20 %, nicht bei 17 %. Kosten, Betriebsstart und Rückbaufragen sind in der Einzelansicht getrennt. Die Quelle zur Bauzeit wird nicht doppelt gezählt; die allgemeine Häufigkeit von Baukostensteigerungen auf ein Vielfaches bleibt offen.

@@ -1,7 +1,7 @@
 # Alfred und die Wärmepumpe – ausführlicher Faktencheck
 
 **Video:** [Warum regt das Wort Wärmepumpe so viele auf?](https://www.youtube.com/watch?v=ZhSNJw1HNUw) · Alfred räumt auf · 21. November 2026 · 21:08  
-**Prüfstand:** 21. November 2026 · Sachrecherche abgeschlossen; ergänzende Bildkontrolle durchgeführt, Darstellung weiterhin teilweise geprüft.
+**Prüfstand:** 26. November 2026 · Sachrecherche abgeschlossen; ergänzende Bildkontrolle durchgeführt, Darstellung weiterhin teilweise geprüft.
 
 ## Ergebnis
 
@@ -9,10 +9,9 @@ Das Video ist in seinen zentralen Sachargumenten überwiegend belastbar. Der Kä
 
 | Einordnung | Anzahl |
 |---|---:|
-| Belegt | 69 |
-| Teilweise belegt | 8 |
-| Widerlegt | 0 |
-| Irreführend / Kontext fehlt | 0 |
+| Belegt | 72 |
+| Widerlegt | 1 |
+| Irreführend / Kontext fehlt | 4 |
 | Nicht ausreichend belegbar | 0 |
 | Meinung / Prognose | 6 |
 | Nicht überprüfbar | 2 |

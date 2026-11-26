@@ -7,7 +7,7 @@
     "asOf": "2026-11-19",
     "durationSeconds": 713,
     "coverageNote": "Recherche abgeschlossen (Stand 19.11.2026): Alle Sach- und Meinungsaussagen des Videos sind erfasst und eingeordnet. Werbeteile (WAGO-Stiftung, Livestream-Ankündigung) sind nicht Gegenstand der Prüfung. Neue Betriebsdaten der Anlage können Einordnungen zum Mehrertrag später ändern.",
-    "researchNote": "Transkript aus den automatisch erzeugten deutschen YouTube-Untertiteln. Geprüft mit Projektangaben von SPRIND/GICON (inkl. Messmast-Auswertung), der Ausbaustatistik der Fachagentur Wind und Solar, der Kostenstudie der Deutschen WindGuard sowie Presseberichten (ZDF, dpa, Fachmedien). Viele Angaben zur Anlage stammen ursprünglich vom Bauherrn; wo das so ist, steht es dabei."
+    "researchNote": "Transkript aus den automatisch erzeugten deutschen YouTube-Untertiteln. Geprüft mit Projektangaben von SPRIND/GICON (inkl. Messmast-Auswertung), der Ausbaustatistik der Fachagentur Wind und Solar, der Kostenstudie der Deutschen WindGuard sowie Presseberichten (ZDF, dpa, Fachmedien). Viele Angaben zur Anlage stammen ursprünglich vom Bauherrn; wo das so ist, steht es dabei. Kai (26.11.2026): 5 alte Teilurteile anhand der originalen automatischen YouTube-Textspur und der jeweiligen Sachquellen einzeln erneut geprüft; kein Ton- oder Bildvollabgleich."
   },
   "speakers": [
     {
@@ -209,6 +209,62 @@
       "details": "Alfons Deter, 06.07.2025",
       "accessedOn": "2026-11-19",
       "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "KA-BL",
+      "title": "Breaking Lab: Originalvideo, deutsche automatische Textspur",
+      "url": "https://www.youtube.com/watch?v=LWQUaGxUmxk",
+      "details": "Geprüfte Passagen 00:13, 01:23–01:45, 02:32–02:49, 07:51 und 10:07.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalquelle an der angegebenen Fundstelle geprüft."
+    },
+    {
+      "id": "KA-AB",
+      "title": "Familienanzeige zu Horst Bendix in der Leipziger Volkszeitung",
+      "url": "https://trauer-anzeigen.de/traueranzeige/horst-bendix",
+      "details": "Originalanzeige Juni 2023; Geburtsjahr 1930, Tod 2023.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalquelle an der angegebenen Fundstelle geprüft."
+    },
+    {
+      "id": "KA-LEAG",
+      "title": "LEAG: Tagebau Welzow-Süd",
+      "url": "https://www.leag.de/de/technologien/bergbau/tagebau-welzow-sued/",
+      "details": "Betreiberangaben zur fortgesetzten Braunkohleförderung in der Lausitz.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalquelle an der angegebenen Fundstelle geprüft."
+    },
+    {
+      "id": "KA-ENBW",
+      "title": "EnBW: Erste Anlage He Dreiht produziert Strom",
+      "url": "https://www.enbw.com/presse/erste-windkraftanlage-von-enbw-he-dreiht-produziert-strom.html",
+      "details": "Erste ans Netz angeschlossene Vestas-Anlage des Parks, 15 MW.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalquelle an der angegebenen Fundstelle geprüft."
+    },
+    {
+      "id": "KA-DEC",
+      "title": "Dongfang Electric: Angaben zur 26-MW-Turbine",
+      "url": "https://www.dongfang.com.cn/info/1308/2135.htm",
+      "details": "Hersteller dokumentiert installierten 26-MW-Prototyp am Prüfstandort. Nicht mit kommerziellem Serienbetrieb gleichsetzen.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalquelle an der angegebenen Fundstelle geprüft."
+    },
+    {
+      "id": "KA-ZEIT",
+      "title": "DIE ZEIT: Besuch bei Horst Bendix",
+      "url": "https://www.zeit.de/2022/06/windraeder-konstruktion-groesse-horst-bendix/komplettansicht",
+      "details": "Reportage mit persönlichem Gespräch und biografischer Darstellung der Arbeit am Spezialkran.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige biographische Fundstelle abgeglichen."
+    },
+    {
+      "id": "KA-ARCHIV",
+      "title": "Neuer Weg 1989, S. 597: Kirow-Spezialkran",
+      "url": "https://www.gvoon.de/art/dokumente/1989/neuer-weg-zk-sed-ddr-1989/pdf/neuer-weg-zk-sed-ddr-1989-seite_597.pdf",
+      "details": "Zeitgenössische Betriebsreportage zum Leipziger Kran an der Kugel des Fernsehturms.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige biographische Fundstelle abgeglichen."
     }
   ],
   "claims": [
@@ -395,12 +451,11 @@
       "id": "LWQUaGxUmxk-A03",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "status": "Offen",
+      "verdict": null,
       "description": "Durch seine Höhe soll das Windrad mehr als doppelt so viel Strom erzeugen können wie ein herkömmliches Windrad mit gleichem Rotordurchmesser.",
-      "reason": "Die Angabe stammt vom Entwickler Gicon und wird im Video mit „soll“ als Erwartung gekennzeichnet. Die veröffentlichte Auswertung des 300-m-Messmasts ergibt aber für eine Beispielanlage rund 63 % mehr Jahresertrag in 300 m gegenüber 150 m Nabenhöhe, nicht mehr als 100 %. Ein Experte des Forschungszentrums Jülich hält rund 60 % Mehrertrag für plausibel. Gemessene Betriebsdaten der Anlage gibt es noch nicht. Die Verdopplung ist also ein Unternehmensziel, das die bisherigen Messdaten nicht stützen.",
-      "shortReason": "Die Verdopplung ist ein Ziel des Entwicklers; die Messmast-Auswertung ergibt rund 63 % Mehrertrag, nicht über 100 %.",
-      "assessmentBasis": "Vergleich der Unternehmensangabe mit der Messmast-Auswertung von SPRIND/GICON und einer unabhängigen Experteneinschätzung.",
+      "reason": "Die Stelle nennt mehr als den doppelten Ertrag als Erwartung. Die veröffentlichte, auch vom Video verlinkte Standortanalyse modelliert für dieselbe Beispielanlage Vestas V164 (9,5 MW) 22,4 GWh/a auf 150 m und 36,6 GWh/a auf 300 m, also +63,4 %. Das ist weder eine Beobachtung des installierten Prototyps noch ein beliebiger Vergleich mit jeder Standardhöhe oder Rotorauslegung. Der konkrete Faktor ist ohne definiertes Vergleichsrad und belastbare Betriebserträge nicht nachgewiesen. Das Wort „soll“ wird nicht als bereits gemessene Tatsache gelesen.",
+      "assessmentBasis": "Vergleich der Unternehmensangabe mit der Messmast-Auswertung von SPRIND/GICON und einer unabhängigen Experteneinschätzung. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 14,
@@ -435,9 +490,15 @@
         {
           "sourceId": "S11",
           "note": "Emeis (KIT): „gut 60 Prozent mehr Strom“; unabhängig gemessen noch nicht"
+        },
+        {
+          "sourceId": "KA-BL",
+          "note": "In der Einzelnachprüfung herangezogene Originalquelle."
         }
       ],
-      "openQuestions": [],
+      "openQuestions": [
+        "Welche Vergleichsanlage (Rotor, Turmhöhe, Leistungskurve) und welcher vollständige Betriebszeitraum belegen mehr als den doppelten Jahresertrag?"
+      ],
       "migration": {
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
@@ -466,6 +527,40 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Durch seine Höhe soll das Windrad mehr als doppelt so viel Strom erzeugen können wie ein herkömmliches Windrad mit gleichem Rotordurchmesser."
+            },
+            "next": {
+              "status": "Offen",
+              "verdict": null,
+              "description": "Durch seine Höhe soll das Windrad mehr als doppelt so viel Strom erzeugen können wie ein herkömmliches Windrad mit gleichem Rotordurchmesser."
+            },
+            "reason": "Die Stelle nennt mehr als den doppelten Ertrag als Erwartung. Die veröffentlichte, auch vom Video verlinkte Standortanalyse modelliert für dieselbe Beispielanlage Vestas V164 (9,5 MW) 22,4 GWh/a auf 150 m und 36,6 GWh/a auf 300 m, also +63,4 %. Das ist weder eine Beobachtung des installierten Prototyps noch ein beliebiger Vergleich mit jeder Standardhöhe oder Rotorauslegung. Der konkrete Faktor ist ohne definiertes Vergleichsrad und belastbare Betriebserträge nicht nachgewiesen. Das Wort „soll“ wird nicht als bereits gemessene Tatsache gelesen."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S04",
+              "S02",
+              "S03",
+              "S05",
+              "S11",
+              "KA-BL"
+            ],
+            "result": "Die Stelle nennt mehr als den doppelten Ertrag als Erwartung. Die veröffentlichte, auch vom Video verlinkte Standortanalyse modelliert für dieselbe Beispielanlage Vestas V164 (9,5 MW) 22,4 GWh/a auf 150 m und 36,6 GWh/a auf 300 m, also +63,4 %. Das ist weder eine Beobachtung des installierten Prototyps noch ein beliebiger Vergleich mit jeder Standardhöhe oder Rotorauslegung. Der konkrete Faktor ist ohne definiertes Vergleichsrad und belastbare Betriebserträge nicht nachgewiesen. Das Wort „soll“ wird nicht als bereits gemessene Tatsache gelesen."
           }
         ]
       }
@@ -690,11 +785,10 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Der Erfinder Horst Bendix reichte seinen Entwurf 2019 bei einer SPRIND-Challenge ein, war damals 91 Jahre alt und hatte an den Kränen für den Bau des Berliner Fernsehturms mitgewirkt.",
-      "reason": "Im Kern richtig: Bendix reichte seine Idee 2019 bei der SPRIND ein und arbeitete am Bau des Berliner Fernsehturms mit (u. a. Kräne und Kugeldrehverbindung für die Kuppel). Ungenau sind zwei Details: SPRIND spricht von einem eingereichten Projekt, nicht von einer „Challenge“. Und 91 Jahre alt war er laut SPRIND bei der Gründung der beventum im Dezember 2020; da er im Juni 2023 mit 93 Jahren starb, war er 2019 etwa 89. Dass Bendix 2023 gestorben ist und die Anlage nicht mehr erlebt hat, erwähnt das Video nicht.",
-      "shortReason": "Einreichung 2019 und Mitarbeit am Fernsehturm stimmen; es war keine „Challenge“, und Bendix war 2019 etwa 89, nicht 91 Jahre alt.",
-      "assessmentBasis": "Abgleich mit SPRIND-Projektseite und Presseporträts.",
+      "verdict": "Widerlegt",
+      "description": "Horst Bendix sei 91 Jahre alt gewesen, als er 2019 seinen Entwurf bei SPRIND einreichte.",
+      "reason": "Der Originalsprecher datiert das Alter ausdrücklich auf die Einreichung 2019. Die Familienanzeige nennt 1930 als Geburtsjahr: 2019 war Bendix folglich 88 oder 89. Auch die SPRIND-Darstellung ordnet ihre Angabe von 91 erst der Tochtergründung im Dezember 2020 zu, ihre eigene Altersangabe dort weicht vom Geburtsjahr ab. Einreichung und frühere Kranarbeit werden separat bewertet.",
+      "assessmentBasis": "Abgleich mit SPRIND-Projektseite und Presseporträts. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 86,
@@ -725,6 +819,14 @@
         {
           "sourceId": "S21",
           "note": "Kugeldrehverbindung für die Fernsehturmkuppel"
+        },
+        {
+          "sourceId": "KA-BL",
+          "note": "In der Einzelnachprüfung herangezogene Originalquelle."
+        },
+        {
+          "sourceId": "KA-AB",
+          "note": "In der Einzelnachprüfung herangezogene Originalquelle."
         }
       ],
       "openQuestions": [],
@@ -756,6 +858,41 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Der Erfinder Horst Bendix reichte seinen Entwurf 2019 bei einer SPRIND-Challenge ein, war damals 91 Jahre alt und hatte an den Kränen für den Bau des Berliner Fernsehturms mitgewirkt."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Widerlegt",
+              "description": "Horst Bendix sei 91 Jahre alt gewesen, als er 2019 seinen Entwurf bei SPRIND einreichte."
+            },
+            "reason": "Der Originalsprecher datiert das Alter ausdrücklich auf die Einreichung 2019. Die Familienanzeige nennt 1930 als Geburtsjahr: 2019 war Bendix folglich 88 oder 89. Auch die SPRIND-Darstellung ordnet ihre Angabe von 91 erst der Tochtergründung im Dezember 2020 zu, ihre eigene Altersangabe dort weicht vom Geburtsjahr ab. Einreichung und frühere Kranarbeit werden separat bewertet."
+          }
+        ]
+      },
+      "shortReason": "Geburtsjahr 1930: Bei Einreichung 2019 war Bendix keine 91 Jahre alt.",
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S02",
+              "S12",
+              "S22",
+              "S21",
+              "KA-BL",
+              "KA-AB"
+            ],
+            "result": "Der Originalsprecher datiert das Alter ausdrücklich auf die Einreichung 2019. Die Familienanzeige nennt 1930 als Geburtsjahr: 2019 war Bendix folglich 88 oder 89. Auch die SPRIND-Darstellung ordnet ihre Angabe von 91 erst der Tochtergründung im Dezember 2020 zu, ihre eigene Altersangabe dort weicht vom Geburtsjahr ab. Einreichung und frühere Kranarbeit werden separat bewertet."
           }
         ]
       }
@@ -910,11 +1047,10 @@
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "verdict": "Widerlegt",
       "description": "Der Zusammenhang zwischen der Leistung eines Windrads und der Höhe ist logarithmisch.",
-      "reason": "Ungenau. Logarithmisch (oder näherungsweise als Potenzgesetz) wächst mit der Höhe die Windgeschwindigkeit, nicht die Leistung. Weil die Leistung mit der dritten Potenz der Windgeschwindigkeit steigt, wächst sie mit der Höhe deutlich stärker als die Geschwindigkeit. Die Messmast-Auswertung beschreibt das Höhenprofil mit einem Höhenexponenten von rund 0,3 bis 0,36. Die Grundidee „je höher, desto mehr Wind, mit abnehmendem Zuwachs“ ist richtig, die Formulierung vermischt aber Geschwindigkeit und Leistung.",
-      "shortReason": "Mit der Höhe wächst näherungsweise logarithmisch die Windgeschwindigkeit, nicht die Leistung; diese steigt deutlich stärker.",
-      "assessmentBasis": "Physikalische Grundlagen und Messdaten des Höhenprofils.",
+      "reason": "Das Original nennt ausdrücklich die Leistung als logarithmische Funktion der Höhe. Ein logarithmisches Höhenprofil kann unter geeigneten Bedingungen die Windgeschwindigkeit beschreiben; die Projektmessung bestimmt stattdessen einen Windscherungs-Exponenten für ein Potenzgesetz. Die verfügbare Windleistung steigt mit der dritten Potenz der Geschwindigkeit, wie das Video zuvor selbst korrekt erläutert. Die tatsächliche Leistung der Anlage folgt zusätzlich ihrer Leistungskurve. Eine logarithmische Leistungs-Höhen-Funktion ergibt sich daraus nicht.",
+      "assessmentBasis": "Physikalische Grundlagen und Messdaten des Höhenprofils. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 160,
@@ -937,6 +1073,10 @@
         {
           "sourceId": "S19",
           "note": "Leistung proportional zur dritten Potenz der Geschwindigkeit"
+        },
+        {
+          "sourceId": "KA-BL",
+          "note": "In der Einzelnachprüfung herangezogene Originalquelle."
         }
       ],
       "openQuestions": [],
@@ -968,6 +1108,38 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Der Zusammenhang zwischen der Leistung eines Windrads und der Höhe ist logarithmisch."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Widerlegt",
+              "description": "Der Zusammenhang zwischen der Leistung eines Windrads und der Höhe ist logarithmisch."
+            },
+            "reason": "Das Original nennt ausdrücklich die Leistung als logarithmische Funktion der Höhe. Ein logarithmisches Höhenprofil kann unter geeigneten Bedingungen die Windgeschwindigkeit beschreiben; die Projektmessung bestimmt stattdessen einen Windscherungs-Exponenten für ein Potenzgesetz. Die verfügbare Windleistung steigt mit der dritten Potenz der Geschwindigkeit, wie das Video zuvor selbst korrekt erläutert. Die tatsächliche Leistung der Anlage folgt zusätzlich ihrer Leistungskurve. Eine logarithmische Leistungs-Höhen-Funktion ergibt sich daraus nicht."
+          }
+        ]
+      },
+      "shortReason": "Ein logarithmisches Profil kann für die Windgeschwindigkeit gelten, nicht allgemein für die Leistung.",
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S03",
+              "S19",
+              "KA-BL"
+            ],
+            "result": "Das Original nennt ausdrücklich die Leistung als logarithmische Funktion der Höhe. Ein logarithmisches Höhenprofil kann unter geeigneten Bedingungen die Windgeschwindigkeit beschreiben; die Projektmessung bestimmt stattdessen einen Windscherungs-Exponenten für ein Potenzgesetz. Die verfügbare Windleistung steigt mit der dritten Potenz der Geschwindigkeit, wie das Video zuvor selbst korrekt erläutert. Die tatsächliche Leistung der Anlage folgt zusätzlich ihrer Leistungskurve. Eine logarithmische Leistungs-Höhen-Funktion ergibt sich daraus nicht."
           }
         ]
       }
@@ -1569,11 +1741,10 @@
       "chapter": 4,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "verdict": "Irreführend / Kontext fehlt",
       "description": "Schipkau liegt im ehemaligen Braunkohlerevier in Ostdeutschland.",
-      "reason": "Teilweise richtig. Die Anlage steht auf ehemaligem Tagebaugelände (Hochkippe bei Klettwitz/Schipkau) in der Lausitz. Das Lausitzer Revier als Ganzes ist aber kein ehemaliges Revier: Dort wird weiterhin Braunkohle gefördert, der Ausstieg ist bis spätestens 2038 vorgesehen.",
-      "shortReason": "Die Anlage steht auf ehemaligem Tagebaugelände, das Lausitzer Revier fördert aber weiter Braunkohle (Ausstieg bis spätestens 2038).",
-      "assessmentBasis": "Presseberichte zum Standort.",
+      "reason": "Der konkrete Standort auf der Hochkippe bei Klettwitz/Schipkau ist ein ehemaliges Tagebaugelände. Der Ausschnitt bezeichnet dagegen das Braunkohlerevier als ehemalig. Im größeren Lausitzer Revier wird weiterhin Braunkohle gefördert, etwa in Welzow-Süd. Wird „Revier“ umgangssprachlich nur auf das unmittelbare Altgelände bezogen, trifft der sachliche Kern zu.",
+      "assessmentBasis": "Presseberichte zum Standort. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 469,
@@ -1600,6 +1771,14 @@
         {
           "sourceId": "S21",
           "note": "Lausitzer Braunkohleregion"
+        },
+        {
+          "sourceId": "KA-BL",
+          "note": "In der Einzelnachprüfung herangezogene Originalquelle."
+        },
+        {
+          "sourceId": "KA-LEAG",
+          "note": "In der Einzelnachprüfung herangezogene Originalquelle."
         }
       ],
       "openQuestions": [],
@@ -1631,6 +1810,40 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Schipkau liegt im ehemaligen Braunkohlerevier in Ostdeutschland."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Schipkau liegt im ehemaligen Braunkohlerevier in Ostdeutschland."
+            },
+            "reason": "Der konkrete Standort auf der Hochkippe bei Klettwitz/Schipkau ist ein ehemaliges Tagebaugelände. Der Ausschnitt bezeichnet dagegen das Braunkohlerevier als ehemalig. Im größeren Lausitzer Revier wird weiterhin Braunkohle gefördert, etwa in Welzow-Süd. Wird „Revier“ umgangssprachlich nur auf das unmittelbare Altgelände bezogen, trifft der sachliche Kern zu."
+          }
+        ]
+      },
+      "shortReason": "Das konkrete Tagebaugelände ist ehemalig; die Lausitz als Revier fördert weiter Braunkohle.",
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S12",
+              "S11",
+              "S21",
+              "KA-BL",
+              "KA-LEAG"
+            ],
+            "result": "Der konkrete Standort auf der Hochkippe bei Klettwitz/Schipkau ist ein ehemaliges Tagebaugelände. Der Ausschnitt bezeichnet dagegen das Braunkohlerevier als ehemalig. Im größeren Lausitzer Revier wird weiterhin Braunkohle gefördert, etwa in Welzow-Süd. Wird „Revier“ umgangssprachlich nur auf das unmittelbare Altgelände bezogen, trifft der sachliche Kern zu."
           }
         ]
       }
@@ -1710,11 +1923,10 @@
       "chapter": 5,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Von Vestas ist eine Anlage in Betrieb, die die drei- bis vierfache Leistung liefert.",
-      "reason": "Das Beispiel stimmt: Vestas V236 mit 15 MW (etwa die vierfache Leistung) wird seit 2025 unter anderem im deutschen Offshore-Windpark He Dreiht eingesetzt. Im Zusammenhang („nicht die Anlage mit der höchsten Nennleistung … da ist von Vestas eine Anlage“) entsteht aber der Eindruck, Vestas halte den Leistungsrekord. Leistungsstärkste Anlage ist ein chinesischer Prototyp von Dongfang mit 26 MW, also fast der siebenfachen Leistung.",
-      "shortReason": "Die 15-MW-Anlage von Vestas gibt es; leistungsstärkste Anlage ist aber ein chinesischer 26-MW-Prototyp von Dongfang.",
-      "assessmentBasis": "Herstellerunabhängige Fachpresse zu den größten Offshore-Turbinen.",
+      "verdict": "Belegt",
+      "description": "Eine Vestas-Anlage mit 15 MW und damit etwa der vierfachen Nennleistung des Schipkauer Höhenwindrads ist in Betrieb.",
+      "reason": "EnBW bestätigt die Stromproduktion der ersten Vestas V236-15.0 MW im Park He Dreiht. 15 MW entsprechen grob 3,6 bis 3,9 Mal den im Video zuvor genannten 3,8 bis 4,2 MW. Das Original nennt Vestas hier als Betriebsbeispiel und sagt nicht ausdrücklich, dass es die global stärkste Anlage sei. Ein 26-MW-Prototyp von Dongfang dokumentiert eine noch höhere Nennleistung; Nennleistung ist außerdem kein Jahresertrag.",
+      "assessmentBasis": "Herstellerunabhängige Fachpresse zu den größten Offshore-Turbinen. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 608,
@@ -1737,6 +1949,18 @@
         {
           "sourceId": "S17",
           "note": "Dongfang 26 MW löst Siemens Gamesa 21,5 MW als Rekordhalter ab"
+        },
+        {
+          "sourceId": "KA-BL",
+          "note": "In der Einzelnachprüfung herangezogene Originalquelle."
+        },
+        {
+          "sourceId": "KA-ENBW",
+          "note": "In der Einzelnachprüfung herangezogene Originalquelle."
+        },
+        {
+          "sourceId": "KA-DEC",
+          "note": "In der Einzelnachprüfung herangezogene Originalquelle."
         }
       ],
       "openQuestions": [],
@@ -1768,6 +1992,39 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Von Vestas ist eine Anlage in Betrieb, die die drei- bis vierfache Leistung liefert."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Eine Vestas-Anlage mit 15 MW und damit etwa der vierfachen Nennleistung des Schipkauer Höhenwindrads ist in Betrieb."
+            },
+            "reason": "EnBW bestätigt die Stromproduktion der ersten Vestas V236-15.0 MW im Park He Dreiht. 15 MW entsprechen grob 3,6 bis 3,9 Mal den im Video zuvor genannten 3,8 bis 4,2 MW. Das Original nennt Vestas hier als Betriebsbeispiel und sagt nicht ausdrücklich, dass es die global stärkste Anlage sei. Ein 26-MW-Prototyp von Dongfang dokumentiert eine noch höhere Nennleistung; Nennleistung ist außerdem kein Jahresertrag."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S18",
+              "S17",
+              "KA-BL",
+              "KA-ENBW",
+              "KA-DEC"
+            ],
+            "result": "EnBW bestätigt die Stromproduktion der ersten Vestas V236-15.0 MW im Park He Dreiht. 15 MW entsprechen grob 3,6 bis 3,9 Mal den im Video zuvor genannten 3,8 bis 4,2 MW. Das Original nennt Vestas hier als Betriebsbeispiel und sagt nicht ausdrücklich, dass es die global stärkste Anlage sei. Ein 26-MW-Prototyp von Dongfang dokumentiert eine noch höhere Nennleistung; Nennleistung ist außerdem kein Jahresertrag."
           }
         ]
       }
@@ -1946,6 +2203,145 @@
         "changeType": "Neu erfasst",
         "mapping": "Direkt aus dem Transkript des Videos",
         "assessmentChange": "Erstbewertung; 2026-11-22 Codex: Captionintervall und Beschreibung um die zugehörige Prognosefortsetzung bis 684 Sekunden erweitert; Urteil unverändert."
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A26",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Bendix reichte seine Idee für ein Höhenwindrad 2019 bei SPRIND ein.",
+      "reason": "SPRIND datiert die Einreichung ausdrücklich auf 2019 und beschreibt ein eingereichtes Projekt. Ein damals namentlich bestimmtes Challenge-Programm ist auf der Projektseite nicht belegt. Das Alter wird getrennt in A07 geprüft.",
+      "assessmentBasis": "Einzelnachprüfung Kai (26.11.2026): Originaltextspur und einschlägige Quellendokumente; keine Tonvollprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 86,
+          "endSeconds": 102,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S02",
+          "note": "Quelle zur eigenständigen biografischen Angabe."
+        },
+        {
+          "sourceId": "KA-BL",
+          "note": "Quelle zur eigenständigen biografischen Angabe."
+        }
+      ],
+      "openQuestions": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-26",
+        "assessedBeforeVerdict": false,
+        "weightReason": "Biografische Rahmenangabe, unabhängig von der Leistung des Höhenwindrads.",
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "description",
+            "previous": "Teil der Eintragung A07",
+            "next": "Bendix reichte seine Idee für ein Höhenwindrad 2019 bei SPRIND ein.",
+            "reason": "Eigenständig nachprüfbarer Sachverhalt, keine Wiederholung."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originaltextspur und biografische Sachquellen abgeglichen.",
+            "sourceIds": [
+              "S02",
+              "KA-BL"
+            ],
+            "result": "SPRIND datiert die Einreichung ausdrücklich auf 2019 und beschreibt ein eingereichtes Projekt. Ein damals namentlich bestimmtes Challenge-Programm ist auf der Projektseite nicht belegt. Das Alter wird getrennt in A07 geprüft."
+          }
+        ]
+      }
+    },
+    {
+      "id": "LWQUaGxUmxk-A27",
+      "chapter": 1,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "description": "Horst Bendix war an der Entwicklung von Kränen für den Berliner Fernsehturm beteiligt.",
+      "reason": "Die recherchierte Darstellung in der ZEIT nach dem Besuch bei Bendix beschreibt den von ihm entwickelten Spezialkran. Die zeitgenössische Kirow-Betriebsreportage dokumentiert den Einsatz eines Leipziger Spezialkrans an der Turmkugel. Dieser getrennt überprüfte biographische Punkt besagt nicht, dass Bendix das ganze Bauwerk konstruierte.",
+      "assessmentBasis": "Einzelnachprüfung Kai (26.11.2026): Originaltextspur und einschlägige Quellendokumente; keine Tonvollprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 86,
+          "endSeconds": 102,
+          "precision": "Ungefähr",
+          "attributionStatus": "Bestätigt",
+          "speakerId": "SP1",
+          "role": "Behauptung",
+          "roleStatus": "eigene Aussage",
+          "attributionBasis": "Einzige Moderationsstimme des Videos; laut Videobeschreibung Jacob Beautemps.",
+          "roleBasis": "Der Moderator trägt die Aussage selbst vor.",
+          "timeBasis": "Eingegrenzt aus den automatisch erzeugten deutschen YouTube-Untertiteln, ohne Audiokontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "KA-ZEIT",
+          "note": "Quelle zur eigenständigen biografischen Angabe."
+        },
+        {
+          "sourceId": "KA-ARCHIV",
+          "note": "Quelle zur eigenständigen biografischen Angabe."
+        },
+        {
+          "sourceId": "KA-BL",
+          "note": "Quelle zur eigenständigen biografischen Angabe."
+        }
+      ],
+      "openQuestions": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-26",
+        "assessedBeforeVerdict": false,
+        "weightReason": "Biografische Rahmenangabe, unabhängig von der Leistung des Höhenwindrads.",
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "description",
+            "previous": "Teil der Eintragung A07",
+            "next": "Horst Bendix war an der Entwicklung von Kränen für den Berliner Fernsehturm beteiligt.",
+            "reason": "Eigenständig nachprüfbarer Sachverhalt, keine Wiederholung."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originaltextspur und biografische Sachquellen abgeglichen.",
+            "sourceIds": [
+              "KA-ZEIT",
+              "KA-ARCHIV",
+              "KA-BL"
+            ],
+            "result": "Die recherchierte Darstellung in der ZEIT nach dem Besuch bei Bendix beschreibt den von ihm entwickelten Spezialkran. Die zeitgenössische Kirow-Betriebsreportage dokumentiert den Einsatz eines Leipziger Spezialkrans an der Turmkugel. Dieser getrennt überprüfte biographische Punkt besagt nicht, dass Bendix das ganze Bauwerk konstruierte."
+          }
+        ]
       }
     }
   ]

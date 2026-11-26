@@ -569,3 +569,7 @@ Zusammenfassung im Universitätsrepositorium: nächtliche Schallmessungen am Win
 [Quelle öffnen](https://pubmed.ncbi.nlm.nih.gov/15658697/)
 
 Veröffentlichter Autorenabstract: Zusammenhang zwischen berechneten Windturbinengeräuschpegeln und berichteter Belästigung; keine klinische Prüfung eines Syndroms. **Zugriff 25.11.2026:** Originalstudie, Abstract geprüft.
+
+## F-NAT · § 26 BNatSchG: Landschaftsschutzgebiete
+
+[https://www.gesetze-im-internet.de/bnatschg_2009/__26.html](https://www.gesetze-im-internet.de/bnatschg_2009/__26.html) · Zugriff 26.11.2026. Abs. 3: Windenergiegebiete in Landschaftsschutzgebieten können zulässig sein; die Ausnahme vom Schutz gilt nicht für Natura-2000-Gebiete und Welterbestätten. Kein allgemeines Altersverbot.

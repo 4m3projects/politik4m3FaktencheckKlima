@@ -7,7 +7,7 @@
     "asOf": "2026-11-21",
     "durationSeconds": 1268,
     "coverageNote": "Recherche abgeschlossen für den erfassten Aussagenbestand: 85 zusammengeführte Einträge über die gesamte zugängliche Captionlaufzeit, einschließlich Meinungen und nicht überprüfbarer Selbstauskünfte. Die ergänzende Bildkontrolle prüfte Standbilder in 45-Sekunden-Schritten sowie gezielt Q11 und die 93-Prozent-Grafik. Keine offenen erfassten Sachprüfungen. Keine Behauptung einer lückenlosen eigenen Hör- und Sichtprüfung; die Darstellung bleibt teilweise geprüft.",
-    "researchNote": "Drei fachliche Teilaufgaben, danach gesonderte redaktionelle Gegenprüfung kritischer Paraphrasen und Bedeutungsprüfung. Alle Teilaufgaben gehören zu demselben ChatGPT-Durchlauf; keine Prüfung durch ein unabhängig ausgewähltes Modell. Primärquellen, aktuelle Rechts-/Fördertexte und eigene Nachrechnungen. Wissensdatenbanken KL, HP und UG durchsucht. Originalplayer blieb bei 0:00; automatische Szenennotizen nur Suchhilfe. Abschlussnachprüfung durch Codex am 21.11.2026: acht Teilbewertungen mit ihren Originalquellen erneut abgeglichen, DPZ-Publikation und gezielte Suche nach Daten/Codebuch/Klarstellung geprüft; keine öffentlich auffindbare Replikationsgrundlage gefunden. Die Wiedergabe funktionierte diesmal, kontrollierte Standbilder sind in 06_abschluss.md protokolliert. 77 Bedeutungsfaktoren durch einen zweiten Codex-Teilagenten einzeln kontrolliert; keine unabhängige Modellreplikation."
+    "researchNote": "Drei fachliche Teilaufgaben, danach gesonderte redaktionelle Gegenprüfung kritischer Paraphrasen und Bedeutungsprüfung. Alle Teilaufgaben gehören zu demselben ChatGPT-Durchlauf; keine Prüfung durch ein unabhängig ausgewähltes Modell. Primärquellen, aktuelle Rechts-/Fördertexte und eigene Nachrechnungen. Wissensdatenbanken KL, HP und UG durchsucht. Originalplayer blieb bei 0:00; automatische Szenennotizen nur Suchhilfe. Abschlussnachprüfung durch Codex am 21.11.2026: acht Teilbewertungen mit ihren Originalquellen erneut abgeglichen, DPZ-Publikation und gezielte Suche nach Daten/Codebuch/Klarstellung geprüft; keine öffentlich auffindbare Replikationsgrundlage gefunden. Die Wiedergabe funktionierte diesmal, kontrollierte Standbilder sind in 06_abschluss.md protokolliert. 77 Bedeutungsfaktoren durch einen zweiten Codex-Teilagenten einzeln kontrolliert; keine unabhängige Modellreplikation. Kai (26.11.2026): 8 alte Teilurteile anhand der originalen automatischen YouTube-Textspur und der jeweiligen Sachquellen einzeln erneut geprüft; kein Ton- oder Bildvollabgleich."
   },
   "speakers": [
     {
@@ -511,6 +511,14 @@
       "details": "S. 1: ausgegeben am 26. Juni 2026; S. 20: Art. 8 verschiebt in § 71 Abs. 8 S. 1, 3 und 4 den 30. Juni auf 31. Oktober 2026; Art. 9 Abs. 2 Nr. 3 setzt Art. 8 am Tag nach Verkündung in Kraft, also 27. Juni 2026.",
       "accessedOn": "2026-11-21",
       "accessBasis": "Durch die ChatGPT-Teilaufgabe Politik an der angegebenen Fundstelle ausgewertet. Originaldokumente oder ausdrücklich gekennzeichnete Sekundär-/Spiegelquelle; keine vollständige Sichtung aller Seiten behauptet."
+    },
+    {
+      "id": "KA-GEG",
+      "title": "Bundesgesetzblatt I 2023 Nr. 280",
+      "url": "https://www.recht.bund.de/bgbl/1/2023/280/regelungstext.pdf?__blob=publicationFile",
+      "details": "Verkündete historische Fassung, insbesondere §§ 71 Abs. 8/9 und 72 Abs. 4.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalquelle an der angegebenen Fundstelle geprüft."
     }
   ],
   "claims": [
@@ -787,10 +795,10 @@
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "verdict": "Irreführend / Kontext fehlt",
       "description": "Luft bei −10 °C enthalte rund 90 % der Wärme von Zimmerluft.",
-      "reason": "263,15/293,15 = 0,8977. Als Idealnäherung für dieselbe Luftmenge und Zusammensetzung ist das Verhältnis thermischer innerer Energie plausibel. Bedingungen fehlen; es ist keine Aussage über nutzbare Heizwärme oder Effizienz. Gleiches Volumen bei gleichem Druck ist wegen anderer Dichte ein anderer Vergleich.",
-      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "reason": "Bei gleicher Menge annähernd idealer Luft ergibt der Vergleich der absoluten Temperaturen (263,15 K ÷ 293,15 K) knapp 90 Prozent für ein vereinfachtes Modell der thermischen inneren Energie. Im Video klingt das wie eine Angabe über die in der Luft vorhandene „Wärme“ ohne gleiche Stoffmenge und Bezug. Wie viel Energie eine Wärmepumpe tatsächlich entziehen kann, hängt unter anderem vom durchströmenden Luftmassestrom und der Abkühlung ab, nicht von dieser 90-Prozent-Zahl.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 209,
@@ -829,7 +837,6 @@
         "mapping": "PHY-05; Wiederholungen als weitere Fundstellen.",
         "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
       },
-      "shortReason": "Die 90-Prozent-Näherung braucht dieselbe Luftmenge und meint innere Energie, nicht direkt nutzbare Heizwärme.",
       "factIndex": {
         "weight": 1,
         "weightReason": "Der Prozentvergleich ist ein veranschaulichendes Zwischenargument für Energie in kalter Luft; die gesamte Funktionserklärung hängt nicht von genau dieser Zahl ab.",
@@ -853,7 +860,41 @@
             "reason": "Die 90-Prozent-Analogie veranschaulicht die bereits etablierte Wärmequelle; sie ist keine notwendige quantitative Grundlage der späteren Kostenrechnung. R 1 ist konsistent. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
-        "history": []
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Luft bei −10 °C enthalte rund 90 % der Wärme von Zimmerluft."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Luft bei −10 °C enthalte rund 90 % der Wärme von Zimmerluft."
+            },
+            "reason": "Bei gleicher Menge annähernd idealer Luft ergibt der Vergleich der absoluten Temperaturen (263,15 K ÷ 293,15 K) knapp 90 Prozent für ein vereinfachtes Modell der thermischen inneren Energie. Im Video klingt das wie eine Angabe über die in der Luft vorhandene „Wärme“ ohne gleiche Stoffmenge und Bezug. Wie viel Energie eine Wärmepumpe tatsächlich entziehen kann, hängt unter anderem vom durchströmenden Luftmassestrom und der Abkühlung ab, nicht von dieser 90-Prozent-Zahl."
+          }
+        ]
+      },
+      "shortReason": "Knapp 90 Prozent beschreibt unter Annahmen die innere Energie, nicht die nutzbare Heizwärme.",
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "PH-S01",
+              "PH-S03",
+              "PH-S04"
+            ],
+            "result": "Bei gleicher Menge annähernd idealer Luft ergibt der Vergleich der absoluten Temperaturen (263,15 K ÷ 293,15 K) knapp 90 Prozent für ein vereinfachtes Modell der thermischen inneren Energie. Im Video klingt das wie eine Angabe über die in der Luft vorhandene „Wärme“ ohne gleiche Stoffmenge und Bezug. Wie viel Energie eine Wärmepumpe tatsächlich entziehen kann, hängt unter anderem vom durchströmenden Luftmassestrom und der Abkühlung ab, nicht von dieser 90-Prozent-Zahl."
+          }
+        ]
       }
     },
     {
@@ -1603,10 +1644,10 @@
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "verdict": "Irreführend / Kontext fehlt",
       "description": "Strom werde ausschließlich für die Verdichtung benötigt.",
-      "reason": "Der Verdichter ist der Hauptantrieb. Reale Geräte benötigen außerdem Strom für Ventilatoren, Pumpen, Regelung und gegebenenfalls Zusatzheizung. Diese Verbraucher stehen in den verlinkten Datenblättern.",
-      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "reason": "Der Verdichter ist der zentrale Stromverbraucher des erläuterten Kältekreislaufs. Wenn aus der vereinfachten Strombeschreibung der Verbrauch der Anlage abgeleitet wird, fehlen aber elektrische Nebenverbraucher. Herstellerdaten weisen den Ventilator sowie Regelung, Pumpen und je nach Konfiguration einen elektrischen Zuheizer aus. Das Schweizer Bundesamt für Energie unterscheidet diese Systemgrenzen ausdrücklich.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 404,
@@ -1641,7 +1682,6 @@
         "mapping": "PHY-16; Wiederholungen als weitere Fundstellen.",
         "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
       },
-      "shortReason": "Auch Ventilatoren, Pumpen, Regelung und gegebenenfalls eine Zusatzheizung benötigen Strom.",
       "factIndex": {
         "weight": 1,
         "weightReason": "Die Zuordnung des Strombedarfs zu Anlagenteilen ist eine normale technische Aussage innerhalb der vereinfachten Erklärung; sie ist kein selbständiger Hauptschluss.",
@@ -1684,14 +1724,46 @@
               "u": 0
             },
             "reason": "Originalquelle erneut geprüft; nachweislich zu weiter Teil wird als widerlegt statt ungeklärt erfasst. Kategorie und Gewicht bleiben unverändert. Der Hauptantrieb durch den Verdichter ist belegt; der ausdrückliche Ausschluss anderer elektrischer Verbraucher ist durch den Anlagenaufbau widerlegt. Redaktionelle Inhaltsanteile 75/25, keine gemessene Aufteilung des Stromverbrauchs."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Strom werde ausschließlich für die Verdichtung benötigt.",
+              "shares": {
+                "p": 0.75,
+                "f": 0.25,
+                "u": 0
+              },
+              "sharesReason": "Der Hauptantrieb durch den Verdichter ist belegt; der ausdrückliche Ausschluss anderer elektrischer Verbraucher ist durch den Anlagenaufbau widerlegt. Redaktionelle Inhaltsanteile 75/25, keine gemessene Aufteilung des Stromverbrauchs."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Strom werde ausschließlich für die Verdichtung benötigt."
+            },
+            "reason": "Der Verdichter ist der zentrale Stromverbraucher des erläuterten Kältekreislaufs. Wenn aus der vereinfachten Strombeschreibung der Verbrauch der Anlage abgeleitet wird, fehlen aber elektrische Nebenverbraucher. Herstellerdaten weisen den Ventilator sowie Regelung, Pumpen und je nach Konfiguration einen elektrischen Zuheizer aus. Das Schweizer Bundesamt für Energie unterscheidet diese Systemgrenzen ausdrücklich."
           }
-        ],
-        "shares": {
-          "p": 0.75,
-          "f": 0.25,
-          "u": 0
-        },
-        "sharesReason": "Der Hauptantrieb durch den Verdichter ist belegt; der ausdrückliche Ausschluss anderer elektrischer Verbraucher ist durch den Anlagenaufbau widerlegt. Redaktionelle Inhaltsanteile 75/25, keine gemessene Aufteilung des Stromverbrauchs."
+        ]
+      },
+      "shortReason": "Im Kältekreislauf vor allem der Verdichter; eine reale Anlage braucht zusätzlich Strom für Nebenaggregate.",
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "PH-S05",
+              "PH-S08"
+            ],
+            "result": "Der Verdichter ist der zentrale Stromverbraucher des erläuterten Kältekreislaufs. Wenn aus der vereinfachten Strombeschreibung der Verbrauch der Anlage abgeleitet wird, fehlen aber elektrische Nebenverbraucher. Herstellerdaten weisen den Ventilator sowie Regelung, Pumpen und je nach Konfiguration einen elektrischen Zuheizer aus. Das Schweizer Bundesamt für Energie unterscheidet diese Systemgrenzen ausdrücklich."
+          }
+        ]
       }
     },
     {
@@ -2397,10 +2469,10 @@
       "chapter": 3,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Bei Frost arbeitet die Wärmepumpe weiter, nur mit geringerer Effizienz.",
-      "reason": "Für −7 °C im Beispiel richtig. Allgemein fehlen Leistungsgrenzen, Abtauung und ggf. Zusatzheizbedarf. Hersteller nennt für das Gerät Heizbetrieb ab −20 °C; keine unbegrenzte Frostzusage.",
-      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle.",
+      "verdict": "Belegt",
+      "description": "Im gezeigten Beispiel arbeitet die Luft-Wasser-Wärmepumpe bei −7 °C weiter, mit niedrigerem COP als bei milderer Luft.",
+      "reason": "Der Satz folgt unmittelbar auf das ausdrücklich angeführte Beispiel bei −7 °C. Viessmann nennt für den Typ 251.A10 bei −7/35 °C einen COP von 3,16 und bei −7/55 °C von 2,13; bei +7/35 °C liegt er bei 5,31. Die Aussage ist in dieser konkreten Kälteprobe belegt. Daraus folgt weder garantierte Heizleistung noch Betrieb bei jeder Frosttemperatur; Abtauung und Gebäude-Wärmebedarf bleiben relevant.",
+      "assessmentBasis": "Vollständiger Captionkontext, Quellenrecherche der ChatGPT-Teilaufgabe Physik und redaktioneller Abgleich; keine eigene Tonvollkontrolle. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 756,
@@ -2435,7 +2507,6 @@
         "mapping": "PHY-27; Wiederholungen als weitere Fundstellen.",
         "assessmentChange": "Erstbewertung 21.11.2026, ChatGPT."
       },
-      "shortReason": "Frostbetrieb bleibt durch Heizleistung, Abtauung und den Betriebsbereich des konkreten Geräts begrenzt.",
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Die Aussage über Frost ist eine hervorgehobene praktische Schlussfolgerung zur Einsatzfähigkeit und daher bedeutender als ein einzelner Datenblattwert.",
@@ -2467,6 +2538,37 @@
             "previous": 1,
             "next": 1.5,
             "reason": "Gesonderte Bedeutungsprüfung nach Abgleich der Argumentfunktion übernommen: Die Aussage über Frost ist eine hervorgehobene praktische Schlussfolgerung zur Einsatzfähigkeit und daher bedeutender als ein einzelner Datenblattwert."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Bei Frost arbeitet die Wärmepumpe weiter, nur mit geringerer Effizienz."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Im gezeigten Beispiel arbeitet die Luft-Wasser-Wärmepumpe bei −7 °C weiter, mit niedrigerem COP als bei milderer Luft."
+            },
+            "reason": "Der Satz folgt unmittelbar auf das ausdrücklich angeführte Beispiel bei −7 °C. Viessmann nennt für den Typ 251.A10 bei −7/35 °C einen COP von 3,16 und bei −7/55 °C von 2,13; bei +7/35 °C liegt er bei 5,31. Die Aussage ist in dieser konkreten Kälteprobe belegt. Daraus folgt weder garantierte Heizleistung noch Betrieb bei jeder Frosttemperatur; Abtauung und Gebäude-Wärmebedarf bleiben relevant."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "PH-S08",
+              "PH-S11"
+            ],
+            "result": "Der Satz folgt unmittelbar auf das ausdrücklich angeführte Beispiel bei −7 °C. Viessmann nennt für den Typ 251.A10 bei −7/35 °C einen COP von 3,16 und bei −7/55 °C von 2,13; bei +7/35 °C liegt er bei 5,31. Die Aussage ist in dieser konkreten Kälteprobe belegt. Daraus folgt weder garantierte Heizleistung noch Betrieb bei jeder Frosttemperatur; Abtauung und Gebäude-Wärmebedarf bleiben relevant."
           }
         ]
       }
@@ -2991,10 +3093,10 @@
       "chapter": 3,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "verdict": "Belegt",
       "description": "Eine Kilowattstunde Wärme aus einer Gasheizung verursacht im vereinfachten Vergleich ungefähr 190 g CO₂.",
-      "reason": "190 g ist für einen sehr effizienten Brennwertkessel plausibel. Die genannte Verordnung liefert zunächst 182,0448 g CO₂ je bezogener Brennstoff-kWh auf Brennwertbasis. Mit 95 % Nutzungsgrad ergeben sich 191,6 g CO₂ je kWh Wärme, mit 90 % 202,3 g je kWh Wärme. Ohne Nutzungsgrad ist 190 kein allgemeiner Wert für Gasheizungen. Die vorher erwähnten kleinen Verluste passen zu dieser Näherung. Kein Rechenfehler: Der fehlende konkrete Nutzungsgrad begrenzt die Verallgemeinerung. Der niedrige Gaswert lässt den Wärmepumpenvorteil eher vorsichtig ausfallen. Prüfgrenze: Vorketten und Methanverluste sind in dieser direkten CO₂-Rechnung nicht enthalten. Der niedrige Gasvergleichswert macht den Wärmepumpenvorteil eher vorsichtig.",
-      "assessmentBasis": "Vollständige Captionlektüre, getrennte Fachrecherche und redaktioneller Kontextabgleich; kritische Paraphrasen gesondert gegengelesen. Keine eigene audiovisuelle Vollsichtung.",
+      "reason": "Die EBeV nennt für Erdgas 3,2508 GJ je MWh Brennwert und 56 kg CO₂ je GJ Heizwert; das ergibt 182,0 g direkte CO₂-Emissionen je kWh Brennstoff. Bei 95 % brennwertbezogenem Nutzungsgrad werden daraus rund 192 g je kWh Wärme. Die ausdrücklich ungefähre Rechnung passt zum zuvor beschriebenen effizienten Gasheizungsbeispiel, nicht zu jedem Kessel; bei 90 % wären es etwa 202 g. Vorkette und Methanverluste sind nicht enthalten.",
+      "assessmentBasis": "Vollständige Captionlektüre, getrennte Fachrecherche und redaktioneller Kontextabgleich; kritische Paraphrasen gesondert gegengelesen. Keine eigene audiovisuelle Vollsichtung. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 598,
@@ -3025,7 +3127,6 @@
         "mapping": "EC08; sinngemäße eigene Formulierung.",
         "assessmentChange": "Erstveröffentlichung nach Fachprüfung und redaktioneller Gegenprüfung am 21.11.2026."
       },
-      "shortReason": "Rund 190 g passen zu einem sehr effizienten Gaskessel; je kWh Nutzwärme hängt der Wert vom Nutzungsgrad ab.",
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Der Emissionsfaktor der Gaswärme ist die zweite tragende Eingangsgröße desselben Klimavergleichs und erhält deshalb denselben Faktor wie die Stromreferenz.",
@@ -3049,7 +3150,38 @@
             "reason": "Die Gasreferenz ist für denselben Emissionsvergleich ebenso bedeutend wie A0035. R 1,5 zeigt keine Bevorzugung des Vergleichssystems. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
-        "history": []
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Eine Kilowattstunde Wärme aus einer Gasheizung verursacht im vereinfachten Vergleich ungefähr 190 g CO₂."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Eine Kilowattstunde Wärme aus einer Gasheizung verursacht im vereinfachten Vergleich ungefähr 190 g CO₂."
+            },
+            "reason": "Die EBeV nennt für Erdgas 3,2508 GJ je MWh Brennwert und 56 kg CO₂ je GJ Heizwert; das ergibt 182,0 g direkte CO₂-Emissionen je kWh Brennstoff. Bei 95 % brennwertbezogenem Nutzungsgrad werden daraus rund 192 g je kWh Wärme. Die ausdrücklich ungefähre Rechnung passt zum zuvor beschriebenen effizienten Gasheizungsbeispiel, nicht zu jedem Kessel; bei 90 % wären es etwa 202 g. Vorkette und Methanverluste sind nicht enthalten."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "E-S06"
+            ],
+            "result": "Die EBeV nennt für Erdgas 3,2508 GJ je MWh Brennwert und 56 kg CO₂ je GJ Heizwert; das ergibt 182,0 g direkte CO₂-Emissionen je kWh Brennstoff. Bei 95 % brennwertbezogenem Nutzungsgrad werden daraus rund 192 g je kWh Wärme. Die ausdrücklich ungefähre Rechnung passt zum zuvor beschriebenen effizienten Gasheizungsbeispiel, nicht zu jedem Kessel; bei 90 % wären es etwa 202 g. Vorkette und Methanverluste sind nicht enthalten."
+          }
+        ]
       }
     },
     {
@@ -3759,10 +3891,10 @@
       "chapter": 3,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "verdict": "Irreführend / Kontext fehlt",
       "description": "Selbstnutzer erhalten beim Austausch einer Öl-, Nachtspeicher- oder alten Gasheizung derzeit 46 % von höchstens 28.000 Euro.",
-      "reason": "Die Förderzahlen sind zum Prüfdatum richtig: 30 Prozent Grundförderung plus 16 Prozent Klimageschwindigkeitsbonus auf höchstens 28.000 Euro für die erste Wohneinheit. Für den Bonus muss die ausgetauschte Altanlage allerdings funktionstüchtig sein; zentrale Gasheizungen müssen grundsätzlich mindestens 20 Jahre alt sein. Die im Video bereits genannten Selbstnutzung und alte Gasheizung sind relevante, aber nicht vollständige Bedingungen. Der Kritikpunkt betrifft vor allem die ausgelassene Funktionstüchtigkeit, nicht eine angeblich veraltete Förderzahl. 28.000 Euro sind die Kostenbasis, nicht der ausgezahlte Zuschuss. Prüfgrenze: 46 % aus 28.000 Euro dürfen nicht mit veralteten Förderwerten widerlegt werden. Die teilweise Bewertung betrifft die pauschale Anspruchsformulierung, nicht die aktuellen Zahlen.",
-      "assessmentBasis": "Vollständige Captionlektüre, getrennte Fachrecherche und redaktioneller Kontextabgleich; kritische Paraphrasen gesondert gegengelesen. Keine eigene audiovisuelle Vollsichtung.",
+      "reason": "Die KfW nennt für das Videojahr 16 Prozent Geschwindigkeitsbonus und bis 28.000 Euro förderfähige Kosten der ersten Wohneinheit; zu 30 Prozent regulärer Grundförderung ergeben sich 46 Prozent. Die pauschale Zusage lässt entscheidende Voraussetzungen weg: Die Altanlage muss unter anderem funktionsfähig sein, bei zentralen Gasheizungen gilt grundsätzlich ein Mindestalter von 20 Jahren, und je nach neuem Gerät gelten weitere Bedingungen. 28.000 Euro sind keine Auszahlung.",
+      "assessmentBasis": "Vollständige Captionlektüre, getrennte Fachrecherche und redaktioneller Kontextabgleich; kritische Paraphrasen gesondert gegengelesen. Keine eigene audiovisuelle Vollsichtung. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 723,
@@ -3797,7 +3929,6 @@
         "mapping": "EC22; sinngemäße eigene Formulierung.",
         "assessmentChange": "Erstveröffentlichung nach Fachprüfung und redaktioneller Gegenprüfung am 21.11.2026."
       },
-      "shortReason": "46 Prozent aus 28.000 Euro stimmen; der 16-Prozent-Bonus setzt unter anderem eine noch funktionierende Altanlage voraus.",
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Fördersatz und Kostenobergrenze beeinflussen die tatsächliche Eigenbelastung und haben unmittelbare praktische Bedeutung für die Kostenargumentation.",
@@ -3821,7 +3952,40 @@
             "reason": "Fördersatz und Obergrenze bestimmen die mögliche Eigenbelastung unmittelbar. R 1,5 entspricht der Investitionszahl A0046 und hängt nicht vom Teilurteil ab. Gesonderter Agent im selben Codex-Auftrag; Kenntnis der vorhandenen Urteile, keine blinde Prüfung und kein unabhängiges Modell. Kontrolliert wurden Argumentfunktion und Doppelzählung, nicht die Faktenurteile."
           }
         ],
-        "history": []
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Selbstnutzer erhalten beim Austausch einer Öl-, Nachtspeicher- oder alten Gasheizung derzeit 46 % von höchstens 28.000 Euro."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Selbstnutzer erhalten beim Austausch einer Öl-, Nachtspeicher- oder alten Gasheizung derzeit 46 % von höchstens 28.000 Euro."
+            },
+            "reason": "Die KfW nennt für das Videojahr 16 Prozent Geschwindigkeitsbonus und bis 28.000 Euro förderfähige Kosten der ersten Wohneinheit; zu 30 Prozent regulärer Grundförderung ergeben sich 46 Prozent. Die pauschale Zusage lässt entscheidende Voraussetzungen weg: Die Altanlage muss unter anderem funktionsfähig sein, bei zentralen Gasheizungen gilt grundsätzlich ein Mindestalter von 20 Jahren, und je nach neuem Gerät gelten weitere Bedingungen. 28.000 Euro sind keine Auszahlung."
+          }
+        ]
+      },
+      "shortReason": "Die Zahlen stimmen für förderfähige Fälle; der Bonus setzt insbesondere eine funktionstüchtige Altanlage voraus.",
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "E-S13",
+              "E-S14"
+            ],
+            "result": "Die KfW nennt für das Videojahr 16 Prozent Geschwindigkeitsbonus und bis 28.000 Euro förderfähige Kosten der ersten Wohneinheit; zu 30 Prozent regulärer Grundförderung ergeben sich 46 Prozent. Die pauschale Zusage lässt entscheidende Voraussetzungen weg: Die Altanlage muss unter anderem funktionsfähig sein, bei zentralen Gasheizungen gilt grundsätzlich ein Mindestalter von 20 Jahren, und je nach neuem Gerät gelten weitere Bedingungen. 28.000 Euro sind keine Auszahlung."
+          }
+        ]
       }
     },
     {
@@ -4271,10 +4435,10 @@
       "chapter": 4,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Ab 2045 hätte keine Heizung mehr mit Gas oder Öl betrieben werden dürfen.",
-      "reason": "Gemeint und rechtlich vorgesehen war das Ende fossiler Brennstoffe. Nicht jede Gas-/Öltechnik war unabhängig vom verwendeten Brennstoff verboten. Im Alltagskontext sind fossile Brennstoffe naheliegend; die Teilbewertung betrifft begrenzten Präzisierungsbedarf, keinen erfundenen Rechtsgrundsatz.",
-      "assessmentBasis": "Vollständige Captionlektüre, getrennte Fachrecherche und redaktioneller Kontextabgleich; kritische Paraphrasen gesondert gegengelesen. Keine eigene audiovisuelle Vollsichtung.",
+      "verdict": "Belegt",
+      "description": "Nach der damaligen GEG-Fassung hätten Heizkessel ab 2045 nicht mehr mit fossilem Gas oder Heizöl betrieben werden dürfen.",
+      "reason": "Im Abschnitt über das frühere Gebäudeenergiegesetz ist mit Gas und Öl der fossile Einsatz gemeint. Der verkündete § 72 Abs. 4 begrenzte genau diesen Betrieb auf Ende 2044. Er untersagte nicht jede Gas- oder Ölkesseltechnik unabhängig vom eingesetzten Brennstoff. Dieser Punkt bewertet die 2023er Fassung, nicht die inzwischen geltende Reform.",
+      "assessmentBasis": "Vollständige Captionlektüre, getrennte Fachrecherche und redaktioneller Kontextabgleich; kritische Paraphrasen gesondert gegengelesen. Keine eigene audiovisuelle Vollsichtung. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 853,
@@ -4301,6 +4465,10 @@
         {
           "sourceId": "PO-P23",
           "note": "Inkrafttreten2020, Änderung2026, §71 weggefallen, §42a Klimaneutralität2045."
+        },
+        {
+          "sourceId": "KA-GEG",
+          "note": "In der Einzelnachprüfung herangezogene Originalquelle."
         }
       ],
       "openQuestions": [],
@@ -4309,7 +4477,6 @@
         "mapping": "POL06; sinngemäße eigene Formulierung.",
         "assessmentChange": "Erstveröffentlichung nach Fachprüfung und redaktioneller Gegenprüfung am 21.11.2026."
       },
-      "shortReason": "Die Grenze 2045 bezog sich auf fossile Brennstoffe, nicht pauschal auf jede Gas- oder Öltechnik.",
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Die langfristige Regel betrifft die Reichweite des Verbots und kann das Verständnis von Pflichten erheblich beeinflussen.",
@@ -4352,14 +4519,46 @@
               "u": 0
             },
             "reason": "Originalquelle erneut geprüft; nachweislich zu weiter Teil wird als widerlegt statt ungeklärt erfasst. Kategorie und Gewicht bleiben unverändert. Das Ende fossiler Brennstoffe ist der belegte Kern; ein ausnahmsloses Verbot der Gas-/Ölbauart ist widerlegt. Redaktionelle Inhaltsanteile 75/25 für Kern und zu weite technische Verallgemeinerung."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Ab 2045 hätte keine Heizung mehr mit Gas oder Öl betrieben werden dürfen.",
+              "shares": {
+                "p": 0.75,
+                "f": 0.25,
+                "u": 0
+              },
+              "sharesReason": "Das Ende fossiler Brennstoffe ist der belegte Kern; ein ausnahmsloses Verbot der Gas-/Ölbauart ist widerlegt. Redaktionelle Inhaltsanteile 75/25 für Kern und zu weite technische Verallgemeinerung."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Nach der damaligen GEG-Fassung hätten Heizkessel ab 2045 nicht mehr mit fossilem Gas oder Heizöl betrieben werden dürfen."
+            },
+            "reason": "Im Abschnitt über das frühere Gebäudeenergiegesetz ist mit Gas und Öl der fossile Einsatz gemeint. Der verkündete § 72 Abs. 4 begrenzte genau diesen Betrieb auf Ende 2044. Er untersagte nicht jede Gas- oder Ölkesseltechnik unabhängig vom eingesetzten Brennstoff. Dieser Punkt bewertet die 2023er Fassung, nicht die inzwischen geltende Reform."
           }
-        ],
-        "shares": {
-          "p": 0.75,
-          "f": 0.25,
-          "u": 0
-        },
-        "sharesReason": "Das Ende fossiler Brennstoffe ist der belegte Kern; ein ausnahmsloses Verbot der Gas-/Ölbauart ist widerlegt. Redaktionelle Inhaltsanteile 75/25 für Kern und zu weite technische Verallgemeinerung."
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "PO-P04",
+              "PO-P23",
+              "KA-GEG"
+            ],
+            "result": "Im Abschnitt über das frühere Gebäudeenergiegesetz ist mit Gas und Öl der fossile Einsatz gemeint. Der verkündete § 72 Abs. 4 begrenzte genau diesen Betrieb auf Ende 2044. Er untersagte nicht jede Gas- oder Ölkesseltechnik unabhängig vom eingesetzten Brennstoff. Dieser Punkt bewertet die 2023er Fassung, nicht die inzwischen geltende Reform."
+          }
+        ]
       }
     },
     {
@@ -5996,10 +6195,10 @@
       "chapter": 4,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "verdict": "Widerlegt",
       "description": "In anderen Gebäuden sollte die 65-Prozent-Regel gelten, sobald die Gemeinde einen Wärmeplan hat.",
-      "reason": "Ein Wärmeplan allein löste die vorzeitige Pflicht nicht aus. Nötig waren eine zusätzliche Gebietsausweisung und ein Monat nach deren Bekanntgabe; spätestens griffen feste Fristen.",
-      "assessmentBasis": "Vollständige Captionlektüre, getrennte Fachrecherche und redaktioneller Kontextabgleich; kritische Paraphrasen gesondert gegengelesen. Keine eigene audiovisuelle Vollsichtung.",
+      "reason": "§ 71 Abs. 8 der verkündeten Fassung setzte bei vorzeitigem Beginn eine gesonderte, bekannt gemachte Entscheidung über ein Wärmenetz- oder Wasserstoffnetzausbaugebiet voraus. Die Pflicht griff dann einen Monat nach Bekanntgabe. Ein Wärmeplan für sich war nicht der behauptete Auslöser; ohne Gebietsausweisung galten die im Gesetz genannten Stichtage.",
+      "assessmentBasis": "Vollständige Captionlektüre, getrennte Fachrecherche und redaktioneller Kontextabgleich; kritische Paraphrasen gesondert gegengelesen. Keine eigene audiovisuelle Vollsichtung. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 1132,
@@ -6022,6 +6221,10 @@
         {
           "sourceId": "PO-P04",
           "note": "PDF S.33–34 §71 Abs.8, S.81 fossile Brennstoffe bis Ende2044; S.91 Gebietsausweisung."
+        },
+        {
+          "sourceId": "KA-GEG",
+          "note": "In der Einzelnachprüfung herangezogene Originalquelle."
         }
       ],
       "openQuestions": [],
@@ -6030,7 +6233,6 @@
         "mapping": "POL32; sinngemäße eigene Formulierung.",
         "assessmentChange": "Erstveröffentlichung nach Fachprüfung und redaktioneller Gegenprüfung am 21.11.2026."
       },
-      "shortReason": "Ein Wärmeplan allein löste die Pflicht nicht vorzeitig aus; nötig war eine zusätzliche Gebietsausweisung.",
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Der Auslöser der späteren Anwendung bestimmt die Reichweite der Pflichten und kann das praktische Verständnis der Regel wesentlich verändern.",
@@ -6073,14 +6275,46 @@
               "u": 0
             },
             "reason": "Originalquelle erneut geprüft; nachweislich zu weiter Teil wird als widerlegt statt ungeklärt erfasst. Kategorie und Gewicht bleiben unverändert. Der Zusammenhang der früheren Pflicht mit kommunaler Planung ist belegt; der als hinreichend dargestellte Wärmeplan ist als vorzeitiger Auslöser falsch. Redaktionelle Inhaltsanteile 75/25, keine Quote betroffener Gebäude."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "In anderen Gebäuden sollte die 65-Prozent-Regel gelten, sobald die Gemeinde einen Wärmeplan hat.",
+              "shares": {
+                "p": 0.75,
+                "f": 0.25,
+                "u": 0
+              },
+              "sharesReason": "Der Zusammenhang der früheren Pflicht mit kommunaler Planung ist belegt; der als hinreichend dargestellte Wärmeplan ist als vorzeitiger Auslöser falsch. Redaktionelle Inhaltsanteile 75/25, keine Quote betroffener Gebäude."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Widerlegt",
+              "description": "In anderen Gebäuden sollte die 65-Prozent-Regel gelten, sobald die Gemeinde einen Wärmeplan hat."
+            },
+            "reason": "§ 71 Abs. 8 der verkündeten Fassung setzte bei vorzeitigem Beginn eine gesonderte, bekannt gemachte Entscheidung über ein Wärmenetz- oder Wasserstoffnetzausbaugebiet voraus. Die Pflicht griff dann einen Monat nach Bekanntgabe. Ein Wärmeplan für sich war nicht der behauptete Auslöser; ohne Gebietsausweisung galten die im Gesetz genannten Stichtage."
           }
-        ],
-        "shares": {
-          "p": 0.75,
-          "f": 0.25,
-          "u": 0
-        },
-        "sharesReason": "Der Zusammenhang der früheren Pflicht mit kommunaler Planung ist belegt; der als hinreichend dargestellte Wärmeplan ist als vorzeitiger Auslöser falsch. Redaktionelle Inhaltsanteile 75/25, keine Quote betroffener Gebäude."
+        ]
+      },
+      "shortReason": "Der Wärmeplan allein löste die frühere 65-Prozent-Pflicht nicht aus.",
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "PO-P04",
+              "KA-GEG"
+            ],
+            "result": "§ 71 Abs. 8 der verkündeten Fassung setzte bei vorzeitigem Beginn eine gesonderte, bekannt gemachte Entscheidung über ein Wärmenetz- oder Wasserstoffnetzausbaugebiet voraus. Die Pflicht griff dann einen Monat nach Bekanntgabe. Ein Wärmeplan für sich war nicht der behauptete Auslöser; ohne Gebietsausweisung galten die im Gesetz genannten Stichtage."
+          }
+        ]
       }
     },
     {
@@ -6189,10 +6423,10 @@
       "chapter": 4,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "verdict": "Irreführend / Kontext fehlt",
       "description": "Neue Gas- und Ölheizungen müssen ab 2029 steigende Anteile Biogas oder Bioöl einsetzen.",
-      "reason": "Eine Biotreppe besteht. Der Wortlaut ist aber nicht auf diese Brennstoffe beschränkt: bestimmte Wasserstoffpfade und Derivate sowie Erfüllungsalternativen über Solarthermie, Wärmerückgewinnung oder Wärmepumpenhybride sind zugelassen.",
-      "assessmentBasis": "Vollständige Captionlektüre, getrennte Fachrecherche und redaktioneller Kontextabgleich; kritische Paraphrasen gesondert gegengelesen. Keine eigene audiovisuelle Vollsichtung.",
+      "reason": "Die Stufen ab 2029 sind als Grundprinzip korrekt, die Aussage lässt aber Brennstoffoptionen und Reichweite weg. Schon § 71 Abs. 9 GEG 2023 nannte Biomasse oder grünen/blauen Wasserstoff einschließlich Derivaten für in der Übergangszeit installierte, nicht anderweitig erfüllende Anlagen. Der beim Upload geltende § 43 GModG eröffnet eigene Erfüllungswege. Ein ausnahmsloser Zwang speziell zu Biogas oder Bioöl folgt aus keiner der beiden angeführten Fassungen.",
+      "assessmentBasis": "Vollständige Captionlektüre, getrennte Fachrecherche und redaktioneller Kontextabgleich; kritische Paraphrasen gesondert gegengelesen. Keine eigene audiovisuelle Vollsichtung. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 1166,
@@ -6215,6 +6449,10 @@
         {
           "sourceId": "PO-P17",
           "note": "Biotreppe10/15/30/60%; mehrere Brennstoffe und technische Erfüllungsalternativen."
+        },
+        {
+          "sourceId": "KA-GEG",
+          "note": "In der Einzelnachprüfung herangezogene Originalquelle."
         }
       ],
       "openQuestions": [],
@@ -6223,7 +6461,6 @@
         "mapping": "POL35; sinngemäße eigene Formulierung.",
         "assessmentChange": "Erstveröffentlichung nach Fachprüfung und redaktioneller Gegenprüfung am 21.11.2026."
       },
-      "shortReason": "Die steigenden Vorgaben stimmen; neben Biogas und Bioöl sind weitere Brennstoffe und technische Erfüllungswege zugelassen.",
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Die späteren Brennstoffpflichten begrenzen diese Wahlmöglichkeit und haben die gleiche praktische Bedeutung wie die Aussage über ihre Zulässigkeit.",
@@ -6266,14 +6503,46 @@
               "u": 0
             },
             "reason": "Originalquelle erneut geprüft; nachweislich zu weiter Teil wird als widerlegt statt ungeklärt erfasst. Kategorie und Gewicht bleiben unverändert. Die steigende Erfüllungspflicht und die genannten Biobrennstoffe sind belegt; eine Beschränkung auf deren Verbrennung ist durch ausdrücklich zugelassene Alternativen widerlegt. Redaktionelle Inhaltsanteile 75/25, keine Brennstoffmarktanteile."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Neue Gas- und Ölheizungen müssen ab 2029 steigende Anteile Biogas oder Bioöl einsetzen.",
+              "shares": {
+                "p": 0.75,
+                "f": 0.25,
+                "u": 0
+              },
+              "sharesReason": "Die steigende Erfüllungspflicht und die genannten Biobrennstoffe sind belegt; eine Beschränkung auf deren Verbrennung ist durch ausdrücklich zugelassene Alternativen widerlegt. Redaktionelle Inhaltsanteile 75/25, keine Brennstoffmarktanteile."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Neue Gas- und Ölheizungen müssen ab 2029 steigende Anteile Biogas oder Bioöl einsetzen."
+            },
+            "reason": "Die Stufen ab 2029 sind als Grundprinzip korrekt, die Aussage lässt aber Brennstoffoptionen und Reichweite weg. Schon § 71 Abs. 9 GEG 2023 nannte Biomasse oder grünen/blauen Wasserstoff einschließlich Derivaten für in der Übergangszeit installierte, nicht anderweitig erfüllende Anlagen. Der beim Upload geltende § 43 GModG eröffnet eigene Erfüllungswege. Ein ausnahmsloser Zwang speziell zu Biogas oder Bioöl folgt aus keiner der beiden angeführten Fassungen."
           }
-        ],
-        "shares": {
-          "p": 0.75,
-          "f": 0.25,
-          "u": 0
-        },
-        "sharesReason": "Die steigende Erfüllungspflicht und die genannten Biobrennstoffe sind belegt; eine Beschränkung auf deren Verbrennung ist durch ausdrücklich zugelassene Alternativen widerlegt. Redaktionelle Inhaltsanteile 75/25, keine Brennstoffmarktanteile."
+        ]
+      },
+      "shortReason": "Die steigenden Anteile sind belegt; Biogas und Bioöl sind weder die einzigen Wege noch für jede Anlage verpflichtend.",
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "PO-P17",
+              "KA-GEG"
+            ],
+            "result": "Die Stufen ab 2029 sind als Grundprinzip korrekt, die Aussage lässt aber Brennstoffoptionen und Reichweite weg. Schon § 71 Abs. 9 GEG 2023 nannte Biomasse oder grünen/blauen Wasserstoff einschließlich Derivaten für in der Übergangszeit installierte, nicht anderweitig erfüllende Anlagen. Der beim Upload geltende § 43 GModG eröffnet eigene Erfüllungswege. Ein ausnahmsloser Zwang speziell zu Biogas oder Bioöl folgt aus keiner der beiden angeführten Fassungen."
+          }
+        ]
       }
     },
     {

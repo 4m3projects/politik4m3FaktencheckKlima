@@ -23,7 +23,7 @@ Die Tatsachen im Liedtext stimmen weitgehend:
 1. **Das Zitat ist echt.** Weidel sagte am 11.01.2025 in Riesa: „wenn wir am Ruder sind, wir reißen alle Windkraftwerke nieder. Nieder mit diesen Windmühlen der Schande.“ Dass sie das öfter sagt, hat sie selbst bestätigt (**Belegt**).
 2. **Linke und AfD:** Die Linke will große Wohnungskonzerne vergesellschaften, die AfD lehnt Enteignungen ab (**Belegt**).
 3. **Eigentum:** Windräder gehören überwiegend Firmen, Privatleuten und Landwirten, nicht dem Staat. Ein erzwungener Abriss wäre ein Eingriff ins Eigentum mit Entschädigungsfolgen (**Belegt**). Einschränkung: Auch kommunale Stadtwerke betreiben Windparks.
-4. **Die Schwachstelle ist der Titel:** Von „Enteignungsplänen der AfD“ zu sprechen, geht weiter als die Belege. Im Wahlprogramm steht nur, den weiteren Ausbau zu stoppen und das EEG abzuschaffen, kein Abriss bestehender Anlagen. Weidel hat ihre Rede hinterher selbst unterschiedlich ausgelegt (nur Reinhardswald, Einzelprüfung), aber auch nachgelegt („Weg damit!“). Der Vorwurf trifft Weidels Rhetorik, einen beschlossenen Plan der Partei gibt es nicht (**Teilweise belegt**).
+4. **Die Schwachstelle ist der Titel:** Von „Enteignungsplänen der AfD“ zu sprechen, geht weiter als die Belege. Im Wahlprogramm steht nur, den weiteren Ausbau zu stoppen und das EEG abzuschaffen, kein Abriss bestehender Anlagen. Weidel hat ihre Rede hinterher selbst unterschiedlich ausgelegt (nur Reinhardswald, Einzelprüfung), aber auch nachgelegt („Weg damit!“). Der Vorwurf trifft Weidels Rhetorik, einen beschlossenen Plan der Partei belegen die Quellen nicht (**Irreführend / Kontext fehlt**).
 
 ## Zur Einordnung
 

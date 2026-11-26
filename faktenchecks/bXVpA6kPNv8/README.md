@@ -36,3 +36,5 @@ Eine vollständige Prüfung von Originalton, Grafiken, Einspielern, Musik und Sc
 Faktenindex, Ampel und Zählwerte entstehen ausschließlich durch die gemeinsamen Projektmodule. Wiederholungen werden zusammengeführt. Zurückgewiesene Fremdbehauptungen zu Gesundheit und Insekten zählen nicht gegen das Video; übernommene Brandbeispiele werden normal berücksichtigt. Die Bedeutung der Aussagen wurde ohne Zielampel nach ihrer Argumentationsrolle eingeschätzt und unabhängig kontrolliert.
 
 Offene Punkte betreffen die vollständige Brandzählung, den aktuellen bundesweiten Kenntnisstand zu ausgelösten Waldbränden, die Grundlage der 7.500-Haushalte-Prognose und historische Forschungs-/BGR-Angaben. Offene Recherche wird nicht als Widerlegung behandelt. Separate Darstellungsbeobachtungen bleiben KI-Vorschläge ohne Einfluss auf den Faktenindex.
+
+**Einzelnachprüfung (Kai, 26.11.2026):** Die vier früheren Teilurteile wurden am Erstellerskript, Originalstudien, dem DLR-Bericht und einschlägigen Waldschutzquellen geprüft. Die Aussage zum Ausschluss bestimmter Wälder steht jetzt separat als A0049. Maßgeblich sind die aktualisierten Einträge und ihre dokumentierten Grenzen.

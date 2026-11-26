@@ -14,11 +14,11 @@ Quellen: V001, Q01, Q09, Q11.
 
 ## mbjI4fryvVU-A0002
 
-**Abgeschlossen · Teilweise belegt · 0:34–0:46**
+**Offen · 0:34–0:46**
 
-Der Hof deckt seinen Strombedarf überwiegend aus eigener Erzeugung und steuert ihn per Software.
+Der gezeigte Hof bezieht für den laufenden Betrieb meistens Strom aus eigener Erzeugung.
 
-Der beteiligte Fördergeber dokumentiert bereits für 2024 ein Energiemanagementsystem auf Prinsenʼs Hof mit PV, Vergärer, Windrad und Containerspeicher. Der Zusammenhang von eigener Erzeugung, Speicher und Software ist konkret gestützt. Die darüber hinaus behauptete überwiegende Eigenversorgung ist ohne Erzeugungs-, Bezugs- und Verbrauchszeitreihe nicht quantitativ nachgerechnet; eine Jahresbilanz oder die Bezeichnung energieneutral wäre dafür allein kein Nachweis.
+Im Original geht es zunächst um den Melkroboter und den üblichen Hofbetrieb; der Beitrag nennt zugleich Netzbezug bei Engpässen. Der Fördergeber belegt Erzeugungsanlagen, Speicher und Managementsystem. Ohne getrennte zeitliche Messwerte für Eigenerzeugung, Netzbezug und Verbraucher lässt sich die behauptete überwiegende Eigendeckung nicht bestimmen. Die unabhängig prüfbare Softwaresteuerung steht in A0024.
 
 Quellen: V001, Q01, Q09.
 
@@ -54,13 +54,13 @@ Quellen: V001, Q06.
 
 ## mbjI4fryvVU-A0006
 
-**Abgeschlossen · Teilweise belegt · 2:15–2:23**
+**Abgeschlossen · Irreführend / Kontext fehlt · 2:15–2:23**
 
 Die Niederlande haben weltweit die meisten Solaranlagen pro Einwohner.
 
-Der vor dem Video verfügbare IEA-PVPS-Vergleich führt die Niederlande bei installierter PV-Leistung pro Kopf an. Er zählt keine Anlagenstücke; außerdem gilt der Vergleich für den berichteten Datenstand.
+Der Interviewpartner nennt die meisten Solaranlagen pro Einwohner und geht unmittelbar zu Gigawatt über. Der zeitgenössische IEA-PVPS-Bericht führt die Niederlande für Ende 2024 bei PV-Nennleistung je Einwohner an, nicht bei der Stückzahl von Anlagen. Der neuere Bericht für Ende 2025 führt Australien mit 1.629 W vor den Niederlanden mit 1.601 W; ob diese Veröffentlichung beim Upload bereits verfügbar war, ist nicht belegt. Ohne Maß und Bezugsjahr ist ein dauerhafter Spitzenplatz bei der Anlagenanzahl nicht aus dem Vergleich ableitbar.
 
-Quellen: V001, Q05.
+Quellen: V001, Q05, [IEA PVPS 2026](https://iea-pvps.org/wp-content/uploads/2026/04/Snapshot-of-Global-PV-Markets-2026.pdf).
 
 ## mbjI4fryvVU-A0007
 
@@ -74,11 +74,11 @@ Quellen: V001, Q04.
 
 ## mbjI4fryvVU-A0008
 
-**Abgeschlossen · Teilweise belegt · 2:25–2:30**
+**Abgeschlossen · Irreführend / Kontext fehlt · 2:25–2:30**
 
 In Spitzenzeiten wird nur etwa die Hälfte dieser 30 Gigawatt benötigt.
 
-TenneT beziffert den landesweiten Spitzenbedarf Ende 2025 auf rund 19 GW. Das liegt deutlich unter 30 GW installierter PV-Nennleistung, aber über der mit der Hälfte nahegelegten Größe von 15 GW. Zudem sind Nennleistung und zeitgleiche tatsächliche Einspeisung verschieden. Welche Spitzenzeiten der O-Ton meint, bleibt ohne datierten Lastgang unklar; die grobe Überschussproblematik ist gestützt, der genaue Vergleich nicht.
+Die rund 30 GW entsprechen in der Größenordnung der PV-Nennleistung; CBS bezifferte den niederländischen Gesamtbestand Ende 2024 auf 28,6 GW. TenneT schrieb Ende 2025 von rund 19 GW landesweiter Spitzenlast: etwa 63 % von 30 GW, nicht nahe 15 GW. Außerdem ist die Nennleistung kein Messwert für die gleichzeitige Einspeisung. Der O-Ton legt keine konkrete Stunde fest; die allgemeine Überschussproblematik bleibt plausibel.
 
 Quellen: V001, Q04, Q12.
 
@@ -104,11 +104,11 @@ Quellen: V001, Q06, Q08.
 
 ## mbjI4fryvVU-A0011
 
-**Abgeschlossen · Teilweise belegt · 3:00–3:08**
+**Abgeschlossen · Belegt · 3:00–3:08**
 
-Utrecht beansprucht eine Pionierrolle für groß angelegtes bidirektionales Carsharing.
+Utrecht hat ein öffentliches groß angelegtes AC-V2G-Carsharing-System als europäisches Pionierprojekt gestartet.
 
-Der im O-Ton nicht geografisch präzisierte Pionieranspruch wird von den Projektpartnern für das konkrete öffentliche AC-V2G-Carsharing-System in Europa erhoben. Das bestätigt den eng umrissenen Projektanspruch, nicht einen unabhängigen Weltvergleich aller V2G-Formate.
+Die Projektpartner samt Stadt meldeten Europas ersten Dienst dieser konkreten Art im Juni 2025. Zum Start waren 50 Renault 5 verfügbar; 500 Fahrzeuge wurden als Ausbauziel genannt. Eine weltweite Rangliste aller älteren Pilotformen oder ein Nachweis, dass die 500 schon beim Start betrieben wurden, folgt daraus nicht.
 
 Quellen: V001, Q02.
 
@@ -144,11 +144,11 @@ Quellen: V001, Q06, Q07.
 
 ## mbjI4fryvVU-A0015
 
-**Abgeschlossen · Teilweise belegt · 3:39–3:47**
+**Abgeschlossen · Irreführend / Kontext fehlt · 3:39–3:47**
 
 Mit einer solchen Batterieladung lassen sich etwa 400 bis 500 Kilometer fahren.
 
-Die relevante 52-kWh-Renault 5-Variante wurde vor dem Video mit bis 410 km WLTP angeboten.400 km passen zur Normgrößenordnung; 500 km sind mit dieser Modellangabe nicht nachgewiesen. Es wird dem Sprecher keine von ihm nicht gegebene Alltagsgarantie unterstellt.
+Der O-Ton stellt 400 bis 500 km als Reichweite der Batterie im gezeigten Zusammenhang dar. Renault spezifiziert die bidirektionale 52-kWh-Variante des gezeigten Modells mit bis 410 km WLTP. Der untere Teil passt also zur Normgröße; 500 km sind keine ausgewiesene Normreichweite. Dem Interview wird weder eine individuelle Alltagsgarantie noch eine Behauptung technischer Unmöglichkeit zugeschrieben.
 
 Quellen: V001, Q07.
 
@@ -184,11 +184,11 @@ Quellen: V001.
 
 ## mbjI4fryvVU-A0019
 
-**Abgeschlossen · Teilweise belegt · 4:37–4:44**
+**Offen · 4:37–4:44**
 
 Das Reservierungssystem stellt zuverlässig ausreichend geladene Autos bereit.
 
-MyWheels beschreibt ausdrücklich die Reservierung per App und sagt ausreichend geladene Fahrzeuge zur gebuchten Abfahrtszeit zu. Das bestätigt die geplante Betriebsfunktion. Eine öffentlich ausgewertete Quote erfolgreicher Bereitstellungen, Ausfälle und Mindestreserven liegt hier nicht vor; die undatierte aktuelle Anbieterbeschreibung ist außerdem kein unabhängiger Nachweis zuverlässigen Betriebs zum Videodatum.
+Die Sprecherin beschreibt ausreichend geladene Fahrzeuge ausdrücklich als zuverlässig vom Buchungssystem sichergestellt. MyWheels bestätigt dieselbe Funktion, empfiehlt für eine volle Batterie bei Langstrecke aber eine Reservierung mindestens zwei Stunden vorher. Das ist eine Betriebsbeschreibung, kein Datensatz über tatsächliche Verfügbarkeit und Ausfälle zur damaligen Zeit. Einzelne gezeigte Nutzungen ersetzen keinen Zuverlässigkeitsnachweis.
 
 Quellen: V001, Q02, Q13.
 
@@ -231,3 +231,13 @@ Auf dem Hof werden Melkroboter eingesetzt.
 Bei der direkten Originalbildprüfung um 00:32 ist eine Kuh in einer automatisierten Melkstation mit der zugehörigen Mechanik zu sehen. Der beteiligte Fördergeber LTO Noord dokumentiert die Anschaffung eines Melkroboters auf genau diesem Hof zusätzlich im Rückblick. Damit ist die konkrete Geräteangabe gestützt; daraus folgt keine Aussage über Effizienz oder Energieverbrauch der Anlage.
 
 Quellen: V001, Q01, Q10.
+
+## mbjI4fryvVU-A0024
+
+**Abgeschlossen · Belegt · 0:34–0:46**
+
+Der gezeigte Milchviehhof steuert Erzeugung und Speicher mit einem digitalen Energiemanagementsystem.
+
+Der beteiligte Fördergeber LTO Noord dokumentiert im Jahresbericht 2024 das Energiemanagementsystem bei Arjan Prinsen und die Verbindung mit PV, Vergärer, Windrad und Akkus. Der Fallleitfaden des Gelders Energieakkoord bestätigt die Nutzung von PV-Strom und Batteriespeicher. Diese Technik ist getrennt von der nicht unabhängig nachgewiesenen überwiegenden Eigendeckung (A0002) prüfbar.
+
+Quellen: V001, Q01, Q09.

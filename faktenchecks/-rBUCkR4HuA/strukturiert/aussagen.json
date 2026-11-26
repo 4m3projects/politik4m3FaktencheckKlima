@@ -7,7 +7,7 @@
     "asOf": "2026-11-22",
     "durationSeconds": 4191,
     "coverageNote": "Deutsche Originalcaptions über die gesamte Laufzeit gelesen; Sachbehauptungen, Selbstauskünfte, Wertungen und Prognosen getrennt. Die berechnete Abdeckung bezieht sich auf den erfassten Bestand. Ausschließlich eingeblendete Aussagen und Originalton sind nicht lückenlos kontrolliert.",
-    "researchNote": "Gezielte Wissenssuche, Primärquellen und Gegenrecherche. Der Status bleibt Teilbestand geprüft; Originalton, alle kurzzeitigen Einblendungen und nicht entscheidbare Einzelbezüge bleiben ausdrücklich offen. Redaktionelle Nachkontrolle trennte Zukunftsappell, politische Tatsachenbehauptung, Buchautorenschaft und private Anekdote; keine Bewertung eines erfundenen stärkeren Aussagegehalts. Nachprüfung am 22.11.2026: 16 zuvor offene Sachfragen anhand neu gelesener Originalquellen eingeordnet; übrige Fragen bleiben offen. Kein neuer vollständiger Hör-/Bildabgleich. Bestehende abgeschlossene Urteile, Gewichte und Kontrollvermerke unverändert. Weitere Anschlussprüfung: Heizölpreis aus der Oktober-Originaltabelle und institutionelle Solarforschung in Jülich belegt; finanzierte Interessenvertretung mit ausdrücklich begrenztem Medienbezug teilweise belegt. Übrige offene Fragen nicht für eine Ampelfarbe abgeschlossen."
+    "researchNote": "Gezielte Wissenssuche, Primärquellen und Gegenrecherche. Der Status bleibt Teilbestand geprüft; Originalton, alle kurzzeitigen Einblendungen und nicht entscheidbare Einzelbezüge bleiben ausdrücklich offen. Redaktionelle Nachkontrolle trennte Zukunftsappell, politische Tatsachenbehauptung, Buchautorenschaft und private Anekdote; keine Bewertung eines erfundenen stärkeren Aussagegehalts. Nachprüfung am 22.11.2026: 16 zuvor offene Sachfragen anhand neu gelesener Originalquellen eingeordnet; übrige Fragen bleiben offen. Kein neuer vollständiger Hör-/Bildabgleich. Bestehende abgeschlossene Urteile, Gewichte und Kontrollvermerke unverändert. Weitere Anschlussprüfung: Heizölpreis aus der Oktober-Originaltabelle und institutionelle Solarforschung in Jülich belegt; finanzierte Interessenvertretung mit ausdrücklich begrenztem Medienbezug teilweise belegt. Übrige offene Fragen nicht für eine Ampelfarbe abgeschlossen. Kai (26.11.2026): bisherige Teilurteile nachgetragen, soweit der genaue Aussagekontext in der offiziellen Podcastfassung erkennbar ist. Nicht als neue YouTube-Tonprüfung ausgewiesen. Kai (26.11.2026): bisherige Teilurteile nachgetragen, soweit der genaue Aussagekontext in der offiziellen Podcastfassung erkennbar ist. Nicht als neue YouTube-Tonprüfung ausgewiesen. Kai (26.11.2026): 1 alte Teilurteile anhand der originalen automatischen YouTube-Textspur und der jeweiligen Sachquellen einzeln erneut geprüft; kein Ton- oder Bildvollabgleich."
   },
   "speakers": [
     {
@@ -536,6 +536,118 @@
       "kind": "Primärquelle",
       "accessedOn": "2026-11-22",
       "accessBasis": "Originalquelle in dieser Nachprüfung direkt geöffnet und die genannten Abschnitte gelesen."
+    },
+    {
+      "id": "WP",
+      "title": "Die Wattstunde: offizielles Transkript der Folge #13",
+      "url": "https://die-wattstunde.podigee.io/13-13-ich-habe-keine-panik-vor-atom-ranga-yogeshwar",
+      "details": "Vollständig bereitgestellte Textspur der Podcastfassung mit Zeitmarken, nicht YouTube-Audioprüfung.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Offizielles Podcasttranskript (textlich, keine YouTube-Tonprüfung)."
+    },
+    {
+      "id": "WF",
+      "title": "Élysée: Rede zur Kernindustrie in Le Creusot",
+      "url": "https://www.elysee.fr/emmanuel-macron/2020/12/08/deplacement-du-president-emmanuel-macron-sur-le-site-industriel-de-framatome",
+      "details": "08.12.2020; französische politische Einordnung ziviler Kernindustrie und strategischer Programme.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Passage der amtlichen bzw. fachlichen Originalquelle gelesen."
+    },
+    {
+      "id": "WD",
+      "title": "DPMA: Jahresbericht, Patent und Fernfahrt des Motorwagens",
+      "url": "https://galerie.dpma.de/digitaler_jahresbericht/2022/jb22_en/patents.html",
+      "details": "Patent von 1886 und Bertha Benz’ Fahrt 1888 von Mannheim nach Pforzheim.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Passage der amtlichen bzw. fachlichen Originalquelle gelesen."
+    },
+    {
+      "id": "WS",
+      "title": "Fraunhofer ISE: Photovoltaics Report",
+      "url": "https://www.ise.fraunhofer.de/de/veroeffentlichungen/studien/photovoltaics-report.html",
+      "details": "Version Juli 2026: kommerzielle Siliziummodule erreichen knapp 25 % Effizienz.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Passage der amtlichen bzw. fachlichen Originalquelle gelesen."
+    },
+    {
+      "id": "WA",
+      "title": "Umweltbundesamt: Ausstieg aus fossilen Brennstoffen schützt vor Energiekrisen",
+      "url": "https://www.umweltbundesamt.de/themen/ausstieg-aus-fossilen-brennstoffen-schuetzt-vor",
+      "details": "02.06.2026: heimische Erneuerbare können zusammen mit Elektrifizierung und Einsparung die fossile Importabhängigkeit mindern.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Passage der amtlichen bzw. fachlichen Originalquelle gelesen."
+    },
+    {
+      "id": "WN",
+      "title": "Robertson et al.: Negativity drives online news consumption",
+      "url": "https://doi.org/10.1038/s41562-023-01538-4",
+      "details": "22.743 randomisierte Titeltests: negative Wörter erhöhten bei vergleichbaren Überschriften die Klickrate.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Passage der amtlichen bzw. fachlichen Originalquelle gelesen."
+    },
+    {
+      "id": "WV",
+      "title": "Ranga Yogeshwar: Eigener Lebenslauf",
+      "url": "https://yogeshwar.de/?p=374",
+      "details": "Journalistische Arbeit ab 1983; 1987 Wechsel in feste WDR-Redaktion. Kein Datum des ersten Fernsehbeitrags.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Passage der amtlichen bzw. fachlichen Originalquelle gelesen."
+    },
+    {
+      "id": "WB",
+      "title": "bpb: Das duale Rundfunksystem",
+      "url": "https://www.bpb.de/themen/medien-journalismus/deutsche-fernsehgeschichte-in-ost-und-west/245878/das-duale-rundfunksystem/",
+      "details": "Beginn der privaten Ausstrahlung in Deutschland 1984.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Passage der amtlichen bzw. fachlichen Originalquelle gelesen."
+    },
+    {
+      "id": "WE",
+      "title": "VDIK: KBA-basierte Neuzulassungen September 2026",
+      "url": "https://www.vdik.de/2026/internationale-hersteller-verdoppeln-zulassungsanteil-in-rekord-bev-markt/",
+      "details": "34,5 % BEV; 45,3 % BEV plus Plug-in-Hybride.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Passage der amtlichen bzw. fachlichen Originalquelle gelesen."
+    },
+    {
+      "id": "WM",
+      "title": "Destatis: Mieteranteil, EU-SILC",
+      "url": "https://www.destatis.de/Europa/DE/Thema/Bevoelkerung-Arbeit-Soziales/Soziales-Lebensbedingungen/Mieteranteil.html",
+      "details": "Deutschland 2025: 52,8 % der Bevölkerung wohnen zur Miete. Das ist keine Verteilung der Förderzahlungen.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Passage der amtlichen bzw. fachlichen Originalquelle gelesen."
+    },
+    {
+      "id": "WK",
+      "title": "KfW-Energiewendebarometer",
+      "url": "https://www.kfw.de/%C3%9Cber-die-KfW/KfW-Research/KfW-Energiewendebarometer.html",
+      "details": "Repräsentative Teilnahme an Technologien nach Einkommen und Wohnverhältnis; keine Vollstatistik tatsächlich bewilligter Heizungszuschüsse.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Passage der amtlichen bzw. fachlichen Originalquelle gelesen."
+    },
+    {
+      "id": "WH",
+      "title": "Heat Pumps Watch: Installationskosten im europäischen Vergleich",
+      "url": "https://heatpumpswatch.org/wp-content/uploads/2026/02/13_18-Installationskosten-im-europaischen-Vergleich-HPW-Blogserie_r2.pdf",
+      "details": "S. 2, Tabelle 1: Großbritannien, Niederlande und Deutschland, Einfamilienhausbestand und Luft-Wasser-Wärmepumpe 8–10 kW.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Passage der amtlichen bzw. fachlichen Originalquelle gelesen."
+    },
+    {
+      "id": "WW",
+      "title": "WDR: Sondergenehmigung für Filmaufnahmen in Fukushima",
+      "url": "https://www1.wdr.de/unternehmen/der-wdr/unternehmen/yogeshwarfukushima116.html",
+      "details": "Eigene Dokumentation der Produzentin zur TEPCO-Drehgenehmigung, ergänzt die präzise Einordnung als erstes ausländisches Team in Q42.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Passage der amtlichen bzw. fachlichen Originalquelle gelesen."
+    },
+    {
+      "id": "KA-EIA-TWH",
+      "title": "EIA Electric Power Annual, Tabelle 1.1",
+      "url": "https://www.eia.gov/electricity/annual/table.php?t=epa_01_01.html",
+      "details": "Erzeugung 2025/2024 in MWh, inkl. gesonderter Schätzung für kleine Photovoltaikanlagen.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalquelle an der angegebenen Fundstelle geprüft."
     }
   ],
   "claims": [
@@ -946,10 +1058,10 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Aufmerksamkeitsökonomie verschärfe die gesellschaftliche Polarisierung.",
-      "reason": "Experimentelle Forschung stützt, dass die Auswahl parteifeindlicher Inhalte auf X affektive Polarisierung beeinflussen kann. Ein YouTube-Experiment findet dagegen begrenzte kurzfristige Effekte auf politische Einstellungen. Der Mechanismus ist plausibel und für bestimmte Kontexte kausal gestützt; ein gleicher gesamtgesellschaftlicher Effekt sämtlicher Medien und Geschäftsmodelle ist damit nicht nachgewiesen.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "verdict": "Belegt",
+      "description": "Zuspitzung und negative Inhalte können online mehr Aufmerksamkeit bekommen; konfliktbetonte Empfehlungen können Polarisierung verstärken.",
+      "reason": "Im Podcast wird die Wirkung modal und nicht als unvermeidliches Gesetz jeder Mediennutzung dargestellt. Randomisierte Tests bei Upworthy belegen höhere Klicks für negativere Überschriften. Experimente zu Empfehlungen stützen für ausgewählte Inhalte auf X einen Effekt auf affektive Polarisierung, während ein YouTube-Experiment die Plattformübertragbarkeit begrenzt. Mehr Aufmerksamkeit ist nicht dieselbe Messgröße wie gesellschaftliche Polarisierung.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Kai (26.11.2026): Abgleich mit offiziellem Podcasttranskript der gleichen Folge und Sachquellen; keine neue YouTube-Tonprüfung.",
       "occurrences": [
         {
           "startSeconds": 479,
@@ -976,6 +1088,14 @@
         {
           "sourceId": "Q34",
           "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "WP",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
+        },
+        {
+          "sourceId": "WN",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
         }
       ],
       "research": {
@@ -997,6 +1117,19 @@
               "Q34"
             ],
             "result": "Experimentelle Forschung stützt, dass die Auswahl parteifeindlicher Inhalte auf X affektive Polarisierung beeinflussen kann. Ein YouTube-Experiment findet dagegen begrenzte kurzfristige Effekte auf politische Einstellungen. Der Mechanismus ist plausibel und für bestimmte Kontexte kausal gestützt; ein gleicher gesamtgesellschaftlicher Effekt sämtlicher Medien und Geschäftsmodelle ist damit nicht nachgewiesen."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Offizielle Podcastfassung, Aussageumfang und Primärquellen je Einzelfall abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q33",
+              "Q34",
+              "WP",
+              "WN"
+            ],
+            "result": "Im Podcast wird die Wirkung modal und nicht als unvermeidliches Gesetz jeder Mediennutzung dargestellt. Randomisierte Tests bei Upworthy belegen höhere Klicks für negativere Überschriften. Experimente zu Empfehlungen stützen für ausgewählte Inhalte auf X einen Effekt auf affektive Polarisierung, während ein YouTube-Experiment die Plattformübertragbarkeit begrenzt. Mehr Aufmerksamkeit ist nicht dieselbe Messgröße wie gesellschaftliche Polarisierung."
           }
         ]
       },
@@ -1032,20 +1165,35 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Aufmerksamkeitsökonomie verschärfe die gesellschaftliche Polarisierung."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Zuspitzung und negative Inhalte können online mehr Aufmerksamkeit bekommen; konfliktbetonte Empfehlungen können Polarisierung verstärken."
+            },
+            "reason": "Im Podcast wird die Wirkung modal und nicht als unvermeidliches Gesetz jeder Mediennutzung dargestellt. Randomisierte Tests bei Upworthy belegen höhere Klicks für negativere Überschriften. Experimente zu Empfehlungen stützen für ausgewählte Inhalte auf X einen Effekt auf affektive Polarisierung, während ein YouTube-Experiment die Plattformübertragbarkeit begrenzt. Mehr Aufmerksamkeit ist nicht dieselbe Messgröße wie gesellschaftliche Polarisierung."
           }
         ]
-      },
-      "shortReason": "Experimente zeigen Polarisierungseffekte in bestimmten Kontexten, aber keinen einheitlichen Effekt sämtlicher Medien."
+      }
     },
     {
       "id": "-rBUCkR4HuA-A0008",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "status": "Offen",
+      "verdict": null,
       "description": "Zu Beginn seiner Fernseharbeit gab es drei Programme, kein Privatfernsehen und kein Internet.",
-      "reason": "Der Rückblick auf eine deutlich kleinere Fernsehlandschaft ist im Kern zutreffend. Die Vita nennt journalistische Arbeit ab 1983 und den WDR ab 1987; private deutsche Sender starteten bereits 1984. Technische Computernetze existierten schon vor dem späteren Massenmedium Web. Ohne genaue Datierung seines ersten Fernsehbeitrags lassen sich die drei Teilangaben nicht pauschal auf den WDR-Eintritt übertragen.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "reason": "Yogeshwar bezieht sich auf den Beginn seiner Fernseharbeit, nicht ausdrücklich auf den Eintritt beim WDR im Jahr 1987. Sein Lebenslauf nennt journalistische Arbeit seit 1983 und einen späteren Wechsel zum WDR, aber kein belastbares Datum des ersten Fernsehbeitrags. Privatfernsehen startete 1984, und technische Netze bestanden schon vor dem verbreiteten Web. Ohne genauen Zeitpunkt und präzise Definition von Internet ist die Dreierkombination nicht bestätigt.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Kai (26.11.2026): Abgleich mit offiziellem Podcasttranskript der gleichen Folge und Sachquellen; keine neue YouTube-Tonprüfung.",
       "occurrences": [
         {
           "startSeconds": 638,
@@ -1076,6 +1224,18 @@
         {
           "sourceId": "Q36",
           "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "WP",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
+        },
+        {
+          "sourceId": "WV",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
+        },
+        {
+          "sourceId": "WB",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
         }
       ],
       "research": {
@@ -1100,6 +1260,21 @@
               "Q36"
             ],
             "result": "Der Rückblick auf eine deutlich kleinere Fernsehlandschaft ist im Kern zutreffend. Die Vita nennt journalistische Arbeit ab 1983 und den WDR ab 1987; private deutsche Sender starteten bereits 1984. Technische Computernetze existierten schon vor dem späteren Massenmedium Web. Ohne genaue Datierung seines ersten Fernsehbeitrags lassen sich die drei Teilangaben nicht pauschal auf den WDR-Eintritt übertragen."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Offizielle Podcastfassung, Aussageumfang und Primärquellen je Einzelfall abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q01",
+              "Q35",
+              "Q36",
+              "WP",
+              "WV",
+              "WB"
+            ],
+            "result": "Yogeshwar bezieht sich auf den Beginn seiner Fernseharbeit, nicht ausdrücklich auf den Eintritt beim WDR im Jahr 1987. Sein Lebenslauf nennt journalistische Arbeit seit 1983 und einen späteren Wechsel zum WDR, aber kein belastbares Datum des ersten Fernsehbeitrags. Privatfernsehen startete 1984, und technische Netze bestanden schon vor dem verbreiteten Web. Ohne genauen Zeitpunkt und präzise Definition von Internet ist die Dreierkombination nicht bestätigt."
           }
         ]
       },
@@ -1135,10 +1310,28 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Zu Beginn seiner Fernseharbeit gab es drei Programme, kein Privatfernsehen und kein Internet."
+            },
+            "next": {
+              "status": "Offen",
+              "verdict": null,
+              "description": "Zu Beginn seiner Fernseharbeit gab es drei Programme, kein Privatfernsehen und kein Internet."
+            },
+            "reason": "Yogeshwar bezieht sich auf den Beginn seiner Fernseharbeit, nicht ausdrücklich auf den Eintritt beim WDR im Jahr 1987. Sein Lebenslauf nennt journalistische Arbeit seit 1983 und einen späteren Wechsel zum WDR, aber kein belastbares Datum des ersten Fernsehbeitrags. Privatfernsehen startete 1984, und technische Netze bestanden schon vor dem verbreiteten Web. Ohne genauen Zeitpunkt und präzise Definition von Internet ist die Dreierkombination nicht bestätigt."
           }
         ]
       },
-      "shortReason": "Privatfernsehen startete 1984 vor seinem WDR-Eintritt 1987; technische Netze und späteres Masseninternet sind zu unterscheiden."
+      "openQuestions": [
+        "Wann begann Yogeshwar nachweislich mit eigener Fernseharbeit, und bezieht sich Internet im Satz auf Netzinfrastruktur oder verbreiteten privaten Webzugang?"
+      ]
     },
     {
       "id": "-rBUCkR4HuA-A0009",
@@ -1196,10 +1389,10 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Im September 2026 waren fast 40% der deutschen Autoverkäufe elektrisch.",
-      "reason": "Zeitlich passende VDA/KBA-Daten ergeben 34,5% reine BEV oder 45,3% mit PHEV. Der starke Trend stimmt; die genannte Quote und Kategorie sind unpräzise. Belegte Messgröße sind Neuzulassungen.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "description": "Im September 2026 seien in Deutschland fast 40 % der verkauften Neuwagen elektrisch gewesen.",
+      "reason": "Im Podcast ist der Vormonat zur Oktober-Aufzeichnung und ein nicht genauer definierter Elektroanteil gemeint. Amtliche Neuzulassungen zeigen 34,5 % reine Batterieautos beziehungsweise 45,3 % einschließlich Plug-in-Hybriden. Keine der naheliegenden Abgrenzungen bildet die suggerierte knapp unter 40 % liegende Quote ab; Zulassung und Verkauf sind zudem nicht gleich. Der starke Zulassungsanstieg bleibt belegt.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Kai (26.11.2026): Abgleich mit offiziellem Podcasttranskript der gleichen Folge und Sachquellen; keine neue YouTube-Tonprüfung.",
       "occurrences": [
         {
           "startSeconds": 787,
@@ -1222,6 +1415,14 @@
         {
           "sourceId": "Q02",
           "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "WP",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
+        },
+        {
+          "sourceId": "WE",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
         }
       ],
       "research": {
@@ -1235,10 +1436,21 @@
               "Q02"
             ],
             "result": "Zeitlich passende VDA/KBA-Daten ergeben 34,5% reine BEV oder 45,3% mit PHEV. Der starke Trend stimmt; die genannte Quote und Kategorie sind unpräzise. Belegte Messgröße sind Neuzulassungen."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Offizielle Podcastfassung, Aussageumfang und Primärquellen je Einzelfall abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q02",
+              "WP",
+              "WE"
+            ],
+            "result": "Im Podcast ist der Vormonat zur Oktober-Aufzeichnung und ein nicht genauer definierter Elektroanteil gemeint. Amtliche Neuzulassungen zeigen 34,5 % reine Batterieautos beziehungsweise 45,3 % einschließlich Plug-in-Hybriden. Keine der naheliegenden Abgrenzungen bildet die suggerierte knapp unter 40 % liegende Quote ab; Zulassung und Verkauf sind zudem nicht gleich. Der starke Zulassungsanstieg bleibt belegt."
           }
         ]
       },
-      "shortReason": "September 2026: 34,5% reine BEV oder 45,3% mit Plug-in-Hybriden; die Kategorie muss benannt werden.",
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",
@@ -1271,9 +1483,26 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Im September 2026 waren fast 40% der deutschen Autoverkäufe elektrisch."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Im September 2026 seien in Deutschland fast 40 % der verkauften Neuwagen elektrisch gewesen."
+            },
+            "reason": "Im Podcast ist der Vormonat zur Oktober-Aufzeichnung und ein nicht genauer definierter Elektroanteil gemeint. Amtliche Neuzulassungen zeigen 34,5 % reine Batterieautos beziehungsweise 45,3 % einschließlich Plug-in-Hybriden. Keine der naheliegenden Abgrenzungen bildet die suggerierte knapp unter 40 % liegende Quote ab; Zulassung und Verkauf sind zudem nicht gleich. Der starke Zulassungsanstieg bleibt belegt."
           }
         ]
-      }
+      },
+      "shortReason": "Je nach Definition waren 34,5 % der Neuzulassungen reine E-Autos oder 45,3 % reine E-Autos und Plug-in-Hybride zusammen."
     },
     {
       "id": "-rBUCkR4HuA-A0011",
@@ -1893,10 +2122,10 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Energieförderung erreiche vor allem vermögendere Eigentümer; Mietende hätten schlechteren Zugang.",
-      "reason": "Eigentumsbezug und hoher Mietanteil stützen den strukturellen Punkt. KfW gewährt aber Einkommensboni; alle Empfänger als reich zu bezeichnen und die Verteilung zu quantifizieren ist nicht gedeckt.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "description": "Von der Energieförderung profitierten praktisch nur Wohlhabende; Mietende hätten schlechteren Zugang.",
+      "reason": "Die Aufzeichnung stützt die breite Gegenüberstellung zwischen Wohlhabenden und anderen. Mietende haben bei Eigentümer-Förderprogrammen keinen unmittelbaren Zugang, und die KfW-Daten zeigen ungleichen Technologiezugang nach Einkommen und Wohnverhältnis. Einkommensabhängige Zuschüsse gelten aber ausdrücklich auch für berechtigte Haushalte mit geringeren Einkommen. Die dokumentierten Unterschiede belegen keine fast ausschließliche Auszahlung an Wohlhabende.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Kai (26.11.2026): Abgleich mit offiziellem Podcasttranskript der gleichen Folge und Sachquellen; keine neue YouTube-Tonprüfung.",
       "occurrences": [
         {
           "startSeconds": 1431,
@@ -1923,6 +2152,18 @@
         {
           "sourceId": "Q04",
           "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "WP",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
+        },
+        {
+          "sourceId": "WM",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
+        },
+        {
+          "sourceId": "WK",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
         }
       ],
       "research": {
@@ -1937,10 +2178,23 @@
               "Q04"
             ],
             "result": "Eigentumsbezug und hoher Mietanteil stützen den strukturellen Punkt. KfW gewährt aber Einkommensboni; alle Empfänger als reich zu bezeichnen und die Verteilung zu quantifizieren ist nicht gedeckt."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Offizielle Podcastfassung, Aussageumfang und Primärquellen je Einzelfall abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q03",
+              "Q04",
+              "WP",
+              "WM",
+              "WK"
+            ],
+            "result": "Die Aufzeichnung stützt die breite Gegenüberstellung zwischen Wohlhabenden und anderen. Mietende haben bei Eigentümer-Förderprogrammen keinen unmittelbaren Zugang, und die KfW-Daten zeigen ungleichen Technologiezugang nach Einkommen und Wohnverhältnis. Einkommensabhängige Zuschüsse gelten aber ausdrücklich auch für berechtigte Haushalte mit geringeren Einkommen. Die dokumentierten Unterschiede belegen keine fast ausschließliche Auszahlung an Wohlhabende."
           }
         ]
       },
-      "shortReason": "Eigentum erleichtert den Zugang; Einkommensboni bestehen ebenfalls, eine vollständige Verteilungsanalyse fehlt.",
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",
@@ -1973,9 +2227,26 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Energieförderung erreiche vor allem vermögendere Eigentümer; Mietende hätten schlechteren Zugang."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Von der Energieförderung profitierten praktisch nur Wohlhabende; Mietende hätten schlechteren Zugang."
+            },
+            "reason": "Die Aufzeichnung stützt die breite Gegenüberstellung zwischen Wohlhabenden und anderen. Mietende haben bei Eigentümer-Förderprogrammen keinen unmittelbaren Zugang, und die KfW-Daten zeigen ungleichen Technologiezugang nach Einkommen und Wohnverhältnis. Einkommensabhängige Zuschüsse gelten aber ausdrücklich auch für berechtigte Haushalte mit geringeren Einkommen. Die dokumentierten Unterschiede belegen keine fast ausschließliche Auszahlung an Wohlhabende."
           }
         ]
-      }
+      },
+      "shortReason": "Eigentum und Einkommen beeinflussen den Zugang, aber einkommensschwächere Eigentümer können ausdrückliche Förderboni erhalten."
     },
     {
       "id": "-rBUCkR4HuA-A0020",
@@ -2065,10 +2336,10 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Wärmepumpen sind in Deutschland deutlich teurer als in NL oder UK.",
-      "reason": "Die RWTH-Analyse vergleicht zwei Angebote für eine 8-kW-Luft-Wasser-Wärmepumpe und findet einen deutlich höheren deutschen Endkundenpreis als im UK. Sie erläutert technische und marktbezogene Unterschiede und warnt vor repräsentativen Schlüssen aus Einzelangeboten. Der UK-Vergleich ist damit konkret gestützt; ein gleicher aktueller Marktvergleich mit den Niederlanden und die Ursache allein durch Förderung sind nicht nachgewiesen.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "verdict": "Belegt",
+      "description": "Vergleichbare installierte Luft-Wasser-Wärmepumpen im Einfamilienhausbestand waren in den untersuchten Daten in Deutschland deutlich teurer als in den Niederlanden oder Großbritannien.",
+      "reason": "Für vergleichbare 8–10-kW-Anlagen im Bestand einschließlich Einbau und Nebenkosten dokumentiert Heat Pumps Watch (2022–2025) 23.000–40.000+ Euro in Deutschland, 11.000–19.000 Euro in den Niederlanden und 10.000–14.000 Euro in Großbritannien. Das Gespräch nennt Preisunterschiede, keine verifizierbare Vollerhebung zum Aufnahmetag. Aus dem Vergleich folgt keine alleinige Ursache durch Förderung.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Kai (26.11.2026): Abgleich mit offiziellem Podcasttranskript der gleichen Folge und Sachquellen; keine neue YouTube-Tonprüfung.",
       "occurrences": [
         {
           "startSeconds": 1489,
@@ -2091,6 +2362,14 @@
         {
           "sourceId": "Q41",
           "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "WP",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
+        },
+        {
+          "sourceId": "WH",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
         }
       ],
       "research": {
@@ -2111,6 +2390,18 @@
               "Q41"
             ],
             "result": "Die RWTH-Analyse vergleicht zwei Angebote für eine 8-kW-Luft-Wasser-Wärmepumpe und findet einen deutlich höheren deutschen Endkundenpreis als im UK. Sie erläutert technische und marktbezogene Unterschiede und warnt vor repräsentativen Schlüssen aus Einzelangeboten. Der UK-Vergleich ist damit konkret gestützt; ein gleicher aktueller Marktvergleich mit den Niederlanden und die Ursache allein durch Förderung sind nicht nachgewiesen."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Offizielle Podcastfassung, Aussageumfang und Primärquellen je Einzelfall abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q41",
+              "WP",
+              "WH"
+            ],
+            "result": "Für vergleichbare 8–10-kW-Anlagen im Bestand einschließlich Einbau und Nebenkosten dokumentiert Heat Pumps Watch (2022–2025) 23.000–40.000+ Euro in Deutschland, 11.000–19.000 Euro in den Niederlanden und 10.000–14.000 Euro in Großbritannien. Das Gespräch nennt Preisunterschiede, keine verifizierbare Vollerhebung zum Aufnahmetag. Aus dem Vergleich folgt keine alleinige Ursache durch Förderung."
           }
         ]
       },
@@ -2146,10 +2437,25 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Wärmepumpen sind in Deutschland deutlich teurer als in NL oder UK."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Vergleichbare installierte Luft-Wasser-Wärmepumpen im Einfamilienhausbestand waren in den untersuchten Daten in Deutschland deutlich teurer als in den Niederlanden oder Großbritannien."
+            },
+            "reason": "Für vergleichbare 8–10-kW-Anlagen im Bestand einschließlich Einbau und Nebenkosten dokumentiert Heat Pumps Watch (2022–2025) 23.000–40.000+ Euro in Deutschland, 11.000–19.000 Euro in den Niederlanden und 10.000–14.000 Euro in Großbritannien. Das Gespräch nennt Preisunterschiede, keine verifizierbare Vollerhebung zum Aufnahmetag. Aus dem Vergleich folgt keine alleinige Ursache durch Förderung."
           }
         ]
-      },
-      "shortReason": "Ein RWTH-Vergleich stützt höhere deutsche Kosten gegenüber UK; ein repräsentativer aktueller Vergleich mit beiden Ländern fehlt."
+      }
     },
     {
       "id": "-rBUCkR4HuA-A0022",
@@ -2328,11 +2634,11 @@
       "id": "-rBUCkR4HuA-A0024",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Er durfte als erster Journalist frei in Fukushima drehen.",
-      "reason": "Der produzierende WDR bestätigt 2014 einen besonderen Erstzugang: Yogeshwars Team durfte als erstes ausländisches Reporterteam so frei und selbstständig im Reaktor drehen. Das stützt den Sachkern seiner Erinnerung. Der Beleg ist eine eigene Senderangabe und enger als die uneingeschränkte Behauptung, überhaupt der erste dort drehende Journalist gewesen zu sein.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "status": "Offen",
+      "verdict": null,
+      "description": "Yogeshwar sei der erste Journalist gewesen, der in Fukushima frei drehen durfte.",
+      "reason": "Der offizielle Wortlaut behauptet den ersten frei drehenden Journalisten, ohne das auf ausländische Teams zu beschränken. Der mitproduzierende WDR dokumentiert eine Sondergenehmigung und nennt das erste ausländische Reporterteam mit dieser Drehfreiheit. Das stützt den engeren Sachverhalt, belegt aber keine Priorität gegenüber allen japanischen Teams. Aus früheren geführten Besuchen folgt umgekehrt keine Widerlegung der besonderen Drehfreiheit.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Kai (26.11.2026): Abgleich mit offiziellem Podcasttranskript der gleichen Folge und Sachquellen; keine neue YouTube-Tonprüfung.",
       "occurrences": [
         {
           "startSeconds": 1652,
@@ -2355,6 +2661,14 @@
         {
           "sourceId": "Q42",
           "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "WP",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
+        },
+        {
+          "sourceId": "WW",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
         }
       ],
       "research": {
@@ -2375,6 +2689,18 @@
               "Q42"
             ],
             "result": "Der produzierende WDR bestätigt 2014 einen besonderen Erstzugang: Yogeshwars Team durfte als erstes ausländisches Reporterteam so frei und selbstständig im Reaktor drehen. Das stützt den Sachkern seiner Erinnerung. Der Beleg ist eine eigene Senderangabe und enger als die uneingeschränkte Behauptung, überhaupt der erste dort drehende Journalist gewesen zu sein."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Offizielle Podcastfassung, Aussageumfang und Primärquellen je Einzelfall abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q42",
+              "WP",
+              "WW"
+            ],
+            "result": "Der offizielle Wortlaut behauptet den ersten frei drehenden Journalisten, ohne das auf ausländische Teams zu beschränken. Der mitproduzierende WDR dokumentiert eine Sondergenehmigung und nennt das erste ausländische Reporterteam mit dieser Drehfreiheit. Das stützt den engeren Sachverhalt, belegt aber keine Priorität gegenüber allen japanischen Teams. Aus früheren geführten Besuchen folgt umgekehrt keine Widerlegung der besonderen Drehfreiheit."
           }
         ]
       },
@@ -2410,10 +2736,28 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Er durfte als erster Journalist frei in Fukushima drehen."
+            },
+            "next": {
+              "status": "Offen",
+              "verdict": null,
+              "description": "Yogeshwar sei der erste Journalist gewesen, der in Fukushima frei drehen durfte."
+            },
+            "reason": "Der offizielle Wortlaut behauptet den ersten frei drehenden Journalisten, ohne das auf ausländische Teams zu beschränken. Der mitproduzierende WDR dokumentiert eine Sondergenehmigung und nennt das erste ausländische Reporterteam mit dieser Drehfreiheit. Das stützt den engeren Sachverhalt, belegt aber keine Priorität gegenüber allen japanischen Teams. Aus früheren geführten Besuchen folgt umgekehrt keine Widerlegung der besonderen Drehfreiheit."
           }
         ]
       },
-      "shortReason": "Der WDR bestätigt das erste ausländische Reporterteam mit diesem freien Reaktordrehzugang, keinen uneingeschränkten Erstbesuch."
+      "openQuestions": [
+        "Gibt es unabhängig zugängliche Aufzeichnungen, die den Erstzugang mit freier Drehgenehmigung auch im Vergleich zu japanischen Journalisten dokumentieren?"
+      ]
     },
     {
       "id": "-rBUCkR4HuA-A0025",
@@ -2551,10 +2895,10 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Kernenergie ist sehr teuer und teurer als alle anderen Stromoptionen.",
-      "reason": "Fraunhofer stützt hohe Neubaukosten. Kostenbandbreiten anderer Technologien überlappen; pauschaler Vergleich einschließlich Bestand ist zu weit. Erzeugungskosten sind keine vollständigen Systemkosten.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "description": "Kernenergie sei beim Neubau viel teurer als jede andere Art der Stromerzeugung.",
+      "reason": "Das Gespräch betrifft den Neubau. Fraunhofer ISE kommt unter seinen Annahmen für neue Kernkraftwerke auf 13,6–49,0 ct/kWh, höher als Wind an Land und Freiflächen-PV. Die Bandbreiten neuer Gas- und Kohleanlagen überschneiden sich mit der Kernkraftspanne; auch Laufzeit, Finanzierung und Auslastung wirken stark. Hohe Kosten sind gestützt, der Vergleich mit ausnahmslos allen Alternativen ist zu weit.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Kai (26.11.2026): Abgleich mit offiziellem Podcasttranskript der gleichen Folge und Sachquellen; keine neue YouTube-Tonprüfung.",
       "occurrences": [
         {
           "startSeconds": 1728,
@@ -2577,6 +2921,10 @@
         {
           "sourceId": "Q05",
           "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "WP",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
         }
       ],
       "research": {
@@ -2590,10 +2938,20 @@
               "Q05"
             ],
             "result": "Fraunhofer stützt hohe Neubaukosten. Kostenbandbreiten anderer Technologien überlappen; pauschaler Vergleich einschließlich Bestand ist zu weit. Erzeugungskosten sind keine vollständigen Systemkosten."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Offizielle Podcastfassung, Aussageumfang und Primärquellen je Einzelfall abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q05",
+              "WP"
+            ],
+            "result": "Das Gespräch betrifft den Neubau. Fraunhofer ISE kommt unter seinen Annahmen für neue Kernkraftwerke auf 13,6–49,0 ct/kWh, höher als Wind an Land und Freiflächen-PV. Die Bandbreiten neuer Gas- und Kohleanlagen überschneiden sich mit der Kernkraftspanne; auch Laufzeit, Finanzierung und Auslastung wirken stark. Hohe Kosten sind gestützt, der Vergleich mit ausnahmslos allen Alternativen ist zu weit."
           }
         ]
       },
-      "shortReason": "Neue Kernkraft ist teuer; der Vergleich mit allen Technologien und Bestandsanlagen ist zu pauschal.",
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",
@@ -2626,9 +2984,26 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Kernenergie ist sehr teuer und teurer als alle anderen Stromoptionen."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Kernenergie sei beim Neubau viel teurer als jede andere Art der Stromerzeugung."
+            },
+            "reason": "Das Gespräch betrifft den Neubau. Fraunhofer ISE kommt unter seinen Annahmen für neue Kernkraftwerke auf 13,6–49,0 ct/kWh, höher als Wind an Land und Freiflächen-PV. Die Bandbreiten neuer Gas- und Kohleanlagen überschneiden sich mit der Kernkraftspanne; auch Laufzeit, Finanzierung und Auslastung wirken stark. Hohe Kosten sind gestützt, der Vergleich mit ausnahmslos allen Alternativen ist zu weit."
           }
         ]
-      }
+      },
+      "shortReason": "Der Neubau kann deutlich teurer sein als Wind und Solar, ist aber nicht in jeder Modellvariante teurer als jede Alternative."
     },
     {
       "id": "-rBUCkR4HuA-A0028",
@@ -2686,10 +3061,10 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Nuklear bewaffnete Staaten haben besondere Interessen an nuklearer Technologie.",
-      "reason": "Ein konkreter Zusammenhang ist für Großbritannien amtlich dokumentiert: Zivile und militärische Nuklearprogramme planen Fachkräfte und Fähigkeiten gemeinsam. Das stützt besondere industrie- und sicherheitspolitische Interessen. Es belegt weder dieselben Motive für sämtliche genannten Staaten noch, dass zivile Kernkraft nur für Atomwaffenstaaten sinnvoll wäre; die anschließende Bauprognose bleibt getrennt.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "verdict": "Belegt",
+      "description": "Für militärisch nuklear ausgerüstete Staaten kann die zivile Nuklearindustrie auch wegen gemeinsamer Industrie- und Fachkräfteinteressen eine Option bleiben.",
+      "reason": "Die britische Regierungsstrategie dokumentiert gemeinsame Fachkräfte- und Industrieplanung der zivilen und militärischen Nuklearbereiche. Frankreichs Präsident beschreibt die Verbindung der zivilen Industrie mit staatlichen strategischen Programmen ausdrücklich. Im Gespräch folgt eine eigenständige Bauprognose (A0028); es wird keine belastbare Aussage abgeleitet, nur Atomwaffenstaaten könnten zivile Reaktoren nutzen oder alle genannten Staaten hätten dasselbe Motiv.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Kai (26.11.2026): Abgleich mit offiziellem Podcasttranskript der gleichen Folge und Sachquellen; keine neue YouTube-Tonprüfung.",
       "occurrences": [
         {
           "startSeconds": 1736,
@@ -2712,6 +3087,14 @@
         {
           "sourceId": "Q43",
           "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "WP",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
+        },
+        {
+          "sourceId": "WF",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
         }
       ],
       "research": {
@@ -2732,6 +3115,18 @@
               "Q43"
             ],
             "result": "Ein konkreter Zusammenhang ist für Großbritannien amtlich dokumentiert: Zivile und militärische Nuklearprogramme planen Fachkräfte und Fähigkeiten gemeinsam. Das stützt besondere industrie- und sicherheitspolitische Interessen. Es belegt weder dieselben Motive für sämtliche genannten Staaten noch, dass zivile Kernkraft nur für Atomwaffenstaaten sinnvoll wäre; die anschließende Bauprognose bleibt getrennt."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Offizielle Podcastfassung, Aussageumfang und Primärquellen je Einzelfall abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q43",
+              "WP",
+              "WF"
+            ],
+            "result": "Die britische Regierungsstrategie dokumentiert gemeinsame Fachkräfte- und Industrieplanung der zivilen und militärischen Nuklearbereiche. Frankreichs Präsident beschreibt die Verbindung der zivilen Industrie mit staatlichen strategischen Programmen ausdrücklich. Im Gespräch folgt eine eigenständige Bauprognose (A0028); es wird keine belastbare Aussage abgeleitet, nur Atomwaffenstaaten könnten zivile Reaktoren nutzen oder alle genannten Staaten hätten dasselbe Motiv."
           }
         ]
       },
@@ -2767,10 +3162,25 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Nuklear bewaffnete Staaten haben besondere Interessen an nuklearer Technologie."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Für militärisch nuklear ausgerüstete Staaten kann die zivile Nuklearindustrie auch wegen gemeinsamer Industrie- und Fachkräfteinteressen eine Option bleiben."
+            },
+            "reason": "Die britische Regierungsstrategie dokumentiert gemeinsame Fachkräfte- und Industrieplanung der zivilen und militärischen Nuklearbereiche. Frankreichs Präsident beschreibt die Verbindung der zivilen Industrie mit staatlichen strategischen Programmen ausdrücklich. Im Gespräch folgt eine eigenständige Bauprognose (A0028); es wird keine belastbare Aussage abgeleitet, nur Atomwaffenstaaten könnten zivile Reaktoren nutzen oder alle genannten Staaten hätten dasselbe Motiv."
           }
         ]
-      },
-      "shortReason": "UK dokumentiert gemeinsame zivile und militärische Nuklearplanung; identische Motive aller genannten Staaten sind damit nicht belegt."
+      }
     },
     {
       "id": "-rBUCkR4HuA-A0030",
@@ -3214,11 +3624,11 @@
       "id": "-rBUCkR4HuA-A0035",
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
-      "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Größere Reaktoren erzeugen prozentual weniger Abfall.",
-      "reason": "IAEA beschreibt ungünstigere Brennstoffnutzung bestimmter SMR. Daraus folgt kein einheitliches Abfallverhältnis sämtlicher Reaktortypen.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "status": "Offen",
+      "verdict": null,
+      "description": "Im SMR-Abschnitt wird gefragt, ob ein größerer Reaktor anteilig weniger Abfall verursacht; eine pauschale Bestätigung ist nicht gesichert.",
+      "reason": "Das offizielle Podcasttranskript um 32:00 wiedergibt den Vergleich als Frage. Die Antwort unterscheidet Abfallarten beziehungsweise Wiederverwendung und enthält keine allgemeine Mengenangabe. Die Quelle zu Brennstoffnutzung einzelner Designs bestätigt keine universelle Abfallregel. Ohne Abgleich der an der Frage erkennbar holprigen ASR-Passage mit Wortlaut und Sprecherwechsel wird die Aussage keinem Sprecher als festgestellt zugerechnet.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Kai (26.11.2026): Abgleich mit offiziellem Podcasttranskript der gleichen Folge und Sachquellen; keine neue YouTube-Tonprüfung.",
       "occurrences": [
         {
           "startSeconds": 1919,
@@ -3241,6 +3651,10 @@
         {
           "sourceId": "Q07",
           "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "WP",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
         }
       ],
       "research": {
@@ -3254,10 +3668,20 @@
               "Q07"
             ],
             "result": "IAEA beschreibt ungünstigere Brennstoffnutzung bestimmter SMR. Daraus folgt kein einheitliches Abfallverhältnis sämtlicher Reaktortypen."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Offizielle Podcastfassung, Aussageumfang und Primärquellen je Einzelfall abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q07",
+              "WP"
+            ],
+            "result": "Das offizielle Podcasttranskript um 32:00 wiedergibt den Vergleich als Frage. Die Antwort unterscheidet Abfallarten beziehungsweise Wiederverwendung und enthält keine allgemeine Mengenangabe. Die Quelle zu Brennstoffnutzung einzelner Designs bestätigt keine universelle Abfallregel. Ohne Abgleich der an der Frage erkennbar holprigen ASR-Passage mit Wortlaut und Sprecherwechsel wird die Aussage keinem Sprecher als festgestellt zugerechnet."
           }
         ]
       },
-      "shortReason": "Das Abfallverhältnis hängt von Reaktordesign, Brennstoffnutzung und betrachteter Abfallgröße ab.",
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige normale Sachaussage; weder bloßes Beiwerk noch alleinige Hauptthese.",
@@ -3281,9 +3705,28 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Größere Reaktoren erzeugen prozentual weniger Abfall."
+            },
+            "next": {
+              "status": "Offen",
+              "verdict": null,
+              "description": "Im SMR-Abschnitt wird gefragt, ob ein größerer Reaktor anteilig weniger Abfall verursacht; eine pauschale Bestätigung ist nicht gesichert."
+            },
+            "reason": "Das offizielle Podcasttranskript um 32:00 wiedergibt den Vergleich als Frage. Die Antwort unterscheidet Abfallarten beziehungsweise Wiederverwendung und enthält keine allgemeine Mengenangabe. Die Quelle zu Brennstoffnutzung einzelner Designs bestätigt keine universelle Abfallregel. Ohne Abgleich der an der Frage erkennbar holprigen ASR-Passage mit Wortlaut und Sprecherwechsel wird die Aussage keinem Sprecher als festgestellt zugerechnet."
           }
         ]
-      }
+      },
+      "openQuestions": [
+        "Besteht im Originalton eine eigenständige, überprüfbare Aussage mit klarer Bezugsgröße statt einer Frage nach dem Abfall?"
+      ]
     },
     {
       "id": "-rBUCkR4HuA-A0036",
@@ -3953,10 +4396,10 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Eine große Mehrheit der E-Autonutzer will elektrisch bleiben.",
-      "reason": "Die GEVA-Befragung von 2024 meldet 92 Prozent mit erneuter Elektroauto-Kaufabsicht. Die Antworten kamen überwiegend über Verbände und Partner; Ländergewichtung ersetzt keine Zufallsauswahl. Kaufabsicht ist außerdem kein beobachteter Wiederkauf.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "verdict": "Belegt",
+      "description": "Viele E-Autofahrer möchten bei einem Elektroauto bleiben; unter den Befragten war es eine deutliche Mehrheit.",
+      "reason": "Der Gast spricht über die beabsichtigte Wahl bei einem nächsten Kauf und regt Gespräche mit E-Autofahrern an; er nennt keine allgemeingültige Quote oder tatsächliche Folgekaufdaten. In der GEVA-Erhebung wollten 92 % der Teilnehmenden wieder elektrisch kaufen. Die nicht zufällige Rekrutierung über Verbände und Partner stützt das Muster in der Stichprobe, keine weltweit repräsentative Quote.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Kai (26.11.2026): Abgleich mit offiziellem Podcasttranskript der gleichen Folge und Sachquellen; keine neue YouTube-Tonprüfung.",
       "occurrences": [
         {
           "startSeconds": 2492,
@@ -3979,6 +4422,10 @@
         {
           "sourceId": "Q25",
           "note": "Fundstelle und Geltungsbereich im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "WP",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
         }
       ],
       "research": {
@@ -3999,6 +4446,17 @@
               "Q25"
             ],
             "result": "Die GEVA-Befragung von 2024 meldet 92 Prozent mit erneuter Elektroauto-Kaufabsicht. Die Antworten kamen überwiegend über Verbände und Partner; Ländergewichtung ersetzt keine Zufallsauswahl. Kaufabsicht ist außerdem kein beobachteter Wiederkauf."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Offizielle Podcastfassung, Aussageumfang und Primärquellen je Einzelfall abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q25",
+              "WP"
+            ],
+            "result": "Der Gast spricht über die beabsichtigte Wahl bei einem nächsten Kauf und regt Gespräche mit E-Autofahrern an; er nennt keine allgemeingültige Quote oder tatsächliche Folgekaufdaten. In der GEVA-Erhebung wollten 92 % der Teilnehmenden wieder elektrisch kaufen. Die nicht zufällige Rekrutierung über Verbände und Partner stützt das Muster in der Stichprobe, keine weltweit repräsentative Quote."
           }
         ]
       },
@@ -4034,10 +4492,25 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Eine große Mehrheit der E-Autonutzer will elektrisch bleiben."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Viele E-Autofahrer möchten bei einem Elektroauto bleiben; unter den Befragten war es eine deutliche Mehrheit."
+            },
+            "reason": "Der Gast spricht über die beabsichtigte Wahl bei einem nächsten Kauf und regt Gespräche mit E-Autofahrern an; er nennt keine allgemeingültige Quote oder tatsächliche Folgekaufdaten. In der GEVA-Erhebung wollten 92 % der Teilnehmenden wieder elektrisch kaufen. Die nicht zufällige Rekrutierung über Verbände und Partner stützt das Muster in der Stichprobe, keine weltweit repräsentative Quote."
           }
         ]
-      },
-      "shortReason": "Eine große Verbandsbefragung stützt die Kaufabsicht, ist aber kein repräsentativer Nachweis für sämtliche E-Autonutzer."
+      }
     },
     {
       "id": "-rBUCkR4HuA-A0045",
@@ -4381,10 +4854,10 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Das Automobil entstand in Deutschland; Bertha Benz fuhr die erste Langstrecke.",
-      "reason": "Herstellerarchiv bestätigt Benzin-Automobil und 1888 er Fahrt. Erfindungsbegriff nicht auf alle älteren Dampfwagen ausdehnen.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "verdict": "Belegt",
+      "description": "Das moderne Benzinautomobil entstand in Deutschland, und Bertha Benz unternahm 1888 eine Pionier-Fernfahrt.",
+      "reason": "Der Gesprächskontext verweist ausdrücklich auf Bertha Benz. Das DPMA dokumentiert das Patent für den Motorwagen von 1886 und Berthas rund 100 Kilometer lange Fahrt von Mannheim nach Pforzheim im August 1888. Gemeint ist das moderne Benzinautomobil; frühere Dampf-Fahrzeuge sind dadurch nicht bestritten.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Kai (26.11.2026): Abgleich mit offiziellem Podcasttranskript der gleichen Folge und Sachquellen; keine neue YouTube-Tonprüfung.",
       "occurrences": [
         {
           "startSeconds": 2596,
@@ -4407,6 +4880,14 @@
         {
           "sourceId": "Q20",
           "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "WP",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
+        },
+        {
+          "sourceId": "WD",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
         }
       ],
       "research": {
@@ -4420,10 +4901,21 @@
               "Q20"
             ],
             "result": "Herstellerarchiv bestätigt Benzin-Automobil und 1888 er Fahrt. Erfindungsbegriff nicht auf alle älteren Dampfwagen ausdehnen."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Offizielle Podcastfassung, Aussageumfang und Primärquellen je Einzelfall abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q20",
+              "WP",
+              "WD"
+            ],
+            "result": "Der Gesprächskontext verweist ausdrücklich auf Bertha Benz. Das DPMA dokumentiert das Patent für den Motorwagen von 1886 und Berthas rund 100 Kilometer lange Fahrt von Mannheim nach Pforzheim im August 1888. Gemeint ist das moderne Benzinautomobil; frühere Dampf-Fahrzeuge sind dadurch nicht bestritten."
           }
         ]
       },
-      "shortReason": "Benzin-Automobil und Berthas Fahrt 1888 sind belegt; ältere Dampfwagen erfordern eine begriffliche Eingrenzung.",
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",
@@ -4456,6 +4948,22 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Das Automobil entstand in Deutschland; Bertha Benz fuhr die erste Langstrecke."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Das moderne Benzinautomobil entstand in Deutschland, und Bertha Benz unternahm 1888 eine Pionier-Fernfahrt."
+            },
+            "reason": "Der Gesprächskontext verweist ausdrücklich auf Bertha Benz. Das DPMA dokumentiert das Patent für den Motorwagen von 1886 und Berthas rund 100 Kilometer lange Fahrt von Mannheim nach Pforzheim im August 1888. Gemeint ist das moderne Benzinautomobil; frühere Dampf-Fahrzeuge sind dadurch nicht bestritten."
           }
         ]
       }
@@ -4860,10 +5368,10 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Medien und Lobbygruppen unterstützen Energieinteressen auch finanziell.",
-      "reason": "Das Lobbyregister dokumentiert am Beispiel FNB Gas für 2025 finanzielle Aufwendungen für Gasinteressenvertretung und Mitgliedsbeiträge als Finanzierung. Damit ist der allgemeine Sachkern finanziell ausgestatteter Energieinteressen konkret belegt. Daraus folgt keine Zahlung an bestimmte Medien oder eine kausale Erklärung einzelner redaktioneller Positionen. Der Gesprächsbeitrag nennt solche Zahlungen und Empfänger nicht; dieser weitergehende Teil bleibt unbestimmt.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "verdict": "Belegt",
+      "description": "Interessengruppen bringen für energiepolitische Interessen auch Geld auf.",
+      "reason": "Im Gespräch stehen Medienkritik und finanzielle Unterstützung durch Lobbygruppen nebeneinander, aber keine bestimmte Zahlung an ein benanntes Medium. Das Lobbyregister dokumentiert exemplarisch für FNB Gas 410.001 bis 420.000 Euro für Interessenvertretung im Geschäftsjahr 2025 sowie Mitgliedsbeiträge als wichtigste Finanzierung. Eine journalistische Beeinflussung durch konkrete Zahlungen ist weder behaupteter genauer Einzelfall noch mit dieser Quelle belegt.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Kai (26.11.2026): Abgleich mit offiziellem Podcasttranskript der gleichen Folge und Sachquellen; keine neue YouTube-Tonprüfung.",
       "occurrences": [
         {
           "startSeconds": 3163,
@@ -4886,6 +5394,10 @@
         {
           "sourceId": "Q57",
           "note": "Fundstelle, Interessen und zeitliche Grenzen stehen im Quellenverzeichnis der Nachprüfung."
+        },
+        {
+          "sourceId": "WP",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
         }
       ],
       "research": {
@@ -4906,6 +5418,17 @@
               "Q57"
             ],
             "result": "Das Lobbyregister dokumentiert am Beispiel FNB Gas für 2025 finanzielle Aufwendungen für Gasinteressenvertretung und Mitgliedsbeiträge als Finanzierung. Damit ist der allgemeine Sachkern finanziell ausgestatteter Energieinteressen konkret belegt. Daraus folgt keine Zahlung an bestimmte Medien oder eine kausale Erklärung einzelner redaktioneller Positionen. Der Gesprächsbeitrag nennt solche Zahlungen und Empfänger nicht; dieser weitergehende Teil bleibt unbestimmt."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Offizielle Podcastfassung, Aussageumfang und Primärquellen je Einzelfall abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q57",
+              "WP"
+            ],
+            "result": "Im Gespräch stehen Medienkritik und finanzielle Unterstützung durch Lobbygruppen nebeneinander, aber keine bestimmte Zahlung an ein benanntes Medium. Das Lobbyregister dokumentiert exemplarisch für FNB Gas 410.001 bis 420.000 Euro für Interessenvertretung im Geschäftsjahr 2025 sowie Mitgliedsbeiträge als wichtigste Finanzierung. Eine journalistische Beeinflussung durch konkrete Zahlungen ist weder behaupteter genauer Einzelfall noch mit dieser Quelle belegt."
           }
         ]
       },
@@ -4932,10 +5455,25 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Medien und Lobbygruppen unterstützen Energieinteressen auch finanziell."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Interessengruppen bringen für energiepolitische Interessen auch Geld auf."
+            },
+            "reason": "Im Gespräch stehen Medienkritik und finanzielle Unterstützung durch Lobbygruppen nebeneinander, aber keine bestimmte Zahlung an ein benanntes Medium. Das Lobbyregister dokumentiert exemplarisch für FNB Gas 410.001 bis 420.000 Euro für Interessenvertretung im Geschäftsjahr 2025 sowie Mitgliedsbeiträge als wichtigste Finanzierung. Eine journalistische Beeinflussung durch konkrete Zahlungen ist weder behaupteter genauer Einzelfall noch mit dieser Quelle belegt."
           }
         ]
-      },
-      "shortReason": "Finanzierte Gasinteressenvertretung ist dokumentiert; Zahlungen an bestimmte Medien oder Einfluss auf einzelne Beiträge sind damit nicht belegt."
+      }
     },
     {
       "id": "-rBUCkR4HuA-A0056",
@@ -5025,10 +5563,10 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "verdict": "Widerlegt",
       "description": "Aus 1 kW/m² Sonne entstehen 100 bis 200 W/m² PV-Strom; mehr gehe nicht.",
-      "reason": "1000 W/m²ist die Normeinstrahlung, kein dauernder Betriebswert.100–200 Wentsprechen 10–20% Umwandlung, aber keinem absoluten Technologielimit.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "reason": "Etwa 1.000 W/m² Einstrahlung sind eine gebräuchliche Bezugsbedingung, kein Dauerwert. Die Formulierung nach der genannten Spanne setzt im Wortlaut aber ausdrücklich eine Obergrenze. Fraunhofer ISE dokumentiert kommerzielle Siliziummodule mit knapp 25 % Effizienz, entsprechend rund 250 W je Quadratmeter unter 1.000 W/m², und damit oberhalb von 200 W. Zell-, Modul- und Systemwirkungsgrad sind zu unterscheiden.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Kai (26.11.2026): Abgleich mit offiziellem Podcasttranskript der gleichen Folge und Sachquellen; keine neue YouTube-Tonprüfung.",
       "occurrences": [
         {
           "startSeconds": 3314,
@@ -5051,6 +5589,14 @@
         {
           "sourceId": "Q11",
           "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "WP",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
+        },
+        {
+          "sourceId": "WS",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
         }
       ],
       "research": {
@@ -5064,10 +5610,21 @@
               "Q11"
             ],
             "result": "1000 W/m²ist die Normeinstrahlung, kein dauernder Betriebswert.100–200 Wentsprechen 10–20% Umwandlung, aber keinem absoluten Technologielimit."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Offizielle Podcastfassung, Aussageumfang und Primärquellen je Einzelfall abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q11",
+              "WP",
+              "WS"
+            ],
+            "result": "Etwa 1.000 W/m² Einstrahlung sind eine gebräuchliche Bezugsbedingung, kein Dauerwert. Die Formulierung nach der genannten Spanne setzt im Wortlaut aber ausdrücklich eine Obergrenze. Fraunhofer ISE dokumentiert kommerzielle Siliziummodule mit knapp 25 % Effizienz, entsprechend rund 250 W je Quadratmeter unter 1.000 W/m², und damit oberhalb von 200 W. Zell-, Modul- und Systemwirkungsgrad sind zu unterscheiden."
           }
         ]
       },
-      "shortReason": "1000 W/m²ist eine Normbedingung; 100–200 Welektrisch sind kein absolutes physikalisches Maximum.",
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",
@@ -5100,9 +5657,26 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Aus 1 kW/m² Sonne entstehen 100 bis 200 W/m² PV-Strom; mehr gehe nicht."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Widerlegt",
+              "description": "Aus 1 kW/m² Sonne entstehen 100 bis 200 W/m² PV-Strom; mehr gehe nicht."
+            },
+            "reason": "Etwa 1.000 W/m² Einstrahlung sind eine gebräuchliche Bezugsbedingung, kein Dauerwert. Die Formulierung nach der genannten Spanne setzt im Wortlaut aber ausdrücklich eine Obergrenze. Fraunhofer ISE dokumentiert kommerzielle Siliziummodule mit knapp 25 % Effizienz, entsprechend rund 250 W je Quadratmeter unter 1.000 W/m², und damit oberhalb von 200 W. Zell-, Modul- und Systemwirkungsgrad sind zu unterscheiden."
           }
         ]
-      }
+      },
+      "shortReason": "Bei der Normeinstrahlung erreichen marktübliche Spitzenmodule mehr als 200 Watt je Quadratmeter."
     },
     {
       "id": "-rBUCkR4HuA-A0058",
@@ -5260,10 +5834,10 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Zusätzlicher Windstrom kann fossile Importabhängigkeit verringern.",
-      "reason": "Heimische Erzeugung braucht keinen laufenden fossilen Brennstoff; tatsächliche Gas-/Ölverdrängung hängt von Systemeinsatz und Elektrifizierung ab.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "description": "Mit jedem einzelnen zusätzlichen Windrad sinken Deutschlands Gas- oder Ölimporte.",
+      "reason": "Im Podcast ist der allgemeine Unabhängigkeitsgedanke mit jedem zusätzlichen Windrad verbunden. Heimischer Windstrom kann fossile Erzeugung und zusammen mit Elektrifizierung Brennstoffimporte verringern. Der Effekt ist aber nicht automatisch für jedes Windrad ableitbar: Abregelung, Export, Verdrängung nichtfossiler Erzeugung und die tatsächliche Nutzung im Wärme- und Verkehrssektor ändern das Ergebnis.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Kai (26.11.2026): Abgleich mit offiziellem Podcasttranskript der gleichen Folge und Sachquellen; keine neue YouTube-Tonprüfung.",
       "occurrences": [
         {
           "startSeconds": 3457,
@@ -5290,6 +5864,14 @@
         {
           "sourceId": "Q14",
           "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "WP",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
+        },
+        {
+          "sourceId": "WA",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
         }
       ],
       "research": {
@@ -5304,10 +5886,22 @@
               "Q14"
             ],
             "result": "Heimische Erzeugung braucht keinen laufenden fossilen Brennstoff; tatsächliche Gas-/Ölverdrängung hängt von Systemeinsatz und Elektrifizierung ab."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Offizielle Podcastfassung, Aussageumfang und Primärquellen je Einzelfall abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q11",
+              "Q14",
+              "WP",
+              "WA"
+            ],
+            "result": "Im Podcast ist der allgemeine Unabhängigkeitsgedanke mit jedem zusätzlichen Windrad verbunden. Heimischer Windstrom kann fossile Erzeugung und zusammen mit Elektrifizierung Brennstoffimporte verringern. Der Effekt ist aber nicht automatisch für jedes Windrad ableitbar: Abregelung, Export, Verdrängung nichtfossiler Erzeugung und die tatsächliche Nutzung im Wärme- und Verkehrssektor ändern das Ergebnis."
           }
         ]
       },
-      "shortReason": "Die Importersparnis hängt vom Systemeinsatz ab; es gibt keinen festen Wert pro Windrad.",
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",
@@ -5340,9 +5934,26 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Zusätzlicher Windstrom kann fossile Importabhängigkeit verringern."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Mit jedem einzelnen zusätzlichen Windrad sinken Deutschlands Gas- oder Ölimporte."
+            },
+            "reason": "Im Podcast ist der allgemeine Unabhängigkeitsgedanke mit jedem zusätzlichen Windrad verbunden. Heimischer Windstrom kann fossile Erzeugung und zusammen mit Elektrifizierung Brennstoffimporte verringern. Der Effekt ist aber nicht automatisch für jedes Windrad ableitbar: Abregelung, Export, Verdrängung nichtfossiler Erzeugung und die tatsächliche Nutzung im Wärme- und Verkehrssektor ändern das Ergebnis."
           }
         ]
-      }
+      },
+      "shortReason": "Windstrom kann fossile Importe verringern, aber nicht jede zusätzliche Anlage verdrängt automatisch Gas oder Öl."
     },
     {
       "id": "-rBUCkR4HuA-A0061",
@@ -5771,10 +6382,10 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Selten benötigte Backup-Anlagen haben ein Rentabilitätsproblem.",
-      "reason": "Fraunhofer zeigt Auslastungseinfluss auf Kosten. Wenige Betriebsstunden erschweren Amortisation; Kapazitätszahlungen können das verändern.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "verdict": "Belegt",
+      "description": "Selten laufende Backup-Anlagen können ohne gesonderte Vergütung wirtschaftlich schwer zu finanzieren sein.",
+      "reason": "Der Gast spricht von Anlagen mit wenigen Betriebsstunden und eher geringem Ertrag für den Investor. Fraunhofer ISE modelliert deutlich höhere Erzeugungskosten bei geringer Auslastung, weil die Fixkosten auf weniger Kilowattstunden fallen. Ob das Projekt tatsächlich unrentabel ist, hängt u. a. von Preisspitzen, Reserve- oder Kapazitätsvergütung ab.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Kai (26.11.2026): Abgleich mit offiziellem Podcasttranskript der gleichen Folge und Sachquellen; keine neue YouTube-Tonprüfung.",
       "occurrences": [
         {
           "startSeconds": 3705,
@@ -5797,6 +6408,10 @@
         {
           "sourceId": "Q05",
           "note": "Siehe genaue Fundstelle, sachlichen Geltungsbereich und Einschränkungen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "WP",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
         }
       ],
       "research": {
@@ -5810,10 +6425,20 @@
               "Q05"
             ],
             "result": "Fraunhofer zeigt Auslastungseinfluss auf Kosten. Wenige Betriebsstunden erschweren Amortisation; Kapazitätszahlungen können das verändern."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Offizielle Podcastfassung, Aussageumfang und Primärquellen je Einzelfall abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q05",
+              "WP"
+            ],
+            "result": "Der Gast spricht von Anlagen mit wenigen Betriebsstunden und eher geringem Ertrag für den Investor. Fraunhofer ISE modelliert deutlich höhere Erzeugungskosten bei geringer Auslastung, weil die Fixkosten auf weniger Kilowattstunden fallen. Ob das Projekt tatsächlich unrentabel ist, hängt u. a. von Preisspitzen, Reserve- oder Kapazitätsvergütung ab."
           }
         ]
       },
-      "shortReason": "Wenige Betriebsstunden verteuern Backup-Strom; zusätzliche Vergütung kann die Rentabilität verändern.",
       "attribution": {
         "statementBy": "Gast",
         "person": "Ranga Yogeshwar",
@@ -5846,6 +6471,22 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Selten benötigte Backup-Anlagen haben ein Rentabilitätsproblem."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Selten laufende Backup-Anlagen können ohne gesonderte Vergütung wirtschaftlich schwer zu finanzieren sein."
+            },
+            "reason": "Der Gast spricht von Anlagen mit wenigen Betriebsstunden und eher geringem Ertrag für den Investor. Fraunhofer ISE modelliert deutlich höhere Erzeugungskosten bei geringer Auslastung, weil die Fixkosten auf weniger Kilowattstunden fallen. Ob das Projekt tatsächlich unrentabel ist, hängt u. a. von Preisspitzen, Reserve- oder Kapazitätsvergütung ab."
           }
         ]
       }
@@ -6222,10 +6863,10 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "verdict": "Irreführend / Kontext fehlt",
       "description": "Auch in USA kommen 80 bis 90% des Stromzubaus aus Erneuerbaren.",
-      "reason": "Die EIA-Isttabelle für 2025 weist rund 35,95 GW Zubau in einzeln ausgewiesenen erneuerbaren Technologien aus. Das sind rund 62 Prozent der insgesamt 57,73 GW einschließlich der Kategorie Other Energy Sources, in der vor allem Speicher stehen. Ohne diese Kategorie ergibt sich rund 87 Prozent. Eine Größenordnung von 80 bis 90 Prozent ist damit für den engeren Erzeuger-Nenner plausibel; Jahr, Nenner und Speicherabgrenzung werden im Gespräch aber nicht festgelegt. Kapazitätszubau ist kein Anteil der erzeugten Strommenge.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "reason": "Yogeshwar überträgt seine Angabe von etwa 80 bis teils über 90 Prozent auf die USA, direkt nach der Formulierung „Zubau … an Strom … Erzeugung“; Jahr, Nenner und Einheit bleiben unklar. EIA 2025: Neue erneuerbare Großanlagen haben rund 35,95 GW von 57,73 GW gesamtem Kapazitätszubau (rund 62 Prozent), gegenüber rund 87 Prozent ohne die vor allem Speicher enthaltende Sammelkategorie. Ein anderer Maßstab, der Erzeugungszuwachs (TWh), lag für Erneuerbare inkl. kleiner PV 2025 bei rund 96,8 von 125,5 TWh (rund 77 Prozent). Hohe Anteile sind real; ohne Zeitraum und Zählweise ist die 80–90-Prozent-Angabe kein allgemeiner Beleg.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 3783,
@@ -6252,6 +6893,10 @@
         {
           "sourceId": "Q50",
           "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "KA-EIA-TWH",
+          "note": "In der Einzelnachprüfung herangezogene Originalquelle."
         }
       ],
       "research": {
@@ -6274,6 +6919,18 @@
               "Q50"
             ],
             "result": "Die EIA-Isttabelle für 2025 weist rund 35,95 GW Zubau in einzeln ausgewiesenen erneuerbaren Technologien aus. Das sind rund 62 Prozent der insgesamt 57,73 GW einschließlich der Kategorie Other Energy Sources, in der vor allem Speicher stehen. Ohne diese Kategorie ergibt sich rund 87 Prozent. Eine Größenordnung von 80 bis 90 Prozent ist damit für den engeren Erzeuger-Nenner plausibel; Jahr, Nenner und Speicherabgrenzung werden im Gespräch aber nicht festgelegt. Kapazitätszubau ist kein Anteil der erzeugten Strommenge."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q16",
+              "Q50",
+              "KA-EIA-TWH"
+            ],
+            "result": "Yogeshwar überträgt seine Angabe von etwa 80 bis teils über 90 Prozent auf die USA, direkt nach der Formulierung „Zubau … an Strom … Erzeugung“; Jahr, Nenner und Einheit bleiben unklar. EIA 2025: Neue erneuerbare Großanlagen haben rund 35,95 GW von 57,73 GW gesamtem Kapazitätszubau (rund 62 Prozent), gegenüber rund 87 Prozent ohne die vor allem Speicher enthaltende Sammelkategorie. Ein anderer Maßstab, der Erzeugungszuwachs (TWh), lag für Erneuerbare inkl. kleiner PV 2025 bei rund 96,8 von 125,5 TWh (rund 77 Prozent). Hohe Anteile sind real; ohne Zeitraum und Zählweise ist die 80–90-Prozent-Angabe kein allgemeiner Beleg."
           }
         ]
       },
@@ -6309,10 +6966,26 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Auch in USA kommen 80 bis 90% des Stromzubaus aus Erneuerbaren."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Auch in USA kommen 80 bis 90% des Stromzubaus aus Erneuerbaren."
+            },
+            "reason": "Yogeshwar überträgt seine Angabe von etwa 80 bis teils über 90 Prozent auf die USA, direkt nach der Formulierung „Zubau … an Strom … Erzeugung“; Jahr, Nenner und Einheit bleiben unklar. EIA 2025: Neue erneuerbare Großanlagen haben rund 35,95 GW von 57,73 GW gesamtem Kapazitätszubau (rund 62 Prozent), gegenüber rund 87 Prozent ohne die vor allem Speicher enthaltende Sammelkategorie. Ein anderer Maßstab, der Erzeugungszuwachs (TWh), lag für Erneuerbare inkl. kleiner PV 2025 bei rund 96,8 von 125,5 TWh (rund 77 Prozent). Hohe Anteile sind real; ohne Zeitraum und Zählweise ist die 80–90-Prozent-Angabe kein allgemeiner Beleg."
           }
         ]
       },
-      "shortReason": "Rund 87 Prozent ergeben sich mit engem Erzeuger-Nenner, rund 62 Prozent einschließlich der EIA-Kategorie mit Speichern."
+      "shortReason": "Hoher Erneuerbarenanteil ist plausibel, aber Kapazität, Strommenge und Speicherabgrenzung ergeben unterschiedliche Quoten."
     },
     {
       "id": "-rBUCkR4HuA-A0072",
@@ -6637,10 +7310,10 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Ungebremste PV-Spitzen würden sämtliche Leitungen durchbrennen lassen.",
-      "reason": "Die Bundesnetzagentur beschreibt reale Stabilitätsprobleme durch hohe Solarspitzen und die notwendige Steuerbarkeit bis hin zur Abschaltung von Anlagen. Der Gesprächskontext fordert deshalb Puffer und Regelung; er ist eine bedingte Warnung bei künftigem Ausbau. Dass sämtliche Leitungen durchbrennen würden, ist eine nicht technisch belegte Übertreibung. Netzengpässe, Schutzmaßnahmen und tatsächliche thermische Zerstörung dürfen nicht gleichgesetzt werden.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "verdict": "Belegt",
+      "description": "Sehr hohe ungeregelte Photovoltaik-Einspeisung kann Netzstabilität und Betrieb belasten und macht Steuerung oder Pufferung nötig.",
+      "reason": "Der Wortlaut verwendet ein offensichtlich zugespitztes Durchbrennen-Bild und fragt direkt anschließend nach Pufferung. Die konkret gemeinte Betriebsgefahr ist durch SMARD dokumentiert: Überschüsse in Niedriglastphasen erschweren den Systembetrieb und können Steuerung bis zur Abregelung erfordern. Es gibt keinen Nachweis, bei solchen Spitzen würden sämtliche Leitungen physisch durchbrennen; das Bild ist keine separat bewertete Anlagenprognose.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Kai (26.11.2026): Abgleich mit offiziellem Podcasttranskript der gleichen Folge und Sachquellen; keine neue YouTube-Tonprüfung.",
       "occurrences": [
         {
           "startSeconds": 4037,
@@ -6663,6 +7336,10 @@
         {
           "sourceId": "Q51",
           "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "WP",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
         }
       ],
       "research": {
@@ -6683,6 +7360,17 @@
               "Q51"
             ],
             "result": "Die Bundesnetzagentur beschreibt reale Stabilitätsprobleme durch hohe Solarspitzen und die notwendige Steuerbarkeit bis hin zur Abschaltung von Anlagen. Der Gesprächskontext fordert deshalb Puffer und Regelung; er ist eine bedingte Warnung bei künftigem Ausbau. Dass sämtliche Leitungen durchbrennen würden, ist eine nicht technisch belegte Übertreibung. Netzengpässe, Schutzmaßnahmen und tatsächliche thermische Zerstörung dürfen nicht gleichgesetzt werden."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Offizielle Podcastfassung, Aussageumfang und Primärquellen je Einzelfall abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q51",
+              "WP"
+            ],
+            "result": "Der Wortlaut verwendet ein offensichtlich zugespitztes Durchbrennen-Bild und fragt direkt anschließend nach Pufferung. Die konkret gemeinte Betriebsgefahr ist durch SMARD dokumentiert: Überschüsse in Niedriglastphasen erschweren den Systembetrieb und können Steuerung bis zur Abregelung erfordern. Es gibt keinen Nachweis, bei solchen Spitzen würden sämtliche Leitungen physisch durchbrennen; das Bild ist keine separat bewertete Anlagenprognose."
           }
         ]
       },
@@ -6718,10 +7406,25 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Ungebremste PV-Spitzen würden sämtliche Leitungen durchbrennen lassen."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Sehr hohe ungeregelte Photovoltaik-Einspeisung kann Netzstabilität und Betrieb belasten und macht Steuerung oder Pufferung nötig."
+            },
+            "reason": "Der Wortlaut verwendet ein offensichtlich zugespitztes Durchbrennen-Bild und fragt direkt anschließend nach Pufferung. Die konkret gemeinte Betriebsgefahr ist durch SMARD dokumentiert: Überschüsse in Niedriglastphasen erschweren den Systembetrieb und können Steuerung bis zur Abregelung erfordern. Es gibt keinen Nachweis, bei solchen Spitzen würden sämtliche Leitungen physisch durchbrennen; das Bild ist keine separat bewertete Anlagenprognose."
           }
         ]
-      },
-      "shortReason": "Solarspitzen erfordern Regelung und können Netzprobleme verursachen; ein Durchbrennen sämtlicher Leitungen ist nicht belegt."
+      }
     },
     {
       "id": "-rBUCkR4HuA-A0077",
@@ -7012,10 +7715,10 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "verdict": "Irreführend / Kontext fehlt",
       "description": "Deutschland verhindere das Verbrenner-Aus.",
-      "reason": "Am 7. Oktober 2026 bestätigt der Regierungssprecher die deutsche Koalitionsposition für weitergehende Neuzulassungen von Verbrennern nach 2035. Das stützt den politischen Kern der Kritik bereits vor einer späteren deutsch-französischen Einigung. Eine deutsche Forderung ist jedoch weder alleinige Ursache noch ein abschließend beschlossenes EU-Gesetz; der genaue Aufnahmetag im Oktober bleibt unbekannt.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "reason": "Die Bundesregierung befürwortete laut Pressekonferenz vom 7. Oktober 2026 zusätzliche Möglichkeiten für Verbrenner-Neuzulassungen auch nach 2035. Das belegt die politische Einflussnahme. Der Gast schreibt Deutschland das Ausbleiben des Verbrenner-Aus zu; die deutsche Position war zu diesem Zeitpunkt weder allein entscheidend noch ein abschließender EU-Rechtsakt. Der genaue Aufnahmetag im Oktober ist nicht gesichert.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Kai (26.11.2026): Abgleich mit offiziellem Podcasttranskript der gleichen Folge und Sachquellen; keine neue YouTube-Tonprüfung.",
       "occurrences": [
         {
           "startSeconds": 4103,
@@ -7038,6 +7741,10 @@
         {
           "sourceId": "Q52",
           "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "WP",
+          "note": "Einzelnachprüfung: Originalfundstelle im Quellenverzeichnis; die Podcastzeit ist kein neuer Nachweis der YouTube-Position."
         }
       ],
       "research": {
@@ -7058,6 +7765,17 @@
               "Q52"
             ],
             "result": "Am 7. Oktober 2026 bestätigt der Regierungssprecher die deutsche Koalitionsposition für weitergehende Neuzulassungen von Verbrennern nach 2035. Das stützt den politischen Kern der Kritik bereits vor einer späteren deutsch-französischen Einigung. Eine deutsche Forderung ist jedoch weder alleinige Ursache noch ein abschließend beschlossenes EU-Gesetz; der genaue Aufnahmetag im Oktober bleibt unbekannt."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Offizielle Podcastfassung, Aussageumfang und Primärquellen je Einzelfall abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q52",
+              "WP"
+            ],
+            "result": "Die Bundesregierung befürwortete laut Pressekonferenz vom 7. Oktober 2026 zusätzliche Möglichkeiten für Verbrenner-Neuzulassungen auch nach 2035. Das belegt die politische Einflussnahme. Der Gast schreibt Deutschland das Ausbleiben des Verbrenner-Aus zu; die deutsche Position war zu diesem Zeitpunkt weder allein entscheidend noch ein abschließender EU-Rechtsakt. Der genaue Aufnahmetag im Oktober ist nicht gesichert."
           }
         ]
       },
@@ -7093,6 +7811,22 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Zweiter Agent bestätigt die getrennt erfasste politische Verantwortungszuschreibung; Zahlenfaktor unverändert."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Deutschland verhindere das Verbrenner-Aus."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Deutschland verhindere das Verbrenner-Aus."
+            },
+            "reason": "Die Bundesregierung befürwortete laut Pressekonferenz vom 7. Oktober 2026 zusätzliche Möglichkeiten für Verbrenner-Neuzulassungen auch nach 2035. Das belegt die politische Einflussnahme. Der Gast schreibt Deutschland das Ausbleiben des Verbrenner-Aus zu; die deutsche Position war zu diesem Zeitpunkt weder allein entscheidend noch ein abschließender EU-Rechtsakt. Der genaue Aufnahmetag im Oktober ist nicht gesichert."
           }
         ],
         "reviews": [
@@ -7104,7 +7838,7 @@
           }
         ]
       },
-      "shortReason": "Die Bundesregierung warb im Oktober 2026 für mehr Verbrenner-Neuzulassungen nach 2035; ein abgeschlossener EU-Beschluss folgt daraus nicht."
+      "shortReason": "Deutschland setzte sich für Ausnahmen ein; die EU-Regel wurde dadurch nicht von Deutschland allein aufgehoben."
     },
     {
       "id": "-rBUCkR4HuA-A0082",

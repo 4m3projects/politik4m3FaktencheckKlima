@@ -480,6 +480,16 @@
       "date": "2026-11-23",
       "agent": "Codex",
       "change": "Themen bei Ergänzung der Darstellung geprüft: Hinweise betreffen die bereits zugeordneten Sachthemen; keine neuen Tatsachenbehauptungen oder Themen erforderlich."
+    },
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Themenzuordnung der nachgeprüften Aussagen kontrolliert, keine neue Themenkategorie."
+    },
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Themenzuordnung der nachgeprüften Aussagen kontrolliert, keine neue Themenkategorie."
     }
   ]
 }

@@ -461,3 +461,24 @@ Zugang: Originalquelle in dieser Nachprüfung direkt geöffnet und die genannten
 FNB Gas nennt für 2025 410001–420000 Euro Interessenvertretungsaufwand und Mitgliedsbeiträge als Hauptfinanzierung; vertreten werden Gasnetzinteressen einschließlich fossiler Energien. Jahresaktualisierung 24.6.2026, aktueller Eintrag später geändert. Selbstmeldung im gesetzlichen Register, kein Beleg einer Zahlung an bestimmte Medien.
 
 Zugang: Originalquelle in dieser Nachprüfung direkt geöffnet und die genannten Abschnitte gelesen. Abruf: 2026-11-22.
+
+## Einzelnachprüfung durch Kai (26.11.2026)
+
+Die Passage zu A0035 ist in der offiziellen Textspur als Frage lesbar; die tatsächlich geäußerte Behauptung bleibt bis zum Hörabgleich offen. Das Transkript verschluckt die entscheidende Prozentzahl bei A0071; hierfür wurde weder der Wortlaut als verifiziert ausgegeben noch das alte Urteil geändert.
+
+- **WP** [Die Wattstunde: offizielles Transkript der Folge #13](https://die-wattstunde.podigee.io/13-13-ich-habe-keine-panik-vor-atom-ranga-yogeshwar): Vollständig bereitgestellte Textspur der Podcastfassung mit Zeitmarken, nicht YouTube-Audioprüfung.
+- **WF** [Élysée: Rede zur Kernindustrie in Le Creusot](https://www.elysee.fr/emmanuel-macron/2020/12/08/deplacement-du-president-emmanuel-macron-sur-le-site-industriel-de-framatome): 08.12.2020; französische politische Einordnung ziviler Kernindustrie und strategischer Programme.
+- **WD** [DPMA: Jahresbericht, Patent und Fernfahrt des Motorwagens](https://galerie.dpma.de/digitaler_jahresbericht/2022/jb22_en/patents.html): Patent von 1886 und Bertha Benz’ Fahrt 1888 von Mannheim nach Pforzheim.
+- **WS** [Fraunhofer ISE: Photovoltaics Report](https://www.ise.fraunhofer.de/de/veroeffentlichungen/studien/photovoltaics-report.html): Version Juli 2026: kommerzielle Siliziummodule erreichen knapp 25 % Effizienz.
+- **WA** [Umweltbundesamt: Ausstieg aus fossilen Brennstoffen schützt vor Energiekrisen](https://www.umweltbundesamt.de/themen/ausstieg-aus-fossilen-brennstoffen-schuetzt-vor): 02.06.2026: heimische Erneuerbare können zusammen mit Elektrifizierung und Einsparung die fossile Importabhängigkeit mindern.
+
+## Weitere Originalquellen desselben Prüfpasses
+
+- **WN** [Robertson et al.: Negativity drives online news consumption](https://doi.org/10.1038/s41562-023-01538-4): 22.743 randomisierte Titeltests: negative Wörter erhöhten bei vergleichbaren Überschriften die Klickrate.
+- **WV** [Ranga Yogeshwar: Eigener Lebenslauf](https://yogeshwar.de/?p=374): Journalistische Arbeit ab 1983; 1987 Wechsel in feste WDR-Redaktion. Kein Datum des ersten Fernsehbeitrags.
+- **WB** [bpb: Das duale Rundfunksystem](https://www.bpb.de/themen/medien-journalismus/deutsche-fernsehgeschichte-in-ost-und-west/245878/das-duale-rundfunksystem/): Beginn der privaten Ausstrahlung in Deutschland 1984.
+- **WE** [VDIK: KBA-basierte Neuzulassungen September 2026](https://www.vdik.de/2026/internationale-hersteller-verdoppeln-zulassungsanteil-in-rekord-bev-markt/): 34,5 % BEV; 45,3 % BEV plus Plug-in-Hybride.
+- **WM** [Destatis: Mieteranteil, EU-SILC](https://www.destatis.de/Europa/DE/Thema/Bevoelkerung-Arbeit-Soziales/Soziales-Lebensbedingungen/Mieteranteil.html): Deutschland 2025: 52,8 % der Bevölkerung wohnen zur Miete. Das ist keine Verteilung der Förderzahlungen.
+- **WK** [KfW-Energiewendebarometer](https://www.kfw.de/%C3%9Cber-die-KfW/KfW-Research/KfW-Energiewendebarometer.html): Repräsentative Teilnahme an Technologien nach Einkommen und Wohnverhältnis; keine Vollstatistik tatsächlich bewilligter Heizungszuschüsse.
+- **WH** [Heat Pumps Watch: Installationskosten im europäischen Vergleich](https://heatpumpswatch.org/wp-content/uploads/2026/02/13_18-Installationskosten-im-europaischen-Vergleich-HPW-Blogserie_r2.pdf): S. 2, Tabelle 1: Großbritannien, Niederlande und Deutschland, Einfamilienhausbestand und Luft-Wasser-Wärmepumpe 8–10 kW.
+- **WW** [WDR: Sondergenehmigung für Filmaufnahmen in Fukushima](https://www1.wdr.de/unternehmen/der-wdr/unternehmen/yogeshwarfukushima116.html): Eigene Dokumentation der Produzentin zur TEPCO-Drehgenehmigung, ergänzt die präzise Einordnung als erstes ausländisches Team in Q42.

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "KL-C0004",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "DSnpxR_my-4-A0028",
+    "entryId": null,
+    "description": "Nachfolge zu KL-C0001: Aussage zur Finanzierungslücke vom unbewiesenen politischen Ursachenbeitrag und von privaten Bankentscheidungen abgegrenzt; Folgebezug Issue #31."
+  },
+  "evidence": [
+    {
+      "title": "Originalvideo bei 06:59",
+      "url": "https://www.youtube.com/watch?v=DSnpxR_my-4&t=419s",
+      "accessedOn": "2026-11-26",
+      "finding": "Automatische Originaltextspur, zeitmarkierter Kontext: der Sprecher nennt fehlendes Bankgeld und beschreibt danach eine mögliche politische Erklärung. Die Ebenen werden getrennt beurteilt."
+    },
+    {
+      "title": "Next2Sun: Finanzierung am 18.09.2026",
+      "url": "https://next2sun.com/technologie-gefragt-wie-nie-kapital-knapp-wie-selten-next2sun-kaempft-um-seine-zukunft/",
+      "accessedOn": "2026-11-26",
+      "finding": "Das Unternehmen nennt fehlenden Zugang zu institutioneller Finanzierung und Zurückhaltung der Banken, aber keine Kreditentscheidungen."
+    },
+    {
+      "title": "Next2Sun: Insolvenzanträge am 05.10.2026",
+      "url": "https://next2sun.com/trotz-breiter-unterstuetzung-next2sun-beantragt-insolvenzverfahren-fuer-teile-der-unternehmensgruppe/",
+      "accessedOn": "2026-11-26",
+      "finding": "Nicht genügend verlässlich finanzierter Kapitalbedarf; Anträge betreffen zwei Tochtergesellschaften."
+    }
+  ],
+  "affected": [
+    {
+      "target": "DSnpxR_my-4-A0028",
+      "reason": "Nur die Aussage zum finanziellen Sachstand wird eingegrenzt. Auftragslage und behaupteter politischer Ursachenbeitrag bleiben unverändert."
+    }
+  ],
+  "decision": {
+    "by": "Regel:Einzelkorrektur nach AGENTEN_WISSEN Abschnitt 4",
+    "date": "2026-11-26",
+    "basis": "Zwei öffentliche Eigenmitteilungen dokumentieren den sachlich engeren Finanzierungsmangel; einzelne Bankentscheidungen werden ausdrücklich nicht bestätigt. Nur ein Eintrag ist betroffen, ältere Entscheidung bleibt unverändert dokumentiert. Draft #71, Freigabe vor Veröffentlichung."
+  },
+  "changes": [
+    {
+      "target": "DSnpxR_my-4-A0028",
+      "field": "description",
+      "before": "Next2Sun habe keine ausreichende Bankfinanzierung mehr erhalten.",
+      "after": "Next2Sun erhielt nach eigener öffentlicher Darstellung im Vorfeld des Insolvenzantrags keine ausreichende institutionelle Finanzierung."
+    },
+    {
+      "target": "DSnpxR_my-4-A0028",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Belegt"
+    },
+    {
+      "target": "DSnpxR_my-4-A0028",
+      "field": "reason",
+      "before": "Die Finanzierungslücke ist dokumentiert. Next2Sun bezeichnet institutionelle Finanzierung als nicht zugänglich; die spätere Kampagne deckte den Kapitalbedarf nicht verbindlich. Die auf Banken bezogene Aussage ist als Unternehmensdarstellung gestützt, aber nicht durch offengelegte Kreditentscheidungen unabhängig bestätigt. Das rechtfertigt eine eingeschränkte Bestätigung, keinen eigenständigen Nachweis des gesonderten politischen Ursachenbeitrags.",
+      "after": "Der Sprecher sagt in der Textspur, das Unternehmen bekomme kein Geld mehr von der Bank. Next2Sun selbst meldete am 18. September 2026 starke Zurückhaltung von Banken und den fehlenden Zugang zu institutioneller Finanzierung; am 5. Oktober berichtete es vom verfehlten Finanzierungsvolumen und den Insolvenzanträgen für Teile der Gruppe. Das belegt den engeren öffentlich dokumentierten Finanzierungsmangel nach Unternehmensangaben. Einzelne Kreditentscheidungen oder ein pauschaler Nachweis, dass überhaupt keine Bank Geld gab, sind nicht öffentlich belegt. Die gesonderte politische Kausalbehauptung wird hier nicht nochmals bewertet."
+    },
+    {
+      "target": "DSnpxR_my-4-A0028",
+      "field": "shortReason",
+      "before": "Finanzierungslücke und Unternehmensangabe fehlender institutioneller Finanzierung sind dokumentiert; einzelne Bankentscheidungen bleiben nicht unabhängig geprüft.",
+      "after": null
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Draft #71 als Nachfolge zu KL-C0001 nachvollziehbar korrigiert, keine Live-Veröffentlichung vor Review."
+    }
+  ]
+}

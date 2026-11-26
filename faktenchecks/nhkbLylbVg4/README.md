@@ -1,6 +1,6 @@
 # Greenpeace: Wie Katherina Reiche die Energiewende sabotiert
 
-**Prüfstand: 23.11.2026 · Teilbestand geprüft.** Originalvideo von Greenpeace Deutschland, veröffentlicht am 17.12.2025, Laufzeit 14:56. Bearbeitung: Kai (ChatGPT), mit getrennten Recherche- und Gegenprüfungen.
+**Prüfstand: 26.11.2026 · Teilbestand geprüft.** Originalvideo von Greenpeace Deutschland, veröffentlicht am 17.12.2025, Laufzeit 14:56. Bearbeitung: Kai (ChatGPT), mit getrennten Recherche- und Gegenprüfungen.
 
 Der Beitrag verbindet gut belegte Angaben zu Reiches beruflichen Stationen, wirtschaftlichen Verbindungen und energiepolitischen Maßnahmen mit politischen Wertungen. Die Kritik hat eine überprüfbare Grundlage. Der Nachweis einer gezielten persönlichen Sabotage oder eines bestimmten Entstehungswegs des Ministeriumspapiers geht über die gefundenen Belege hinaus.
 
@@ -36,6 +36,6 @@ Die vollständigen deutschen Untertitel wurden selbstständig direkt von YouTube
 
 Untertitel enthalten Erkennungsfehler. Namen, Zahlen, Datierungen und Zitate wurden deshalb mit Originaldokumenten beziehungsweise den Untertiteln verlinkter Originalaufzeichnungen abgeglichen. Eine vollständige Kontrolle von Originalton, sichtbaren Zitaten, Grafiken, Musik und Schnitt steht aus. Zeitmarken sind ungefähr. Gerade die Datierungs- und Quellenzuordnungsfehler bleiben vor einem vollständigen audiovisuellen Urteil an diese Prüfgrundlage gebunden.
 
-Die vier zuvor offenen historischen beziehungsweise wirtschaftlichen Angaben sind nach zusätzlichen Originalquellen eingeordnet: BDEW-Mandat belegt, VKU-Windforderung und Betreiber-Größenrang teilweise belegt, fossile Milliardengewinne nicht ausreichend belegbar. Fortsetzungsfragen stehen bei den Befunden; ein ungeklärter Milliardenbetrag wird nicht als widerlegt behandelt. Politische Meinungen, Prognosen und distanziert wiedergegebene Reiche-Zitate werden getrennt geführt.
+Die vier zuvor offenen historischen beziehungsweise wirtschaftlichen Angaben sind nach zusätzlichen Originalquellen eingeordnet: BDEW-Mandat belegt, frühere VKU-Windposition belegt, Gewinnmotiv und spartenübergreifender Betreiber-Größenrang offen, fossile Milliardengewinne nicht ausreichend belegbar. Fortsetzungsfragen stehen bei den Befunden; ein ungeklärter Milliardenbetrag wird nicht als widerlegt behandelt. Politische Meinungen, Prognosen und distanziert wiedergegebene Reiche-Zitate werden getrennt geführt.
 
 Faktenindex, Ampel und Prüfabdeckung entstehen ausschließlich aus den gemeinsamen Projektmodulen. Die Abdeckung beschreibt den erfassten Aussagenbestand, nicht vollständig geprüfte Videosekunden. Wiederholungen werden zusammengeführt. Die beiden falschen Jahresangaben erhalten wegen ihrer geringen Bedeutung für die Hauptthese nur geringes Gewicht. Darstellungsbeobachtungen bleiben separate KI-Vorschläge ohne Faktenpunkte.

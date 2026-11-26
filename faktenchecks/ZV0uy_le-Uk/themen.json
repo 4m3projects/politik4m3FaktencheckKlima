@@ -282,6 +282,11 @@
       "date": "2026-11-23",
       "agent": "Codex",
       "change": "Themen bei Ergänzung der Darstellung geprüft: Hinweise betreffen die bereits zugeordneten Sachthemen; keine neuen Tatsachenbehauptungen oder Themen erforderlich."
+    },
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Themen für die drei nachgeprüften Aussage-IDs bestätigt; keine neue öffentliche Kategorie."
     }
   ]
 }

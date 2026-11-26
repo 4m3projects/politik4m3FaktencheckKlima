@@ -17,23 +17,23 @@
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 69,
-      "completedFactPercent": 89.6
+      "completedCount": 72,
+      "completedFactPercent": 93.5
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 8,
-      "completedFactPercent": 10.4
+      "completedCount": 0,
+      "completedFactPercent": 0
     },
     {
       "category": "Irreführend / Kontext fehlt",
-      "completedCount": 0,
-      "completedFactPercent": 0
+      "completedCount": 4,
+      "completedFactPercent": 5.2
     },
     {
       "category": "Widerlegt",
-      "completedCount": 0,
-      "completedFactPercent": 0
+      "completedCount": 1,
+      "completedFactPercent": 1.3
     },
     {
       "category": "Nicht ausreichend belegbar",

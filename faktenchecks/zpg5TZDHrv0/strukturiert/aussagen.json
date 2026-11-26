@@ -6,8 +6,8 @@
     "kind": "Erstprüfung des gesamten Liedverlaufs",
     "asOf": "2026-11-26",
     "durationSeconds": 311,
-    "coverageNote": "Privates Master von 0:00 bis 5:11 mit zwei lokal erzeugten ASR-Fassungen durchgesehen. Erfasst sind die klar erkennbaren eigenständigen Tatsachen, Prognosen und die zentrale politische Wertung. Mehrfach gesungene Aussagen sind zusammengefasst. Unverständliche Ad-libs werden nicht als Tatsachen transkribiert. Keine unabhängige Bildprüfung und kein Abgleich der öffentlichen Audiospur.",
-    "researchNote": "Der Art-Track ist die Referenzfassung. Titel und Video-ID am Original, Umfang und Zeitmarken am eigenen bereitgestellten Master geprüft. Quellen mit Stand bei Veröffentlichung (23.10.2026) eingeordnet; spätere Quellen nur als ausdrücklich gekennzeichnete Nachträge. Hinweise aus dem Klima-Faktencheck 5UboW16rU1w, Kapitel 9, und FUTqodPqWac wurden mit Originalquellen geprüft."
+    "coverageNote": "Privates Master von 0:00 bis 5:11 mit zwei lokal erzeugten ASR-Fassungen durchgesehen. Erfasst sind die klar erkennbaren eigenständigen Tatsachen, Prognosen und die zentrale politische Wertung. Mehrfach gesungene Aussagen sind zusammengefasst. Unverständliche Ad-libs werden nicht als Tatsachen transkribiert. Keine unabhängige Bildprüfung und kein Abgleich der öffentlichen Audiospur. Einzelnachprüfung am 26.11.2026: Eine frühere Teilbewertung bleibt als offene Sachfrage zu standortbezogenen Gesamtkosten sichtbar.",
+    "researchNote": "Der Art-Track ist die Referenzfassung. Titel und Video-ID am Original, Umfang und Zeitmarken am eigenen bereitgestellten Master geprüft. Quellen mit Stand bei Veröffentlichung (23.10.2026) eingeordnet; spätere Quellen nur als ausdrücklich gekennzeichnete Nachträge. Hinweise aus dem Klima-Faktencheck 5UboW16rU1w, Kapitel 9, und FUTqodPqWac wurden mit Originalquellen geprüft. Kai hat die fünf früheren Teilurteile im Zusammenhang der Liedfassung und der jeweils einschlägigen Quellen erneut geprüft; keine unabhängige Zweitprüfung oder neue Hör-/Vollsichtung."
   },
   "speakers": [
     {
@@ -105,6 +105,22 @@
       "details": "Dokumentiert kommerziellen Betrieb von Akademik Lomonosov (Russland) und HTR-PM (China); keine Aussage über die globale Zahl im November 2026.",
       "accessedOn": "2026-11-26",
       "accessBasis": "Originalpublikation, Fachdatenbankeintrag oder offizielle Dokumentseite geprüft."
+    },
+    {
+      "id": "NEA22",
+      "title": "OECD-NEA: The NEA Small Modular Reactor Dashboard, 2nd Edition",
+      "url": "https://harbor.oecd-nea.org/upload/docs/application/pdf/2025-07/7671_the_nea_smr_dashboard_-_second_edition.pdf",
+      "details": "S. 22, Figure 8 und Absatz danach: Kapitalaufwand, Erstanlagen, potenzielle Größenvorteile bei mehrfacher Produktion und ausstehender praktischer Nachweis.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originaltext bzw. Originalpublikation am 26.11.2026 direkt gelesen."
+    },
+    {
+      "id": "BGE26",
+      "title": "BGE: Die Endlagersuche wird konkreter",
+      "url": "https://www.bge.de/de/presse/pressemitteilung/news/2026/10/die-endlagersuche-wird-konkreter",
+      "details": "Arbeitsstand Ende Oktober 2026: weiter betrachtete Flächen unter fünf Prozent; Standortauswahl läuft weiter. Gegenwartsnachtrag, nicht auf den 23.10. zurückdatiert.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originaltext bzw. Originalpublikation am 26.11.2026 direkt gelesen."
     }
   ],
   "claims": [
@@ -213,10 +229,10 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Ein kleiner Reaktor könne absolut weniger Abfall erzeugen, wenn er weniger Strom liefert.",
-      "reason": "Bei gleichem Abfall je erzeugter Stromeinheit ergibt eine geringere Produktion weniger absoluten Abfall. Der Quotient ist aber nicht für alle Reaktordesigns gleich; Leistung in MW und erzeugte Energie in MWh sind nicht dasselbe.",
-      "assessmentBasis": "Paraphrase des Songs. Originalquellen und Aussagegrenzen geprüft.",
+      "verdict": "Belegt",
+      "description": "Ein kleiner Reaktor kann absolut weniger Abfall verursachen; allein aus der Größe folgt kein geringerer Abfall je erzeugter Stromeinheit.",
+      "reason": "Der Song wechselt unmittelbar vom absoluten Abfall zur Bilanz je erzeugter Stromeinheit. Weniger erzeugte MWh ergeben bei gleicher Abfallintensität weniger absoluten Abfall; bei abweichender Abfallintensität entscheidet das Produkt aus Stromertrag und Abfallintensität. Leistung in MW allein sagt beides nicht. Der Vergleich von Krall et al. untersucht die Intensität für drei Beispielentwürfe, nicht die absolute Menge aller kleinen Reaktoren. A0003 prüft separat die anschließende empirische Aussage über einzelne Entwürfe.",
+      "assessmentBasis": "Paraphrase des Songs. Originalquellen und Aussagegrenzen geprüft. Einzelnachprüfung Kai (26.11.2026): privater zeitmarkierter Liedtext im Zusammenhang erneut gelesen, automatische Worterkennung als Suchhilfe; keine neue audiovisuelle Vollprüfung.",
       "occurrences": [
         {
           "startSeconds": 37,
@@ -241,7 +257,24 @@
         }
       ],
       "openQuestions": [],
-      "shortReason": "Weniger erzeugter Strom kann weniger absoluten Abfall bedeuten; der Abfall je MWh hängt vom Entwurf und Abfallstrom ab."
+      "factIndex": {
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt"
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt"
+            },
+            "reason": "Der Song wechselt unmittelbar vom absoluten Abfall zur Bilanz je erzeugter Stromeinheit. Weniger erzeugte MWh ergeben bei gleicher Abfallintensität weniger absoluten Abfall; bei abweichender Abfallintensität entscheidet das Produkt aus Stromertrag und Abfallintensität. Leistung in MW allein sagt beides nicht. Der Vergleich von Krall et al. untersucht die Intensität für drei Beispielentwürfe, nicht die absolute Menge aller kleinen Reaktoren. A0003 prüft separat die anschließende empirische Aussage über einzelne Entwürfe."
+          }
+        ]
+      }
     },
     {
       "id": "zpg5TZDHrv0-A0003",
@@ -391,11 +424,11 @@
       "id": "zpg5TZDHrv0-A0006",
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
-      "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "status": "Offen",
+      "verdict": null,
       "description": "Viele getrennte Standorte erhöhen gegenüber einem Standort den Aufwand für Kontrolle und Bewachung.",
-      "reason": "Bei getrennten Standorten sind standortspezifische Anforderungen zu berücksichtigen. Die Zahl im Song ist hypothetisch. Die Quellen belegen keine allgemeingültigen Mehrkosten und keinen pauschalen Sicherheitsnachteil für jede Konfiguration; mehrere Module können denselben Standort nutzen.",
-      "assessmentBasis": "Paraphrase des Songs. Originalquellen und Aussagegrenzen geprüft.",
+      "reason": "Im hypothetischen Vergleich vieler Standorte mit einem Standort legt der Song höhere Bewachungs- und Kontrollkosten nahe. Die kanadische Aufsicht verlangt standortbezogene Nachweise und erläutert zugleich skalierbare Anforderungen; Darlington zeigt, dass mehrere Module an einem Standort möglich sind. Damit sind separate Aufgaben plausibel, aber die aufsummierten Kosten im Vergleich zu einem gleich leistungsfähigen Einzelstandort nicht nachgewiesen. Die belegte allgemeine Sicherungspflicht zählt bereits in A0005.",
+      "assessmentBasis": "Paraphrase des Songs. Originalquellen und Aussagegrenzen geprüft. Einzelnachprüfung Kai (26.11.2026): privater zeitmarkierter Liedtext im Zusammenhang erneut gelesen, automatische Worterkennung als Suchhilfe; keine neue audiovisuelle Vollprüfung.",
       "occurrences": [
         {
           "startSeconds": 97,
@@ -423,8 +456,27 @@
           "note": "Baugenehmigung vom April 2025 für eine Einheit; Antrag auf Betriebsgenehmigung 2026."
         }
       ],
-      "openQuestions": [],
-      "shortReason": "Weitere Standorte brauchen eigene Nachweise; ein allgemeiner Kosten- oder Sicherheitsmultiplikator ist daraus nicht ableitbar."
+      "openQuestions": [
+        "Gibt es nachvollziehbare Aufwands- und Kostendaten für sonst vergleichbare Einheiten bei verteilter und gebündelter Standortwahl?"
+      ],
+      "factIndex": {
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt"
+            },
+            "next": {
+              "status": "Offen",
+              "verdict": null
+            },
+            "reason": "Im hypothetischen Vergleich vieler Standorte mit einem Standort legt der Song höhere Bewachungs- und Kontrollkosten nahe. Die kanadische Aufsicht verlangt standortbezogene Nachweise und erläutert zugleich skalierbare Anforderungen; Darlington zeigt, dass mehrere Module an einem Standort möglich sind. Damit sind separate Aufgaben plausibel, aber die aufsummierten Kosten im Vergleich zu einem gleich leistungsfähigen Einzelstandort nicht nachgewiesen. Die belegte allgemeine Sicherungspflicht zählt bereits in A0005."
+          }
+        ]
+      }
     },
     {
       "id": "zpg5TZDHrv0-A0007",
@@ -529,10 +581,10 @@
       "chapter": 3,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Die erste Anlage kann besonders teuer sein; zwei Anlagen reichen nicht als Beleg für wirtschaftliche Massenfertigung.",
-      "reason": "Pilot-, Genehmigungs- und Einführungsaufwand sind projektspezifisch. Darlington und das abgebrochene US-Projekt sind Beispiele für unterschiedliche Entwicklungsstände. Ein universeller Mindestwert für Stückzahlen oder ein Kostenvergleich pro kWh folgt daraus nicht.",
-      "assessmentBasis": "Paraphrase des Songs. Originalquellen und Aussagegrenzen geprüft.",
+      "verdict": "Belegt",
+      "description": "Erstprojekte können mit hohem Investitionsaufwand verbunden sein; aus einer zweiten Anlage allein folgt kein belastbarer Nachweis wirtschaftlicher Serienfertigung.",
+      "reason": "Die OECD-NEA erläutert auf S. 22 die mögliche Kostensenkung durch wiederholten Bau desselben Designs sowie die noch im Erstprojekt zu erprobenden Ansätze. Darlington hatte zum Stichtag eine Baugenehmigung für eine Einheit; UAMPS und NuScale beendeten ihr Projekt wegen erwartbar unzureichender Abnahme. Der Song behauptet hier keine gemessenen Mehrkosten jedes Erstprojekts und nennt keine allgemeine wirtschaftliche Mindeststückzahl.",
+      "assessmentBasis": "Paraphrase des Songs. Originalquellen und Aussagegrenzen geprüft. Einzelnachprüfung Kai (26.11.2026): privater zeitmarkierter Liedtext im Zusammenhang erneut gelesen, automatische Worterkennung als Suchhilfe; keine neue audiovisuelle Vollprüfung.",
       "occurrences": [
         {
           "startSeconds": 147,
@@ -558,10 +610,31 @@
         {
           "sourceId": "U",
           "note": "Gemeinsame Beendigung mit NuScale am 8. November 2023."
+        },
+        {
+          "sourceId": "NEA22",
+          "note": "In der Einzelnachprüfung am 26.11.2026 gelesene Originalquelle; Fundstelle im Quellenverzeichnis."
         }
       ],
       "openQuestions": [],
-      "shortReason": "Erstprojekte sind kein Beleg für spätere Serienkosten; die nötige Stückzahl hängt vom Projekt ab."
+      "factIndex": {
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt"
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt"
+            },
+            "reason": "Die OECD-NEA erläutert auf S. 22 die mögliche Kostensenkung durch wiederholten Bau desselben Designs sowie die noch im Erstprojekt zu erprobenden Ansätze. Darlington hatte zum Stichtag eine Baugenehmigung für eine Einheit; UAMPS und NuScale beendeten ihr Projekt wegen erwartbar unzureichender Abnahme. Der Song behauptet hier keine gemessenen Mehrkosten jedes Erstprojekts und nennt keine allgemeine wirtschaftliche Mindeststückzahl."
+          }
+        ]
+      }
     },
     {
       "id": "zpg5TZDHrv0-A0010",
@@ -666,10 +739,10 @@
       "chapter": 3,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "verdict": "Belegt",
       "description": "Ein allgemeiner Nachweis für günstigen SMR-Strom aus Massenproduktion steht noch aus.",
-      "reason": "Der NEA-Projektstand unterscheidet Entwicklungsreife und Betrieb. Ein US-Projekt wurde beendet, ein kanadisches befindet sich im Genehmigungs- und Bauprozess. Der OPG-Bericht vom November ist nur ein späteres Update, kein Befund zum Veröffentlichungsdatum. Bestehender Betrieb einzelner Anlagen beweist keinen generellen Preisvorteil.",
-      "assessmentBasis": "Paraphrase des Songs. Originalquellen und Aussagegrenzen geprüft.",
+      "reason": "Gemeint sind bereits praktisch belegte Kostenvorteile für Strom aus der Massenfertigung, nicht die Existenz einzelner betriebsfähiger SMR. Die OECD-NEA trennt auf S. 22 erwartete Serienvorteile von deren praktischem Nachweis. Genehmigung und Bau bei Darlington, das beendete US-Projekt und einzelne bereits betriebene Anlagen belegen noch keine solche breite Kostenbilanz. Das ist der dokumentierte Stand zum Song, keine Aussage, dass SMR-Strom in jeder Anwendung teuer sein muss.",
+      "assessmentBasis": "Paraphrase des Songs. Originalquellen und Aussagegrenzen geprüft. Einzelnachprüfung Kai (26.11.2026): privater zeitmarkierter Liedtext im Zusammenhang erneut gelesen, automatische Worterkennung als Suchhilfe; keine neue audiovisuelle Vollprüfung.",
       "occurrences": [
         {
           "startSeconds": 192,
@@ -703,10 +776,31 @@
         {
           "sourceId": "O",
           "note": "Nachtrag nach Songrelease: Oktober 2030 wird für Einheit 1 nicht mehr erwartet; Projekttermin und Kosten werden überprüft."
+        },
+        {
+          "sourceId": "NEA22",
+          "note": "In der Einzelnachprüfung am 26.11.2026 gelesene Originalquelle; Fundstelle im Quellenverzeichnis."
         }
       ],
       "openQuestions": [],
-      "shortReason": "Konkrete Projekte und einzelne Betriebsbeispiele sind kein Nachweis für generell günstigeren Strom aus einer Massenserie."
+      "factIndex": {
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt"
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt"
+            },
+            "reason": "Gemeint sind bereits praktisch belegte Kostenvorteile für Strom aus der Massenfertigung, nicht die Existenz einzelner betriebsfähiger SMR. Die OECD-NEA trennt auf S. 22 erwartete Serienvorteile von deren praktischem Nachweis. Genehmigung und Bau bei Darlington, das beendete US-Projekt und einzelne bereits betriebene Anlagen belegen noch keine solche breite Kostenbilanz. Das ist der dokumentierte Stand zum Song, keine Aussage, dass SMR-Strom in jeder Anwendung teuer sein muss."
+          }
+        ]
+      }
     },
     {
       "id": "zpg5TZDHrv0-A0013",
@@ -751,10 +845,10 @@
       "chapter": 4,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Der Bau eines kleinen Reaktors löst das ungelöste Endlagerproblem nicht.",
-      "reason": "Für hochradioaktive Abfälle in Deutschland ist weiterhin eine Standortauswahl erforderlich. Das ist keine Behauptung, dass weltweit keine konkreten Endlagerprojekte existieren oder dass es kein technisches Entsorgungskonzept gibt.",
-      "assessmentBasis": "Paraphrase des Songs. Originalquellen und Aussagegrenzen geprüft.",
+      "verdict": "Belegt",
+      "description": "Ein kleiner Reaktor ersetzt für seine hochradioaktiven Abfälle kein Endlager; die deutsche Standortsuche bleibt davon unberührt.",
+      "reason": "Das Lied behauptet nicht, weltweit gebe es keine Endlagerkonzepte oder Projekte. Es weist auf die fortbestehende Entsorgungspflicht hin: Auch kleinere Reaktoren können hochradioaktive Abfälle erzeugen, deren Endlagerung der Reaktorbau nicht ersetzt. Die BGE dokumentiert eine laufende Standortauswahl in Deutschland; ihr veröffentlichter Arbeitsstand von Ende Oktober bestätigt auch nach dem Songrelease, dass der Standort noch nicht feststeht.",
+      "assessmentBasis": "Paraphrase des Songs. Originalquellen und Aussagegrenzen geprüft. Einzelnachprüfung Kai (26.11.2026): privater zeitmarkierter Liedtext im Zusammenhang erneut gelesen, automatische Worterkennung als Suchhilfe; keine neue audiovisuelle Vollprüfung.",
       "occurrences": [
         {
           "startSeconds": 232,
@@ -780,10 +874,31 @@
         {
           "sourceId": "K",
           "note": "Energiebezogener Modellvergleich für drei Entwürfe gegen einen 1.100-MW-Reaktor; Abfallströme getrennt. DOI 10.1073/pnas.2111833119."
+        },
+        {
+          "sourceId": "BGE26",
+          "note": "In der Einzelnachprüfung am 26.11.2026 gelesene Originalquelle; Fundstelle im Quellenverzeichnis."
         }
       ],
       "openQuestions": [],
-      "shortReason": "Deutschland hat noch keinen ausgewählten Standort für sein Endlager für hochradioaktive Abfälle."
+      "factIndex": {
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt"
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt"
+            },
+            "reason": "Das Lied behauptet nicht, weltweit gebe es keine Endlagerkonzepte oder Projekte. Es weist auf die fortbestehende Entsorgungspflicht hin: Auch kleinere Reaktoren können hochradioaktive Abfälle erzeugen, deren Endlagerung der Reaktorbau nicht ersetzt. Die BGE dokumentiert eine laufende Standortauswahl in Deutschland; ihr veröffentlichter Arbeitsstand von Ende Oktober bestätigt auch nach dem Songrelease, dass der Standort noch nicht feststeht."
+          }
+        ]
+      }
     }
   ]
 }

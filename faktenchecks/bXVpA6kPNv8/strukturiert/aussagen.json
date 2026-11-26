@@ -4,10 +4,10 @@
     "videoId": "bXVpA6kPNv8",
     "videoUrl": "https://www.youtube.com/watch?v=bXVpA6kPNv8",
     "kind": "Vollständige Captionlektüre; quellengeprüfter Teilbestand wesentlicher Aussagen",
-    "asOf": "2026-11-25",
+    "asOf": "2026-11-26",
     "durationSeconds": 933,
     "coverageNote": "Deutsche Automatikuntertitel über die gesamte Laufzeit gelesen und mit dem Nutzertranskript sowie Redaktionsskript abgeglichen. Die erfassten Aussagen bilden alle Sachkapitel ab. Originalton, Einblendungen, Ausschnitte und Schnitt wurden nicht vollständig audiovisuell kontrolliert. Die berechnete Prüfabdeckung bezieht sich ausschließlich auf die erfassten Aussagen. Alle Sachkapitel sind erfasst; dies beansprucht nicht die separate Erfassung jeder Selbstreferenz oder jeder Behauptung über Kommentarreaktionen.",
-    "researchNote": "Infraschall, Brände, Insekten und Begleitangaben in getrennten Recherchepaketen geprüft; wichtige Schlussfolgerungen unabhängig gegengelesen. Private Brandlisten, einzelne historische Vorgänge und uneindeutige Projektprognosen bleiben offen. Verwendete Quellen tatsächlich gelesen, Quellenliste allein ist kein Beweis. Bedeutung nach Argumentationsrolle ohne Zielindex bestimmt; gemeinsame Standardanteile unverändert. Vollständiger Bild-/Tonabgleich steht aus."
+    "researchNote": "Infraschall, Brände, Insekten und Begleitangaben in getrennten Recherchepaketen geprüft; wichtige Schlussfolgerungen unabhängig gegengelesen. Private Brandlisten, einzelne historische Vorgänge und uneindeutige Projektprognosen bleiben offen. Verwendete Quellen tatsächlich gelesen, Quellenliste allein ist kein Beweis. Bedeutung nach Argumentationsrolle ohne Zielindex bestimmt; gemeinsame Standardanteile unverändert. Vollständiger Bild-/Tonabgleich steht aus. Kai hat am 26.11.2026 die vier früheren Teilurteile am Original-Redaktionsskript und den entscheidenden Sachquellen erneut geprüft. Die eigenständige Waldschutz-Aussage wurde als A0049 getrennt."
   },
   "speakers": [
     {
@@ -622,6 +622,14 @@
       "accessBasis": "Veröffentlichter Autorenabstract: Zusammenhang zwischen berechneten Windturbinengeräuschpegeln und berichteter Belästigung; keine klinische Prüfung eines Syndroms.",
       "kind": "Originalstudie, Abstract geprüft",
       "accessedOn": "2026-11-25"
+    },
+    {
+      "id": "F-NAT",
+      "title": "§ 26 BNatSchG: Landschaftsschutzgebiete",
+      "url": "https://www.gesetze-im-internet.de/bnatschg_2009/__26.html",
+      "details": "Abs. 3: Windenergiegebiete in Landschaftsschutzgebieten können zulässig sein; die Ausnahme vom Schutz gilt nicht für Natura-2000-Gebiete und Welterbestätten. Kein allgemeines Altersverbot.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Amtlicher Gesetzestext online, Absatz 3 direkt gelesen."
     }
   ],
   "claims": [
@@ -1211,8 +1219,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
       "description": "Große Langzeitstudien mit Hunderttausenden Anwohnern hätten keinen Hinweis gefunden, dass die Nähe zu Windenergieanlagen krank macht.",
-      "reason": "Die großen Stichproben und überwiegenden Nullbefunde stimmen. Die niederländische Untersuchung mit jährlich 350.000–560.000 Personen fand keine konsistenten Entfernungsassoziationen, bei modellierten Pegeln über 42 dB Lden aber in späteren Jahren mehr Schmerzmittelverordnungen. Die US-Studie untersucht über 120.000 Haushalte, überwiegend bei größeren Entfernungen, und begrenzt die Aussagekraft im Nahbereich. Das belegt weder einen kausalen Gesundheitsschaden noch eine Wirkung speziell von Infraschall, begrenzt jedoch die pauschale Formulierung.",
-      "assessmentBasis": "Vollständige deutsche Originalcaptions mit Nutzertranskript und Redaktionsskript abgeglichen; Sachprüfung anhand der zugeordneten Originalquellen und ihrer Reichweite. Eigene Paraphrase, ungefähre Zeitposition; keine audiovisuelle Vollkontrolle.",
+      "reason": "Der Ersteller fasst die nahe gelegenen Anlagen betreffende Studienlage ohne jeden Hinweis auf Gesundheitseffekte zusammen. Die meisten Auswertungen finden keine konsistente Verbindung mit der Entfernung. Baliatsas et al. finden jedoch bei modelliertem Windradgeräusch über 42 dB Lden in späteren Jahren erhöhte Verordnungen von Schmerzmitteln. Einzelne Assoziationen und die begrenzte Nahbereichsstichprobe erlauben keinen Schluss auf kausale Schäden oder auf Infraschall als Ursache. Sie machen die pauschale Entwarnung stärker als die Studienbefunde.",
+      "assessmentBasis": "Vollständige deutsche Originalcaptions mit Nutzertranskript und Redaktionsskript abgeglichen; Sachprüfung anhand der zugeordneten Originalquellen und ihrer Reichweite. Eigene Paraphrase, ungefähre Zeitposition; keine audiovisuelle Vollkontrolle. Einzelnachprüfung Kai am 26.11.2026: Original-Redaktionsskript direkt gelesen und die jeweils entscheidenden Sachquellen gegengeprüft; Videomarken nicht neu kontrolliert.",
       "occurrences": [
         {
           "startSeconds": 153,
@@ -1271,11 +1279,23 @@
               "IF07"
             ],
             "result": "Die großen Stichproben und überwiegenden Nullbefunde stimmen. Die niederländische Untersuchung mit jährlich 350.000–560.000 Personen fand keine konsistenten Entfernungsassoziationen, bei modellierten Pegeln über 42 dB Lden aber in späteren Jahren mehr Schmerzmittelverordnungen. Die US-Studie untersucht über 120.000 Haushalte, überwiegend bei größeren Entfernungen, und begrenzt die Aussagekraft im Nahbereich. Das belegt weder einen kausalen Gesundheitsschaden noch eine Wirkung speziell von Infraschall, begrenzt jedoch die pauschale Formulierung."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Ersteller-Manuskript und Originalfundstellen abgeglichen; keine neue audiovisuelle Vollsichtung.",
+            "sourceIds": [
+              "V001",
+              "V002",
+              "IF05",
+              "IF06",
+              "IF07"
+            ],
+            "result": "Der Ersteller fasst die nahe gelegenen Anlagen betreffende Studienlage ohne jeden Hinweis auf Gesundheitseffekte zusammen. Die meisten Auswertungen finden keine konsistente Verbindung mit der Entfernung. Baliatsas et al. finden jedoch bei modelliertem Windradgeräusch über 42 dB Lden in späteren Jahren erhöhte Verordnungen von Schmerzmitteln. Einzelne Assoziationen und die begrenzte Nahbereichsstichprobe erlauben keinen Schluss auf kausale Schäden oder auf Infraschall als Ursache. Sie machen die pauschale Entwarnung stärker als die Studienbefunde."
           }
         ]
       },
-      "verdict": "Teilweise belegt",
-      "shortReason": "Die Studien zeigen überwiegend Nullbefunde, enthalten aber Einschränkungen und einzelne Zusammenhänge; eine umfassende Entwarnung für jede Windradnähe folgt daraus nicht.",
+      "verdict": "Irreführend / Kontext fehlt",
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Große Beobachtungsstudien sind eine tragende Begründung des Infraschallkapitels. Bedeutung nach Argumentationsrolle beurteilt; das Faktenurteil war bei der Gewichtung bereits bekannt.",
@@ -1300,9 +1320,24 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Im vollständig gelesenen Captionkontext bestätigt: Große Beobachtungsstudien sind eine tragende Begründung des Infraschallkapitels."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "verdict/description",
+            "previous": {
+              "verdict": "Teilweise belegt",
+              "description": "Große Langzeitstudien mit Hunderttausenden Anwohnern hätten keinen Hinweis gefunden, dass die Nähe zu Windenergieanlagen krank macht."
+            },
+            "next": {
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Große Langzeitstudien mit Hunderttausenden Anwohnern hätten keinen Hinweis gefunden, dass die Nähe zu Windenergieanlagen krank macht."
+            },
+            "reason": "Der Ersteller fasst die nahe gelegenen Anlagen betreffende Studienlage ohne jeden Hinweis auf Gesundheitseffekte zusammen. Die meisten Auswertungen finden keine konsistente Verbindung mit der Entfernung. Baliatsas et al. finden jedoch bei modelliertem Windradgeräusch über 42 dB Lden in späteren Jahren erhöhte Verordnungen von Schmerzmitteln. Einzelne Assoziationen und die begrenzte Nahbereichsstichprobe erlauben keinen Schluss auf kausale Schäden oder auf Infraschall als Ursache. Sie machen die pauschale Entwarnung stärker als die Studienbefunde."
           }
         ]
-      }
+      },
+      "shortReason": "Überwiegend keine konsistenten Zusammenhänge, aber einzelne Befunde bei höherem modelliertem Windradgeräusch."
     },
     {
       "id": "bXVpA6kPNv8-A0008",
@@ -2435,9 +2470,9 @@
       "chapter": 3,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "description": "Zum Erreichen der Energieziele müssten Regionen Waldstandorte erwägen; besonders geschützte und alte Wälder seien ausgenommen.",
-      "reason": "Die Fachagentur beschreibt die zunehmende Bedeutung von Forstflächen für den Ausbau, besonders in waldreichen Ländern. Die beiläufige Ausnahme besonders geschützter und alter Wälder ist als pauschale bundesweite Regel zu ungenau: Einschränkungen unterscheiden sich nach Schutzkategorie, Bundesland, Artenbestand und Einzelfall. Nicht jeder alte Wald ist allein wegen seines Alters rechtlich ausgeschlossen. Hier werden keine historischen Einzelvorschriften als heutiger allgemeiner Rechtsrat übernommen.",
-      "assessmentBasis": "Vollständige deutsche Originalcaptions mit Nutzertranskript und Redaktionsskript abgeglichen; Sachprüfung anhand der zugeordneten Originalquellen und ihrer Reichweite. Eigene Paraphrase, ungefähre Zeitposition; keine audiovisuelle Vollkontrolle.",
+      "description": "Für den Windenergieausbau ziehen insbesondere waldreiche Regionen zunehmend geeignete Forstflächen in Betracht.",
+      "reason": "Das Redaktionsskript spricht von zunehmender Berücksichtigung, nicht einer Pflicht jeder Kommune. Die Fachagentur dokumentiert Ende 2025 insgesamt 2.653 Forststandorte, starke regionale Unterschiede und die Rolle länderspezifischer Planung. Das belegt die praktische Bedeutung der Flächen, nicht eine bundesweit einheitliche Pflicht oder die Notwendigkeit jedes einzelnen Standorts. Die behauptete Schutzgebietsausnahme ist separat A0049.",
+      "assessmentBasis": "Vollständige deutsche Originalcaptions mit Nutzertranskript und Redaktionsskript abgeglichen; Sachprüfung anhand der zugeordneten Originalquellen und ihrer Reichweite. Eigene Paraphrase, ungefähre Zeitposition; keine audiovisuelle Vollkontrolle. Einzelnachprüfung Kai am 26.11.2026: Original-Redaktionsskript direkt gelesen und die jeweils entscheidenden Sachquellen gegengeprüft; Videomarken nicht neu kontrolliert.",
       "occurrences": [
         {
           "startSeconds": 472,
@@ -2484,11 +2519,21 @@
               "F02"
             ],
             "result": "Die Fachagentur beschreibt die zunehmende Bedeutung von Forstflächen für den Ausbau, besonders in waldreichen Ländern. Die beiläufige Ausnahme besonders geschützter und alter Wälder ist als pauschale bundesweite Regel zu ungenau: Einschränkungen unterscheiden sich nach Schutzkategorie, Bundesland, Artenbestand und Einzelfall. Nicht jeder alte Wald ist allein wegen seines Alters rechtlich ausgeschlossen. Hier werden keine historischen Einzelvorschriften als heutiger allgemeiner Rechtsrat übernommen."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Ersteller-Manuskript und Originalfundstellen abgeglichen; keine neue audiovisuelle Vollsichtung.",
+            "sourceIds": [
+              "V001",
+              "V002",
+              "F02"
+            ],
+            "result": "Das Redaktionsskript spricht von zunehmender Berücksichtigung, nicht einer Pflicht jeder Kommune. Die Fachagentur dokumentiert Ende 2025 insgesamt 2.653 Forststandorte, starke regionale Unterschiede und die Rolle länderspezifischer Planung. Das belegt die praktische Bedeutung der Flächen, nicht eine bundesweit einheitliche Pflicht oder die Notwendigkeit jedes einzelnen Standorts. Die behauptete Schutzgebietsausnahme ist separat A0049."
           }
         ]
       },
-      "verdict": "Teilweise belegt",
-      "shortReason": "Waldstandorte sind relevant; ein bundesweit pauschaler Ausschluss sämtlicher alter oder geschützter Wälder lässt sich daraus nicht ableiten.",
+      "verdict": "Belegt",
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Standort- und Schutzgebietsaussage im Waldbrandabschnitt. Bedeutung nach Argumentationsrolle beurteilt; das Faktenurteil war bei der Gewichtung bereits bekannt.",
@@ -2513,6 +2558,20 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Im vollständig gelesenen Captionkontext bestätigt: Eigenständige Standort- und Schutzgebietsaussage im Waldbrandabschnitt."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "verdict/description",
+            "previous": {
+              "verdict": "Teilweise belegt",
+              "description": "Zum Erreichen der Energieziele müssten Regionen Waldstandorte erwägen; besonders geschützte und alte Wälder seien ausgenommen."
+            },
+            "next": {
+              "verdict": "Belegt",
+              "description": "Für den Windenergieausbau ziehen insbesondere waldreiche Regionen zunehmend geeignete Forstflächen in Betracht."
+            },
+            "reason": "Das Redaktionsskript spricht von zunehmender Berücksichtigung, nicht einer Pflicht jeder Kommune. Die Fachagentur dokumentiert Ende 2025 insgesamt 2.653 Forststandorte, starke regionale Unterschiede und die Rolle länderspezifischer Planung. Das belegt die praktische Bedeutung der Flächen, nicht eine bundesweit einheitliche Pflicht oder die Notwendigkeit jedes einzelnen Standorts. Die behauptete Schutzgebietsausnahme ist separat A0049."
           }
         ]
       }
@@ -3696,9 +3755,9 @@
       "chapter": 5,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "description": "Andere Forschende kritisierten die Datengrundlage; Insektendichten beruhten auf Radardaten aus Schleswig-Holstein und Südengland.",
-      "reason": "Die Kritik an einer räumlich und methodisch begrenzten Datengrundlage ist nachvollziehbar. Der DLR-Bericht bezieht die Insektendichte aus Flugzeugfallen über Schleswig-Holstein 1998–2004, nicht aus dortigen Radarmessungen. Südenglische Radararbeiten werden unter anderem für Masseannahmen und einen begrenzten Vergleich herangezogen. Das Video vermischt damit Methode und Funktion verschiedener Datensätze; die grundsätzliche Forderung nach besseren Messungen bleibt richtig.",
-      "assessmentBasis": "Vollständige deutsche Originalcaptions mit Nutzertranskript und Redaktionsskript abgeglichen; Sachprüfung anhand der zugeordneten Originalquellen und ihrer Reichweite. Eigene Paraphrase, ungefähre Zeitposition; keine audiovisuelle Vollkontrolle.",
+      "description": "Die Insektendichte in der DLR-Modellrechnung beruhe auf Radardaten aus Schleswig-Holstein und Südengland.",
+      "reason": "Der DLR-Abschlussbericht nennt im Abschnitt zur Insektendichte (S. 16, Tabelle 4; ergänzend S. 24) Fangvorrichtungen an Flugzeugen über Schleswig-Holstein (1998–2004), nicht Radar. Südenglische Daten dienen u. a. dem Vergleich von Größenordnungen; der Bericht warnt ausdrücklich vor einer direkten Übertragung. Damit ist die konkrete Methodenangabe widerlegt. Die benachbarte Kritik an der schmalen Datenbasis bleibt davon unberührt und wird nicht als zweiter Beleg für denselben Methodenbefund gezählt.",
+      "assessmentBasis": "Vollständige deutsche Originalcaptions mit Nutzertranskript und Redaktionsskript abgeglichen; Sachprüfung anhand der zugeordneten Originalquellen und ihrer Reichweite. Eigene Paraphrase, ungefähre Zeitposition; keine audiovisuelle Vollkontrolle. Einzelnachprüfung Kai am 26.11.2026: Original-Redaktionsskript direkt gelesen und die jeweils entscheidenden Sachquellen gegengeprüft; Videomarken nicht neu kontrolliert.",
       "occurrences": [
         {
           "startSeconds": 738,
@@ -3757,11 +3816,23 @@
               "IN03"
             ],
             "result": "Die Kritik an einer räumlich und methodisch begrenzten Datengrundlage ist nachvollziehbar. Der DLR-Bericht bezieht die Insektendichte aus Flugzeugfallen über Schleswig-Holstein 1998–2004, nicht aus dortigen Radarmessungen. Südenglische Radararbeiten werden unter anderem für Masseannahmen und einen begrenzten Vergleich herangezogen. Das Video vermischt damit Methode und Funktion verschiedener Datensätze; die grundsätzliche Forderung nach besseren Messungen bleibt richtig."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Ersteller-Manuskript und Originalfundstellen abgeglichen; keine neue audiovisuelle Vollsichtung.",
+            "sourceIds": [
+              "V001",
+              "V002",
+              "IN01",
+              "IN02",
+              "IN03"
+            ],
+            "result": "Der DLR-Abschlussbericht nennt im Abschnitt zur Insektendichte (S. 16, Tabelle 4; ergänzend S. 24) Fangvorrichtungen an Flugzeugen über Schleswig-Holstein (1998–2004), nicht Radar. Südenglische Daten dienen u. a. dem Vergleich von Größenordnungen; der Bericht warnt ausdrücklich vor einer direkten Übertragung. Damit ist die konkrete Methodenangabe widerlegt. Die benachbarte Kritik an der schmalen Datenbasis bleibt davon unberührt und wird nicht als zweiter Beleg für denselben Methodenbefund gezählt."
           }
         ]
       },
-      "verdict": "Teilweise belegt",
-      "shortReason": "Die regional begrenzte Datenbasis ist richtig beschrieben; Schleswig-Holstein lieferte jedoch Fangflug- statt Radardaten, und Südengland hatte eine andere Funktion.",
+      "verdict": "Widerlegt",
       "factIndex": {
         "weight": 1,
         "weightReason": "Die Datenherkunft wird als weiterer Grund für die schwache Modellbasis angeführt. Normale selbstständige Kritik statt bibliografischer Nebenangabe: 1,0, unterhalb der Hauptbelege. Redaktionelle Abwägung: Der Kontext zeigt diese Argumentationsrolle deutlicher als die anfängliche Einordnung; deshalb wurde der begründete Vorschlag übernommen. Faktenurteil war bekannt, kein Zielindex.",
@@ -3769,12 +3840,6 @@
         "assessedBy": "Kai – Redaktion",
         "assessedOn": "2026-11-23",
         "assessedBeforeVerdict": false,
-        "shares": {
-          "p": 0.75,
-          "f": 0.25,
-          "u": 0
-        },
-        "sharesReason": "Die Aussage über die regional begrenzte und kritisierte Datengrundlage stimmt überwiegend. Die Zuordnung von Messmethode und Funktion ist konkret falsch, nicht ungeklärt. Der abgrenzbare Methodenteil wird deshalb mit dem projektüblichen Viertelanteil als f erfasst; keine empirisch gemessene Wahrheitsquote.",
         "history": [
           {
             "date": "2026-11-23",
@@ -3807,6 +3872,26 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Separate Schlussbestätigung nach dokumentierter Abweichung und Änderung."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "verdict/description",
+            "previous": {
+              "verdict": "Teilweise belegt",
+              "description": "Andere Forschende kritisierten die Datengrundlage; Insektendichten beruhten auf Radardaten aus Schleswig-Holstein und Südengland.",
+              "shares": {
+                "p": 0.75,
+                "f": 0.25,
+                "u": 0
+              },
+              "sharesReason": "Die Aussage über die regional begrenzte und kritisierte Datengrundlage stimmt überwiegend. Die Zuordnung von Messmethode und Funktion ist konkret falsch, nicht ungeklärt. Der abgrenzbare Methodenteil wird deshalb mit dem projektüblichen Viertelanteil als f erfasst; keine empirisch gemessene Wahrheitsquote."
+            },
+            "next": {
+              "verdict": "Widerlegt",
+              "description": "Die Insektendichte in der DLR-Modellrechnung beruhe auf Radardaten aus Schleswig-Holstein und Südengland."
+            },
+            "reason": "Der DLR-Abschlussbericht nennt im Abschnitt zur Insektendichte (S. 16, Tabelle 4; ergänzend S. 24) Fangvorrichtungen an Flugzeugen über Schleswig-Holstein (1998–2004), nicht Radar. Südenglische Daten dienen u. a. dem Vergleich von Größenordnungen; der Bericht warnt ausdrücklich vor einer direkten Übertragung. Damit ist die konkrete Methodenangabe widerlegt. Die benachbarte Kritik an der schmalen Datenbasis bleibt davon unberührt und wird nicht als zweiter Beleg für denselben Methodenbefund gezählt."
           }
         ],
         "reviews": [
@@ -3831,7 +3916,8 @@
             "reason": "Zusätzliche Anteilsprüfung: Die tatsächlich gespeicherten Anteile p=0,75/f=0,25/u=0 und ihre Begründung entsprechen dem unabhängig bestätigten Vorschlag: gestützter Kern der regionalen Modellkritik, konkret falsche Messmethode/Funktion als f statt u. Der Viertelanteil ist transparent als redaktionelle Rubrik statt gemessene Wahrheitsquote erläutert. Änderungsgeschichte bleibt erhalten."
           }
         ]
-      }
+      },
+      "shortReason": "Die DLR-Dichtebasis in Schleswig-Holstein stammt aus Fangflügen, nicht aus Radarmessungen."
     },
     {
       "id": "bXVpA6kPNv8-A0033",
@@ -4447,9 +4533,9 @@
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "description": "Gezielte Infraschall-Experimente hätten keine Effekte gefunden. Im Fazit folgert der Moderator aus der Studienlage: Nach allem bisherigen Wissen schade Infraschall von Windrädern uns nicht.",
-      "reason": "Kontrollierte Studien finden überwiegend keine Verschlechterung der untersuchten Symptome, Schlaf- und Verhaltensmaße. Die zitierte Pilotstudie Ascone 2021 (38 Personen, 28 Nächte, 6 Hz bei 80–90 dB) berichtet jedoch regionale MRT-Volumenänderungen; deren klinische Bedeutung bleibt ausdrücklich ungeklärt. Marshall 2023 findet bei 37 lärmempfindlichen gesunden Erwachsenen nach 72 Stunden keine schädlichen Effekte in den erfassten Endpunkten. Kein nachgewiesener Gesundheitsschaden ist deshalb präziser als überhaupt kein Effekt. Aus dem MRT-Befund wird weder Hirnschaden noch Krankheit durch übliche Wohnexposition abgeleitet. Die vorsichtig auf den bisherigen Wissensstand bezogene gesundheitliche Schlussfolgerung im Fazit ist damit besser gestützt als die vorgelagerte absolute Aussage über überhaupt keinen Effekt; beide Formulierungen bleiben sichtbar, werden aber nicht als doppelte Zähleinheiten behandelt.",
-      "assessmentBasis": "Vollständige deutsche Originalcaptions mit Nutzertranskript und Redaktionsskript abgeglichen; Sachprüfung anhand der zugeordneten Originalquellen und ihrer Reichweite. Eigene Paraphrase, ungefähre Zeitposition; keine audiovisuelle Vollkontrolle.",
+      "description": "Gezielte Infraschall-Experimente hätten keinen Effekt gefunden.",
+      "reason": "Die im Erstellerskript ausdrücklich zitierte Pilotstudie Ascone et al. berichtet regionale MRT-Volumenänderungen nach experimenteller Exposition. Das widerlegt die frühe absolute Aussage, es habe überhaupt keinen Effekt gegeben. Die Autoren fanden keine belastbare breite Verhaltens- oder Symptomauswirkung; die klinische Bedeutung der MRT-Befunde ist unklar. Die spätere vorsichtige Zusammenfassung zum fehlenden Schadensnachweis im gewöhnlichen Wohnumfeld trifft eine engere Aussage und ist nicht Gegenstand dieses Widerlegungsurteils.",
+      "assessmentBasis": "Vollständige deutsche Originalcaptions mit Nutzertranskript und Redaktionsskript abgeglichen; Sachprüfung anhand der zugeordneten Originalquellen und ihrer Reichweite. Eigene Paraphrase, ungefähre Zeitposition; keine audiovisuelle Vollkontrolle. Einzelnachprüfung Kai am 26.11.2026: Original-Redaktionsskript direkt gelesen und die jeweils entscheidenden Sachquellen gegengeprüft; Videomarken nicht neu kontrolliert.",
       "occurrences": [
         {
           "startSeconds": 162,
@@ -4460,16 +4546,6 @@
           "attributionStatus": "Plausibel",
           "attributionBasis": "Zuordnung aus dem vollständig gelesenen deutschen Captionzusammenhang und dem Redaktionsskript; keine audiovisuelle Vollkontrolle.",
           "timeBasis": "Ungefähres Zeitintervall der deutschen Automatikuntertitel, keine sekundengenaue Hörkontrolle."
-        },
-        {
-          "startSeconds": 842,
-          "endSeconds": 846,
-          "precision": "Ungefähr",
-          "speakerId": "SP01",
-          "role": "Behauptung",
-          "attributionStatus": "Plausibel",
-          "attributionBasis": "Zuordnung aus dem vollständig gelesenen deutschen Captionzusammenhang und dem Redaktionsskript; keine audiovisuelle Vollkontrolle.",
-          "timeBasis": "Ungefähre Captionposition der zusammenfassenden gesundheitlichen Folgerung im Fazit; keine zusätzliche Zähleinheit."
         }
       ],
       "sourceRefs": [
@@ -4534,11 +4610,24 @@
               "V002"
             ],
             "result": "Spoken claim von Recherchekontext getrennt; Zukunfts-/Zitatmodalität und ursprüngliches Jahreswort erhalten, Fazit ohne zusätzlichen Zählpunkt zugeordnet."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Ersteller-Manuskript und Originalfundstellen abgeglichen; keine neue audiovisuelle Vollsichtung.",
+            "sourceIds": [
+              "V001",
+              "V002",
+              "IF08",
+              "IF09",
+              "IF10",
+              "IF03"
+            ],
+            "result": "Die im Erstellerskript ausdrücklich zitierte Pilotstudie Ascone et al. berichtet regionale MRT-Volumenänderungen nach experimenteller Exposition. Das widerlegt die frühe absolute Aussage, es habe überhaupt keinen Effekt gegeben. Die Autoren fanden keine belastbare breite Verhaltens- oder Symptomauswirkung; die klinische Bedeutung der MRT-Befunde ist unklar. Die spätere vorsichtige Zusammenfassung zum fehlenden Schadensnachweis im gewöhnlichen Wohnumfeld trifft eine engere Aussage und ist nicht Gegenstand dieses Widerlegungsurteils."
           }
         ]
       },
-      "verdict": "Teilweise belegt",
-      "shortReason": "Überwiegend keine nachgewiesenen Gesundheitsschäden; eine zitierte Pilotstudie fand aber MRT-Veränderungen unklarer klinischer Bedeutung, also nicht überhaupt keinen Effekt.",
+      "verdict": "Widerlegt",
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Kontrollierte Expositionsexperimente sind ebenso wie Langzeitstudien eine tragende Begründung. Bedeutung nach Argumentationsrolle beurteilt; das Faktenurteil war bei der Gewichtung bereits bekannt.",
@@ -4563,9 +4652,34 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Im vollständig gelesenen Captionkontext bestätigt: Kontrollierte Expositionsexperimente sind ebenso wie Langzeitstudien eine tragende Begründung."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "verdict/description",
+            "previous": {
+              "verdict": "Teilweise belegt",
+              "description": "Gezielte Infraschall-Experimente hätten keine Effekte gefunden. Im Fazit folgert der Moderator aus der Studienlage: Nach allem bisherigen Wissen schade Infraschall von Windrädern uns nicht.",
+              "contextOccurrence": {
+                "startSeconds": 842,
+                "endSeconds": 846,
+                "precision": "Ungefähr",
+                "speakerId": "SP01",
+                "role": "Behauptung",
+                "attributionStatus": "Plausibel",
+                "attributionBasis": "Zuordnung aus dem vollständig gelesenen deutschen Captionzusammenhang und dem Redaktionsskript; keine audiovisuelle Vollkontrolle.",
+                "timeBasis": "Ungefähre Captionposition der zusammenfassenden gesundheitlichen Folgerung im Fazit; keine zusätzliche Zähleinheit."
+              }
+            },
+            "next": {
+              "verdict": "Widerlegt",
+              "description": "Gezielte Infraschall-Experimente hätten keinen Effekt gefunden."
+            },
+            "reason": "Die im Erstellerskript ausdrücklich zitierte Pilotstudie Ascone et al. berichtet regionale MRT-Volumenänderungen nach experimenteller Exposition. Das widerlegt die frühe absolute Aussage, es habe überhaupt keinen Effekt gegeben. Die Autoren fanden keine belastbare breite Verhaltens- oder Symptomauswirkung; die klinische Bedeutung der MRT-Befunde ist unklar. Die spätere vorsichtige Zusammenfassung zum fehlenden Schadensnachweis im gewöhnlichen Wohnumfeld trifft eine engere Aussage und ist nicht Gegenstand dieses Widerlegungsurteils."
           }
         ]
-      }
+      },
+      "shortReason": "Eine zitierte Pilotstudie fand regionale MRT-Veränderungen, ohne einen Gesundheitsschaden nachzuweisen."
     },
     {
       "id": "bXVpA6kPNv8-A0041",
@@ -5390,6 +5504,75 @@
             "date": "2026-11-23",
             "result": "Bestätigt",
             "reason": "Als illustrative Schadensangabe mit offenem Status und Faktor 0,5 konsistent; die Regierungsantwort bestätigt die Millionensumme nicht selbst."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bXVpA6kPNv8-A0049",
+      "chapter": 3,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Besonders geschützte und alte Wälder kämen für neue Windenergieanlagen pauschal nicht infrage.",
+      "reason": "Das Redaktionsskript nennt diese Waldgruppen pauschal als ausgenommen. Schutzkategorien und landesrechtliche Standortregeln sind aber verschieden: § 26 Abs. 3 BNatSchG erlaubt Windenergie in entsprechend ausgewiesenen Landschaftsschutzgebieten unter Bedingungen, lässt etwa Natura-2000- und Welterbe-Fälle aus. Die Fachagentur zeigt unterschiedliche Regeln und örtliche Prüfungen, z. B. auf S. 24–30. Das Alter allein begründet keinen bundesweiten Ausschluss; besonderer Schutz und tatsächliche Genehmigung sind jeweils getrennt zu prüfen.",
+      "assessmentBasis": "Vollständige deutsche Originalcaptions mit Nutzertranskript und Redaktionsskript abgeglichen; Sachprüfung anhand der zugeordneten Originalquellen und ihrer Reichweite. Eigene Paraphrase, ungefähre Zeitposition; keine audiovisuelle Vollkontrolle. Einzelnachprüfung Kai am 26.11.2026: Original-Redaktionsskript direkt gelesen und die jeweils entscheidenden Sachquellen gegengeprüft; Videomarken nicht neu kontrolliert.",
+      "occurrences": [
+        {
+          "startSeconds": 472,
+          "endSeconds": 481,
+          "precision": "Ungefähr",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung aus dem vollständig gelesenen deutschen Captionzusammenhang und dem Redaktionsskript; keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Ungefähres Zeitintervall der deutschen Automatikuntertitel, keine sekundengenaue Hörkontrolle."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "V001",
+          "note": "Aussage und Zeitposition aus vollständigem Captionkontext; kein unabhängiger Wahrheitsbeleg."
+        },
+        {
+          "sourceId": "V002",
+          "note": "Abgleich der beabsichtigten Formulierung; Creator-Skript nicht als unabhängige Bestätigung verwendet."
+        },
+        {
+          "sourceId": "F02",
+          "note": "März 2026, Bestand Ende 2025. S.7 Methodik, S.18 Tabelle 2: 2.653 Waldanlagen; Länderabschnitte und S.31: Hessen 551/46 %, Baden-Württemberg 414/822 (rund 50 %). Tabellen visuell geprüft; länderbezogene Schutzregeln statt pauschalem Altwaldausschluss."
+        },
+        {
+          "sourceId": "F-NAT",
+          "note": "§ 26 Abs. 3 unterscheidet Landschaftsschutzgebiete und Ausnahmen."
+        }
+      ],
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Erstellerskript und Normtext abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "V002",
+              "F02",
+              "F-NAT"
+            ],
+            "result": "Das Redaktionsskript nennt diese Waldgruppen pauschal als ausgenommen. Schutzkategorien und landesrechtliche Standortregeln sind aber verschieden: § 26 Abs. 3 BNatSchG erlaubt Windenergie in entsprechend ausgewiesenen Landschaftsschutzgebieten unter Bedingungen, lässt etwa Natura-2000- und Welterbe-Fälle aus. Die Fachagentur zeigt unterschiedliche Regeln und örtliche Prüfungen, z. B. auf S. 24–30. Das Alter allein begründet keinen bundesweiten Ausschluss; besonderer Schutz und tatsächliche Genehmigung sind jeweils getrennt zu prüfen."
+          }
+        ]
+      },
+      "verdict": "Irreführend / Kontext fehlt",
+      "shortReason": "Schutzkategorie, Landesrecht und Einzelfall entscheiden; das Waldalter ist kein bundesweites Ausschlusskriterium.",
+      "factIndex": {
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "description",
+            "previous": "Unselbständiger Teil von A0019",
+            "next": "Besonders geschützte und alte Wälder kämen für neue Windenergieanlagen pauschal nicht infrage.",
+            "reason": "Eigenständig prüfbare Planungs-/Schutzbedingung; der Flächenbedarf bleibt getrennt in A0019."
           }
         ]
       }

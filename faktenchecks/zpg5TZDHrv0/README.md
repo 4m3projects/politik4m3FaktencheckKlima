@@ -8,3 +8,5 @@
 - **Entsorgung:** Deutschland sucht weiterhin einen Standort für sein Endlager für hochradioaktive Abfälle. Das ist keine Aussage über alle Länder.
 
 Zeitmarken stammen aus dem eigenen privaten Master. Kurzbewertungen, Quellen, der Datenstand und seine Grenzen stehen im strukturierten Prüfbericht. Der ausgleichende Faktencheck ist redaktionell vom politischen Liedtext getrennt.
+
+**Einzelnachprüfung (Kai, 26.11.2026):** A0002, A0009, A0012 und A0014 sind mit der jeweils genannten Begrenzung belegt. A0006 bleibt zur Frage vergleichbarer Gesamtkosten an getrennten oder gemeinsamen Standorten offen; die allgemeinen Sicherungsanforderungen sind davon getrennt.

@@ -1,6 +1,6 @@
 # Kurzfassung
 
-**Das Video ist im Kern belastbar.** Im erfassten Bestand stehen 69 belegte Sachangaben und acht teilweise belegte Aussagen; hinzu kommen sechs Meinungen beziehungsweise Deutungen und zwei nicht unabhängig prüfbare Selbstauskünfte. Kein erfasster Sachpunkt ist widerlegt.
+**Das Video ist im Kern belastbar.** Im erfassten Bestand stehen 72 belegte Sachangaben, vier Angaben mit fehlendem oder irreführendem Kontext und eine Widerlegung zum früheren GEG; hinzu kommen sechs Meinungen beziehungsweise Deutungen und zwei nicht unabhängig prüfbare Selbstauskünfte.
 
 Das ist ein Urteil über die geprüften Aussagen, keine Garantie für jedes Gerät, jeden Förderfall oder jede noch nicht kontrollierte Einblendung. In der Abschlussnachprüfung funktionierte die Wiedergabe; eine Standbild-Stichprobe ergänzt die Sachprüfung. Eine lückenlose eigene Hör-/Sichtprüfung ist weiterhin nicht belegt.
 
@@ -27,7 +27,7 @@ Das ist ein Urteil über die geprüften Aussagen, keine Garantie für jedes Ger�
 | 18:52–19:08 | Ein kommunaler Wärmeplan löse die frühere 65-Prozent-Pflicht aus. | Ein Plan allein genügte nicht; notwendig war eine zusätzliche Gebietsausweisung, daneben galten gesetzliche Fristen. |
 | 19:26 | Neue Gas-/Ölanlagen müssten steigende Anteile Biogas/Bioöl verbrennen. | Die steigenden Vorgaben stimmen, das Gesetz lässt aber weitere Brennstoffe und technische Erfüllungswege zu. |
 
-Die ersten drei technischen und mehrere rechtliche Punkte sind überwiegend begrenzte Vereinfachungen. Die Förderbedingung und der rechtliche Auslöser der damaligen Pflicht können für einen konkreten Fall praktische Bedeutung haben. „Teilweise belegt“ bedeutet hier keine vollständige Widerlegung.
+Ein konkreter sachlicher Fehler betrifft den früheren rechtlichen Auslöser der 65-Prozent-Pflicht. Das Frostbeispiel und die Gasrechnung sind mit ihren konkreten Grenzen belegt; Förderbedingungen und Rechtsversionen können im Einzelfall entscheidend sein.
 
 ## Was keine faire Kritik wäre
 

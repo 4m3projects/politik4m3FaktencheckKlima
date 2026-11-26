@@ -7,7 +7,7 @@
     "asOf": "2026-11-19",
     "durationSeconds": 673,
     "coverageNote": "Recherche abgeschlossen (Stand 19.11.2026): Alle Sach- und Meinungsaussagen des Videos sind erfasst und eingeordnet. Rhetorische Fragen, Moderationsscherze und der Abspann sind nicht Gegenstand der Prüfung. Das Video ist vom 24.04.2026; wo sich danach etwas geändert hat (Italien, Mochovce 4, Onkalo), steht es dabei.",
-    "researchNote": "Transkript aus den automatisch erzeugten deutschen YouTube-Untertiteln. Geprüft mit den in der Videobeschreibung genannten Quellen (Bundesnetzagentur, McKinsey, Fraunhofer ISE, Bundestag, EnBW, BDEW-Daten über Agora Energiewende) sowie Daten von UBA, BDEW, RTE, Energy-Charts, BMUKN und Fachmedien (World Nuclear News). Die Tagesprofile der Stromimporte haben wir selbst aus den Energy-Charts-Daten 2025 berechnet."
+    "researchNote": "Transkript aus den automatisch erzeugten deutschen YouTube-Untertiteln. Geprüft mit den in der Videobeschreibung genannten Quellen (Bundesnetzagentur, McKinsey, Fraunhofer ISE, Bundestag, EnBW, BDEW-Daten über Agora Energiewende) sowie Daten von UBA, BDEW, RTE, Energy-Charts, BMUKN und Fachmedien (World Nuclear News). Die Tagesprofile der Stromimporte haben wir selbst aus den Energy-Charts-Daten 2025 berechnet. Kai (26.11.2026): 4 alte Teilurteile anhand der originalen automatischen YouTube-Textspur und der jeweiligen Sachquellen einzeln erneut geprüft; kein Ton- oder Bildvollabgleich."
   },
   "speakers": [
     {
@@ -295,6 +295,30 @@
       "details": "ZfK, August 2024; Gutachten des Öko-Instituts im Auftrag des BASE",
       "accessedOn": "2026-11-19",
       "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "KA-ZDF",
+      "title": "ZDF: Originalvideo, deutsche automatische Textspur",
+      "url": "https://www.youtube.com/watch?v=5UboW16rU1w",
+      "details": "Geprüfte Passagen 01:30, 02:28, 03:36–03:48 und 08:26–08:34.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalquelle an der angegebenen Fundstelle geprüft."
+    },
+    {
+      "id": "KA-IT",
+      "title": "Camera dei deputati: Verfahren 2669 und Gesetz 169/2026",
+      "url": "https://www.camera.it/leg19/126?idDocumento=2669-A&leg=19&sede=&tab=&tipo=",
+      "details": "Zuleitung Oktober 2025, erste Zustimmung Juni 2026, Gesetz vom 29. September 2026.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalquelle an der angegebenen Fundstelle geprüft."
+    },
+    {
+      "id": "KA-ENEL",
+      "title": "Enel, Ansaldo Energia und Leonardo: Gründung von Nuclitalia",
+      "url": "https://www.enel.com/it/media/esplora/ricerca-comunicati-stampa/press/2025/05/nasce-nuclitalia-enel-ansaldo-energia-e-leonardo-insieme-per-la-ricerca-sul-nuovo-nuclare",
+      "details": "14. Mai 2025: gemeinsame Gesellschaft für Forschung und Potentialanalyse, nicht Beschluss eines Reaktorbaus.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalquelle an der angegebenen Fundstelle geprüft."
     }
   ],
   "claims": [
@@ -503,11 +527,10 @@
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Laut einer McKinsey-Prognose werden wir in den nächsten zehn Jahren bis zu 70 % mehr Strom benötigen.",
-      "reason": "Die Zahl lässt sich nur aus dem ehrgeizigsten Szenario ableiten. McKinsey rechnet im „Transformationspfad“ (alle politischen Ziele werden erreicht) für 2035 mit 805 TWh Nettostrombedarf, gegenüber rund 464 TWh im Jahr 2024; das wären gut 70 % mehr. Die Kernaussage der Studie ist aber das Gegenteil: Im wahrscheinlicheren „Trendpfad“ steigt die Nachfrage nur um 1 bis 2 % pro Jahr auf 635 TWh (rund +37 %), deutlich weniger als in der staatlichen Planung angenommen. Das „bis zu“ ist formal richtig, die Studie wird aber einseitig wiedergegeben.",
-      "shortReason": "Gut 70 % ergibt nur das ehrgeizigste McKinsey-Szenario; im wahrscheinlicheren Trendpfad sind es rund 37 %.",
-      "assessmentBasis": "Abgleich mit Pressemitteilung und Executive Summary der Studie (in der Videobeschreibung verlinkt); Prozentwert selbst nachgerechnet.",
+      "verdict": "Belegt",
+      "description": "Die zitierte McKinsey-Studie sah bis 2035 im oberen Szenario rund 70 Prozent höheren deutschen Nettostrombedarf vor.",
+      "reason": "McKinsey setzt 477 TWh im Jahr 2022 als Ausgangspunkt. Bis 2035 nennt die Studie 805 TWh im Transformationspfad (rund +69 Prozent) und 635 TWh im Trendpfad (rund +33 Prozent). Das Video nennt ausdrücklich einen Höchstwert („bis zu“), nicht den wahrscheinlichen Anstieg. „Nächste zehn Jahre“ beschreibt grob den Zielhorizont, aber nicht das Basisjahr der Prozentrechnung.",
+      "assessmentBasis": "Abgleich mit Pressemitteilung und Executive Summary der Studie (in der Videobeschreibung verlinkt); Prozentwert selbst nachgerechnet. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 90,
@@ -530,6 +553,10 @@
         {
           "sourceId": "S03",
           "note": "Transformationspfad 805 TWh in 2035; 2024 ca. 464 TWh"
+        },
+        {
+          "sourceId": "KA-ZDF",
+          "note": "In der Einzelnachprüfung herangezogene Originalquelle."
         }
       ],
       "openQuestions": [],
@@ -561,6 +588,38 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Laut einer McKinsey-Prognose werden wir in den nächsten zehn Jahren bis zu 70 % mehr Strom benötigen."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Die zitierte McKinsey-Studie sah bis 2035 im oberen Szenario rund 70 Prozent höheren deutschen Nettostrombedarf vor."
+            },
+            "reason": "McKinsey setzt 477 TWh im Jahr 2022 als Ausgangspunkt. Bis 2035 nennt die Studie 805 TWh im Transformationspfad (rund +69 Prozent) und 635 TWh im Trendpfad (rund +33 Prozent). Das Video nennt ausdrücklich einen Höchstwert („bis zu“), nicht den wahrscheinlichen Anstieg. „Nächste zehn Jahre“ beschreibt grob den Zielhorizont, aber nicht das Basisjahr der Prozentrechnung."
+          }
+        ]
+      },
+      "shortReason": "Bis 2035 sind 805 TWh das obere Szenario; der Trendpfad liegt deutlich darunter.",
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S02",
+              "S03",
+              "KA-ZDF"
+            ],
+            "result": "McKinsey setzt 477 TWh im Jahr 2022 als Ausgangspunkt. Bis 2035 nennt die Studie 805 TWh im Transformationspfad (rund +69 Prozent) und 635 TWh im Trendpfad (rund +33 Prozent). Das Video nennt ausdrücklich einen Höchstwert („bis zu“), nicht den wahrscheinlichen Anstieg. „Nächste zehn Jahre“ beschreibt grob den Zielhorizont, aber nicht das Basisjahr der Prozentrechnung."
           }
         ]
       }
@@ -896,11 +955,10 @@
       "chapter": 3,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "verdict": "Irreführend / Kontext fehlt",
       "description": "Italien, das längst aus der Atomkraft ausgestiegen war, investiert jetzt wieder in Atomkraft.",
-      "reason": "Im Kern zutreffend, aber zum Zeitpunkt des Videos (April 2026) verfrüht formuliert. Italien hatte nach dem Referendum 1987 alle Reaktoren abgeschaltet. Die Regierung Meloni bereitete die Rückkehr per Rahmengesetz vor; die Abgeordnetenkammer stimmte im Juni 2026 zu, der Senat erst am 23.09.2026. Gebaut oder konkret investiert in Reaktoren wird bisher nicht; das Gesetz erlaubt zunächst Durchführungsverordnungen, Schwerpunkt sind kleine modulare Reaktoren.",
-      "shortReason": "Italien bereitet die Rückkehr per Gesetz vor (endgültig erst im September 2026 beschlossen); gebaut oder investiert wird noch nicht.",
-      "assessmentBasis": "Abgleich mit Presseberichten zum Gesetzgebungsverfahren.",
+      "reason": "Zum Upload am 24. April 2026 war der italienische Gesetzentwurf zum nuklearen Wiedereinstieg in Beratung; er wurde erst im Juni von der Abgeordnetenkammer und im September vom Senat verabschiedet. Enel, Ansaldo Energia und Leonardo hatten schon im Mai 2025 Nuclitalia für Forschung, Technik- und Marktanalyse gegründet. In diesem Sinne gab es bereits wirtschaftliches Engagement. Im Vergleich mit Ländern, die neue Reaktoren bauen oder konkret planen, fehlt jedoch die Unterscheidung zwischen Forschung, politischer Vorbereitung und Investition in konkrete neue Kraftwerke.",
+      "assessmentBasis": "Abgleich mit Presseberichten zum Gesetzgebungsverfahren. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 150,
@@ -923,6 +981,18 @@
         {
           "sourceId": "S13",
           "note": "Abgeordnetenhaus stimmt am 4. Juni zu; Fokus auf SMR"
+        },
+        {
+          "sourceId": "KA-ZDF",
+          "note": "In der Einzelnachprüfung herangezogene Originalquelle."
+        },
+        {
+          "sourceId": "KA-IT",
+          "note": "In der Einzelnachprüfung herangezogene Originalquelle."
+        },
+        {
+          "sourceId": "KA-ENEL",
+          "note": "In der Einzelnachprüfung herangezogene Originalquelle."
         }
       ],
       "openQuestions": [],
@@ -954,6 +1024,40 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Italien, das längst aus der Atomkraft ausgestiegen war, investiert jetzt wieder in Atomkraft."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Italien, das längst aus der Atomkraft ausgestiegen war, investiert jetzt wieder in Atomkraft."
+            },
+            "reason": "Zum Upload am 24. April 2026 war der italienische Gesetzentwurf zum nuklearen Wiedereinstieg in Beratung; er wurde erst im Juni von der Abgeordnetenkammer und im September vom Senat verabschiedet. Enel, Ansaldo Energia und Leonardo hatten schon im Mai 2025 Nuclitalia für Forschung, Technik- und Marktanalyse gegründet. In diesem Sinne gab es bereits wirtschaftliches Engagement. Im Vergleich mit Ländern, die neue Reaktoren bauen oder konkret planen, fehlt jedoch die Unterscheidung zwischen Forschung, politischer Vorbereitung und Investition in konkrete neue Kraftwerke."
+          }
+        ]
+      },
+      "shortReason": "Forschung und Gesetzesvorbereitung liefen; der Beitrag unterscheidet sie nicht von konkreten Reaktorinvestitionen.",
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S12",
+              "S13",
+              "KA-ZDF",
+              "KA-IT",
+              "KA-ENEL"
+            ],
+            "result": "Zum Upload am 24. April 2026 war der italienische Gesetzentwurf zum nuklearen Wiedereinstieg in Beratung; er wurde erst im Juni von der Abgeordnetenkammer und im September vom Senat verabschiedet. Enel, Ansaldo Energia und Leonardo hatten schon im Mai 2025 Nuclitalia für Forschung, Technik- und Marktanalyse gegründet. In diesem Sinne gab es bereits wirtschaftliches Engagement. Im Vergleich mit Ländern, die neue Reaktoren bauen oder konkret planen, fehlt jedoch die Unterscheidung zwischen Forschung, politischer Vorbereitung und Investition in konkrete neue Kraftwerke."
           }
         ]
       }
@@ -1157,11 +1261,10 @@
       "chapter": 4,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "verdict": "Irreführend / Kontext fehlt",
       "description": "Schon jetzt muss Deutschland morgens immer wieder Strom importieren, weil der Verbrauch hochschießt, die Sonne aber noch nicht liefert.",
-      "reason": "Teilweise richtig. Unsere Auswertung der Stromflüsse 2025 zeigt: Deutschland importiert im Mittel tatsächlich am meisten gegen 6 bis 7 Uhr (rund 5 GW). Fast genauso viel aber abends zwischen 19 und 20 Uhr und auch nachts; nur mittags wird exportiert. Zudem ist das „Muss“ verkürzt: Importe kommen vor allem zustande, weil Strom im Ausland zu diesen Zeiten billiger ist, nicht weil in Deutschland keine Kraftwerke zur Verfügung stünden.",
-      "shortReason": "Morgens wird tatsächlich viel importiert, abends und nachts aber ähnlich viel; Hauptgrund ist billigerer Auslandsstrom, kein Mangel.",
-      "assessmentBasis": "Eigene Auswertung der physikalischen grenzüberschreitenden Stromflüsse 2025 (Energy-Charts) nach Tagesstunde.",
+      "reason": "Die im Check dokumentierte Auswertung der grenzüberschreitenden Stromflüsse 2025 zeigt morgens um 6–7 Uhr häufige bzw. im Mittel hohe Nettoimporte um 5 GW; auch abends und nachts wird importiert. Die Aussage verbindet das beobachtete Muster mit einem technisch notwendigen Import aufgrund frühen Verbrauchs und fehlender Solarerzeugung. Aus Handelsströmen lässt sich aber nicht ablesen, ob inländische Kraftwerke nicht zur Verfügung standen. Stromhandel kann schon wegen günstigerer Preise im Ausland zustande kommen.",
+      "assessmentBasis": "Eigene Auswertung der physikalischen grenzüberschreitenden Stromflüsse 2025 (Energy-Charts) nach Tagesstunde. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 222,
@@ -1180,6 +1283,10 @@
         {
           "sourceId": "S15",
           "note": "Mittlerer Nettoimport 6–7 Uhr ca. 5,1 GW, 19–20 Uhr ca. 5,0 GW, 11–15 Uhr Export"
+        },
+        {
+          "sourceId": "KA-ZDF",
+          "note": "In der Einzelnachprüfung herangezogene Originalquelle."
         }
       ],
       "openQuestions": [],
@@ -1211,6 +1318,37 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Schon jetzt muss Deutschland morgens immer wieder Strom importieren, weil der Verbrauch hochschießt, die Sonne aber noch nicht liefert."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Schon jetzt muss Deutschland morgens immer wieder Strom importieren, weil der Verbrauch hochschießt, die Sonne aber noch nicht liefert."
+            },
+            "reason": "Die im Check dokumentierte Auswertung der grenzüberschreitenden Stromflüsse 2025 zeigt morgens um 6–7 Uhr häufige bzw. im Mittel hohe Nettoimporte um 5 GW; auch abends und nachts wird importiert. Die Aussage verbindet das beobachtete Muster mit einem technisch notwendigen Import aufgrund frühen Verbrauchs und fehlender Solarerzeugung. Aus Handelsströmen lässt sich aber nicht ablesen, ob inländische Kraftwerke nicht zur Verfügung standen. Stromhandel kann schon wegen günstigerer Preise im Ausland zustande kommen."
+          }
+        ]
+      },
+      "shortReason": "Morgendliche Importe sind belegt; ein technisch notwendiger Import aus diesem Grund folgt nicht aus den Daten.",
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S15",
+              "KA-ZDF"
+            ],
+            "result": "Die im Check dokumentierte Auswertung der grenzüberschreitenden Stromflüsse 2025 zeigt morgens um 6–7 Uhr häufige bzw. im Mittel hohe Nettoimporte um 5 GW; auch abends und nachts wird importiert. Die Aussage verbindet das beobachtete Muster mit einem technisch notwendigen Import aufgrund frühen Verbrauchs und fehlender Solarerzeugung. Aus Handelsströmen lässt sich aber nicht ablesen, ob inländische Kraftwerke nicht zur Verfügung standen. Stromhandel kann schon wegen günstigerer Preise im Ausland zustande kommen."
           }
         ]
       }
@@ -2411,11 +2549,10 @@
       "chapter": 8,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "verdict": "Irreführend / Kontext fehlt",
       "description": "Die Kosten für den Atommüll landen am Ende beim Steuerzahler, auch wenn sie nicht auf der Stromrechnung auftauchen.",
-      "reason": "Teilweise richtig. Die Betreiber haben 2017 rund 24,1 Mrd. Euro (inklusive Risikoaufschlag) in den staatlichen Entsorgungsfonds KENFO eingezahlt; damit ging die Verantwortung für Zwischen- und Endlagerung auf den Bund über. Reicht das Geld samt Erträgen nicht, trägt der Staat den Rest. Teile der Kosten haben also die Stromkunden über die früheren Rückstellungen der Betreiber bezahlt; das Risiko weiterer Kosten liegt beim Steuerzahler.",
-      "shortReason": "Die Betreiber zahlten 24,1 Mrd. Euro in den Entsorgungsfonds; nur Kosten darüber hinaus trägt der Steuerzahler.",
-      "assessmentBasis": "Abgleich mit dem Kostenbericht des Bundesumweltministeriums.",
+      "reason": "Atommülllagerung verursacht Kosten, und der Staat trägt das verbleibende Finanzierungsrisiko. Die Betreiber überwiesen 2017 jedoch rund 24,1 Mrd. Euro an den KENFO, darunter rund 6,2 Mrd. Risikoaufschlag. Zwischen- und Endlagerung nach der Übertragung werden zunächst aus dem Fonds und seinen Erträgen finanziert. Die Aussage, die Kosten landeten am Ende beim Steuerzahler, nennt weder diese Betreiberfinanzierung noch die Einschränkung auf ein mögliches Residualrisiko.",
+      "assessmentBasis": "Abgleich mit dem Kostenbericht des Bundesumweltministeriums. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 506,
@@ -2434,6 +2571,10 @@
         {
           "sourceId": "S27",
           "note": "Betreiber zahlten am 03.07.2017 rund 24,1 Mrd. € an den KENFO; Verantwortung ging auf den Bund über"
+        },
+        {
+          "sourceId": "KA-ZDF",
+          "note": "In der Einzelnachprüfung herangezogene Originalquelle."
         }
       ],
       "openQuestions": [],
@@ -2465,6 +2606,37 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Die Kosten für den Atommüll landen am Ende beim Steuerzahler, auch wenn sie nicht auf der Stromrechnung auftauchen."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Die Kosten für den Atommüll landen am Ende beim Steuerzahler, auch wenn sie nicht auf der Stromrechnung auftauchen."
+            },
+            "reason": "Atommülllagerung verursacht Kosten, und der Staat trägt das verbleibende Finanzierungsrisiko. Die Betreiber überwiesen 2017 jedoch rund 24,1 Mrd. Euro an den KENFO, darunter rund 6,2 Mrd. Risikoaufschlag. Zwischen- und Endlagerung nach der Übertragung werden zunächst aus dem Fonds und seinen Erträgen finanziert. Die Aussage, die Kosten landeten am Ende beim Steuerzahler, nennt weder diese Betreiberfinanzierung noch die Einschränkung auf ein mögliches Residualrisiko."
+          }
+        ]
+      },
+      "shortReason": "Betreiber haben den Fonds mit 24,1 Mrd. Euro finanziert; der Staat trägt nicht pauschal sämtliche verbleibenden Kosten.",
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S27",
+              "KA-ZDF"
+            ],
+            "result": "Atommülllagerung verursacht Kosten, und der Staat trägt das verbleibende Finanzierungsrisiko. Die Betreiber überwiesen 2017 jedoch rund 24,1 Mrd. Euro an den KENFO, darunter rund 6,2 Mrd. Risikoaufschlag. Zwischen- und Endlagerung nach der Übertragung werden zunächst aus dem Fonds und seinen Erträgen finanziert. Die Aussage, die Kosten landeten am Ende beim Steuerzahler, nennt weder diese Betreiberfinanzierung noch die Einschränkung auf ein mögliches Residualrisiko."
           }
         ]
       }

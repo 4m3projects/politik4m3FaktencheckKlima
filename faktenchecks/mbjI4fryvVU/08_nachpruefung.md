@@ -17,3 +17,7 @@ Die deutschen Originalcaptions wurden über die gesamte Laufzeit erneut gelesen.
 A0004 braucht ein Inventar und Herkunftsnachweise für die 120 Containerbatterien. A0021 braucht Erzeugungs- und Verbrauchszeitreihen bei trübem Wetter. A0022 zeigt einen Lader, dessen elektrischer Antrieb bzw. eindeutige Modellzuordnung in der betrachteten Szene nicht ausreichend lesbar ist. Keiner dieser Punkte wird allein für eine höhere Abdeckung abgeschlossen. Die private Nutzererfahrung A0018 bleibt ohne negatives Wahrheitsurteil nicht überprüfbar.
 
 Die Untersuchung ist keine audiovisuelle Vollprüfung und kein unabhängiger Audit sämtlicher Hof- und Carsharing-Betriebsdaten. Bestehende Bedeutungsfaktoren und Anteile bleiben unverändert. Themen erneut kontrolliert, keine neue öffentliche Kategorie.
+
+## Einzelnachprüfung vom 26.11.2026
+
+Die Formulierungen oben sind der damalige Stand. Kai hat sechs frühere Teilurteile mit Originaltextspur und Sachquellen überprüft. Die aktualisierten Ergebnisse und die separat abgegrenzte Softwaresteuerung A0024 stehen in den [Einzelprüfungen](03_einzelpruefungen.md).
