@@ -545,6 +545,24 @@
       "topics": [
         "energie/atomkraft"
       ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0092",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0093",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0094",
+      "topics": [
+        "energie/atomkraft"
+      ]
     }
   ],
   "history": [
@@ -552,6 +570,11 @@
       "date": "2026-11-26",
       "agent": "Kai",
       "change": "Erste Zuordnung anhand der Transkripterfassung; vorhandene Themen-IDs verwendet, keine neue Kategorie erforderlich."
+    },
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Drei unabhängig prüfbare Teilangaben A0092–A0094 den vorhandenen Themen zugeordnet, keine neue Kategorie."
     }
   ]
 }
