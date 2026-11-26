@@ -17,18 +17,18 @@
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 10,
-      "completedFactPercent": 45.5
+      "completedCount": 11,
+      "completedFactPercent": 50
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 2,
-      "completedFactPercent": 9.1
+      "completedCount": 0,
+      "completedFactPercent": 0
     },
     {
       "category": "Irreführend / Kontext fehlt",
-      "completedCount": 2,
-      "completedFactPercent": 9.1
+      "completedCount": 3,
+      "completedFactPercent": 13.6
     },
     {
       "category": "Widerlegt",

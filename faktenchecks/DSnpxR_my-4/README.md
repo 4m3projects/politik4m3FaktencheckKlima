@@ -20,3 +20,7 @@ Für sämtliche Sprecher gelten dieselben Belegregeln. Nur wiedergegebene oder z
 - Kapitel: [Klima](kapitel/01_klima.md), [natürliche Zyklen](kapitel/02_zyklen.md), [Steuern und Klimabeiträge](kapitel/03_politik.md), [Effizienz und PV](kapitel/04_effizienz.md), [Next2Sun und Politik](kapitel/05_next2sun.md), [Schlusswarnung](kapitel/06_schluss.md).
 - [Strukturierter Datensatz](strukturiert/aussagen.json) und [Prüfprotokoll](PRUEFPROTOKOLL.md).
 - [Bereits veröffentlichter Erststand: PR 32](https://github.com/4m3projects/politik4m3FaktencheckKlima/pull/32). Der [Weiterprüfauftrag in Issue 31](https://github.com/4m3projects/politik4m3FaktencheckKlima/issues/31) bleibt offen.
+
+## Einzelnachprüfung vom 26.11.2026
+
+Die zwei früheren Teilurteile wurden mit der originalen YouTube-Textspur geprüft. Die jüngste Beschleunigung wird von der Studie gestützt, eine durchgehend steigende Rate seit 1980 nicht. Next2Suns dokumentierte Finanzierungslücke belegt keine einzelnen Bankentscheidungen.

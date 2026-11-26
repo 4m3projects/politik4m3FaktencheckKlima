@@ -704,11 +704,11 @@ Quellen: V001, Q16.
 
 ## -rBUCkR4HuA-A0071
 
-**Abgeschlossen · Teilweise belegt · 63:03–63:22**
+**Abgeschlossen · Irreführend / Kontext fehlt · 63:03–63:22**
 
 Auch in USA kommen 80 bis 90% des Stromzubaus aus Erneuerbaren.
 
-Die EIA-Isttabelle für 2025 weist rund 35,95 GW Zubau in einzeln ausgewiesenen erneuerbaren Technologien aus. Das sind rund 62 Prozent der insgesamt 57,73 GW einschließlich der Kategorie Other Energy Sources, in der vor allem Speicher stehen. Ohne diese Kategorie ergibt sich rund 87 Prozent. Eine Größenordnung von 80 bis 90 Prozent ist damit für den engeren Erzeuger-Nenner plausibel; Jahr, Nenner und Speicherabgrenzung werden im Gespräch aber nicht festgelegt. Kapazitätszubau ist kein Anteil der erzeugten Strommenge.
+Yogeshwar überträgt seine Angabe von etwa 80 bis teils über 90 Prozent auf die USA, direkt nach der Formulierung „Zubau … an Strom … Erzeugung“; Jahr, Nenner und Einheit bleiben unklar. EIA 2025: Neue erneuerbare Großanlagen haben rund 35,95 GW von 57,73 GW gesamtem Kapazitätszubau (rund 62 Prozent), gegenüber rund 87 Prozent ohne die vor allem Speicher enthaltende Sammelkategorie. Ein anderer Maßstab, der Erzeugungszuwachs (TWh), lag für Erneuerbare inkl. kleiner PV 2025 bei rund 96,8 von 125,5 TWh (rund 77 Prozent). Hohe Anteile sind real; ohne Zeitraum und Zählweise ist die 80–90-Prozent-Angabe kein allgemeiner Beleg.
 
 Quellen: V001, Q16, Q50.
 

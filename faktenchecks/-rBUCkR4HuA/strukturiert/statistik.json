@@ -22,13 +22,13 @@
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 1,
-      "completedFactPercent": 1.7
+      "completedCount": 0,
+      "completedFactPercent": 0
     },
     {
       "category": "Irreführend / Kontext fehlt",
-      "completedCount": 7,
-      "completedFactPercent": 12.1
+      "completedCount": 8,
+      "completedFactPercent": 13.8
     },
     {
       "category": "Widerlegt",

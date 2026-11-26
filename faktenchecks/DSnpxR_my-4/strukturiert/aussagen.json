@@ -7,7 +7,7 @@
     "asOf": "2026-11-22",
     "durationSeconds": 500,
     "coverageNote": "Alle 32 verfügbaren deutschen Captionblöcke über 00:00–08:20 gelesen; 24 ursprüngliche Aussagekomplexe zu 30 abgegrenzten Einträgen präzisiert. Relevante Sachfragen mit Quellen recherchiert; offene Material- und Bild-/Tonbezüge bleiben ohne Urteil. Keine vollständige audiovisuelle Prüfung. Zeitmarken sind ungefähre Captionintervalle. Am 22.11.2026 deutsche Originalcaptions neu importiert und vollständig gelesen; Krall-Originalkontext um 50–61 Minuten zusätzlich gelesen. Bildstichproben bei etwa 02:09, 05:35, 06:45 und 07:25 direkt im Originalplayer betrachtet. Kein Audio-/Videodownload, keine vollständige Bild-/Tonprüfung.",
-    "researchNote": "ChatGPT-Durchlauf mit getrennten Material-, Klima-, Energie-/Politik- und redaktionellen Prüfaufgaben. Kontext, Primärquellen, Modalität und Zuschreibung gegengeprüft; Ausschnitte zusätzlich mit dem Krall-Originalinterview textlich abgeglichen. Kein kontrollierter Vergleich unterschiedlicher Modelle. Wissensstand am 06.11.2026, Recherche am 21.11.2026. Rohtranskripte und automatisierte Szenennotizen werden nicht veröffentlicht."
+    "researchNote": "ChatGPT-Durchlauf mit getrennten Material-, Klima-, Energie-/Politik- und redaktionellen Prüfaufgaben. Kontext, Primärquellen, Modalität und Zuschreibung gegengeprüft; Ausschnitte zusätzlich mit dem Krall-Originalinterview textlich abgeglichen. Kein kontrollierter Vergleich unterschiedlicher Modelle. Wissensstand am 06.11.2026, Recherche am 21.11.2026. Rohtranskripte und automatisierte Szenennotizen werden nicht veröffentlicht. Kai (26.11.2026): 2 alte Teilurteile anhand der originalen automatischen YouTube-Textspur und der jeweiligen Sachquellen einzeln erneut geprüft; kein Ton- oder Bildvollabgleich."
   },
   "speakers": [
     {
@@ -1034,10 +1034,10 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "verdict": "Irreführend / Kontext fehlt",
       "description": "Die Erwärmung beschleunige sich, und besonders seit etwa 1980 werde der Anstieg immer steiler.",
-      "reason": "Der Kern einer jüngsten Beschleunigung ist durch die vor dem Video veröffentlichte Studie Foster/Rahmstorf 2026 gestützt. Nach statistischer Berücksichtigung von El Niño, Vulkanausbrüchen und Sonnenvariationen finden die Autoren eine Beschleunigung seit ungefähr 2015. Die vereinfachte Beschreibung einer seit 1980 immer steiler werdenden Kurve bildet den zeitlichen Befund nicht genau ab: Lange war der Trend annähernd gleichmäßig, überlagert von Schwankungen. Beschleunigung bedeutet steigende längerfristige Erwärmungsrate, nicht dass jedes einzelne Jahr wärmer oder jeder kurze Abschnitt steiler sein muss. Ein Urteil, es gebe überhaupt keinen wissenschaftlichen Beschleunigungsnachweis, wäre mit Stand November 2026 falsch. Die Stärke des Nachweises hängt von statistischem Modell und Variabilitätsbereinigung ab.",
-      "assessmentBasis": "Eigene Paraphrase der deutschen Originaluntertitel und unabhängig direkt gelesene Originalquellen. Zeitmarken bleiben Captionintervalle; keine unmittelbare Bild-/Tonsichtung behauptet. Sachstand zum Video vom 06.11.2026, Recherche am 21.11.2026.",
+      "reason": "Benecke sagt in der Originaltextspur sowohl, dass die Erwärmung schneller werde, als auch, die Kurve werde schon seit spätestens 1980 immer steiler. Foster und Rahmstorf finden nach Abzug geschätzter natürlicher Schwankungen eine deutliche Beschleunigung seit etwa 2015; sie beschreiben ferner ältere Regimewechsel um 1970. Das belegt eine jüngste Beschleunigung, aber keinen stetig steiler werdenden Verlauf seit 1980. Der Befund hängt von Trendmodell und Zeitfenster ab und sagt nicht, dass jedes einzelne Jahr wärmer ist.",
+      "assessmentBasis": "Eigene Paraphrase der deutschen Originaluntertitel und unabhängig direkt gelesene Originalquellen. Zeitmarken bleiben Captionintervalle; keine unmittelbare Bild-/Tonsichtung behauptet. Sachstand zum Video vom 06.11.2026, Recherche am 21.11.2026. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 124,
@@ -1091,6 +1091,16 @@
               "S209"
             ],
             "result": "Beschleunigung seit ungefähr 2015 nach Variabilitätsbereinigung gestützt. Keine pauschale Widerlegung des Beschleunigungsbefunds; die Formulierung stetig stärker seit1980 ist eine gröbere zeitliche Darstellung."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "S209"
+            ],
+            "result": "Benecke sagt in der Originaltextspur sowohl, dass die Erwärmung schneller werde, als auch, die Kurve werde schon seit spätestens 1980 immer steiler. Foster und Rahmstorf finden nach Abzug geschätzter natürlicher Schwankungen eine deutliche Beschleunigung seit etwa 2015; sie beschreiben ferner ältere Regimewechsel um 1970. Das belegt eine jüngste Beschleunigung, aber keinen stetig steiler werdenden Verlauf seit 1980. Der Befund hängt von Trendmodell und Zeitfenster ab und sagt nicht, dass jedes einzelne Jahr wärmer ist."
           }
         ],
         "missingInformation": null,
@@ -1124,9 +1134,27 @@
             "result": "Bestätigt",
             "reason": "Im vollständigen Captionkontext bestätigt: Die beschriebene Temperaturentwicklung und Beschleunigung tragen die zentrale Begründung für Handlungsbedarf. Diese Kontrolle erfolgte nach Kenntnis der Rechercheurteile, der Erstvorschlag davor. Vergleichbare Funktion erhält unabhängig vom Urteil gleiches Gewicht; ausgeschlossene Fremdzitate ändern den Host-Index nicht."
           }
+        ],
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Die Erwärmung beschleunige sich, und besonders seit etwa 1980 werde der Anstieg immer steiler."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Die Erwärmung beschleunige sich, und besonders seit etwa 1980 werde der Anstieg immer steiler."
+            },
+            "reason": "Benecke sagt in der Originaltextspur sowohl, dass die Erwärmung schneller werde, als auch, die Kurve werde schon seit spätestens 1980 immer steiler. Foster und Rahmstorf finden nach Abzug geschätzter natürlicher Schwankungen eine deutliche Beschleunigung seit etwa 2015; sie beschreiben ferner ältere Regimewechsel um 1970. Das belegt eine jüngste Beschleunigung, aber keinen stetig steiler werdenden Verlauf seit 1980. Der Befund hängt von Trendmodell und Zeitfenster ab und sagt nicht, dass jedes einzelne Jahr wärmer ist."
+          }
         ]
       },
-      "shortReason": "Eine jüngste Beschleunigung ist gestützt; ein durchgehend stärkerer Anstieg seit 1980 lässt sich aus der geprüften Studie nicht ableiten."
+      "shortReason": "Die Studie zeigt Beschleunigung seit etwa 2015, nicht eine seit 1980 laufend steigende Rate."
     },
     {
       "id": "DSnpxR_my-4-A0007",
@@ -3212,10 +3240,10 @@
       "chapter": 5,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Next2Sun habe keine ausreichende Bankfinanzierung mehr erhalten.",
-      "reason": "Die Finanzierungslücke ist dokumentiert. Next2Sun bezeichnet institutionelle Finanzierung als nicht zugänglich; die spätere Kampagne deckte den Kapitalbedarf nicht verbindlich. Die auf Banken bezogene Aussage ist als Unternehmensdarstellung gestützt, aber nicht durch offengelegte Kreditentscheidungen unabhängig bestätigt. Das rechtfertigt eine eingeschränkte Bestätigung, keinen eigenständigen Nachweis des gesonderten politischen Ursachenbeitrags.",
-      "assessmentBasis": "Untertitelkontext mit unabhängig direkt geöffneten Primärquellen abgeglichen; Grenzen und Systembezüge in der Begründung ausgewiesen.",
+      "verdict": "Belegt",
+      "description": "Next2Sun erhielt nach eigener öffentlicher Darstellung im Vorfeld des Insolvenzantrags keine ausreichende institutionelle Finanzierung.",
+      "reason": "Der Sprecher sagt in der Textspur, das Unternehmen bekomme kein Geld mehr von der Bank. Next2Sun selbst meldete am 18. September 2026 starke Zurückhaltung von Banken und den fehlenden Zugang zu institutioneller Finanzierung; am 5. Oktober berichtete es vom verfehlten Finanzierungsvolumen und den Insolvenzanträgen für Teile der Gruppe. Das belegt den engeren öffentlich dokumentierten Finanzierungsmangel nach Unternehmensangaben. Einzelne Kreditentscheidungen oder ein pauschaler Nachweis, dass überhaupt keine Bank Geld gab, sind nicht öffentlich belegt. Die gesonderte politische Kausalbehauptung wird hier nicht nochmals bewertet.",
+      "assessmentBasis": "Untertitelkontext mit unabhängig direkt geöffneten Primärquellen abgeglichen; Grenzen und Systembezüge in der Begründung ausgewiesen. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 410,
@@ -3277,6 +3305,17 @@
               "S114"
             ],
             "result": "Die Unternehmensdarstellung stützt eine eingeschränkte Bestätigung; konkrete Bankentscheidungen sind nicht unabhängig zugänglich."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "S113",
+              "S114"
+            ],
+            "result": "Der Sprecher sagt in der Textspur, das Unternehmen bekomme kein Geld mehr von der Bank. Next2Sun selbst meldete am 18. September 2026 starke Zurückhaltung von Banken und den fehlenden Zugang zu institutioneller Finanzierung; am 5. Oktober berichtete es vom verfehlten Finanzierungsvolumen und den Insolvenzanträgen für Teile der Gruppe. Das belegt den engeren öffentlich dokumentierten Finanzierungsmangel nach Unternehmensangaben. Einzelne Kreditentscheidungen oder ein pauschaler Nachweis, dass überhaupt keine Bank Geld gab, sind nicht öffentlich belegt. Die gesonderte politische Kausalbehauptung wird hier nicht nochmals bewertet."
           }
         ],
         "missingInformation": "Unabhängige Bestätigung der konkret gemeinten Bankfinanzierung; keine Prüfung aller Banken erforderlich.",
@@ -3285,7 +3324,7 @@
       "migration": {
         "changeType": "Aufgeteilt",
         "mapping": "Aus DSnpxR_my-4-A0021 abgegrenzter Teil; keine zusätzliche Sammelwertung.",
-        "assessmentChange": "2026-11-21, ChatGPT, KL-C0001: neu abgegrenzt aus dem zuvor Teilweise belegt bewerteten Sammelpunkt A0021; Teilbefund Teilweise belegt."
+        "assessmentChange": "2026-11-21, ChatGPT, KL-C0001: neu abgegrenzt aus dem zuvor Teilweise belegt bewerteten Sammelpunkt A0021; Teilbefund Teilweise belegt. 26.11.2026 · Kai · Korrektur KL-C0004: früher Teilweise belegt; jetzt getrennt begrenzter, dokumentierter Finanzierungsmangel nach Unternehmensangaben."
       },
       "factIndex": {
         "weight": 1,
@@ -3301,9 +3340,26 @@
             "result": "Bestätigt",
             "reason": "Im vollständigen Captionkontext bestätigt: Fehlende Finanzierung ist eine eigenständige wirtschaftliche Sachaussage zwischen Auftragslage und Ursachenbewertung. Diese Kontrolle erfolgte nach Kenntnis der Rechercheurteile, der Erstvorschlag davor. Vergleichbare Funktion erhält unabhängig vom Urteil gleiches Gewicht; ausgeschlossene Fremdzitate ändern den Host-Index nicht."
           }
+        ],
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Next2Sun habe keine ausreichende Bankfinanzierung mehr erhalten."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Next2Sun erhielt nach eigener öffentlicher Darstellung im Vorfeld des Insolvenzantrags keine ausreichende institutionelle Finanzierung."
+            },
+            "reason": "Der Sprecher sagt in der Textspur, das Unternehmen bekomme kein Geld mehr von der Bank. Next2Sun selbst meldete am 18. September 2026 starke Zurückhaltung von Banken und den fehlenden Zugang zu institutioneller Finanzierung; am 5. Oktober berichtete es vom verfehlten Finanzierungsvolumen und den Insolvenzanträgen für Teile der Gruppe. Das belegt den engeren öffentlich dokumentierten Finanzierungsmangel nach Unternehmensangaben. Einzelne Kreditentscheidungen oder ein pauschaler Nachweis, dass überhaupt keine Bank Geld gab, sind nicht öffentlich belegt. Die gesonderte politische Kausalbehauptung wird hier nicht nochmals bewertet."
+          }
         ]
-      },
-      "shortReason": "Finanzierungslücke und Unternehmensangabe fehlender institutioneller Finanzierung sind dokumentiert; einzelne Bankentscheidungen bleiben nicht unabhängig geprüft."
+      }
     },
     {
       "id": "DSnpxR_my-4-A0029",

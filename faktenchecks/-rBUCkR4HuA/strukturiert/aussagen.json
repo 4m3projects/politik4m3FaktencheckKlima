@@ -7,7 +7,7 @@
     "asOf": "2026-11-22",
     "durationSeconds": 4191,
     "coverageNote": "Deutsche Originalcaptions über die gesamte Laufzeit gelesen; Sachbehauptungen, Selbstauskünfte, Wertungen und Prognosen getrennt. Die berechnete Abdeckung bezieht sich auf den erfassten Bestand. Ausschließlich eingeblendete Aussagen und Originalton sind nicht lückenlos kontrolliert.",
-    "researchNote": "Gezielte Wissenssuche, Primärquellen und Gegenrecherche. Der Status bleibt Teilbestand geprüft; Originalton, alle kurzzeitigen Einblendungen und nicht entscheidbare Einzelbezüge bleiben ausdrücklich offen. Redaktionelle Nachkontrolle trennte Zukunftsappell, politische Tatsachenbehauptung, Buchautorenschaft und private Anekdote; keine Bewertung eines erfundenen stärkeren Aussagegehalts. Nachprüfung am 22.11.2026: 16 zuvor offene Sachfragen anhand neu gelesener Originalquellen eingeordnet; übrige Fragen bleiben offen. Kein neuer vollständiger Hör-/Bildabgleich. Bestehende abgeschlossene Urteile, Gewichte und Kontrollvermerke unverändert. Weitere Anschlussprüfung: Heizölpreis aus der Oktober-Originaltabelle und institutionelle Solarforschung in Jülich belegt; finanzierte Interessenvertretung mit ausdrücklich begrenztem Medienbezug teilweise belegt. Übrige offene Fragen nicht für eine Ampelfarbe abgeschlossen. Kai (26.11.2026): bisherige Teilurteile nachgetragen, soweit der genaue Aussagekontext in der offiziellen Podcastfassung erkennbar ist. Nicht als neue YouTube-Tonprüfung ausgewiesen. Kai (26.11.2026): bisherige Teilurteile nachgetragen, soweit der genaue Aussagekontext in der offiziellen Podcastfassung erkennbar ist. Nicht als neue YouTube-Tonprüfung ausgewiesen."
+    "researchNote": "Gezielte Wissenssuche, Primärquellen und Gegenrecherche. Der Status bleibt Teilbestand geprüft; Originalton, alle kurzzeitigen Einblendungen und nicht entscheidbare Einzelbezüge bleiben ausdrücklich offen. Redaktionelle Nachkontrolle trennte Zukunftsappell, politische Tatsachenbehauptung, Buchautorenschaft und private Anekdote; keine Bewertung eines erfundenen stärkeren Aussagegehalts. Nachprüfung am 22.11.2026: 16 zuvor offene Sachfragen anhand neu gelesener Originalquellen eingeordnet; übrige Fragen bleiben offen. Kein neuer vollständiger Hör-/Bildabgleich. Bestehende abgeschlossene Urteile, Gewichte und Kontrollvermerke unverändert. Weitere Anschlussprüfung: Heizölpreis aus der Oktober-Originaltabelle und institutionelle Solarforschung in Jülich belegt; finanzierte Interessenvertretung mit ausdrücklich begrenztem Medienbezug teilweise belegt. Übrige offene Fragen nicht für eine Ampelfarbe abgeschlossen. Kai (26.11.2026): bisherige Teilurteile nachgetragen, soweit der genaue Aussagekontext in der offiziellen Podcastfassung erkennbar ist. Nicht als neue YouTube-Tonprüfung ausgewiesen. Kai (26.11.2026): bisherige Teilurteile nachgetragen, soweit der genaue Aussagekontext in der offiziellen Podcastfassung erkennbar ist. Nicht als neue YouTube-Tonprüfung ausgewiesen. Kai (26.11.2026): 1 alte Teilurteile anhand der originalen automatischen YouTube-Textspur und der jeweiligen Sachquellen einzeln erneut geprüft; kein Ton- oder Bildvollabgleich."
   },
   "speakers": [
     {
@@ -640,6 +640,14 @@
       "details": "Eigene Dokumentation der Produzentin zur TEPCO-Drehgenehmigung, ergänzt die präzise Einordnung als erstes ausländisches Team in Q42.",
       "accessedOn": "2026-11-26",
       "accessBasis": "Einschlägige Passage der amtlichen bzw. fachlichen Originalquelle gelesen."
+    },
+    {
+      "id": "KA-EIA-TWH",
+      "title": "EIA Electric Power Annual, Tabelle 1.1",
+      "url": "https://www.eia.gov/electricity/annual/table.php?t=epa_01_01.html",
+      "details": "Erzeugung 2025/2024 in MWh, inkl. gesonderter Schätzung für kleine Photovoltaikanlagen.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalquelle an der angegebenen Fundstelle geprüft."
     }
   ],
   "claims": [
@@ -6855,10 +6863,10 @@
       "chapter": 1,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "verdict": "Irreführend / Kontext fehlt",
       "description": "Auch in USA kommen 80 bis 90% des Stromzubaus aus Erneuerbaren.",
-      "reason": "Die EIA-Isttabelle für 2025 weist rund 35,95 GW Zubau in einzeln ausgewiesenen erneuerbaren Technologien aus. Das sind rund 62 Prozent der insgesamt 57,73 GW einschließlich der Kategorie Other Energy Sources, in der vor allem Speicher stehen. Ohne diese Kategorie ergibt sich rund 87 Prozent. Eine Größenordnung von 80 bis 90 Prozent ist damit für den engeren Erzeuger-Nenner plausibel; Jahr, Nenner und Speicherabgrenzung werden im Gespräch aber nicht festgelegt. Kapazitätszubau ist kein Anteil der erzeugten Strommenge.",
-      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich.",
+      "reason": "Yogeshwar überträgt seine Angabe von etwa 80 bis teils über 90 Prozent auf die USA, direkt nach der Formulierung „Zubau … an Strom … Erzeugung“; Jahr, Nenner und Einheit bleiben unklar. EIA 2025: Neue erneuerbare Großanlagen haben rund 35,95 GW von 57,73 GW gesamtem Kapazitätszubau (rund 62 Prozent), gegenüber rund 87 Prozent ohne die vor allem Speicher enthaltende Sammelkategorie. Ein anderer Maßstab, der Erzeugungszuwachs (TWh), lag für Erneuerbare inkl. kleiner PV 2025 bei rund 96,8 von 125,5 TWh (rund 77 Prozent). Hohe Anteile sind real; ohne Zeitraum und Zählweise ist die 80–90-Prozent-Angabe kein allgemeiner Beleg.",
+      "assessmentBasis": "Eigene Paraphrase der vollständig gelesenen deutschen Originalcaptions; sachliche Prüfung anhand der einzeln benannten Quellen. Kein eigener vollständiger Hör-/Bildabgleich. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 3783,
@@ -6885,6 +6893,10 @@
         {
           "sourceId": "Q50",
           "note": "In dieser Nachprüfung erneut gelesene Originalquelle; genaue Fundstelle und Grenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "KA-EIA-TWH",
+          "note": "In der Einzelnachprüfung herangezogene Originalquelle."
         }
       ],
       "research": {
@@ -6907,6 +6919,18 @@
               "Q50"
             ],
             "result": "Die EIA-Isttabelle für 2025 weist rund 35,95 GW Zubau in einzeln ausgewiesenen erneuerbaren Technologien aus. Das sind rund 62 Prozent der insgesamt 57,73 GW einschließlich der Kategorie Other Energy Sources, in der vor allem Speicher stehen. Ohne diese Kategorie ergibt sich rund 87 Prozent. Eine Größenordnung von 80 bis 90 Prozent ist damit für den engeren Erzeuger-Nenner plausibel; Jahr, Nenner und Speicherabgrenzung werden im Gespräch aber nicht festgelegt. Kapazitätszubau ist kein Anteil der erzeugten Strommenge."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "V001",
+              "Q16",
+              "Q50",
+              "KA-EIA-TWH"
+            ],
+            "result": "Yogeshwar überträgt seine Angabe von etwa 80 bis teils über 90 Prozent auf die USA, direkt nach der Formulierung „Zubau … an Strom … Erzeugung“; Jahr, Nenner und Einheit bleiben unklar. EIA 2025: Neue erneuerbare Großanlagen haben rund 35,95 GW von 57,73 GW gesamtem Kapazitätszubau (rund 62 Prozent), gegenüber rund 87 Prozent ohne die vor allem Speicher enthaltende Sammelkategorie. Ein anderer Maßstab, der Erzeugungszuwachs (TWh), lag für Erneuerbare inkl. kleiner PV 2025 bei rund 96,8 von 125,5 TWh (rund 77 Prozent). Hohe Anteile sind real; ohne Zeitraum und Zählweise ist die 80–90-Prozent-Angabe kein allgemeiner Beleg."
           }
         ]
       },
@@ -6942,10 +6966,26 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Zweite Agentenprüfung bestätigt die Argumentationsfunktion; Zahlengewicht unverändert."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Auch in USA kommen 80 bis 90% des Stromzubaus aus Erneuerbaren."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Auch in USA kommen 80 bis 90% des Stromzubaus aus Erneuerbaren."
+            },
+            "reason": "Yogeshwar überträgt seine Angabe von etwa 80 bis teils über 90 Prozent auf die USA, direkt nach der Formulierung „Zubau … an Strom … Erzeugung“; Jahr, Nenner und Einheit bleiben unklar. EIA 2025: Neue erneuerbare Großanlagen haben rund 35,95 GW von 57,73 GW gesamtem Kapazitätszubau (rund 62 Prozent), gegenüber rund 87 Prozent ohne die vor allem Speicher enthaltende Sammelkategorie. Ein anderer Maßstab, der Erzeugungszuwachs (TWh), lag für Erneuerbare inkl. kleiner PV 2025 bei rund 96,8 von 125,5 TWh (rund 77 Prozent). Hohe Anteile sind real; ohne Zeitraum und Zählweise ist die 80–90-Prozent-Angabe kein allgemeiner Beleg."
           }
         ]
       },
-      "shortReason": "Rund 87 Prozent ergeben sich mit engem Erzeuger-Nenner, rund 62 Prozent einschließlich der EIA-Kategorie mit Speichern."
+      "shortReason": "Hoher Erneuerbarenanteil ist plausibel, aber Kapazität, Strommenge und Speicherabgrenzung ergeben unterschiedliche Quoten."
     },
     {
       "id": "-rBUCkR4HuA-A0072",
