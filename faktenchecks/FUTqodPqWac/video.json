@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "videoId": "FUTqodPqWac",
+  "role": "original",
+  "channel": "Simon Schoebel (InvestScience)",
+  "title": "Der Atomausstieg ist der dümmste Fehler Deutschlands",
+  "videoUrl": "https://www.youtube.com/watch?v=FUTqodPqWac",
+  "publishedAt": "2026-11-15",
+  "durationSeconds": 1088,
+  "workStatus": "Teilbestand geprüft",
+  "format": "video",
+  "identification": {
+    "basis": "Video-ID, Titel, Kanal, Laufzeit und Veröffentlichungsdatum aus YouTube-Originalmetadaten; Zeitmarken aus dem von Jens bereitgestellten YouTube-Transkript.",
+    "certainty": "Belegt",
+    "checkedOn": "2026-11-26"
+  }
+}

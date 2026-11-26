@@ -1,0 +1,557 @@
+{
+  "schemaVersion": 1,
+  "videoId": "FUTqodPqWac",
+  "basis": "Themen aus den inhaltlichen Zeitabschnitten des bereitgestellten Transkripts.",
+  "topics": [
+    {
+      "topic": "energie",
+      "relevance": "Schwerpunkt",
+      "basis": "Strommix, Zubau, Stromhandel und Erzeugung.",
+      "segments": [
+        {
+          "startSeconds": 104,
+          "endSeconds": 266,
+          "note": "Weltweites und chinesisches Energiesystem."
+        },
+        {
+          "startSeconds": 650,
+          "endSeconds": 759,
+          "note": "Deutscher Strommix und Handel."
+        }
+      ]
+    },
+    {
+      "topic": "energie/atomkraft",
+      "relevance": "Schwerpunkt",
+      "basis": "Kernkraft weltweit, Bauprojekte, deutscher Ausstieg und Wiederinbetriebnahme.",
+      "segments": [
+        {
+          "startSeconds": 104,
+          "endSeconds": 447,
+          "note": "Anteile, Investitionen, Neubau und SMR."
+        },
+        {
+          "startSeconds": 456,
+          "endSeconds": 643,
+          "note": "Beschlüsse und Weiterbetrieb."
+        },
+        {
+          "startSeconds": 982,
+          "endSeconds": 1074,
+          "note": "Wiederanfahren und Unfallfolgen."
+        }
+      ]
+    },
+    {
+      "topic": "energie/preise",
+      "relevance": "Behandelt",
+      "basis": "Preiseffekte von Laufzeitentscheidungen und externer Kostenvergleich.",
+      "segments": [
+        {
+          "startSeconds": 669,
+          "endSeconds": 696,
+          "note": "Szenarien zu Großhandel und Endkunden."
+        },
+        {
+          "startSeconds": 844,
+          "endSeconds": 885,
+          "note": "Kosten des historischen Gegenfaktums."
+        }
+      ]
+    },
+    {
+      "topic": "klima",
+      "relevance": "Behandelt",
+      "basis": "Direkte Emissionen, EU-ETS und CO₂-Bilanz der Stromerzeugung.",
+      "segments": [
+        {
+          "startSeconds": 704,
+          "endSeconds": 729,
+          "note": "ETS und fossile Erzeugung."
+        },
+        {
+          "startSeconds": 948,
+          "endSeconds": 973,
+          "note": "Strommix und absolute CO₂-Emissionen."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "FUTqodPqWac-A0003",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0004",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0005",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0006",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0007",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0008",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0009",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0010",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0011",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0012",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0013",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0014",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0015",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0016",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0017",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0018",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0019",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0020",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0021",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0022",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0023",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0025",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0026",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0027",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0028",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0029",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0031",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0032",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0033",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0034",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0036",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0037",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0038",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0039",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0041",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0042",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0043",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0044",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0045",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0046",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0047",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0048",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0049",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0050",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0051",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0052",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0053",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0054",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0055",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0056",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0057",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0058",
+      "topics": [
+        "energie/preise",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0059",
+      "topics": [
+        "energie/preise",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0060",
+      "topics": [
+        "energie/preise",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0061",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0062",
+      "topics": [
+        "klima",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0063",
+      "topics": [
+        "klima",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0064",
+      "topics": [
+        "klima",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0065",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0066",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0070",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0071",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0072",
+      "topics": [
+        "energie/preise",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0073",
+      "topics": [
+        "energie/preise",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0074",
+      "topics": [
+        "energie/preise",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0075",
+      "topics": [
+        "energie/preise",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0076",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0078",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0080",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0081",
+      "topics": [
+        "klima",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0082",
+      "topics": [
+        "klima",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0084",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0085",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0086",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0090",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    },
+    {
+      "claimId": "FUTqodPqWac-A0091",
+      "topics": [
+        "energie/atomkraft"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Erste Zuordnung anhand der Transkripterfassung; vorhandene Themen-IDs verwendet, keine neue Kategorie erforderlich."
+    }
+  ]
+}
