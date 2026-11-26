@@ -7,7 +7,7 @@
     "asOf": "2026-11-19",
     "durationSeconds": 97,
     "coverageNote": "Short vollständig erfasst (Stand 19.11.2026): Alle Tatsachenbehauptungen und die wertende Kernaussage des Liedtexts sind geprüft. Reine Ausrufe und die rhetorische Frage „Wem gehört das Windrad, Frau Weidel?“ sind keine eigenen Aussagen. Künstlerische Zuspitzungen sind als solche benannt.",
-    "researchNote": "Liedtext aus den automatisch erzeugten deutschen YouTube-Untertiteln (ohne Audiokontrolle; das Audio ließ sich nicht abrufen). Geprüft mit Presseberichten zur AfD-Rede in Riesa (ZDF, top agrar, ZfK), Wahlprogramm-Auszügen (Mieterbund), Studien zur Eigentümerstruktur der Windenergie (UBA, AEE/trend:research, Wissenschaftliche Dienste des Bundestages) und dem Atomausstiegs-Urteil des Bundesverfassungsgerichts. Das Lied stammt vom Betreiber dieser Seite; es wurde nach denselben Maßstäben geprüft wie fremde Videos."
+    "researchNote": "Liedtext aus den automatisch erzeugten deutschen YouTube-Untertiteln (ohne Audiokontrolle; das Audio ließ sich nicht abrufen). Geprüft mit Presseberichten zur AfD-Rede in Riesa (ZDF, top agrar, ZfK), Wahlprogramm-Auszügen (Mieterbund), Studien zur Eigentümerstruktur der Windenergie (UBA, AEE/trend:research, Wissenschaftliche Dienste des Bundestages) und dem Atomausstiegs-Urteil des Bundesverfassungsgerichts. Das Lied stammt vom Betreiber dieser Seite; es wurde nach denselben Maßstäben geprüft wie fremde Videos. Kai (26.11.2026): 1 alte Teilurteile anhand der originalen automatischen YouTube-Textspur und der jeweiligen Sachquellen einzeln erneut geprüft; kein Ton- oder Bildvollabgleich."
   },
   "speakers": [
     {
@@ -97,6 +97,22 @@
       "details": "BVerfG, Urteil vom 06.12.2016, 1 BvR 2821/11 u. a.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Webseite direkt abgerufen und gelesen"
+    },
+    {
+      "id": "KA-VIDEO",
+      "title": "Politik4M3: Originalvideo mit deutscher automatischer Textspur",
+      "url": "https://www.youtube.com/watch?v=d6-SBMTduwk",
+      "details": "00:28–00:35 und 00:43–00:50, wiederholter Eigentumsvorwurf; 00:58–01:05 ist die eigene bedingte Rechtsaussage.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalquelle an der angegebenen Fundstelle geprüft."
+    },
+    {
+      "id": "KA-AFD",
+      "title": "AfD-Bundestagswahlprogramm 2025",
+      "url": "https://www.afd.de/wp-content/uploads/2025/02/AfD_Bundestagswahlprogramm2025_druck.pdf",
+      "details": "Abschnitt Energiepolitik, S. 81–83: EEG und weiteren Windkraftausbau; kein allgemeiner Abriss bestehender Windräder beschlossen.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalquelle an der angegebenen Fundstelle geprüft."
     }
   ],
   "claims": [
@@ -317,11 +333,10 @@
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
+      "verdict": "Irreführend / Kontext fehlt",
       "description": "Bei Windkraftwerken will die AfD plötzlich privates Eigentum beseitigen („soll plötzlich Schluss mit Eigentum sein“, „privates Eigentum soll fort“).",
-      "reason": "Teilweise richtig. Die Folge stimmt: Windräder gehören privaten Betreibern und sind genehmigt; ein erzwungener Rückbau bestehender Anlagen träfe deren Eigentum. Der Energieökonom Lion Hirth nennt die Forderung „staatliche Enteignung von privatem Eigentum“, der Bundesverband WindEnergie sagt, sie „käme einer Enteignung gleich“. Aber: Ein Abriss bestehender Anlagen steht nicht im AfD-Wahlprogramm; dort wird nur der weitere Ausbau abgelehnt und die Abschaffung des EEG gefordert. Weidel selbst hat ihre Rede danach unterschiedlich ausgelegt (nur Reinhardswald, Einzelprüfung), auf X aber nachgelegt: „dass wir diese Dinger endlich niederreißen sollten. Weg damit!“ Dass die Partei das Ziel verfolgt, Eigentum zu entziehen, ist deshalb eine Schlussfolgerung aus Weidels Worten, kein beschlossener Plan. Das gilt auch für den Titel des Shorts („Enteignungspläne der AfD“).",
-      "shortReason": "Ein Rückbau träfe privates Eigentum, steht aber nicht im AfD-Programm; die Enteignungsabsicht ist eine Schlussfolgerung aus Weidels Worten.",
-      "assessmentBasis": "Abgleich mit Expertenstimmen, Leitantrag/Wahlprogramm-Zitaten und Weidels späteren Äußerungen in der Presse.",
+      "reason": "Der Refrain und der Titel machen aus Weidels öffentlicher Abrissrhetorik einen Eigentumsplan der Partei. Ihre Forderung nach Abriss und die späteren unterschiedlichen Aussagen zum Umfang sind dokumentiert. Das AfD-Wahlprogramm fordert jedoch lediglich ein Ende des weiteren Windkraftausbaus und die Abschaffung des EEG; ein pauschaler Abriss genehmigter Bestandsanlagen ist darin nicht beschlossen. Ein staatlich erzwungener Rückbau könnte Eigentumsrechte berühren (eigenständige bedingte Aussage A07); daraus folgt kein beschlossener Enteignungsplan.",
+      "assessmentBasis": "Abgleich mit Expertenstimmen, Leitantrag/Wahlprogramm-Zitaten und Weidels späteren Äußerungen in der Presse. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 28,
@@ -361,6 +376,14 @@
         {
           "sourceId": "S03",
           "note": "„Weg mit dem EEG“; Relativierung im dpa-Interview"
+        },
+        {
+          "sourceId": "KA-VIDEO",
+          "note": "In der Einzelnachprüfung herangezogene Originalquelle."
+        },
+        {
+          "sourceId": "KA-AFD",
+          "note": "In der Einzelnachprüfung herangezogene Originalquelle."
         }
       ],
       "openQuestions": [],
@@ -392,6 +415,40 @@
             "previous": "Vorläufig",
             "next": "Gegengeprüft",
             "reason": "Eigenständige Kontrolle der Argumentationsrolle anhand neu importierter Original-Captions. Bestehenden Faktor bestätigt; keine Zahlenänderung."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Bei Windkraftwerken will die AfD plötzlich privates Eigentum beseitigen („soll plötzlich Schluss mit Eigentum sein“, „privates Eigentum soll fort“)."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Bei Windkraftwerken will die AfD plötzlich privates Eigentum beseitigen („soll plötzlich Schluss mit Eigentum sein“, „privates Eigentum soll fort“)."
+            },
+            "reason": "Der Refrain und der Titel machen aus Weidels öffentlicher Abrissrhetorik einen Eigentumsplan der Partei. Ihre Forderung nach Abriss und die späteren unterschiedlichen Aussagen zum Umfang sind dokumentiert. Das AfD-Wahlprogramm fordert jedoch lediglich ein Ende des weiteren Windkraftausbaus und die Abschaffung des EEG; ein pauschaler Abriss genehmigter Bestandsanlagen ist darin nicht beschlossen. Ein staatlich erzwungener Rückbau könnte Eigentumsrechte berühren (eigenständige bedingte Aussage A07); daraus folgt kein beschlossener Enteignungsplan."
+          }
+        ]
+      },
+      "shortReason": "Reale Abrissrhetorik ist nicht dasselbe wie ein beschlossener Plan gegen bestehende Anlagen.",
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S01",
+              "S02",
+              "S03",
+              "KA-VIDEO",
+              "KA-AFD"
+            ],
+            "result": "Der Refrain und der Titel machen aus Weidels öffentlicher Abrissrhetorik einen Eigentumsplan der Partei. Ihre Forderung nach Abriss und die späteren unterschiedlichen Aussagen zum Umfang sind dokumentiert. Das AfD-Wahlprogramm fordert jedoch lediglich ein Ende des weiteren Windkraftausbaus und die Abschaffung des EEG; ein pauschaler Abriss genehmigter Bestandsanlagen ist darin nicht beschlossen. Ein staatlich erzwungener Rückbau könnte Eigentumsrechte berühren (eigenständige bedingte Aussage A07); daraus folgt kein beschlossener Enteignungsplan."
           }
         ]
       }
