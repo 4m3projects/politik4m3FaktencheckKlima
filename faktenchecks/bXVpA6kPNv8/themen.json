@@ -358,6 +358,13 @@
         "energie",
         "energie/windkraft"
       ]
+    },
+    {
+      "claimId": "bXVpA6kPNv8-A0049",
+      "topics": [
+        "energie",
+        "energie/windkraft"
+      ]
     }
   ],
   "history": [
@@ -370,6 +377,11 @@
       "date": "2026-11-23",
       "agent": "Kai",
       "change": "Inventar um getrennte historische Vorgänge und Weiterverbreitung des Posters ergänzt. Bestehende Themen Energie und Windkraft; keine neue Kategorie und keine Änderung fremder Zuordnungen."
+    },
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "A0049 als eigenständige Ausnahme zu Waldstandorten ergänzt; vorhandenes Thema energie/windkraft, keine neue öffentliche Kategorie."
     }
   ]
 }

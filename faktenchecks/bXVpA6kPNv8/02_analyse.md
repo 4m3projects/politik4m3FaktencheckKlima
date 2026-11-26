@@ -16,19 +16,19 @@ Quellen: [LfU/LGL: Windenergieanlagen, Infraschall und Gesundheit](https://www.l
 
 ### 02:33 · Langzeitstudien
 
-**Teilweise belegt · bXVpA6kPNv8-A0007**
+**Irreführend / Kontext fehlt · bXVpA6kPNv8-A0007**
 
-Die großen Stichproben und überwiegenden Nullbefunde stimmen. Die niederländische Untersuchung mit jährlich 350.000–560.000 Personen fand keine konsistenten Entfernungsassoziationen, bei modellierten Pegeln über 42 dB Lden aber in späteren Jahren mehr Schmerzmittelverordnungen. Die US-Studie untersucht über 120.000 Haushalte, überwiegend bei größeren Entfernungen, und begrenzt die Aussagekraft im Nahbereich. Das belegt weder einen kausalen Gesundheitsschaden noch eine Wirkung speziell von Infraschall, begrenzt jedoch die pauschale Formulierung.
+Der Ersteller fasst die nahe gelegenen Anlagen betreffende Studienlage ohne jeden Hinweis auf Gesundheitseffekte zusammen. Die meisten Auswertungen finden keine konsistente Verbindung mit der Entfernung. Baliatsas et al. finden jedoch bei modelliertem Windradgeräusch über 42 dB Lden in späteren Jahren erhöhte Verordnungen von Schmerzmitteln. Einzelne Assoziationen und die begrenzte Nahbereichsstichprobe erlauben keinen Schluss auf kausale Schäden oder auf Infraschall als Ursache. Sie machen die pauschale Entwarnung stärker als die Studienbefunde.
 
-Quellen: [Rott, Almond & Giuntella: Wind turbine proximity and health: Longitudinal evidence from US households](https://www.pnas.org/doi/10.1073/pnas.2525715123), [Baliatsas et al.: Health problems near wind turbines, Nivel certified postprint](https://postprint.nivel.nl/PPpp8484.pdf), [Poulsen et al.: Wind turbine noise and redemption of antihypertensive medication](https://www.sciencedirect.com/science/article/pii/S0160412018303726).
+Quellen: [Doktor Whatson: öffentlich verlinktes Redaktionsskript und Quellenliste](https://docs.google.com/document/d/1Jpq_LbCXORqopVCUr-JCKHplWbjFRHsxD8J7tQgNBHY/edit?usp=sharing), [Rott, Almond & Giuntella: Wind turbine proximity and health: Longitudinal evidence from US households](https://www.pnas.org/doi/10.1073/pnas.2525715123), [Baliatsas et al.: Health problems near wind turbines, Nivel certified postprint](https://postprint.nivel.nl/PPpp8484.pdf), [Poulsen et al.: Wind turbine noise and redemption of antihypertensive medication](https://www.sciencedirect.com/science/article/pii/S0160412018303726).
 
 ### 02:42 · Experimente und gesundheitliches Fazit
 
-**Teilweise belegt · bXVpA6kPNv8-A0040**
+**Widerlegt · bXVpA6kPNv8-A0040**
 
-Kontrollierte Studien finden überwiegend keine Verschlechterung der untersuchten Symptome, Schlaf- und Verhaltensmaße. Die zitierte Pilotstudie Ascone 2021 (38 Personen, 28 Nächte, 6 Hz bei 80–90 dB) berichtet jedoch regionale MRT-Volumenänderungen; deren klinische Bedeutung bleibt ausdrücklich ungeklärt. Marshall 2023 findet bei 37 lärmempfindlichen gesunden Erwachsenen nach 72 Stunden keine schädlichen Effekte in den erfassten Endpunkten. Kein nachgewiesener Gesundheitsschaden ist deshalb präziser als überhaupt kein Effekt. Aus dem MRT-Befund wird weder Hirnschaden noch Krankheit durch übliche Wohnexposition abgeleitet. Die vorsichtig auf den bisherigen Wissensstand bezogene gesundheitliche Schlussfolgerung im Fazit ist damit besser gestützt als die vorgelagerte absolute Aussage über überhaupt keinen Effekt; beide Formulierungen bleiben sichtbar, werden aber nicht als doppelte Zähleinheiten behandelt.
+Die im Erstellerskript ausdrücklich zitierte Pilotstudie Ascone et al. berichtet regionale MRT-Volumenänderungen nach experimenteller Exposition. Das widerlegt die frühe absolute Aussage, es habe überhaupt keinen Effekt gegeben. Die Autoren fanden keine belastbare breite Verhaltens- oder Symptomauswirkung; die klinische Bedeutung der MRT-Befunde ist unklar. Die spätere vorsichtige Zusammenfassung zum fehlenden Schadensnachweis im gewöhnlichen Wohnumfeld trifft eine engere Aussage und ist nicht Gegenstand dieses Widerlegungsurteils.
 
-Quellen: [Ascone et al.: A longitudinal, randomized experimental pilot study](https://pmc.ncbi.nlm.nih.gov/articles/PMC7862356/), [Marshall et al.: The Health Effects of 72 Hours of Simulated Wind Turbine Infrasound](https://pmc.ncbi.nlm.nih.gov/articles/PMC10032045/), [Maijala et al.: Infrasound Does Not Explain Symptoms Related to Wind Turbines](https://julkaisut.valtioneuvosto.fi/items/9cd9cca7-9e73-4bd4-9dcf-9c9c2b83f942), [UBA: Lärmwirkungen-Experimentalstudie, Pressemitteilung 38/2020](https://www.umweltbundesamt.de/presse/pressemitteilungen/infraschall-um-unter-der-wahrnehmungsschwelle).
+Quellen: [Doktor Whatson: öffentlich verlinktes Redaktionsskript und Quellenliste](https://docs.google.com/document/d/1Jpq_LbCXORqopVCUr-JCKHplWbjFRHsxD8J7tQgNBHY/edit?usp=sharing), [Ascone et al.: A longitudinal, randomized experimental pilot study](https://pmc.ncbi.nlm.nih.gov/articles/PMC7862356/), [Marshall et al.: The Health Effects of 72 Hours of Simulated Wind Turbine Infrasound](https://pmc.ncbi.nlm.nih.gov/articles/PMC10032045/), [Maijala et al.: Infrasound Does Not Explain Symptoms Related to Wind Turbines](https://julkaisut.valtioneuvosto.fi/items/9cd9cca7-9e73-4bd4-9dcf-9c9c2b83f942), [UBA: Lärmwirkungen-Experimentalstudie, Pressemitteilung 38/2020](https://www.umweltbundesamt.de/presse/pressemitteilungen/infraschall-um-unter-der-wahrnehmungsschwelle).
 
 ### 02:46 · BGR-Rechenfehler
 
@@ -71,6 +71,20 @@ Quellen: [Umweltministerium Baden-Württemberg: FAQ Windenergie](https://um.bade
 Die Ersteller-Quellenliste verweist auf eine private BWE-E-Mail, die uns samt Unfallliste nicht vorliegt. 77 Brände seit 2005, fünf jüngste Fälle und die behauptete Lücke 2007–2010 lassen sich daraus nicht unabhängig bestätigen. Das Video nennt die Unvollständigkeit selbst. Zörbigs Feuerwehr belegt tatsächlich einen Brand 2008, bestätigt damit aber nicht den Inhalt der ungelesenen Liste. Die historische Bundestagsdokumentation erklärt Datenlücken, ersetzt keine aktuelle Zählung.
 
 Quellen: [Freiwillige Feuerwehr Zörbig: Windradbrand am 10.11.2008](https://www.feuerwehr-zoerbig.de/einsaetze/einsaetze-2008/10112008-brand-eines-windrades), [Wissenschaftliche Dienste: Windkraftanlagen, WD 8-3000-033/21](https://www.bundestag.de/resource/blob/843330/WD-8-033-21-pdf.pdf), [Bundesregierung: Antwort 19/25955 zu Windenergieanlagen](https://dserver.bundestag.de/btd/19/259/1925955.pdf).
+
+### 07:52 · Waldflächen und Schutzgebiete
+
+**Belegt · bXVpA6kPNv8-A0019**
+
+Das Redaktionsskript spricht von zunehmender Berücksichtigung, nicht einer Pflicht jeder Kommune. Die Fachagentur dokumentiert Ende 2025 insgesamt 2.653 Forststandorte, starke regionale Unterschiede und die Rolle länderspezifischer Planung. Das belegt die praktische Bedeutung der Flächen, nicht eine bundesweit einheitliche Pflicht oder die Notwendigkeit jedes einzelnen Standorts. Die behauptete Schutzgebietsausnahme ist separat A0049.
+
+Quellen: [Doktor Whatson: öffentlich verlinktes Redaktionsskript und Quellenliste](https://docs.google.com/document/d/1Jpq_LbCXORqopVCUr-JCKHplWbjFRHsxD8J7tQgNBHY/edit?usp=sharing), [Fachagentur Wind und Solar: Windenergienutzung auf Forstflächen, 11. Auflage](https://www.fachagentur-wind-solar.de/fileadmin/Veroeffentlichungen/Wind/Windenergie_im_Wald/FA_Wind_Solar_Entwicklung_der_Windenergienutzung_auf_Forstflaechen_11Auflage.pdf).
+
+**Irreführend / Kontext fehlt · bXVpA6kPNv8-A0049**
+
+Das Redaktionsskript nennt diese Waldgruppen pauschal als ausgenommen. Schutzkategorien und landesrechtliche Standortregeln sind aber verschieden: § 26 Abs. 3 BNatSchG erlaubt Windenergie in entsprechend ausgewiesenen Landschaftsschutzgebieten unter Bedingungen, lässt etwa Natura-2000- und Welterbe-Fälle aus. Die Fachagentur zeigt unterschiedliche Regeln und örtliche Prüfungen, z. B. auf S. 24–30. Das Alter allein begründet keinen bundesweiten Ausschluss; besonderer Schutz und tatsächliche Genehmigung sind jeweils getrennt zu prüfen.
+
+Quellen: [Doktor Whatson: öffentlich verlinktes Redaktionsskript und Quellenliste](https://docs.google.com/document/d/1Jpq_LbCXORqopVCUr-JCKHplWbjFRHsxD8J7tQgNBHY/edit?usp=sharing), [Fachagentur Wind und Solar: Windenergienutzung auf Forstflächen, 11. Auflage](https://www.fachagentur-wind-solar.de/fileadmin/Veroeffentlichungen/Wind/Windenergie_im_Wald/FA_Wind_Solar_Entwicklung_der_Windenergienutzung_auf_Forstflaechen_11Auflage.pdf), [§ 26 BNatSchG: Landschaftsschutzgebiete](https://www.gesetze-im-internet.de/bnatschg_2009/__26.html).
 
 ### 08:02 · Windenergie im Wald
 
@@ -124,11 +138,11 @@ Quellen: [DLR: Fragen und Antworten zu Fluginsekten und Windparks](https://www.d
 
 ### 12:18 · Fangflüge und Radar
 
-**Teilweise belegt · bXVpA6kPNv8-A0032**
+**Widerlegt · bXVpA6kPNv8-A0032**
 
-Die Kritik an einer räumlich und methodisch begrenzten Datengrundlage ist nachvollziehbar. Der DLR-Bericht bezieht die Insektendichte aus Flugzeugfallen über Schleswig-Holstein 1998–2004, nicht aus dortigen Radarmessungen. Südenglische Radararbeiten werden unter anderem für Masseannahmen und einen begrenzten Vergleich herangezogen. Das Video vermischt damit Methode und Funktion verschiedener Datensätze; die grundsätzliche Forderung nach besseren Messungen bleibt richtig.
+Der DLR-Abschlussbericht nennt im Abschnitt zur Insektendichte (S. 16, Tabelle 4; ergänzend S. 24) Fangvorrichtungen an Flugzeugen über Schleswig-Holstein (1998–2004), nicht Radar. Südenglische Daten dienen u. a. dem Vergleich von Größenordnungen; der Bericht warnt ausdrücklich vor einer direkten Übertragung. Damit ist die konkrete Methodenangabe widerlegt. Die benachbarte Kritik an der schmalen Datenbasis bleibt davon unberührt und wird nicht als zweiter Beleg für denselben Methodenbefund gezählt.
 
-Quellen: [Franz Trieb / DLR: Interference of Flying Insects and Wind Parks](https://www.dlr.de/de/tt/downloads/dokumente/st/FliWip-Final-Report-2.pdf/@@download/file), [DLR: Fragen und Antworten zu Fluginsekten und Windparks](https://www.dlr.de/de/aktuelles/nachrichten/2019/01/20190326_dlr-studie-zu-wechselwirkungen-von-fluginsekten-und-windparks), [Bundesamt für Naturschutz: Insektenrückgang und Windenergienutzung](https://www.bfn.de/sites/default/files/2021-04/2019_Faktenpapier_Insekten_WEA.pdf).
+Quellen: [Doktor Whatson: öffentlich verlinktes Redaktionsskript und Quellenliste](https://docs.google.com/document/d/1Jpq_LbCXORqopVCUr-JCKHplWbjFRHsxD8J7tQgNBHY/edit?usp=sharing), [Franz Trieb / DLR: Interference of Flying Insects and Wind Parks](https://www.dlr.de/de/tt/downloads/dokumente/st/FliWip-Final-Report-2.pdf/@@download/file), [DLR: Fragen und Antworten zu Fluginsekten und Windparks](https://www.dlr.de/de/aktuelles/nachrichten/2019/01/20190326_dlr-studie-zu-wechselwirkungen-von-fluginsekten-und-windparks), [Bundesamt für Naturschutz: Insektenrückgang und Windenergienutzung](https://www.bfn.de/sites/default/files/2021-04/2019_Faktenpapier_Insekten_WEA.pdf).
 
 ### 12:26 · Fallenfang ist keine Kollisionsquote
 

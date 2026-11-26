@@ -97,24 +97,26 @@ Die UBA-Machbarkeitsstudie von 2014 beschreibt Erkenntnislücken und schließt n
 
 ## 0007 · Große Langzeitstudien mit Hunderttausenden Anwohnern hätten keinen Hinweis gefunden, dass die Nähe zu Windenergieanlagen krank macht.
 
-**Fundstelle:** 02:33–02:42 · **Art:** Tatsachenbehauptung · **Status:** Abgeschlossen · **Urteil:** Teilweise belegt
+**Fundstelle:** 02:33–02:42 · **Art:** Tatsachenbehauptung · **Status:** Abgeschlossen · **Urteil:** Irreführend / Kontext fehlt
 
-Die großen Stichproben und überwiegenden Nullbefunde stimmen. Die niederländische Untersuchung mit jährlich 350.000–560.000 Personen fand keine konsistenten Entfernungsassoziationen, bei modellierten Pegeln über 42 dB Lden aber in späteren Jahren mehr Schmerzmittelverordnungen. Die US-Studie untersucht über 120.000 Haushalte, überwiegend bei größeren Entfernungen, und begrenzt die Aussagekraft im Nahbereich. Das belegt weder einen kausalen Gesundheitsschaden noch eine Wirkung speziell von Infraschall, begrenzt jedoch die pauschale Formulierung.
+Der Ersteller fasst die nahe gelegenen Anlagen betreffende Studienlage ohne jeden Hinweis auf Gesundheitseffekte zusammen. Die meisten Auswertungen finden keine konsistente Verbindung mit der Entfernung. Baliatsas et al. finden jedoch bei modelliertem Windradgeräusch über 42 dB Lden in späteren Jahren erhöhte Verordnungen von Schmerzmitteln. Einzelne Assoziationen und die begrenzte Nahbereichsstichprobe erlauben keinen Schluss auf kausale Schäden oder auf Infraschall als Ursache. Sie machen die pauschale Entwarnung stärker als die Studienbefunde.
 
 **Sachquellen:**
 
+- [Doktor Whatson: öffentlich verlinktes Redaktionsskript und Quellenliste](https://docs.google.com/document/d/1Jpq_LbCXORqopVCUr-JCKHplWbjFRHsxD8J7tQgNBHY/edit?usp=sharing): Über öffentlichen Google-Docs-Textexport gelesen. Skript datiert 02.11.2026 mit 35 nummerierten Quellen; nicht jede verlinkte Quelle ist dadurch bereits unabhängig geprüft.
 - [Rott, Almond & Giuntella: Wind turbine proximity and health: Longitudinal evidence from US households](https://www.pnas.org/doi/10.1073/pnas.2525715123): 2026-05-19; Significance; Alternative exposure definitions; Conclusion. Über 120.000 Haushalte 2011–2023; überwiegend Nullbefunde bei typischen Entfernungen; Median 6 km, im Nahbereich weniger Präzision; kleine Effekte/Belästigung nicht ausgeschlossen.
 - [Baliatsas et al.: Health problems near wind turbines, Nivel certified postprint](https://postprint.nivel.nl/PPpp8484.pdf): 2025; Abstract; Abschnitte 2.5, 3, 4–5. Jährlich 350.000–560.000 Personen 2012–2021; keine konsistenten Entfernungsassoziationen; höhere Schmerzmittelverordnung bei >42 dB Lden in späteren Jahren; keine isolierte Infraschallmessung.
 - [Poulsen et al.: Wind turbine noise and redemption of antihypertensive medication](https://www.sciencedirect.com/science/article/pii/S0160412018303726): 2018; Abstract; Highlights. 535.675 Personen; kein Gesamtzusammenhang mit Antihypertensiva. Betrifft definierten Endpunkt und modellierten Schall, nicht jede Krankheit.
 
-## 0040 · Gezielte Infraschall-Experimente hätten keine Effekte gefunden. Im Fazit folgert der Moderator aus der Studienlage: Nach allem bisherigen Wissen schade Infraschall von Windrädern uns nicht.
+## 0040 · Gezielte Infraschall-Experimente hätten keinen Effekt gefunden.
 
-**Fundstelle:** 02:42–02:46, 14:02–14:06 · **Art:** Tatsachenbehauptung · **Status:** Abgeschlossen · **Urteil:** Teilweise belegt
+**Fundstelle:** 02:42–02:46 · **Art:** Tatsachenbehauptung · **Status:** Abgeschlossen · **Urteil:** Widerlegt
 
-Kontrollierte Studien finden überwiegend keine Verschlechterung der untersuchten Symptome, Schlaf- und Verhaltensmaße. Die zitierte Pilotstudie Ascone 2021 (38 Personen, 28 Nächte, 6 Hz bei 80–90 dB) berichtet jedoch regionale MRT-Volumenänderungen; deren klinische Bedeutung bleibt ausdrücklich ungeklärt. Marshall 2023 findet bei 37 lärmempfindlichen gesunden Erwachsenen nach 72 Stunden keine schädlichen Effekte in den erfassten Endpunkten. Kein nachgewiesener Gesundheitsschaden ist deshalb präziser als überhaupt kein Effekt. Aus dem MRT-Befund wird weder Hirnschaden noch Krankheit durch übliche Wohnexposition abgeleitet. Die vorsichtig auf den bisherigen Wissensstand bezogene gesundheitliche Schlussfolgerung im Fazit ist damit besser gestützt als die vorgelagerte absolute Aussage über überhaupt keinen Effekt; beide Formulierungen bleiben sichtbar, werden aber nicht als doppelte Zähleinheiten behandelt.
+Die im Erstellerskript ausdrücklich zitierte Pilotstudie Ascone et al. berichtet regionale MRT-Volumenänderungen nach experimenteller Exposition. Das widerlegt die frühe absolute Aussage, es habe überhaupt keinen Effekt gegeben. Die Autoren fanden keine belastbare breite Verhaltens- oder Symptomauswirkung; die klinische Bedeutung der MRT-Befunde ist unklar. Die spätere vorsichtige Zusammenfassung zum fehlenden Schadensnachweis im gewöhnlichen Wohnumfeld trifft eine engere Aussage und ist nicht Gegenstand dieses Widerlegungsurteils.
 
 **Sachquellen:**
 
+- [Doktor Whatson: öffentlich verlinktes Redaktionsskript und Quellenliste](https://docs.google.com/document/d/1Jpq_LbCXORqopVCUr-JCKHplWbjFRHsxD8J7tQgNBHY/edit?usp=sharing): Über öffentlichen Google-Docs-Textexport gelesen. Skript datiert 02.11.2026 mit 35 nummerierten Quellen; nicht jede verlinkte Quelle ist dadurch bereits unabhängig geprüft.
 - [Ascone et al.: A longitudinal, randomized experimental pilot study](https://pmc.ncbi.nlm.nih.gov/articles/PMC7862356/): 2021-02-04; Abstract; Discussion; Limitations; Conclusion. 38 Personen, 28 Nächte, 6 Hz bei 80–90 dB; keine signifikanten Verhaltens-/Symptomeffekte, aber regionale MRT-Volumenänderungen ohne geklärte klinische Bedeutung.
 - [Marshall et al.: The Health Effects of 72 Hours of Simulated Wind Turbine Infrasound](https://pmc.ncbi.nlm.nih.gov/articles/PMC10032045/): 2023-03-22; Abstract; Discussion, limitations. 37 lärmempfindliche gesunde Erwachsene; doppelblindes Crossover; keine Verschlechterung erfasster Symptome/Physiologie durch Infraschall; Verkehrslärm verschlechterte Schlafmaß.
 - [Maijala et al.: Infrasound Does Not Explain Symptoms Related to Wind Turbines](https://julkaisut.valtioneuvosto.fi/items/9cd9cca7-9e73-4bd4-9dcf-9c9c2b83f942): 2020-06-22; Abstract des amtlichen Repositoriums. Messungen, Befragung und doppelblinde Versuche; selbst berichtete Betroffenheit, aber keine Wahrnehmungs-/Physiologiereaktion auf Infraschall in Versuchen.
@@ -313,15 +315,28 @@ Behördenunterlagen und konkrete Einsatzberichte stützen Löschgrenzen bei hohe
 - [Freiwillige Feuerwehr Zörbig: Windradbrand am 10.11.2008](https://www.feuerwehr-zoerbig.de/einsaetze/einsaetze-2008/10112008-brand-eines-windrades): Eigener Einsatzbericht: Rotorbereich in rund 100 m Höhe, Absperrung und Nachlöschen am Folgetag. Belegt einen Brand innerhalb 2007–2010, nicht den Inhalt einer privaten BWE-Liste.
 - [Feuerwehr Stadtschwarzach: Windradbrand, 23.05.2026](https://www.feuerwehr-stadtschwarzach.de/einsatz/116013/): Eigener Einsatzbericht, Alarm 18:46, Einsatzdauer 5 h 30 min; Überlandhilfe Raum Biebelried/Kitzingen, großräumige Absperrung wegen Brandhöhe über 100 m.
 
-## 0019 · Zum Erreichen der Energieziele müssten Regionen Waldstandorte erwägen; besonders geschützte und alte Wälder seien ausgenommen.
+## 0019 · Für den Windenergieausbau ziehen insbesondere waldreiche Regionen zunehmend geeignete Forstflächen in Betracht.
 
-**Fundstelle:** 07:52–08:01 · **Art:** Tatsachenbehauptung · **Status:** Abgeschlossen · **Urteil:** Teilweise belegt
+**Fundstelle:** 07:52–08:01 · **Art:** Tatsachenbehauptung · **Status:** Abgeschlossen · **Urteil:** Belegt
 
-Die Fachagentur beschreibt die zunehmende Bedeutung von Forstflächen für den Ausbau, besonders in waldreichen Ländern. Die beiläufige Ausnahme besonders geschützter und alter Wälder ist als pauschale bundesweite Regel zu ungenau: Einschränkungen unterscheiden sich nach Schutzkategorie, Bundesland, Artenbestand und Einzelfall. Nicht jeder alte Wald ist allein wegen seines Alters rechtlich ausgeschlossen. Hier werden keine historischen Einzelvorschriften als heutiger allgemeiner Rechtsrat übernommen.
+Das Redaktionsskript spricht von zunehmender Berücksichtigung, nicht einer Pflicht jeder Kommune. Die Fachagentur dokumentiert Ende 2025 insgesamt 2.653 Forststandorte, starke regionale Unterschiede und die Rolle länderspezifischer Planung. Das belegt die praktische Bedeutung der Flächen, nicht eine bundesweit einheitliche Pflicht oder die Notwendigkeit jedes einzelnen Standorts. Die behauptete Schutzgebietsausnahme ist separat A0049.
 
 **Sachquellen:**
 
+- [Doktor Whatson: öffentlich verlinktes Redaktionsskript und Quellenliste](https://docs.google.com/document/d/1Jpq_LbCXORqopVCUr-JCKHplWbjFRHsxD8J7tQgNBHY/edit?usp=sharing): Über öffentlichen Google-Docs-Textexport gelesen. Skript datiert 02.11.2026 mit 35 nummerierten Quellen; nicht jede verlinkte Quelle ist dadurch bereits unabhängig geprüft.
 - [Fachagentur Wind und Solar: Windenergienutzung auf Forstflächen, 11. Auflage](https://www.fachagentur-wind-solar.de/fileadmin/Veroeffentlichungen/Wind/Windenergie_im_Wald/FA_Wind_Solar_Entwicklung_der_Windenergienutzung_auf_Forstflaechen_11Auflage.pdf): März 2026, Bestand Ende 2025. S.7 Methodik, S.18 Tabelle 2: 2.653 Waldanlagen; Länderabschnitte und S.31: Hessen 551/46 %, Baden-Württemberg 414/822 (rund 50 %). Tabellen visuell geprüft; länderbezogene Schutzregeln statt pauschalem Altwaldausschluss.
+
+## 0049 · Besonders geschützte und alte Wälder kämen für neue Windenergieanlagen pauschal nicht infrage.
+
+**Fundstelle:** 07:52–08:01 (gleicher Satz wie A0019) · **Art:** Tatsachenbehauptung · **Status:** Abgeschlossen · **Urteil:** Irreführend / Kontext fehlt
+
+Das Redaktionsskript nennt diese Waldgruppen pauschal als ausgenommen. Schutzkategorien und landesrechtliche Standortregeln sind aber verschieden: § 26 Abs. 3 BNatSchG erlaubt Windenergie in entsprechend ausgewiesenen Landschaftsschutzgebieten unter Bedingungen, lässt etwa Natura-2000- und Welterbe-Fälle aus. Die Fachagentur zeigt unterschiedliche Regeln und örtliche Prüfungen, z. B. auf S. 24–30. Das Alter allein begründet keinen bundesweiten Ausschluss; besonderer Schutz und tatsächliche Genehmigung sind jeweils getrennt zu prüfen.
+
+**Sachquellen:**
+
+- [Doktor Whatson: öffentlich verlinktes Redaktionsskript und Quellenliste](https://docs.google.com/document/d/1Jpq_LbCXORqopVCUr-JCKHplWbjFRHsxD8J7tQgNBHY/edit?usp=sharing): Über öffentlichen Google-Docs-Textexport gelesen. Skript datiert 02.11.2026 mit 35 nummerierten Quellen; nicht jede verlinkte Quelle ist dadurch bereits unabhängig geprüft.
+- [Fachagentur Wind und Solar: Windenergienutzung auf Forstflächen, 11. Auflage](https://www.fachagentur-wind-solar.de/fileadmin/Veroeffentlichungen/Wind/Windenergie_im_Wald/FA_Wind_Solar_Entwicklung_der_Windenergienutzung_auf_Forstflaechen_11Auflage.pdf): März 2026, Bestand Ende 2025. S.7 Methodik, S.18 Tabelle 2: 2.653 Waldanlagen; Länderabschnitte und S.31: Hessen 551/46 %, Baden-Württemberg 414/822 (rund 50 %). Tabellen visuell geprüft; länderbezogene Schutzregeln statt pauschalem Altwaldausschluss.
+- [§ 26 BNatSchG: Landschaftsschutzgebiete](https://www.gesetze-im-internet.de/bnatschg_2009/__26.html): Abs. 3: Windenergiegebiete in Landschaftsschutzgebieten können zulässig sein; die Ausnahme vom Schutz gilt nicht für Natura-2000-Gebiete und Welterbestätten. Kein allgemeines Altersverbot.
 
 ## 0020 · In Baden-Württemberg und Hessen stehe fast jede zweite Anlage im Wald; bundesweit seien etwa 2.700 von rund 30.000 Windenergieanlagen Waldanlagen.
 
@@ -462,14 +477,15 @@ Das DLR verlangte ausdrücklich empirische Validierung und Bezugsdaten. Aus der 
 - [DLR: Fragen und Antworten zu Fluginsekten und Windparks](https://www.dlr.de/de/aktuelles/nachrichten/2019/01/20190326_dlr-studie-zu-wechselwirkungen-von-fluginsekten-und-windparks): 26.03.2019; Interview zur Modellrechnung. Weder Hauptverursachung noch Unbeteiligung ableitbar, empirische Validierung nötig; Fangflüge, 24 Billionen passierende und 1,2 Billionen potenziell getroffene Tiere.
 - [Bundesamt für Naturschutz: Insektenrückgang und Windenergienutzung](https://www.bfn.de/sites/default/files/2021-04/2019_Faktenpapier_Insekten_WEA.pdf): 2019, drei Seiten: bekannte Haupttreiber, Grenzen der DLR-Modellrechnung, zeitliche/geografische Einordnung und fehlende populationsbezogene Vergleichsbasis. Keine belegte pauschale Nullwirkung.
 
-## 0032 · Andere Forschende kritisierten die Datengrundlage; Insektendichten beruhten auf Radardaten aus Schleswig-Holstein und Südengland.
+## 0032 · Die Insektendichte in der DLR-Modellrechnung beruhe auf Radardaten aus Schleswig-Holstein und Südengland.
 
-**Fundstelle:** 12:18–12:26 · **Art:** Tatsachenbehauptung · **Status:** Abgeschlossen · **Urteil:** Teilweise belegt
+**Fundstelle:** 12:18–12:26 · **Art:** Tatsachenbehauptung · **Status:** Abgeschlossen · **Urteil:** Widerlegt
 
-Die Kritik an einer räumlich und methodisch begrenzten Datengrundlage ist nachvollziehbar. Der DLR-Bericht bezieht die Insektendichte aus Flugzeugfallen über Schleswig-Holstein 1998–2004, nicht aus dortigen Radarmessungen. Südenglische Radararbeiten werden unter anderem für Masseannahmen und einen begrenzten Vergleich herangezogen. Das Video vermischt damit Methode und Funktion verschiedener Datensätze; die grundsätzliche Forderung nach besseren Messungen bleibt richtig.
+Der DLR-Abschlussbericht nennt im Abschnitt zur Insektendichte (S. 16, Tabelle 4; ergänzend S. 24) Fangvorrichtungen an Flugzeugen über Schleswig-Holstein (1998–2004), nicht Radar. Südenglische Daten dienen u. a. dem Vergleich von Größenordnungen; der Bericht warnt ausdrücklich vor einer direkten Übertragung. Damit ist die konkrete Methodenangabe widerlegt. Die benachbarte Kritik an der schmalen Datenbasis bleibt davon unberührt und wird nicht als zweiter Beleg für denselben Methodenbefund gezählt.
 
 **Sachquellen:**
 
+- [Doktor Whatson: öffentlich verlinktes Redaktionsskript und Quellenliste](https://docs.google.com/document/d/1Jpq_LbCXORqopVCUr-JCKHplWbjFRHsxD8J7tQgNBHY/edit?usp=sharing): Über öffentlichen Google-Docs-Textexport gelesen. Skript datiert 02.11.2026 mit 35 nummerierten Quellen; nicht jede verlinkte Quelle ist dadurch bereits unabhängig geprüft.
 - [Franz Trieb / DLR: Interference of Flying Insects and Wind Parks](https://www.dlr.de/de/tt/downloads/dokumente/st/FliWip-Final-Report-2.pdf/@@download/file): Abschlussbericht 2018, Zusammenfassung und S.16/22–23: Modell mit Luftdurchsatz, Insektendichte, Trefferannahme und Masse; 24.000 t Durchfluss, 1.200 t potenzieller Verlust. Schleswig-Holstein-Dichte aus Flugzeugfallen 1998–2004. Südengland u.a. für Größen-/Massenvergleich.
 - [DLR: Fragen und Antworten zu Fluginsekten und Windparks](https://www.dlr.de/de/aktuelles/nachrichten/2019/01/20190326_dlr-studie-zu-wechselwirkungen-von-fluginsekten-und-windparks): 26.03.2019; Interview zur Modellrechnung. Weder Hauptverursachung noch Unbeteiligung ableitbar, empirische Validierung nötig; Fangflüge, 24 Billionen passierende und 1,2 Billionen potenziell getroffene Tiere.
 - [Bundesamt für Naturschutz: Insektenrückgang und Windenergienutzung](https://www.bfn.de/sites/default/files/2021-04/2019_Faktenpapier_Insekten_WEA.pdf): 2019, drei Seiten: bekannte Haupttreiber, Grenzen der DLR-Modellrechnung, zeitliche/geografische Einordnung und fehlende populationsbezogene Vergleichsbasis. Keine belegte pauschale Nullwirkung.
