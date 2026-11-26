@@ -7,7 +7,7 @@
     "asOf": "2026-11-20",
     "durationSeconds": 381,
     "coverageNote": "Das gesamte verfügbare deutsche YouTube-Transkript wurde ausgewertet. Projektpassagen und die Einblendung zum archivierten LinkedIn-Artikel wurden zusätzlich im Videobild geprüft. Die Urteilskategorien dokumentieren die Grenzen der Belege.",
-    "researchNote": "Zeitmarken aus der YouTube-Fassung, Sprecherzuordnung anhand des WDR-Manuskripts. Für Aussagen über die Pläne gilt der frühe Entwurfsstand, der im März diskutiert wurde."
+    "researchNote": "Zeitmarken aus der YouTube-Fassung, Sprecherzuordnung anhand des WDR-Manuskripts. Für Aussagen über die Pläne gilt der frühe Entwurfsstand, der im März diskutiert wurde. Kai (26.11.2026): die drei früheren Teilurteile separat anhand des veröffentlichten WDR-Manuskripts und relevanter Sachquellen nachgeprüft; keine neue audiovisuelle Vollsichtung."
   },
   "speakers": [
     {
@@ -271,6 +271,14 @@
       "details": "Die Abbildung auf Seite 6 reproduziert einen Ausschnitt aus dem LinkedIn-Artikel mit den früheren Forderungen. Ausgewertet wird die Abbildung als Dokument des ursprünglichen Wortlauts.",
       "accessedOn": "2026-11-20",
       "accessBasis": "Abbildung anhand der PDF-Darstellung und im YouTube-Originalbild abgeglichen."
+    },
+    {
+      "id": "WDR-M",
+      "title": "WDR MONITOR: Katherina Reiche – Energiewende rückwärts? (Beitragstext)",
+      "url": "https://www1.wdr.de/daserste/monitor/download-energiewende-100.pdf",
+      "details": "S. 2–4: Lackmanns Vergleich der Realisierungsdauer in Engpassregionen, redaktioneller Stromkostenvergleich und Formulierung zu Reiches früheren Forderungen.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Veröffentlichter WDR-Beitragstext geprüft; keine neue YouTube-Ton-/Vollsichtung."
     }
   ],
   "claims": [
@@ -1063,9 +1071,9 @@
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "description": "Netzbetreiber benötigen für den Netzausbau zehn bis fünfzehn Jahre.",
-      "reason": "Netze BW nennt zehn bis fünfzehn Jahre für einzelne Ausbaumaßnahmen. Die Regierung nennt in der Begründung des Netzanschlusspakets dagegen häufige Realisierungsdauern von acht bis zwölf Jahren. Damit ist Lackmanns Spanne für einzelne Vorhaben plausibel. Als allgemeine Dauer über Netzebenen und Projektarten hinweg ist sie zu pauschal.",
-      "assessmentBasis": "Abgleich mit Video, Originalunterlagen und dokumentierter Nachrecherche.",
+      "description": "Bei größeren Netzausbauvorhaben in Engpassregionen können zwischen Planung und Umsetzung zehn bis fünfzehn Jahre liegen.",
+      "reason": "Im WDR-Beitrag vergleicht Lackmann die Realisierungsdauer von Windparks mit dem Ausbau, auf den Betreiber in knappen Regionen warten. Netze BW bestätigt ausdrücklich zehn bis fünfzehn Jahre für einzelne umfangreiche Maßnahmen wie neue Freileitungen oder Umspannwerke. Der Bundestagsentwurf nennt häufig acht bis zwölf Jahre. Das stützt die Größenordnung in diesem Projektkontext, nicht eine starre Regel oder einen landesweiten Mittelwert.",
+      "assessmentBasis": "Abgleich mit Video, Originalunterlagen und dokumentierter Nachrecherche. Kai (26.11.2026): WDR-Beitragstext und die jeweils einschlägigen Sachquellen erneut gelesen; YouTube-Zeitmarke nicht neu kontrolliert.",
       "occurrences": [
         {
           "startSeconds": 88,
@@ -1100,6 +1108,10 @@
         {
           "sourceId": "B",
           "note": "Späterer Regierungsentwurf vom 7. September 2026. Vorgeschlagener § 14 Abs. 1d EnWG und § 8 Abs. 4 EEG."
+        },
+        {
+          "sourceId": "WDR-M",
+          "note": "Veröffentlichter Beitragstext zum Wortlaut; kein unabhängiger Sachbeleg."
         }
       ],
       "factIndex": {
@@ -1116,6 +1128,22 @@
             "result": "Bestätigt",
             "reason": "Die Laufzeit ist ein eigenständiger Vergleichspunkt und bleibt unabhängig vom Urteil auf der Standardstufe."
           }
+        ],
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "verdict/description",
+            "previous": {
+              "verdict": "Teilweise belegt",
+              "description": "Netzbetreiber benötigen für den Netzausbau zehn bis fünfzehn Jahre."
+            },
+            "next": {
+              "verdict": "Belegt",
+              "description": "Bei größeren Netzausbauvorhaben in Engpassregionen können zwischen Planung und Umsetzung zehn bis fünfzehn Jahre liegen."
+            },
+            "reason": "Im WDR-Beitrag vergleicht Lackmann die Realisierungsdauer von Windparks mit dem Ausbau, auf den Betreiber in knappen Regionen warten. Netze BW bestätigt ausdrücklich zehn bis fünfzehn Jahre für einzelne umfangreiche Maßnahmen wie neue Freileitungen oder Umspannwerke. Der Bundestagsentwurf nennt häufig acht bis zwölf Jahre. Das stützt die Größenordnung in diesem Projektkontext, nicht eine starre Regel oder einen landesweiten Mittelwert."
+          }
         ]
       },
       "research": {
@@ -1125,11 +1153,24 @@
           },
           {
             "strategy": "Zuerst amtliches Netzausbaumonitoring geprüft. Danach die Angaben des Verteilnetzbetreibers und die Problembeschreibung im Gesetzentwurf verglichen."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "WDR-Originalmanuskript geprüft; Primärquelle und Kontext je Eintrag abgeglichen.",
+            "sourceIds": [
+              "N",
+              "Y",
+              "M",
+              "NB",
+              "B",
+              "WDR-M"
+            ],
+            "result": "Im WDR-Beitrag vergleicht Lackmann die Realisierungsdauer von Windparks mit dem Ausbau, auf den Betreiber in knappen Regionen warten. Netze BW bestätigt ausdrücklich zehn bis fünfzehn Jahre für einzelne umfangreiche Maßnahmen wie neue Freileitungen oder Umspannwerke. Der Bundestagsentwurf nennt häufig acht bis zwölf Jahre. Das stützt die Größenordnung in diesem Projektkontext, nicht eine starre Regel oder einen landesweiten Mittelwert."
           }
         ]
       },
-      "verdict": "Teilweise belegt",
-      "shortReason": "Einzelne Vorhaben dauern laut Netze BW zehn bis fünfzehn Jahre, der Regierungsentwurf nennt häufig acht bis zwölf Jahre."
+      "verdict": "Belegt"
     },
     {
       "id": "ZV0uy_le-Uk-A0015",
@@ -1720,11 +1761,10 @@
       "chapter": 4,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "description": "Wind- und Solarstrom sind deutlich günstiger als Strom aus Gas oder Kohle.",
-      "reason": "Die Fraunhofer-Studie weist für neue PV-Freiflächen- und Onshore-Windanlagen 4,1 bis 9,2 Cent je Kilowattstunde aus. Neue Gas- und Kohlekraftwerke liegen in den modellierten Szenarien höher, einzelne Bandbreiten anderer PV-Typen überlappen jedoch mit Gas. Der Vergleich betrifft Stromgestehungskosten neuer Anlagen. Er bildet Netze und übrige Strompreisbestandteile nicht ab.",
-      "shortReason": "Neue Wind- und Solarparks haben meist niedrigere Erzeugungskosten, während der Endkundenpreis weitere Bestandteile umfasst.",
-      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen.",
+      "verdict": "Belegt",
+      "description": "Strom aus neuen Windparks an Land und Solarfreiflächenanlagen ist in Deutschland in der Regel günstiger zu erzeugen als Strom aus neuen Gas- oder Kohlekraftwerken.",
+      "reason": "Die Redaktion argumentiert mit der künftigen Erzeugung bei Ausbau oder Verzögerung. Fraunhofer ISE vergleicht neue Anlagen: PV-Freifläche und Wind an Land rund 4,1–9,2 ct/kWh, neue Gas-und-Dampf-Kraftwerke 10,9–18,1 ct/kWh, neue Kohlekraftwerke ab rund 15 ct/kWh. Andere PV-Typen können mit Gas überlappen. Aus dem belegten Erzeugungskostenvergleich folgt keine feste Veränderung des Haushaltsstrompreises oder eine Vollkostenrechnung des Stromsystems.",
+      "assessmentBasis": "Einordnung mit dem deutschen YouTube-Transkript und den zugeordneten Quellen. Kai (26.11.2026): WDR-Beitragstext und die jeweils einschlägigen Sachquellen erneut gelesen; YouTube-Zeitmarke nicht neu kontrolliert.",
       "occurrences": [
         {
           "startSeconds": 261,
@@ -1755,6 +1795,10 @@
         {
           "sourceId": "M",
           "note": "Sprecherzuordnung und redaktionelle Aussagen. Die Sendefassung enthält zusätzliche Moderation."
+        },
+        {
+          "sourceId": "WDR-M",
+          "note": "Veröffentlichter Beitragstext zum Wortlaut; kein unabhängiger Sachbeleg."
         }
       ],
       "factIndex": {
@@ -1771,12 +1815,41 @@
             "result": "Bestätigt",
             "reason": "Der Kostenvergleich trägt das Preisargument."
           }
+        ],
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "verdict/description",
+            "previous": {
+              "verdict": "Teilweise belegt",
+              "description": "Wind- und Solarstrom sind deutlich günstiger als Strom aus Gas oder Kohle."
+            },
+            "next": {
+              "verdict": "Belegt",
+              "description": "Strom aus neuen Windparks an Land und Solarfreiflächenanlagen ist in Deutschland in der Regel günstiger zu erzeugen als Strom aus neuen Gas- oder Kohlekraftwerken."
+            },
+            "reason": "Die Redaktion argumentiert mit der künftigen Erzeugung bei Ausbau oder Verzögerung. Fraunhofer ISE vergleicht neue Anlagen: PV-Freifläche und Wind an Land rund 4,1–9,2 ct/kWh, neue Gas-und-Dampf-Kraftwerke 10,9–18,1 ct/kWh, neue Kohlekraftwerke ab rund 15 ct/kWh. Andere PV-Typen können mit Gas überlappen. Aus dem belegten Erzeugungskostenvergleich folgt keine feste Veränderung des Haushaltsstrompreises oder eine Vollkostenrechnung des Stromsystems."
+          }
         ]
       },
       "research": {
         "rounds": [
           {
             "strategy": "Ähnliche Aussagen zu Netzausbau, Redispatch und Erzeugungskosten in den Schwesterprojekten gesucht. Sachbelege anhand der verknüpften Quellen geprüft."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "WDR-Originalmanuskript geprüft; Primärquelle und Kontext je Eintrag abgeglichen.",
+            "sourceIds": [
+              "I",
+              "P",
+              "Y",
+              "M",
+              "WDR-M"
+            ],
+            "result": "Die Redaktion argumentiert mit der künftigen Erzeugung bei Ausbau oder Verzögerung. Fraunhofer ISE vergleicht neue Anlagen: PV-Freifläche und Wind an Land rund 4,1–9,2 ct/kWh, neue Gas-und-Dampf-Kraftwerke 10,9–18,1 ct/kWh, neue Kohlekraftwerke ab rund 15 ct/kWh. Andere PV-Typen können mit Gas überlappen. Aus dem belegten Erzeugungskostenvergleich folgt keine feste Veränderung des Haushaltsstrompreises oder eine Vollkostenrechnung des Stromsystems."
           }
         ]
       }
@@ -2120,8 +2193,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
       "description": "Reiche forderte als Westenergie-Chefin in einem LinkedIn-Artikel dieselben Anschlussregeln, die im späteren Entwurf standen.",
-      "reason": "Der im Video gezeigte archivierte LinkedIn-Ausschnitt und der reproduzierte Ausschnitt im Greenpeace-Dossier dokumentieren frühere Forderungen nach einer Einschränkung von Netzanschlüssen an Engpässen und nach dem Redispatch-Vorbehalt. Der frühe Entwurf griff beide Ansätze auf, verpflichtete Netzbetreiber aber in ausgewiesenen Gebieten zu einem Vertragsangebot mit befristetem Verzicht und legte eine Schwelle sowie eine Höchstdauer fest. Die frühere Forderung knüpfte den Verzicht an die Beseitigung des Engpasses. Die Originalseite war öffentlich nicht verifizierbar. Wer den Beitrag entfernt hat, lässt sich aus der Archivfassung nicht bestimmen.",
-      "assessmentBasis": "Abgleich mit Video, Originalunterlagen und dokumentierter Nachrecherche.",
+      "reason": "Der WDR-Beitrag sagt ausdrücklich, die frühere Forderung und der Ministeriumsplan seien inhaltlich dieselben. Der im Dossier reproduzierte Auszug aus Reiches Beitrag und der frühe Referentenentwurf zeigen ähnliche Ziele beim Umgang mit Netzengpässen und Entschädigungen. Der Entwurf (vorgeschlagener § 8 Abs. 4 EEG) verlangt aber in formal ausgewiesenen Gebieten ein Vertragsangebot für einen Anschluss mit befristetem Verzicht. Das ist kein wort- oder wirkungsgleicher pauschaler Anschlussstopp. Der Primärbeitrag auf LinkedIn war nicht direkt verifizierbar; aus der Wiedergabe folgt auch nicht, wer ihn entfernt hat.",
+      "assessmentBasis": "Abgleich mit Video, Originalunterlagen und dokumentierter Nachrecherche. Kai (26.11.2026): WDR-Beitragstext und die jeweils einschlägigen Sachquellen erneut gelesen; YouTube-Zeitmarke nicht neu kontrolliert.",
       "occurrences": [
         {
           "startSeconds": 321,
@@ -2156,6 +2229,10 @@
         {
           "sourceId": "GP",
           "note": "Die Abbildung auf Seite 6 reproduziert einen Ausschnitt aus dem LinkedIn-Artikel mit den früheren Forderungen. Ausgewertet wird die Abbildung als Dokument des ursprünglichen Wortlauts."
+        },
+        {
+          "sourceId": "WDR-M",
+          "note": "Veröffentlichter Beitragstext zum Wortlaut; kein unabhängiger Sachbeleg."
         }
       ],
       "factIndex": {
@@ -2172,6 +2249,22 @@
             "result": "Bestätigt",
             "reason": "Die politischen und beruflichen Positionen liefern einen tragenden Vergleich."
           }
+        ],
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "verdict/description",
+            "previous": {
+              "verdict": "Teilweise belegt",
+              "description": "Reiche forderte als Westenergie-Chefin in einem LinkedIn-Artikel dieselben Anschlussregeln, die im späteren Entwurf standen."
+            },
+            "next": {
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Reiche forderte als Westenergie-Chefin in einem LinkedIn-Artikel dieselben Anschlussregeln, die im späteren Entwurf standen."
+            },
+            "reason": "Der WDR-Beitrag sagt ausdrücklich, die frühere Forderung und der Ministeriumsplan seien inhaltlich dieselben. Der im Dossier reproduzierte Auszug aus Reiches Beitrag und der frühe Referentenentwurf zeigen ähnliche Ziele beim Umgang mit Netzengpässen und Entschädigungen. Der Entwurf (vorgeschlagener § 8 Abs. 4 EEG) verlangt aber in formal ausgewiesenen Gebieten ein Vertragsangebot für einen Anschluss mit befristetem Verzicht. Das ist kein wort- oder wirkungsgleicher pauschaler Anschlussstopp. Der Primärbeitrag auf LinkedIn war nicht direkt verifizierbar; aus der Wiedergabe folgt auch nicht, wer ihn entfernt hat."
+          }
         ]
       },
       "research": {
@@ -2181,11 +2274,25 @@
           },
           {
             "strategy": "Zuerst E.ON-Forderung im Lobbyregister mit dem Entwurf verglichen. Danach den archivierten Textausschnitt im YouTube-Bild und seine Wiedergabe im Greenpeace-Dossier geprüft."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "WDR-Originalmanuskript geprüft; Primärquelle und Kontext je Eintrag abgeglichen.",
+            "sourceIds": [
+              "M",
+              "L",
+              "D",
+              "Y",
+              "GP",
+              "WDR-M"
+            ],
+            "result": "Der WDR-Beitrag sagt ausdrücklich, die frühere Forderung und der Ministeriumsplan seien inhaltlich dieselben. Der im Dossier reproduzierte Auszug aus Reiches Beitrag und der frühe Referentenentwurf zeigen ähnliche Ziele beim Umgang mit Netzengpässen und Entschädigungen. Der Entwurf (vorgeschlagener § 8 Abs. 4 EEG) verlangt aber in formal ausgewiesenen Gebieten ein Vertragsangebot für einen Anschluss mit befristetem Verzicht. Das ist kein wort- oder wirkungsgleicher pauschaler Anschlussstopp. Der Primärbeitrag auf LinkedIn war nicht direkt verifizierbar; aus der Wiedergabe folgt auch nicht, wer ihn entfernt hat."
           }
         ]
       },
-      "verdict": "Teilweise belegt",
-      "shortReason": "Reiche schlug den Vorbehalt bereits 2024 vor, während der Entwurf zusätzlich ein Anschlussangebot und eine feste Höchstdauer regelte."
+      "verdict": "Irreführend / Kontext fehlt",
+      "shortReason": "Forderung und Entwurf ähnelten sich, aber der Entwurf verlangte ein konkretes Anschlussangebot mit befristetem Verzicht."
     },
     {
       "id": "ZV0uy_le-Uk-A0033",
