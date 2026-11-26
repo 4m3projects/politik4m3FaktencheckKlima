@@ -264,13 +264,13 @@ Quellen: V001.
 
 ## -rBUCkR4HuA-A0027
 
-**Abgeschlossen · Teilweise belegt · 28:48–28:56**
+**Abgeschlossen · Irreführend / Kontext fehlt · 28:48–28:56**
 
-Kernenergie ist sehr teuer und teurer als alle anderen Stromoptionen.
+Kernenergie sei beim Neubau viel teurer als jede andere Art der Stromerzeugung.
 
-Fraunhofer stützt hohe Neubaukosten. Kostenbandbreiten anderer Technologien überlappen; pauschaler Vergleich einschließlich Bestand ist zu weit. Erzeugungskosten sind keine vollständigen Systemkosten.
+Das Gespräch betrifft den Neubau. Fraunhofer ISE kommt unter seinen Annahmen für neue Kernkraftwerke auf 13,6–49,0 ct/kWh, höher als Wind an Land und Freiflächen-PV. Die Bandbreiten neuer Gas- und Kohleanlagen überschneiden sich mit der Kernkraftspanne; auch Laufzeit, Finanzierung und Auslastung wirken stark. Hohe Kosten sind gestützt, der Vergleich mit ausnahmslos allen Alternativen ist zu weit.
 
-Quellen: V001, Q05.
+Quellen: V001, Q05, WP.
 
 ## -rBUCkR4HuA-A0028
 
@@ -284,13 +284,13 @@ Quellen: V001.
 
 ## -rBUCkR4HuA-A0029
 
-**Abgeschlossen · Teilweise belegt · 28:56–29:24**
+**Abgeschlossen · Belegt · 28:56–29:24**
 
-Nuklear bewaffnete Staaten haben besondere Interessen an nuklearer Technologie.
+Für militärisch nuklear ausgerüstete Staaten kann die zivile Nuklearindustrie auch wegen gemeinsamer Industrie- und Fachkräfteinteressen eine Option bleiben.
 
-Ein konkreter Zusammenhang ist für Großbritannien amtlich dokumentiert: Zivile und militärische Nuklearprogramme planen Fachkräfte und Fähigkeiten gemeinsam. Das stützt besondere industrie- und sicherheitspolitische Interessen. Es belegt weder dieselben Motive für sämtliche genannten Staaten noch, dass zivile Kernkraft nur für Atomwaffenstaaten sinnvoll wäre; die anschließende Bauprognose bleibt getrennt.
+Die britische Regierungsstrategie dokumentiert gemeinsame Fachkräfte- und Industrieplanung der zivilen und militärischen Nuklearbereiche. Frankreichs Präsident beschreibt die Verbindung der zivilen Industrie mit staatlichen strategischen Programmen ausdrücklich. Im Gespräch folgt eine eigenständige Bauprognose (A0028); es wird keine belastbare Aussage abgeleitet, nur Atomwaffenstaaten könnten zivile Reaktoren nutzen oder alle genannten Staaten hätten dasselbe Motiv.
 
-Quellen: V001, Q43.
+Quellen: V001, Q43, WP, WF.
 
 ## -rBUCkR4HuA-A0030
 
@@ -344,13 +344,13 @@ Quellen: V001, Q07.
 
 ## -rBUCkR4HuA-A0035
 
-**Abgeschlossen · Teilweise belegt · 31:59–32:03**
+**Offen · kein Urteil · 31:59–32:03**
 
-Größere Reaktoren erzeugen prozentual weniger Abfall.
+Im SMR-Abschnitt wird gefragt, ob ein größerer Reaktor anteilig weniger Abfall verursacht; eine pauschale Bestätigung ist nicht gesichert.
 
-IAEA beschreibt ungünstigere Brennstoffnutzung bestimmter SMR. Daraus folgt kein einheitliches Abfallverhältnis sämtlicher Reaktortypen.
+Das offizielle Podcasttranskript um 32:00 wiedergibt den Vergleich als Frage. Die Antwort unterscheidet Abfallarten beziehungsweise Wiederverwendung und enthält keine allgemeine Mengenangabe. Die Quelle zu Brennstoffnutzung einzelner Designs bestätigt keine universelle Abfallregel. Ohne Abgleich der an der Frage erkennbar holprigen ASR-Passage mit Wortlaut und Sprecherwechsel wird die Aussage keinem Sprecher als festgestellt zugerechnet.
 
-Quellen: V001, Q07.
+Quellen: V001, Q07, WP.
 
 ## -rBUCkR4HuA-A0036
 
@@ -434,13 +434,13 @@ Quellen: V001, Q47.
 
 ## -rBUCkR4HuA-A0044
 
-**Abgeschlossen · Teilweise belegt · 41:32–41:44**
+**Abgeschlossen · Belegt · 41:32–41:44**
 
-Eine große Mehrheit der E-Autonutzer will elektrisch bleiben.
+Viele E-Autofahrer möchten bei einem Elektroauto bleiben; unter den Befragten war es eine deutliche Mehrheit.
 
-Die GEVA-Befragung von 2024 meldet 92 Prozent mit erneuter Elektroauto-Kaufabsicht. Die Antworten kamen überwiegend über Verbände und Partner; Ländergewichtung ersetzt keine Zufallsauswahl. Kaufabsicht ist außerdem kein beobachteter Wiederkauf.
+Der Gast spricht über die beabsichtigte Wahl bei einem nächsten Kauf und regt Gespräche mit E-Autofahrern an; er nennt keine allgemeingültige Quote oder tatsächliche Folgekaufdaten. In der GEVA-Erhebung wollten 92 % der Teilnehmenden wieder elektrisch kaufen. Die nicht zufällige Rekrutierung über Verbände und Partner stützt das Muster in der Stichprobe, keine weltweit repräsentative Quote.
 
-Quellen: V001, Q25.
+Quellen: V001, Q25, WP.
 
 ## -rBUCkR4HuA-A0045
 
@@ -484,13 +484,13 @@ Quellen: V001, Q54.
 
 ## -rBUCkR4HuA-A0049
 
-**Abgeschlossen · Teilweise belegt · 43:16–43:24**
+**Abgeschlossen · Belegt · 43:16–43:24**
 
-Das Automobil entstand in Deutschland; Bertha Benz fuhr die erste Langstrecke.
+Das moderne Benzinautomobil entstand in Deutschland, und Bertha Benz unternahm 1888 eine Pionier-Fernfahrt.
 
-Herstellerarchiv bestätigt Benzin-Automobil und 1888 er Fahrt. Erfindungsbegriff nicht auf alle älteren Dampfwagen ausdehnen.
+Der Gesprächskontext verweist ausdrücklich auf Bertha Benz. Das DPMA dokumentiert das Patent für den Motorwagen von 1886 und Berthas rund 100 Kilometer lange Fahrt von Mannheim nach Pforzheim im August 1888. Gemeint ist das moderne Benzinautomobil; frühere Dampf-Fahrzeuge sind dadurch nicht bestritten.
 
-Quellen: V001, Q20.
+Quellen: V001, Q20, WP, WD.
 
 ## -rBUCkR4HuA-A0050
 
@@ -544,13 +544,13 @@ Quellen: V001, Q27.
 
 ## -rBUCkR4HuA-A0055
 
-**Abgeschlossen · Teilweise belegt · 52:43–52:58**
+**Abgeschlossen · Belegt · 52:43–52:58**
 
-Medien und Lobbygruppen unterstützen Energieinteressen auch finanziell.
+Interessengruppen bringen für energiepolitische Interessen auch Geld auf.
 
-Das Lobbyregister dokumentiert am Beispiel FNB Gas für 2025 finanzielle Aufwendungen für Gasinteressenvertretung und Mitgliedsbeiträge als Finanzierung. Damit ist der allgemeine Sachkern finanziell ausgestatteter Energieinteressen konkret belegt. Daraus folgt keine Zahlung an bestimmte Medien oder eine kausale Erklärung einzelner redaktioneller Positionen. Der Gesprächsbeitrag nennt solche Zahlungen und Empfänger nicht; dieser weitergehende Teil bleibt unbestimmt.
+Im Gespräch stehen Medienkritik und finanzielle Unterstützung durch Lobbygruppen nebeneinander, aber keine bestimmte Zahlung an ein benanntes Medium. Das Lobbyregister dokumentiert exemplarisch für FNB Gas 410.001 bis 420.000 Euro für Interessenvertretung im Geschäftsjahr 2025 sowie Mitgliedsbeiträge als wichtigste Finanzierung. Eine journalistische Beeinflussung durch konkrete Zahlungen ist weder behaupteter genauer Einzelfall noch mit dieser Quelle belegt.
 
-Quellen: V001, Q57.
+Quellen: V001, Q57, WP.
 
 ## -rBUCkR4HuA-A0056
 
@@ -564,13 +564,13 @@ Quellen: V001, Q17.
 
 ## -rBUCkR4HuA-A0057
 
-**Abgeschlossen · Teilweise belegt · 55:14–55:33**
+**Abgeschlossen · Widerlegt · 55:14–55:33**
 
 Aus 1 kW/m² Sonne entstehen 100 bis 200 W/m² PV-Strom; mehr gehe nicht.
 
-1000 W/m²ist die Normeinstrahlung, kein dauernder Betriebswert.100–200 Wentsprechen 10–20% Umwandlung, aber keinem absoluten Technologielimit.
+Etwa 1.000 W/m² Einstrahlung sind eine gebräuchliche Bezugsbedingung, kein Dauerwert. Die Formulierung nach der genannten Spanne setzt im Wortlaut aber ausdrücklich eine Obergrenze. Fraunhofer ISE dokumentiert kommerzielle Siliziummodule mit knapp 25 % Effizienz, entsprechend rund 250 W je Quadratmeter unter 1.000 W/m², und damit oberhalb von 200 W. Zell-, Modul- und Systemwirkungsgrad sind zu unterscheiden.
 
-Quellen: V001, Q11.
+Quellen: V001, Q11, WP, WS.
 
 ## -rBUCkR4HuA-A0058
 
@@ -594,13 +594,13 @@ Quellen: V001.
 
 ## -rBUCkR4HuA-A0060
 
-**Abgeschlossen · Teilweise belegt · 57:37–57:48**
+**Abgeschlossen · Irreführend / Kontext fehlt · 57:37–57:48**
 
-Zusätzlicher Windstrom kann fossile Importabhängigkeit verringern.
+Mit jedem einzelnen zusätzlichen Windrad sinken Deutschlands Gas- oder Ölimporte.
 
-Heimische Erzeugung braucht keinen laufenden fossilen Brennstoff; tatsächliche Gas-/Ölverdrängung hängt von Systemeinsatz und Elektrifizierung ab.
+Im Podcast ist der allgemeine Unabhängigkeitsgedanke mit jedem zusätzlichen Windrad verbunden. Heimischer Windstrom kann fossile Erzeugung und zusammen mit Elektrifizierung Brennstoffimporte verringern. Der Effekt ist aber nicht automatisch für jedes Windrad ableitbar: Abregelung, Export, Verdrängung nichtfossiler Erzeugung und die tatsächliche Nutzung im Wärme- und Verkehrssektor ändern das Ergebnis.
 
-Quellen: V001, Q11, Q14.
+Quellen: V001, Q11, Q14, WP, WA.
 
 ## -rBUCkR4HuA-A0061
 
@@ -654,13 +654,13 @@ Quellen: V001, Q13.
 
 ## -rBUCkR4HuA-A0066
 
-**Abgeschlossen · Teilweise belegt · 61:45–62:08**
+**Abgeschlossen · Belegt · 61:45–62:08**
 
-Selten benötigte Backup-Anlagen haben ein Rentabilitätsproblem.
+Selten laufende Backup-Anlagen können ohne gesonderte Vergütung wirtschaftlich schwer zu finanzieren sein.
 
-Fraunhofer zeigt Auslastungseinfluss auf Kosten. Wenige Betriebsstunden erschweren Amortisation; Kapazitätszahlungen können das verändern.
+Der Gast spricht von Anlagen mit wenigen Betriebsstunden und eher geringem Ertrag für den Investor. Fraunhofer ISE modelliert deutlich höhere Erzeugungskosten bei geringer Auslastung, weil die Fixkosten auf weniger Kilowattstunden fallen. Ob das Projekt tatsächlich unrentabel ist, hängt u. a. von Preisspitzen, Reserve- oder Kapazitätsvergütung ab.
 
-Quellen: V001, Q05.
+Quellen: V001, Q05, WP.
 
 ## -rBUCkR4HuA-A0067
 
@@ -754,13 +754,13 @@ Quellen: V001, Q11.
 
 ## -rBUCkR4HuA-A0076
 
-**Abgeschlossen · Teilweise belegt · 67:17–67:30**
+**Abgeschlossen · Belegt · 67:17–67:30**
 
-Ungebremste PV-Spitzen würden sämtliche Leitungen durchbrennen lassen.
+Sehr hohe ungeregelte Photovoltaik-Einspeisung kann Netzstabilität und Betrieb belasten und macht Steuerung oder Pufferung nötig.
 
-Die Bundesnetzagentur beschreibt reale Stabilitätsprobleme durch hohe Solarspitzen und die notwendige Steuerbarkeit bis hin zur Abschaltung von Anlagen. Der Gesprächskontext fordert deshalb Puffer und Regelung; er ist eine bedingte Warnung bei künftigem Ausbau. Dass sämtliche Leitungen durchbrennen würden, ist eine nicht technisch belegte Übertreibung. Netzengpässe, Schutzmaßnahmen und tatsächliche thermische Zerstörung dürfen nicht gleichgesetzt werden.
+Der Wortlaut verwendet ein offensichtlich zugespitztes Durchbrennen-Bild und fragt direkt anschließend nach Pufferung. Die konkret gemeinte Betriebsgefahr ist durch SMARD dokumentiert: Überschüsse in Niedriglastphasen erschweren den Systembetrieb und können Steuerung bis zur Abregelung erfordern. Es gibt keinen Nachweis, bei solchen Spitzen würden sämtliche Leitungen physisch durchbrennen; das Bild ist keine separat bewertete Anlagenprognose.
 
-Quellen: V001, Q51.
+Quellen: V001, Q51, WP.
 
 ## -rBUCkR4HuA-A0077
 
@@ -804,13 +804,13 @@ Quellen: V001.
 
 ## -rBUCkR4HuA-A0081
 
-**Abgeschlossen · Teilweise belegt · 68:23–68:33**
+**Abgeschlossen · Irreführend / Kontext fehlt · 68:23–68:33**
 
 Deutschland verhindere das Verbrenner-Aus.
 
-Am 7. Oktober 2026 bestätigt der Regierungssprecher die deutsche Koalitionsposition für weitergehende Neuzulassungen von Verbrennern nach 2035. Das stützt den politischen Kern der Kritik bereits vor einer späteren deutsch-französischen Einigung. Eine deutsche Forderung ist jedoch weder alleinige Ursache noch ein abschließend beschlossenes EU-Gesetz; der genaue Aufnahmetag im Oktober bleibt unbekannt.
+Die Bundesregierung befürwortete laut Pressekonferenz vom 7. Oktober 2026 zusätzliche Möglichkeiten für Verbrenner-Neuzulassungen auch nach 2035. Das belegt die politische Einflussnahme. Der Gast schreibt Deutschland das Ausbleiben des Verbrenner-Aus zu; die deutsche Position war zu diesem Zeitpunkt weder allein entscheidend noch ein abschließender EU-Rechtsakt. Der genaue Aufnahmetag im Oktober ist nicht gesichert.
 
-Quellen: V001, Q52.
+Quellen: V001, Q52, WP.
 
 ## -rBUCkR4HuA-A0082
 

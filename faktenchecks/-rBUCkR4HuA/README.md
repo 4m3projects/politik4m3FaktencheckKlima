@@ -18,3 +18,5 @@ Keine abgeschlossene Vollprüfung: Die früher erfassten Captionaussagen werden 
 ## Weitere Anschlussprüfung
 
 Der auf Oktober 2026 bezogene Heizölpreis ist nun aus der historischen EU-Originaltabelle belegt. Eine historische Untersuchung bestätigt die frühen Sonnenenergieprojekte im Jülicher Institut für Kernphysik. Das Lobbyregister belegt finanzierte Gasinteressenvertretung; daraus werden keine unbestimmten Medienzahlungen abgeleitet. [Details der Anschlussprüfung](09_anschlusspruefung.md).
+
+**Einzelnachprüfung durch Kai (26.11.2026):** 11 frühere Teilurteile sind anhand des offiziellen Podcasttranskripts und der je Aussage dokumentierten Originalquellen überprüft. Die Textspur ist keine neue YouTube-Vollsichtung; A0071 bleibt wegen einer fehlenden Zahl in der Podcast-Textspur unverändert.
