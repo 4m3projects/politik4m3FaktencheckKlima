@@ -4,10 +4,10 @@
     "videoId": "sp5TM1dh4Og",
     "videoUrl": "https://www.youtube.com/watch?v=sp5TM1dh4Og",
     "kind": "Vollständige Nutzertranskript-Lektüre und breit angelegte quellengestützte Sachanalyse (kein vollständiger Bild-/Tonabgleich)",
-    "asOf": "2026-11-24",
+    "asOf": "2026-11-26",
     "durationSeconds": 4097,
-    "coverageNote": "Alle gelieferten Textabschnitte 00:00 bis 01:08:04 gelesen; Videolaufzeit 68:17 nach Podcastverzeichnis. Automatische Wortfehler, Sprecherwechsel und exakte Zeitgrenzen sind nicht durch Hörprüfung bestätigt. 56 wichtige Einzelpositionen erfasst (davon 50 abschließend geprüfte und 3 noch offene Tatsachenaussagen), jedoch keine Gewähr, dass visuelle Einblendungen/Äußerungen außerhalb der Textspur erfasst sind. Berechnete Abdeckung bezieht sich ausschließlich auf inventarisierte Tatsachenaussagen.",
-    "researchNote": "Webbasierte Prüfung mit öffentlich zugänglichen Quellen von IPCC, UN, UNFCCC, BVerfG, IEA, IRENA, Destatis, UBA, EU und Fachmedien. Vorläufige Bedeutung, kein zweiter Agentenreview. Kontextpolitische Aussagen, Gegenpositionen und unklare Zahlen nicht ohne Beweise falsch bewertet. vidIQ wurde nicht benutzt. Nachrecherche 24.11.2026: Vier vorher offene Sachbehauptungen anhand neu geprüfter Publikationen vorsichtig eingestuft. Bei Frühwarnsystemen in Nepal, Demonstrationszahlen und Greta-Kapitalismus-Äußerung Quellenkontext nachgetragen, ohne fehlenden Originalfilm-/Tonabgleich zu übergehen. Faktoren/Anteile unverändert; neue Urteile benötigen unabhängige Gegenprüfung. Weitere selbständige Nachrecherche 24.11.2026: sieben vormals offene Punkte vorsichtig abgeschlossen, drei Wortlaut- bzw. Kontrafaktfragen belassen. Quellenvergleich: AfD-Wahlen, Solarbeschäftigung, Betreiberhinweise für Nepal, US-Wahlkampfbotschaften, DLF, Doku-Zitat und Hamas-Verurteilung 2023. Gewichte bleiben vorläufig und benötigen unabhängige Kontrolle."
+    "coverageNote": "Alle gelieferten Textabschnitte 00:00 bis 01:08:04 gelesen; Videolaufzeit 68:17 nach Podcastverzeichnis. Automatische Wortfehler, Sprecherwechsel und exakte Zeitgrenzen sind nicht durch Hörprüfung bestätigt. 56 wichtige Einzelpositionen erfasst (davon 50 abschließend geprüfte und 3 noch offene Tatsachenaussagen), jedoch keine Gewähr, dass visuelle Einblendungen/Äußerungen außerhalb der Textspur erfasst sind. Berechnete Abdeckung bezieht sich ausschließlich auf inventarisierte Tatsachenaussagen. Separater Wortlautabgleich der 15 früheren Teilurteile anhand der Podcastfassung am 26.11.2026; zusätzlich drei Sachfragen wieder offen. Keine YouTube-Vollsichtung.",
+    "researchNote": "Webbasierte Prüfung mit öffentlich zugänglichen Quellen von IPCC, UN, UNFCCC, BVerfG, IEA, IRENA, Destatis, UBA, EU und Fachmedien. Vorläufige Bedeutung, kein zweiter Agentenreview. Kontextpolitische Aussagen, Gegenpositionen und unklare Zahlen nicht ohne Beweise falsch bewertet. vidIQ wurde nicht benutzt. Nachrecherche 24.11.2026: Vier vorher offene Sachbehauptungen anhand neu geprüfter Publikationen vorsichtig eingestuft. Bei Frühwarnsystemen in Nepal, Demonstrationszahlen und Greta-Kapitalismus-Äußerung Quellenkontext nachgetragen, ohne fehlenden Originalfilm-/Tonabgleich zu übergehen. Faktoren/Anteile unverändert; neue Urteile benötigen unabhängige Gegenprüfung. Weitere selbständige Nachrecherche 24.11.2026: sieben vormals offene Punkte vorsichtig abgeschlossen, drei Wortlaut- bzw. Kontrafaktfragen belassen. Quellenvergleich: AfD-Wahlen, Solarbeschäftigung, Betreiberhinweise für Nepal, US-Wahlkampfbotschaften, DLF, Doku-Zitat und Hamas-Verurteilung 2023. Gewichte bleiben vorläufig und benötigen unabhängige Kontrolle. Einzelnachprüfung Kai (26.11.2026) mit öffentlichem Transkript der Podcastfassung und neu gelesenen Originalquellen; siehe jede der 15 Aussagehistorien."
   },
   "speakers": [
     {
@@ -538,6 +538,110 @@
       "accessedOn": "2026-11-24",
       "accessBasis": "Offizielle BMZ-Länderübersicht im einschlägigen Teil gelesen.",
       "kind": "Nachrecherche"
+    },
+    {
+      "id": "V03",
+      "title": "Happy Scribe: Transkript der Podcastfassung",
+      "url": "https://podcasts.happyscribe.com/de/ronzheimer/krise-krieg-greta-ist-die-klima-bewegung-am-ende-mit-luisa-neubauer",
+      "details": "Dieselbe Episode als Podcastfassung; Gesprächsabschnitte zur Wortlautkontrolle. Podcastzeit und YouTube-Zeit nicht gleichsetzen.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Originalpassage in der Einzelnachprüfung gelesen; bei V03 schriftliche Wiedergabe einer getrennten Podcastfassung, keine YouTube-Tonprüfung."
+    },
+    {
+      "id": "KP-54",
+      "title": "UNFCCC: Zeitablauf des ersten US-Austritts aus dem Pariser Abkommen",
+      "url": "https://unfccc.int/news/on-the-possibility-to-withdraw-from-the-paris-agreement-a-short-overview",
+      "details": "Austrittsabsicht 2017, Notifikation 4.11.2019 und Wirksamkeit 4.11.2020.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Originalpassage in der Einzelnachprüfung gelesen; bei V03 schriftliche Wiedergabe einer getrennten Podcastfassung, keine YouTube-Tonprüfung."
+    },
+    {
+      "id": "KP-55",
+      "title": "UN Treaty Collection: Paris Agreement",
+      "url": "https://treaties.un.org/pages/ViewDetails.aspx?Src=TREATY&chapter=27&clang=_en&mtdsg_no=XXVII-7-d",
+      "details": "Inkrafttreten des Abkommens am 4.11.2016; Verwahrer dokumentiert die Austrittsschritte.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Originalpassage in der Einzelnachprüfung gelesen; bei V03 schriftliche Wiedergabe einer getrennten Podcastfassung, keine YouTube-Tonprüfung."
+    },
+    {
+      "id": "KP-56",
+      "title": "Bundeswirtschaftsministerium: Bruttobeschäftigung durch erneuerbare Energien 2000–2022",
+      "url": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Downloads/E/ee-beschaeftigte-2000-2022.pdf?__blob=publicationFile&v=1",
+      "details": "Dieselbe Zeitreihe: Gesamt 415.700 (2011), 309.000 (2019); Photovoltaik 156.700 und 48.900.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Originalpassage in der Einzelnachprüfung gelesen; bei V03 schriftliche Wiedergabe einer getrennten Podcastfassung, keine YouTube-Tonprüfung."
+    },
+    {
+      "id": "KP-57",
+      "title": "EPRS: 2026 United Nations Climate Change Conference (COP31)",
+      "url": "https://research.europarl.europa.eu/EPRS_ATA%282026%29797056?locale=EN",
+      "details": "Analyse des EU-Parlamentsdienstes zu den Verhandlungen: Blockade des Fossilpassus durch Saudi-Arabien, Russland und weitere Länder.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Originalpassage in der Einzelnachprüfung gelesen; bei V03 schriftliche Wiedergabe einer getrennten Podcastfassung, keine YouTube-Tonprüfung."
+    },
+    {
+      "id": "KP-58",
+      "title": "AG Energiebilanzen: Jahresbericht 2025",
+      "url": "https://ag-energiebilanzen.de/ag-energiebilanzen-veroeffentlicht-jahresbericht/",
+      "details": "Jahresbericht 2025, Primärenergie: Summe von Mineralöl, Erdgas, Braunkohle und Steinkohle rund 76,5 Prozent.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Originalpassage in der Einzelnachprüfung gelesen; bei V03 schriftliche Wiedergabe einer getrennten Podcastfassung, keine YouTube-Tonprüfung."
+    },
+    {
+      "id": "KP-59",
+      "title": "Prognos: Kosten der Hitzewelle vom Juni 2026",
+      "url": "https://www.prognos.com/en/cost-heatwave-june-2026",
+      "details": "Eigene Modellrechnung: über 30 °C 431 Mio. Euro, über 35 °C 984 Mio. Euro; 17.–30. Juni rund 6,3 Mrd. Euro.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Originalpassage in der Einzelnachprüfung gelesen; bei V03 schriftliche Wiedergabe einer getrennten Podcastfassung, keine YouTube-Tonprüfung."
+    },
+    {
+      "id": "KP-60",
+      "title": "Öko-Institut: Analyse der Energieimporte 2026",
+      "url": "https://www.oeko.de/fileadmin/oekodoc/Analyse-Energieimporte-2026-gesamt.pdf",
+      "details": "Tabelle 8-3: Importe und Exporte von Rohöl, Ölprodukten und Erdgas. Netto 2022: 129,3; 2024: 68,9; 2025: 69,2 Mrd. Euro.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Originalpassage in der Einzelnachprüfung gelesen; bei V03 schriftliche Wiedergabe einer getrennten Podcastfassung, keine YouTube-Tonprüfung."
+    },
+    {
+      "id": "KP-61",
+      "title": "UN Nepal: Rasuwa Flood, 2026",
+      "url": "https://nepal.un.org/sites/default/files/2026-09/Nepal_Rasuwa%20Flood_2026_FA%20%281%29.pdf",
+      "details": "Für das dokumentierte Ereignis im August 2026 wurden Warnungen ausgegeben.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Originalpassage in der Einzelnachprüfung gelesen; bei V03 schriftliche Wiedergabe einer getrennten Podcastfassung, keine YouTube-Tonprüfung."
+    },
+    {
+      "id": "KP-62",
+      "title": "UNESCO: Rapid response, Rasuwa Flash Flood",
+      "url": "https://ihp-wins.unesco.org/rapid-response/rasuwa-flash-flood-in-nepal",
+      "details": "Rückblick auf den Standort: bestehende Warntechnik erfasste die konkrete Gefahr nicht rechtzeitig; Anlagen wurden durch Flut beschädigt.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Originalpassage in der Einzelnachprüfung gelesen; bei V03 schriftliche Wiedergabe einer getrennten Podcastfassung, keine YouTube-Tonprüfung."
+    },
+    {
+      "id": "KP-63",
+      "title": "Fraunhofer ISE: Stromgestehungskosten erneuerbare Energien",
+      "url": "https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/DE2024_ISE_Studie_Stromgestehungskosten_Erneuerbare_Energien.pdf",
+      "details": "Projektvergleich für die Stromerzeugung, keine vollständige Systemkostenrechnung für die deutsche Energieversorgung.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Originalpassage in der Einzelnachprüfung gelesen; bei V03 schriftliche Wiedergabe einer getrennten Podcastfassung, keine YouTube-Tonprüfung."
+    },
+    {
+      "id": "KP-64",
+      "title": "Umweltbundesamt: Ausstieg aus fossilen Brennstoffen",
+      "url": "https://www.umweltbundesamt.de/themen/ausstieg-aus-fossilen-brennstoffen-schuetzt-vor",
+      "details": "Weniger Verbrauch fossiler Brennstoffe reduziert Abhängigkeit und Preisschocks, ohne sämtliche Importbedarfe zu eliminieren.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Originalpassage in der Einzelnachprüfung gelesen; bei V03 schriftliche Wiedergabe einer getrennten Podcastfassung, keine YouTube-Tonprüfung."
+    },
+    {
+      "id": "KP-65",
+      "title": "Benson-Kampagne: Umweltprogramm",
+      "url": "https://www.jocelynbenson.com/jocelyn-benson-s-environment-agenda.pdf",
+      "details": "Programmpapier mit Förderung gemeinschaftlicher Solarenergie, kein Nachweis über Wahlursachen.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägige Originalpassage in der Einzelnachprüfung gelesen; bei V03 schriftliche Wiedergabe einer getrennten Podcastfassung, keine YouTube-Tonprüfung."
     }
   ],
   "claims": [
@@ -826,9 +930,9 @@
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "description": "Die AfD habe 2019 bis 2021 historisch niedrige Zustimmungswerte gehabt.",
-      "reason": "Die AfD hatte in der Zeit 2020/21 im Vergleich zu 2017 und zur Entwicklung nach 2022 relativ niedrige Zustimmungs- und Wahlneigungswerte. Die Politbarometer-Längsschnittanalyse weist 2020 bis Frühjahr 2022 im Mittel rund sechs Prozent AfD-Wahlneigung aus. Ein historisches Allzeittief war das aber nicht: Schon 2013/15 wurden niedrigere Werte erfasst, bei der Bundestagswahl 2013 waren es 4,7 Prozent gegenüber 10,3 Prozent 2021. Die Formulierung historisch niedrig trifft als Vergleich mit der späteren Entwicklung zu, nicht als Tiefststand der gesamten Parteigeschichte.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Vertiefte Nachrecherche vom 24.11.2026; die Transkript- und audiovisuelle Unsicherheit bleibt bestehen.",
+      "description": "In der Pandemiephase um 2020/21 lag die AfD-Wahlneigung im Vergleich zu den Jahren nach 2015 relativ niedrig.",
+      "reason": "Im Gespräch nennt der Host 2019 und 2021 als historische Bezugspunkte; der Gast bezeichnet die Werte relativ als historisch niedrig, nicht als absoluten Rekord. Das Politbarometer (Q43, Abschnitt 4) liegt vom Pandemiebeginn bis Frühjahr 2022 im Mittel bei etwa sechs Prozent, gegenüber rund acht Prozent im Abschnitt nach 2015 bis 2020. Frühe Tiefpunkte waren niedriger; Bundestagswahlergebnisse sind keine Umfragewerte.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Vertiefte Nachrecherche vom 24.11.2026; die Transkript- und audiovisuelle Unsicherheit bleibt bestehen. Einzelnachprüfung Kai am 26.11.2026: Vergleich mit öffentlichem Podcasttranskript und benannten Primärquellen; keine Kontrolle der YouTube-Audiofassung oder Zeitmarke.",
       "occurrences": [
         {
           "startSeconds": 604,
@@ -854,6 +958,10 @@
         {
           "sourceId": "Q44",
           "note": "Neue externe Prüfung vom 24.11.2026; Reichweite siehe Quelle und Begründung."
+        },
+        {
+          "sourceId": "V03",
+          "note": "Wortlaut und Gesprächskontext aus anderer Fassung; Videomarke unverändert ungefähr."
         }
       ],
       "research": {
@@ -875,6 +983,18 @@
               "Q44"
             ],
             "result": "Die AfD hatte in der Zeit 2020/21 im Vergleich zu 2017 und zur Entwicklung nach 2022 relativ niedrige Zustimmungs- und Wahlneigungswerte. Die Politbarometer-Längsschnittanalyse weist 2020 bis Frühjahr 2022 im Mittel rund sechs Prozent AfD-Wahlneigung aus. Ein historisches Allzeittief war das aber nicht: Schon 2013/15 wurden niedrigere Werte erfasst, bei der Bundestagswahl 2013 waren es 4,7 Prozent gegenüber 10,3 Prozent 2021. Die Formulierung historisch niedrig trifft als Vergleich mit der späteren Entwicklung zu, nicht als Tiefststand der gesamten Parteigeschichte."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Aussagekontext im öffentlichen Podcasttranskript abgeglichen und einschlägige primäre Sachquellen geprüft; keine Änderung der ungefähren Videomarke.",
+            "sourceIds": [
+              "V01",
+              "Q43",
+              "Q44",
+              "V03"
+            ],
+            "result": "Im Gespräch nennt der Host 2019 und 2021 als historische Bezugspunkte; der Gast bezeichnet die Werte relativ als historisch niedrig, nicht als absoluten Rekord. Das Politbarometer (Q43, Abschnitt 4) liegt vom Pandemiebeginn bis Frühjahr 2022 im Mittel bei etwa sechs Prozent, gegenüber rund acht Prozent im Abschnitt nach 2015 bis 2020. Frühe Tiefpunkte waren niedriger; Bundestagswahlergebnisse sind keine Umfragewerte."
           }
         ]
       },
@@ -884,7 +1004,25 @@
         "weightStatus": "Vorläufig",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Die AfD habe 2019 bis 2021 historisch niedrige Zustimmungswerte gehabt."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "In der Pandemiephase um 2020/21 lag die AfD-Wahlneigung im Vergleich zu den Jahren nach 2015 relativ niedrig."
+            },
+            "reason": "Im Gespräch nennt der Host 2019 und 2021 als historische Bezugspunkte; der Gast bezeichnet die Werte relativ als historisch niedrig, nicht als absoluten Rekord. Das Politbarometer (Q43, Abschnitt 4) liegt vom Pandemiebeginn bis Frühjahr 2022 im Mittel bei etwa sechs Prozent, gegenüber rund acht Prozent im Abschnitt nach 2015 bis 2020. Frühe Tiefpunkte waren niedriger; Bundestagswahlergebnisse sind keine Umfragewerte."
+          }
+        ]
       },
       "attribution": {
         "statementBy": "Gast",
@@ -895,8 +1033,7 @@
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24"
       },
-      "verdict": "Teilweise belegt",
-      "shortReason": "Die AfD hatte in der Zeit 2020/21 im Vergleich zu 2017 und zur Entwicklung nach 2022 relativ niedrige Zustimmungs- und Wahlneigungswerte.",
+      "verdict": "Belegt",
       "migration": {
         "assessmentChange": "2026-11-24: Kai (ChatGPT); vorher In Bearbeitung ohne Urteil, jetzt Teilweise belegt. Neue Quellen: Q43, Q44. Gewichtfaktor unverändert; keine Zweitagentenprüfung."
       }
@@ -906,9 +1043,9 @@
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "description": "Das Pariser Klimaabkommen existierte 2016 und Trump zog die USA gleich danach zurück.",
-      "reason": "Das Abkommen wurde 2015 beschlossen. Trump kündigte den Austritt erst 2017 an, rechtswirksam erfolgte er 2020. Im lockeren historischen Rückblick werden diese Schritte zeitlich gerafft.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "description": "Das Pariser Klimaabkommen bestand 2016, und die USA seien unter dem frisch gewählten Trump sofort wieder ausgetreten.",
+      "reason": "Das Abkommen trat am 4. November 2016 in Kraft. Trump kündigte die Absicht am 1. Juni 2017 an; der Austritt wurde am 4. November 2019 notifiziert und wirkte erst am 4. November 2020. Damit ist ein sofortiger vollzogener Austritt, nicht der Bestand des Abkommens 2016 oder die frühe Ankündigung, widerlegt. Die Zeitangabe ist notwendiger Teil der behaupteten Abfolge.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Einzelnachprüfung Kai am 26.11.2026: Vergleich mit öffentlichem Podcasttranskript und benannten Primärquellen; keine Kontrolle der YouTube-Audiofassung oder Zeitmarke.",
       "occurrences": [
         {
           "startSeconds": 699,
@@ -930,6 +1067,18 @@
         {
           "sourceId": "Q20",
           "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        },
+        {
+          "sourceId": "V03",
+          "note": "Wortlaut und Gesprächskontext aus anderer Fassung; Videomarke unverändert ungefähr."
+        },
+        {
+          "sourceId": "KP-54",
+          "note": "Gelesene Originalfundstelle siehe Quellenprotokoll."
+        },
+        {
+          "sourceId": "KP-55",
+          "note": "Gelesene Originalfundstelle siehe Quellenprotokoll."
         }
       ],
       "research": {
@@ -943,18 +1092,48 @@
               "Q20"
             ],
             "result": "Das Abkommen wurde 2015 beschlossen. Trump kündigte den Austritt erst 2017 an, rechtswirksam erfolgte er 2020. Im lockeren historischen Rückblick werden diese Schritte zeitlich gerafft."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Aussagekontext im öffentlichen Podcasttranskript abgeglichen und einschlägige primäre Sachquellen geprüft; keine Änderung der ungefähren Videomarke.",
+            "sourceIds": [
+              "V01",
+              "Q20",
+              "V03",
+              "KP-54",
+              "KP-55"
+            ],
+            "result": "Das Abkommen trat am 4. November 2016 in Kraft. Trump kündigte die Absicht am 1. Juni 2017 an; der Austritt wurde am 4. November 2019 notifiziert und wirkte erst am 4. November 2020. Damit ist ein sofortiger vollzogener Austritt, nicht der Bestand des Abkommens 2016 oder die frühe Ankündigung, widerlegt. Die Zeitangabe ist notwendiger Teil der behaupteten Abfolge."
           }
         ]
       },
-      "verdict": "Teilweise belegt",
-      "shortReason": "Das Abkommen wurde 2015 beschlossen.",
+      "verdict": "Widerlegt",
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
         "weightStatus": "Vorläufig",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Das Pariser Klimaabkommen existierte 2016 und Trump zog die USA gleich danach zurück."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Widerlegt",
+              "description": "Das Pariser Klimaabkommen bestand 2016, und die USA seien unter dem frisch gewählten Trump sofort wieder ausgetreten."
+            },
+            "reason": "Das Abkommen trat am 4. November 2016 in Kraft. Trump kündigte die Absicht am 1. Juni 2017 an; der Austritt wurde am 4. November 2019 notifiziert und wirkte erst am 4. November 2020. Damit ist ein sofortiger vollzogener Austritt, nicht der Bestand des Abkommens 2016 oder die frühe Ankündigung, widerlegt. Die Zeitangabe ist notwendiger Teil der behaupteten Abfolge."
+          }
+        ]
       },
       "attribution": {
         "statementBy": "Gast",
@@ -964,7 +1143,8 @@
         "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24"
-      }
+      },
+      "shortReason": "Der Austritt wurde 2017 angekündigt und erst am 4. November 2020 wirksam."
     },
     {
       "id": "sp5TM1dh4Og-A0008",
@@ -1100,9 +1280,9 @@
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "description": "Erneuerbare Energien sind heute die günstigsten Stromquellen überhaupt.",
-      "reason": "IRENA belegt für viele neue Wind- und Solarprojekte niedrige Stromgestehungskosten. Die Aussage unterscheidet nicht zwischen neuen Erzeugungsanlagen und den Vollkosten des Versorgungssystems.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "description": "Erneuerbare Energien wie Wind und Solar können heute die billigsten neuen Stromquellen sein.",
+      "reason": "Die öffentliche Podcastfassung enthält ausdrücklich eine Möglichkeitsaussage, keinen universellen Superlativ. Im IRENA-Original waren 2025 mehr als 90 Prozent der betrachteten neuen großen Erneuerbarenprojekte günstiger als die jeweils billigste vergleichbare fossile Neuanlage. Das erfasst Stromgestehungskosten einzelner Anlagen, nicht sämtliche Systemkosten.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Einzelnachprüfung Kai am 26.11.2026: Vergleich mit öffentlichem Podcasttranskript und benannten Primärquellen; keine Kontrolle der YouTube-Audiofassung oder Zeitmarke.",
       "occurrences": [
         {
           "startSeconds": 743,
@@ -1124,6 +1304,10 @@
         {
           "sourceId": "Q04",
           "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        },
+        {
+          "sourceId": "V03",
+          "note": "Wortlaut und Gesprächskontext aus anderer Fassung; Videomarke unverändert ungefähr."
         }
       ],
       "research": {
@@ -1137,18 +1321,46 @@
               "Q04"
             ],
             "result": "IRENA belegt für viele neue Wind- und Solarprojekte niedrige Stromgestehungskosten. Die Aussage unterscheidet nicht zwischen neuen Erzeugungsanlagen und den Vollkosten des Versorgungssystems."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Aussagekontext im öffentlichen Podcasttranskript abgeglichen und einschlägige primäre Sachquellen geprüft; keine Änderung der ungefähren Videomarke.",
+            "sourceIds": [
+              "V01",
+              "Q04",
+              "V03"
+            ],
+            "result": "Die öffentliche Podcastfassung enthält ausdrücklich eine Möglichkeitsaussage, keinen universellen Superlativ. Im IRENA-Original waren 2025 mehr als 90 Prozent der betrachteten neuen großen Erneuerbarenprojekte günstiger als die jeweils billigste vergleichbare fossile Neuanlage. Das erfasst Stromgestehungskosten einzelner Anlagen, nicht sämtliche Systemkosten."
           }
         ]
       },
-      "verdict": "Teilweise belegt",
-      "shortReason": "IRENA belegt für viele neue Wind- und Solarprojekte niedrige Stromgestehungskosten.",
+      "verdict": "Belegt",
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Zentrale Sachbehauptung für die Argumentation, unabhängig vom Urteil gewählt.",
         "weightStatus": "Vorläufig",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Erneuerbare Energien sind heute die günstigsten Stromquellen überhaupt."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Erneuerbare Energien wie Wind und Solar können heute die billigsten neuen Stromquellen sein."
+            },
+            "reason": "Die öffentliche Podcastfassung enthält ausdrücklich eine Möglichkeitsaussage, keinen universellen Superlativ. Im IRENA-Original waren 2025 mehr als 90 Prozent der betrachteten neuen großen Erneuerbarenprojekte günstiger als die jeweils billigste vergleichbare fossile Neuanlage. Das erfasst Stromgestehungskosten einzelner Anlagen, nicht sämtliche Systemkosten."
+          }
+        ]
       },
       "attribution": {
         "statementBy": "Gast",
@@ -1165,9 +1377,9 @@
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "description": "Das deutsche EEG sei international ein großer Exportschlager gewesen.",
-      "reason": "Die wissenschaftliche Literatur beschreibt das deutsche EEG als frühen Wegbereiter von Einspeisetarifen und als bedeutenden Einfluss auf die internationale Verbreitung ähnlicher Fördermodelle. Damit ist die weltweite Vorbildrolle belegt. Ob das EEG als konkretes deutsches Gesetz oder als kommerzieller Exportschlager einzustufen ist, bleibt eine rhetorische Wertung; gleichartige Auslandsregelungen sind nicht identisch mit dem deutschen EEG.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "description": "Das deutsche EEG war ein internationales Vorbild für Regeln zur Förderung erneuerbarer Energien.",
+      "reason": "Der Gast verwendet Exportschlager im Zusammenhang mit der EEG-Gesetzgebung. Vergleichende Forschung (Q36, Q37) dokumentiert den Einfluss des deutschen EEG auf ähnliche Einspeiseregeln. Ein wörtlicher kommerzieller Export oder eine Rangfolge und persönliche Anekdoten sind nicht Prüfgegenstand.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Einzelnachprüfung Kai am 26.11.2026: Vergleich mit öffentlichem Podcasttranskript und benannten Primärquellen; keine Kontrolle der YouTube-Audiofassung oder Zeitmarke.",
       "occurrences": [
         {
           "startSeconds": 902,
@@ -1193,6 +1405,10 @@
         {
           "sourceId": "Q37",
           "note": "Nachrecherche 24.11.2026; siehe genaue Quelle, Definition und Einschränkung."
+        },
+        {
+          "sourceId": "V03",
+          "note": "Wortlaut und Gesprächskontext aus anderer Fassung; Videomarke unverändert ungefähr."
         }
       ],
       "research": {
@@ -1214,6 +1430,18 @@
               "Q37"
             ],
             "result": "Die wissenschaftliche Literatur beschreibt das deutsche EEG als frühen Wegbereiter von Einspeisetarifen und als bedeutenden Einfluss auf die internationale Verbreitung ähnlicher Fördermodelle. Damit ist die weltweite Vorbildrolle belegt. Ob das EEG als konkretes deutsches Gesetz oder als kommerzieller Exportschlager einzustufen ist, bleibt eine rhetorische Wertung; gleichartige Auslandsregelungen sind nicht identisch mit dem deutschen EEG."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Aussagekontext im öffentlichen Podcasttranskript abgeglichen und einschlägige primäre Sachquellen geprüft; keine Änderung der ungefähren Videomarke.",
+            "sourceIds": [
+              "V01",
+              "Q36",
+              "Q37",
+              "V03"
+            ],
+            "result": "Der Gast verwendet Exportschlager im Zusammenhang mit der EEG-Gesetzgebung. Vergleichende Forschung (Q36, Q37) dokumentiert den Einfluss des deutschen EEG auf ähnliche Einspeiseregeln. Ein wörtlicher kommerzieller Export oder eine Rangfolge und persönliche Anekdoten sind nicht Prüfgegenstand."
           }
         ]
       },
@@ -1223,7 +1451,25 @@
         "weightStatus": "Vorläufig",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Das deutsche EEG sei international ein großer Exportschlager gewesen."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Das deutsche EEG war ein internationales Vorbild für Regeln zur Förderung erneuerbarer Energien."
+            },
+            "reason": "Der Gast verwendet Exportschlager im Zusammenhang mit der EEG-Gesetzgebung. Vergleichende Forschung (Q36, Q37) dokumentiert den Einfluss des deutschen EEG auf ähnliche Einspeiseregeln. Ein wörtlicher kommerzieller Export oder eine Rangfolge und persönliche Anekdoten sind nicht Prüfgegenstand."
+          }
+        ]
       },
       "attribution": {
         "statementBy": "Gast",
@@ -1234,8 +1480,7 @@
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24"
       },
-      "verdict": "Teilweise belegt",
-      "shortReason": "Die wissenschaftliche Literatur beschreibt das deutsche EEG als frühen Wegbereiter von Einspeisetarifen und als bedeutenden Einfluss auf die internationale Verbreitung ähnlicher Fördermodelle.",
+      "verdict": "Belegt",
       "migration": {
         "assessmentChange": "24.11.2026, Kai (ChatGPT): vorher In Bearbeitung ohne Urteil, nun Teilweise belegt. Grund: neue gesondert dokumentierte Quellen Q36, Q37. Die vorläufige Gewichtung blieb unverändert."
       }
@@ -1449,8 +1694,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
       "description": "Im deutschen Erneuerbaren-Sektor gingen zeitweise über 100.000 Arbeitsplätze verloren.",
-      "reason": "Historische Beschäftigungsreihen zeigen einen erheblichen Rückgang vom Hochstand um 2011 bis 2019. Die neueren Reihen haben geänderte Definitionen; Zeitpunkt und Vergleichsbasis sind zu nennen.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "reason": "In der methodisch einheitlichen historischen Reihe des Wirtschaftsministeriums fiel die Bruttobeschäftigung in den erneuerbaren Energien von 415.700 (2011) auf 309.000 (2019), also um 106.700 Arbeitsplätze. Die Photovoltaik sank im gleichen Vergleich von 156.700 auf 48.900. Das ist die Differenz zweier Schätzbestände, keine Zählung individueller Entlassungen und kein Beleg einer Ursache.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Einzelnachprüfung Kai am 26.11.2026: Vergleich mit öffentlichem Podcasttranskript und benannten Primärquellen; keine Kontrolle der YouTube-Audiofassung oder Zeitmarke.",
       "occurrences": [
         {
           "startSeconds": 1245,
@@ -1472,6 +1717,14 @@
         {
           "sourceId": "Q08",
           "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        },
+        {
+          "sourceId": "V03",
+          "note": "Wortlaut und Gesprächskontext aus anderer Fassung; Videomarke unverändert ungefähr."
+        },
+        {
+          "sourceId": "KP-56",
+          "note": "Gelesene Originalfundstelle siehe Quellenprotokoll."
         }
       ],
       "research": {
@@ -1485,18 +1738,47 @@
               "Q08"
             ],
             "result": "Historische Beschäftigungsreihen zeigen einen erheblichen Rückgang vom Hochstand um 2011 bis 2019. Die neueren Reihen haben geänderte Definitionen; Zeitpunkt und Vergleichsbasis sind zu nennen."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Aussagekontext im öffentlichen Podcasttranskript abgeglichen und einschlägige primäre Sachquellen geprüft; keine Änderung der ungefähren Videomarke.",
+            "sourceIds": [
+              "V01",
+              "Q08",
+              "V03",
+              "KP-56"
+            ],
+            "result": "In der methodisch einheitlichen historischen Reihe des Wirtschaftsministeriums fiel die Bruttobeschäftigung in den erneuerbaren Energien von 415.700 (2011) auf 309.000 (2019), also um 106.700 Arbeitsplätze. Die Photovoltaik sank im gleichen Vergleich von 156.700 auf 48.900. Das ist die Differenz zweier Schätzbestände, keine Zählung individueller Entlassungen und kein Beleg einer Ursache."
           }
         ]
       },
-      "verdict": "Teilweise belegt",
-      "shortReason": "Historische Beschäftigungsreihen zeigen einen erheblichen Rückgang vom Hochstand um 2011 bis 2019.",
+      "verdict": "Belegt",
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
         "weightStatus": "Vorläufig",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Im deutschen Erneuerbaren-Sektor gingen zeitweise über 100.000 Arbeitsplätze verloren."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Im deutschen Erneuerbaren-Sektor gingen zeitweise über 100.000 Arbeitsplätze verloren."
+            },
+            "reason": "In der methodisch einheitlichen historischen Reihe des Wirtschaftsministeriums fiel die Bruttobeschäftigung in den erneuerbaren Energien von 415.700 (2011) auf 309.000 (2019), also um 106.700 Arbeitsplätze. Die Photovoltaik sank im gleichen Vergleich von 156.700 auf 48.900. Das ist die Differenz zweier Schätzbestände, keine Zählung individueller Entlassungen und kein Beleg einer Ursache."
+          }
+        ]
       },
       "attribution": {
         "statementBy": "Gast",
@@ -1513,9 +1795,9 @@
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "description": "Die damalige Bundesregierung habe diesen Arbeitsplatzverlust vor allem durch Blockade der Energiewende verursacht.",
-      "reason": "Der Beschäftigungseinbruch in der Solarbranche nach 2011 und der Einfluss politisch gekürzter Solarförderung sind dokumentiert. Die Bertelsmann-Stiftung nennt Förderkürzungen als eine wichtige Ursache und die OECD betont gleichzeitig asiatische Konkurrenz; die damalige Bundesregierung sah 2013 allein weltweite Überkapazitäten als Ursache und widersprach einer ursächlichen EEG-Kürzung. Die pauschale Erklärung, vor allem eine Merkel-Regierung habe die Arbeitsplatzverluste durch Blockade verursacht, blendet wesentliche weitere Faktoren aus und ist als Alleinursache nicht belegt.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Vertiefte Nachrecherche vom 24.11.2026; die Transkript- und audiovisuelle Unsicherheit bleibt bestehen.",
+      "description": "Die damalige Bundesregierung habe den Arbeitsplatzverlust bei Erneuerbaren durch Blockade der Energiewende ausgelöst.",
+      "reason": "Neubauer verknüpft den Branchenrückgang ausdrücklich kausal mit dem Regierungskurs, nennt ihn aber nicht die einzige Ursache. Änderungen der Solarförderung und ein rückläufiger heimischer Ausbau trugen zur Entwicklung bei. Die dokumentierten strukturellen Ursachen umfassen zugleich starke internationale Konkurrenz, Produktionsverlagerungen und Überkapazitäten; die pauschale politische Erklärung unterschlägt diese für das Verständnis wesentlichen Faktoren.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Vertiefte Nachrecherche vom 24.11.2026; die Transkript- und audiovisuelle Unsicherheit bleibt bestehen. Einzelnachprüfung Kai am 26.11.2026: Vergleich mit öffentlichem Podcasttranskript und benannten Primärquellen; keine Kontrolle der YouTube-Audiofassung oder Zeitmarke.",
       "occurrences": [
         {
           "startSeconds": 1265,
@@ -1549,6 +1831,10 @@
         {
           "sourceId": "Q47",
           "note": "Neue externe Prüfung vom 24.11.2026; Reichweite siehe Quelle und Begründung."
+        },
+        {
+          "sourceId": "V03",
+          "note": "Wortlaut und Gesprächskontext aus anderer Fassung; Videomarke unverändert ungefähr."
         }
       ],
       "research": {
@@ -1573,6 +1859,20 @@
               "Q47"
             ],
             "result": "Der Beschäftigungseinbruch in der Solarbranche nach 2011 und der Einfluss politisch gekürzter Solarförderung sind dokumentiert. Die Bertelsmann-Stiftung nennt Förderkürzungen als eine wichtige Ursache und die OECD betont gleichzeitig asiatische Konkurrenz; die damalige Bundesregierung sah 2013 allein weltweite Überkapazitäten als Ursache und widersprach einer ursächlichen EEG-Kürzung. Die pauschale Erklärung, vor allem eine Merkel-Regierung habe die Arbeitsplatzverluste durch Blockade verursacht, blendet wesentliche weitere Faktoren aus und ist als Alleinursache nicht belegt."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Aussagekontext im öffentlichen Podcasttranskript abgeglichen und einschlägige primäre Sachquellen geprüft; keine Änderung der ungefähren Videomarke.",
+            "sourceIds": [
+              "V01",
+              "Q08",
+              "Q45",
+              "Q46",
+              "Q47",
+              "V03"
+            ],
+            "result": "Neubauer verknüpft den Branchenrückgang ausdrücklich kausal mit dem Regierungskurs, nennt ihn aber nicht die einzige Ursache. Änderungen der Solarförderung und ein rückläufiger heimischer Ausbau trugen zur Entwicklung bei. Die dokumentierten strukturellen Ursachen umfassen zugleich starke internationale Konkurrenz, Produktionsverlagerungen und Überkapazitäten; die pauschale politische Erklärung unterschlägt diese für das Verständnis wesentlichen Faktoren."
           }
         ]
       },
@@ -1582,7 +1882,25 @@
         "weightStatus": "Vorläufig",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Die damalige Bundesregierung habe diesen Arbeitsplatzverlust vor allem durch Blockade der Energiewende verursacht."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Die damalige Bundesregierung habe den Arbeitsplatzverlust bei Erneuerbaren durch Blockade der Energiewende ausgelöst."
+            },
+            "reason": "Neubauer verknüpft den Branchenrückgang ausdrücklich kausal mit dem Regierungskurs, nennt ihn aber nicht die einzige Ursache. Änderungen der Solarförderung und ein rückläufiger heimischer Ausbau trugen zur Entwicklung bei. Die dokumentierten strukturellen Ursachen umfassen zugleich starke internationale Konkurrenz, Produktionsverlagerungen und Überkapazitäten; die pauschale politische Erklärung unterschlägt diese für das Verständnis wesentlichen Faktoren."
+          }
+        ]
       },
       "attribution": {
         "statementBy": "Gast",
@@ -1593,11 +1911,11 @@
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24"
       },
-      "verdict": "Teilweise belegt",
-      "shortReason": "Der Beschäftigungseinbruch in der Solarbranche nach 2011 und der Einfluss politisch gekürzter Solarförderung sind dokumentiert.",
+      "verdict": "Irreführend / Kontext fehlt",
       "migration": {
         "assessmentChange": "2026-11-24: Kai (ChatGPT); vorher In Bearbeitung ohne Urteil, jetzt Teilweise belegt. Neue Quellen: Q45, Q46, Q47. Gewichtfaktor unverändert; keine Zweitagentenprüfung."
-      }
+      },
+      "shortReason": "Förderpolitik spielte eine Rolle, aber Konkurrenz, Produktionsverlagerung und Überkapazitäten prägten den Rückgang ebenfalls."
     },
     {
       "id": "sp5TM1dh4Og-A0017",
@@ -1807,10 +2125,10 @@
       "id": "sp5TM1dh4Og-A0020",
       "chapter": 3,
       "kind": "Tatsachenbehauptung",
-      "status": "Abgeschlossen",
-      "description": "US-Hilfekürzungen hätten in Nepal ein Bergwarnsystem lahmgelegt und dadurch Opfer einer Flut verursacht.",
-      "reason": "ICIMOD bestätigte selbst, dass US-Finanzierungsumbrüche 2025 die Betreuung von Partnern des NASA/USAID-Programms SERVIR-HKH beeinträchtigten. Der Betreiber führt aber zugleich auf seiner Projektseite aus, dass bestehende Warn- und Monitoringwerkzeuge aktiv und funktionsfähig blieben. Journalistische Recherchen zeigen weggefallene Weiterentwicklungen und Nutzerschulungen. Nicht nachgewiesen ist, dass bei der gemeinten Flut alle Bergwarnsysteme ausfielen, überhaupt keine Warnungen erfolgten und sich daraus konkret bestimmte Todesfälle erklären lassen. Der Programmverlust ist real, die pauschale Ausfall- und Opferkette jedoch überzogen.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Vertiefte Nachrecherche vom 24.11.2026; die Transkript- und audiovisuelle Unsicherheit bleibt bestehen.",
+      "status": "Offen",
+      "description": "Kurzfristige US-Hilfekürzungen hätten Bergmonitoring und rechtzeitige Warnung ausfallen lassen und die Flut in Nepal so gefährlicher gemacht.",
+      "reason": "Der Gesprächswortlaut behauptet die Kausalverbindung zur Gefahr, nicht eine bestimmte Todeszahl. ICIMOD bestätigt beeinträchtigte Partnerunterstützung, betont zugleich fortgeführte vorhandene Werkzeuge. UN Nepal dokumentiert ausgegebene Warnungen für das Ereignis im August 2026; UNESCO dokumentiert zugleich, dass vorhandene Technik eine konkrete Flutgefahr nicht rechtzeitig erfasste. Ohne sichere Zuordnung aller Quellen zum genau gemeinten Ereignis und einen belastbaren Nachweis der Kette Kürzung → fehlende Erstwarnung → gesteigerte Gefahr bleibt die Kausalbehauptung offen.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Vertiefte Nachrecherche vom 24.11.2026; die Transkript- und audiovisuelle Unsicherheit bleibt bestehen. Einzelnachprüfung Kai am 26.11.2026: Vergleich mit öffentlichem Podcasttranskript und benannten Primärquellen; keine Kontrolle der YouTube-Audiofassung oder Zeitmarke.",
       "occurrences": [
         {
           "startSeconds": 1408,
@@ -1844,6 +2162,18 @@
         {
           "sourceId": "Q49",
           "note": "Neue externe Prüfung vom 24.11.2026; Reichweite siehe Quelle und Begründung."
+        },
+        {
+          "sourceId": "V03",
+          "note": "Wortlaut und Gesprächskontext aus anderer Fassung; Videomarke unverändert ungefähr."
+        },
+        {
+          "sourceId": "KP-61",
+          "note": "Gelesene Originalfundstelle siehe Quellenprotokoll."
+        },
+        {
+          "sourceId": "KP-62",
+          "note": "Gelesene Originalfundstelle siehe Quellenprotokoll."
         }
       ],
       "research": {
@@ -1875,6 +2205,22 @@
               "Q49"
             ],
             "result": "ICIMOD bestätigte selbst, dass US-Finanzierungsumbrüche 2025 die Betreuung von Partnern des NASA/USAID-Programms SERVIR-HKH beeinträchtigten. Der Betreiber führt aber zugleich auf seiner Projektseite aus, dass bestehende Warn- und Monitoringwerkzeuge aktiv und funktionsfähig blieben. Journalistische Recherchen zeigen weggefallene Weiterentwicklungen und Nutzerschulungen. Nicht nachgewiesen ist, dass bei der gemeinten Flut alle Bergwarnsysteme ausfielen, überhaupt keine Warnungen erfolgten und sich daraus konkret bestimmte Todesfälle erklären lassen. Der Programmverlust ist real, die pauschale Ausfall- und Opferkette jedoch überzogen."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Aussagekontext im öffentlichen Podcasttranskript abgeglichen und einschlägige primäre Sachquellen geprüft; keine Änderung der ungefähren Videomarke.",
+            "sourceIds": [
+              "V01",
+              "Q38",
+              "Q39",
+              "Q48",
+              "Q49",
+              "V03",
+              "KP-61",
+              "KP-62"
+            ],
+            "result": "Der Gesprächswortlaut behauptet die Kausalverbindung zur Gefahr, nicht eine bestimmte Todeszahl. ICIMOD bestätigt beeinträchtigte Partnerunterstützung, betont zugleich fortgeführte vorhandene Werkzeuge. UN Nepal dokumentiert ausgegebene Warnungen für das Ereignis im August 2026; UNESCO dokumentiert zugleich, dass vorhandene Technik eine konkrete Flutgefahr nicht rechtzeitig erfasste. Ohne sichere Zuordnung aller Quellen zum genau gemeinten Ereignis und einen belastbaren Nachweis der Kette Kürzung → fehlende Erstwarnung → gesteigerte Gefahr bleibt die Kausalbehauptung offen."
           }
         ]
       },
@@ -1885,12 +2231,30 @@
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24",
         "assessedBeforeVerdict": false,
-        "shares": {
-          "p": 0.25,
-          "f": 0.25,
-          "u": 0.5
-        },
-        "sharesReason": "Ein Teil ist konkret belegt, ein Teil durch den Betreiber-/Originalbeleg widerlegt, und der ursächliche Zusammenhang bleibt gesondert unbewiesen. Anteile nach Aussagegehalt, nicht nach gewünschter Ampel."
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "US-Hilfekürzungen hätten in Nepal ein Bergwarnsystem lahmgelegt und dadurch Opfer einer Flut verursacht.",
+              "shares": {
+                "p": 0.25,
+                "f": 0.25,
+                "u": 0.5
+              },
+              "sharesReason": "Ein Teil ist konkret belegt, ein Teil durch den Betreiber-/Originalbeleg widerlegt, und der ursächliche Zusammenhang bleibt gesondert unbewiesen. Anteile nach Aussagegehalt, nicht nach gewünschter Ampel."
+            },
+            "next": {
+              "status": "Offen",
+              "verdict": null,
+              "description": "Kurzfristige US-Hilfekürzungen hätten Bergmonitoring und rechtzeitige Warnung ausfallen lassen und die Flut in Nepal so gefährlicher gemacht."
+            },
+            "reason": "Der Gesprächswortlaut behauptet die Kausalverbindung zur Gefahr, nicht eine bestimmte Todeszahl. ICIMOD bestätigt beeinträchtigte Partnerunterstützung, betont zugleich fortgeführte vorhandene Werkzeuge. UN Nepal dokumentiert ausgegebene Warnungen für das Ereignis im August 2026; UNESCO dokumentiert zugleich, dass vorhandene Technik eine konkrete Flutgefahr nicht rechtzeitig erfasste. Ohne sichere Zuordnung aller Quellen zum genau gemeinten Ereignis und einen belastbaren Nachweis der Kette Kürzung → fehlende Erstwarnung → gesteigerte Gefahr bleibt die Kausalbehauptung offen."
+          }
+        ]
       },
       "attribution": {
         "statementBy": "Gast",
@@ -1901,11 +2265,13 @@
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24"
       },
-      "verdict": "Teilweise belegt",
-      "shortReason": "ICIMOD bestätigte selbst, dass US-Finanzierungsumbrüche 2025 die Betreuung von Partnern des NASA/USAID-Programms SERVIR-HKH beeinträchtigten.",
+      "verdict": null,
       "migration": {
         "assessmentChange": "2026-11-24: Kai (ChatGPT); vorher In Bearbeitung ohne Urteil, jetzt Teilweise belegt. Neue Quellen: Q48, Q49. Gewichtfaktor unverändert; keine Zweitagentenprüfung."
-      }
+      },
+      "openQuestions": [
+        "Welches Ereignis und welches Warnsystem meint der Gast genau, und welcher unabhängige Befund ordnet die fehlende rechtzeitige lokale Warnung direkt der US-Kürzung zu?"
+      ]
     },
     {
       "id": "sp5TM1dh4Og-A0021",
@@ -1976,9 +2342,9 @@
       "chapter": 3,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "description": "Öl- und Gasexportländer bremsten bei COP31 Verhandlungen über das fossile Zeitalter.",
-      "reason": "Der dokumentierte Streit zwischen ambitionierteren Ländern und Öl-/Gasinteressen stützt den Kern. Eine absichtsvolle Unterwanderung ist eine darüber hinausgehende politische Interpretation.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "description": "Saudi-Arabien, Russland und weitere Länder blockierten bei COP31 eine stärkere Formulierung zur Abkehr von fossilen Energien.",
+      "reason": "Der EU-Parlamentsdienst dokumentiert die Blockade durch eine von Saudi-Arabien angeführte Gruppe, zu der Russland gehörte. Das belegt beobachtbares Verhandlungsverhalten, keine verdeckte Absicht; im weiteren Gespräch kritisiert Neubauer auch die EU und weist den Ländern nicht die alleinige Schuld zu.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Einzelnachprüfung Kai am 26.11.2026: Vergleich mit öffentlichem Podcasttranskript und benannten Primärquellen; keine Kontrolle der YouTube-Audiofassung oder Zeitmarke.",
       "occurrences": [
         {
           "startSeconds": 1461,
@@ -2004,6 +2370,14 @@
         {
           "sourceId": "Q11",
           "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        },
+        {
+          "sourceId": "V03",
+          "note": "Wortlaut und Gesprächskontext aus anderer Fassung; Videomarke unverändert ungefähr."
+        },
+        {
+          "sourceId": "KP-57",
+          "note": "Gelesene Originalfundstelle siehe Quellenprotokoll."
         }
       ],
       "research": {
@@ -2018,18 +2392,48 @@
               "Q11"
             ],
             "result": "Der dokumentierte Streit zwischen ambitionierteren Ländern und Öl-/Gasinteressen stützt den Kern. Eine absichtsvolle Unterwanderung ist eine darüber hinausgehende politische Interpretation."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Aussagekontext im öffentlichen Podcasttranskript abgeglichen und einschlägige primäre Sachquellen geprüft; keine Änderung der ungefähren Videomarke.",
+            "sourceIds": [
+              "V01",
+              "Q10",
+              "Q11",
+              "V03",
+              "KP-57"
+            ],
+            "result": "Der EU-Parlamentsdienst dokumentiert die Blockade durch eine von Saudi-Arabien angeführte Gruppe, zu der Russland gehörte. Das belegt beobachtbares Verhandlungsverhalten, keine verdeckte Absicht; im weiteren Gespräch kritisiert Neubauer auch die EU und weist den Ländern nicht die alleinige Schuld zu."
           }
         ]
       },
-      "verdict": "Teilweise belegt",
-      "shortReason": "Der dokumentierte Streit zwischen ambitionierteren Ländern und Öl-/Gasinteressen stützt den Kern.",
+      "verdict": "Belegt",
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Zentrale Sachbehauptung für die Argumentation, unabhängig vom Urteil gewählt.",
         "weightStatus": "Vorläufig",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Öl- und Gasexportländer bremsten bei COP31 Verhandlungen über das fossile Zeitalter."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Saudi-Arabien, Russland und weitere Länder blockierten bei COP31 eine stärkere Formulierung zur Abkehr von fossilen Energien."
+            },
+            "reason": "Der EU-Parlamentsdienst dokumentiert die Blockade durch eine von Saudi-Arabien angeführte Gruppe, zu der Russland gehörte. Das belegt beobachtbares Verhandlungsverhalten, keine verdeckte Absicht; im weiteren Gespräch kritisiert Neubauer auch die EU und weist den Ländern nicht die alleinige Schuld zu."
+          }
+        ]
       },
       "attribution": {
         "statementBy": "Gast",
@@ -2183,9 +2587,9 @@
       "chapter": 3,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "description": "Öl, Kohle und Gas deckten 2025 in Deutschland noch ungefähr 75 Prozent der gesamten Endenergie.",
-      "reason": "2025 betrug der Erneuerbaren-Anteil am Bruttoendenergieverbrauch 23,8 Prozent. Der Rest ist nicht exakt gleichbedeutend mit Öl, Gas und Kohle. Die Aussage ist ein vorgelesenes Zitat von Ralf Fücks.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "description": "Ralf Fücks beziffert im vorgelesenen Beitrag den Anteil von Öl, Gas und Kohle am deutschen Energieverbrauch auf rund drei Viertel.",
+      "reason": "Im vorgelesenen Beitrag steht Energieverbrauch, nicht Endenergie; ein Jahr ist für diese Quote nicht ausdrücklich genannt. Die AG Energiebilanzen weist für 2025 bei der verbreiteten Lesart als Primärenergie für Öl, Erdgas und Kohle zusammen etwa 76,5 Prozent aus. Das stützt die Größenordnung, belegt aber keine vom Sprecher ausdrücklich genannte Bezugsgröße. Die Nichtzurechnung des vorgelesenen Fremdzitats bleibt bestehen.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Einzelnachprüfung Kai am 26.11.2026: Vergleich mit öffentlichem Podcasttranskript und benannten Primärquellen; keine Kontrolle der YouTube-Audiofassung oder Zeitmarke.",
       "occurrences": [
         {
           "startSeconds": 1554,
@@ -2207,6 +2611,14 @@
         {
           "sourceId": "Q13",
           "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        },
+        {
+          "sourceId": "V03",
+          "note": "Wortlaut und Gesprächskontext aus anderer Fassung; Videomarke unverändert ungefähr."
+        },
+        {
+          "sourceId": "KP-58",
+          "note": "Gelesene Originalfundstelle siehe Quellenprotokoll."
         }
       ],
       "research": {
@@ -2220,18 +2632,47 @@
               "Q13"
             ],
             "result": "2025 betrug der Erneuerbaren-Anteil am Bruttoendenergieverbrauch 23,8 Prozent. Der Rest ist nicht exakt gleichbedeutend mit Öl, Gas und Kohle. Die Aussage ist ein vorgelesenes Zitat von Ralf Fücks."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Aussagekontext im öffentlichen Podcasttranskript abgeglichen und einschlägige primäre Sachquellen geprüft; keine Änderung der ungefähren Videomarke.",
+            "sourceIds": [
+              "V01",
+              "Q13",
+              "V03",
+              "KP-58"
+            ],
+            "result": "Im vorgelesenen Beitrag steht Energieverbrauch, nicht Endenergie; ein Jahr ist für diese Quote nicht ausdrücklich genannt. Die AG Energiebilanzen weist für 2025 bei der verbreiteten Lesart als Primärenergie für Öl, Erdgas und Kohle zusammen etwa 76,5 Prozent aus. Das stützt die Größenordnung, belegt aber keine vom Sprecher ausdrücklich genannte Bezugsgröße. Die Nichtzurechnung des vorgelesenen Fremdzitats bleibt bestehen."
           }
         ]
       },
-      "verdict": "Teilweise belegt",
-      "shortReason": "2025 betrug der Erneuerbaren-Anteil am Bruttoendenergieverbrauch 23,8 Prozent.",
+      "verdict": "Belegt",
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige, normale Tatsachenbehauptung ohne unmittelbare Funktion als Hauptthese.",
         "weightStatus": "Vorläufig",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Öl, Kohle und Gas deckten 2025 in Deutschland noch ungefähr 75 Prozent der gesamten Endenergie."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Ralf Fücks beziffert im vorgelesenen Beitrag den Anteil von Öl, Gas und Kohle am deutschen Energieverbrauch auf rund drei Viertel."
+            },
+            "reason": "Im vorgelesenen Beitrag steht Energieverbrauch, nicht Endenergie; ein Jahr ist für diese Quote nicht ausdrücklich genannt. Die AG Energiebilanzen weist für 2025 bei der verbreiteten Lesart als Primärenergie für Öl, Erdgas und Kohle zusammen etwa 76,5 Prozent aus. Das stützt die Größenordnung, belegt aber keine vom Sprecher ausdrücklich genannte Bezugsgröße. Die Nichtzurechnung des vorgelesenen Fremdzitats bleibt bestehen."
+          }
+        ]
       },
       "attribution": {
         "statementBy": "Zitierte Person",
@@ -2241,6 +2682,9 @@
         "basis": "Der Moderator liest die fremde Position als Gegenstand der Diskussion vor und bestätigt sie nicht eigenständig.",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24"
+      },
+      "migration": {
+        "assessmentChange": " 2026-11-26: Kai; KL-C0003 (#72), zuvor Teilweise belegt, jetzt Belegt mit ausgewiesener Primärenergie-Lesart und unveränderter Nichtzurechnung."
       }
     },
     {
@@ -2506,9 +2950,9 @@
       "chapter": 3,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "description": "Im europäischen Sommer 2026 starben rund 50.000 Menschen infolge von Hitze.",
-      "reason": "Die Modellstudie schätzt 50.391 hitzebedingte Todesfälle in 854 europäischen Städten. Sie zählt nicht sämtliche Todesfälle in Europa vollständig.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "description": "Eine Schätzung beziffert die hitzebedingten Todesfälle im europäischen Sommer 2026 auf rund 50.000.",
+      "reason": "Die Originalstudie schätzt 50.391 hitzebedingte Todesfälle zwischen Juni und August 2026 für 854 Städte in 30 Ländern (95-%-Intervall: 46.046–53.878). Der Gast nennt Europa, nicht eine flächendeckende amtliche Zählung; der Größenordnungsbefund ist durch die Teilstichprobe gedeckt. Das besagt weder, dass sämtliche europäischen Todesfälle erfasst sind, noch dass es sich um Todesfälle allein durch den menschengemachten Zusatzanteil handelt.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Einzelnachprüfung Kai am 26.11.2026: Vergleich mit öffentlichem Podcasttranskript und benannten Primärquellen; keine Kontrolle der YouTube-Audiofassung oder Zeitmarke.",
       "occurrences": [
         {
           "startSeconds": 1740,
@@ -2530,6 +2974,10 @@
         {
           "sourceId": "Q18",
           "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        },
+        {
+          "sourceId": "V03",
+          "note": "Wortlaut und Gesprächskontext aus anderer Fassung; Videomarke unverändert ungefähr."
         }
       ],
       "research": {
@@ -2543,18 +2991,46 @@
               "Q18"
             ],
             "result": "Die Modellstudie schätzt 50.391 hitzebedingte Todesfälle in 854 europäischen Städten. Sie zählt nicht sämtliche Todesfälle in Europa vollständig."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Aussagekontext im öffentlichen Podcasttranskript abgeglichen und einschlägige primäre Sachquellen geprüft; keine Änderung der ungefähren Videomarke.",
+            "sourceIds": [
+              "V01",
+              "Q18",
+              "V03"
+            ],
+            "result": "Die Originalstudie schätzt 50.391 hitzebedingte Todesfälle zwischen Juni und August 2026 für 854 Städte in 30 Ländern (95-%-Intervall: 46.046–53.878). Der Gast nennt Europa, nicht eine flächendeckende amtliche Zählung; der Größenordnungsbefund ist durch die Teilstichprobe gedeckt. Das besagt weder, dass sämtliche europäischen Todesfälle erfasst sind, noch dass es sich um Todesfälle allein durch den menschengemachten Zusatzanteil handelt."
           }
         ]
       },
-      "verdict": "Teilweise belegt",
-      "shortReason": "Die Modellstudie schätzt 50.391 hitzebedingte Todesfälle in 854 europäischen Städten.",
+      "verdict": "Belegt",
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Zentrale Sachbehauptung für die Argumentation, unabhängig vom Urteil gewählt.",
         "weightStatus": "Vorläufig",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Im europäischen Sommer 2026 starben rund 50.000 Menschen infolge von Hitze."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Eine Schätzung beziffert die hitzebedingten Todesfälle im europäischen Sommer 2026 auf rund 50.000."
+            },
+            "reason": "Die Originalstudie schätzt 50.391 hitzebedingte Todesfälle zwischen Juni und August 2026 für 854 Städte in 30 Ländern (95-%-Intervall: 46.046–53.878). Der Gast nennt Europa, nicht eine flächendeckende amtliche Zählung; der Größenordnungsbefund ist durch die Teilstichprobe gedeckt. Das besagt weder, dass sämtliche europäischen Todesfälle erfasst sind, noch dass es sich um Todesfälle allein durch den menschengemachten Zusatzanteil handelt."
+          }
+        ]
       },
       "attribution": {
         "statementBy": "Gast",
@@ -2795,8 +3271,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
       "description": "Ein heißer Sommertag kostet die deutsche Wirtschaft fast eine Milliarde Euro.",
-      "reason": "Eine Prognos-Modellrechnung kommt an Tagen über 35 Grad auf Schäden bis knapp eine Milliarde Euro. Die Aussage darf nicht auf jeden Hitzetag ohne Schwellenwert übertragen werden.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "reason": "Die Originalrechnung veranschlagt 984 Millionen Euro für einen Tag mit über 35 °C, aber nur 431 Millionen Euro für einen Tag mit über 30 °C. Im Gespräch wird die erste Zahl als Preis eines Hitzetags ohne den entscheidenden Temperaturschwellenwert herausgestellt. Damit entsteht ein wesentlich zu allgemeiner Eindruck; ein sehr heißer Beispieltag kann den genannten Betrag erreichen.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Einzelnachprüfung Kai am 26.11.2026: Vergleich mit öffentlichem Podcasttranskript und benannten Primärquellen; keine Kontrolle der YouTube-Audiofassung oder Zeitmarke.",
       "occurrences": [
         {
           "startSeconds": 2060,
@@ -2818,6 +3294,14 @@
         {
           "sourceId": "Q19",
           "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        },
+        {
+          "sourceId": "V03",
+          "note": "Wortlaut und Gesprächskontext aus anderer Fassung; Videomarke unverändert ungefähr."
+        },
+        {
+          "sourceId": "KP-59",
+          "note": "Gelesene Originalfundstelle siehe Quellenprotokoll."
         }
       ],
       "research": {
@@ -2831,18 +3315,47 @@
               "Q19"
             ],
             "result": "Eine Prognos-Modellrechnung kommt an Tagen über 35 Grad auf Schäden bis knapp eine Milliarde Euro. Die Aussage darf nicht auf jeden Hitzetag ohne Schwellenwert übertragen werden."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Aussagekontext im öffentlichen Podcasttranskript abgeglichen und einschlägige primäre Sachquellen geprüft; keine Änderung der ungefähren Videomarke.",
+            "sourceIds": [
+              "V01",
+              "Q19",
+              "V03",
+              "KP-59"
+            ],
+            "result": "Die Originalrechnung veranschlagt 984 Millionen Euro für einen Tag mit über 35 °C, aber nur 431 Millionen Euro für einen Tag mit über 30 °C. Im Gespräch wird die erste Zahl als Preis eines Hitzetags ohne den entscheidenden Temperaturschwellenwert herausgestellt. Damit entsteht ein wesentlich zu allgemeiner Eindruck; ein sehr heißer Beispieltag kann den genannten Betrag erreichen."
           }
         ]
       },
-      "verdict": "Teilweise belegt",
-      "shortReason": "Eine Prognos-Modellrechnung kommt an Tagen über 35 Grad auf Schäden bis knapp eine Milliarde Euro.",
+      "verdict": "Irreführend / Kontext fehlt",
       "factIndex": {
         "weight": 2,
         "weightReason": "Tragender Themen- oder Zahlenpunkt der zentralen Kontroverse, unabhängig vom Urteil gewählt.",
         "weightStatus": "Vorläufig",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Ein heißer Sommertag kostet die deutsche Wirtschaft fast eine Milliarde Euro."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Ein heißer Sommertag kostet die deutsche Wirtschaft fast eine Milliarde Euro."
+            },
+            "reason": "Die Originalrechnung veranschlagt 984 Millionen Euro für einen Tag mit über 35 °C, aber nur 431 Millionen Euro für einen Tag mit über 30 °C. Im Gespräch wird die erste Zahl als Preis eines Hitzetags ohne den entscheidenden Temperaturschwellenwert herausgestellt. Damit entsteht ein wesentlich zu allgemeiner Eindruck; ein sehr heißer Beispieltag kann den genannten Betrag erreichen."
+          }
+        ]
       },
       "attribution": {
         "statementBy": "Gast",
@@ -2852,16 +3365,17 @@
         "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24"
-      }
+      },
+      "shortReason": "Knapp eine Milliarde Euro bezieht sich im Modell auf Tage über 35 °C, nicht auf Hitzetage allgemein."
     },
     {
       "id": "sp5TM1dh4Og-A0035",
       "chapter": 4,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "description": "Eine deutsche Hitzewelle im Sommer 2026 verursachte mehr als sechs Milliarden Euro Schaden.",
-      "reason": "Das Prognos-Modell schätzt für die Hitzewelle Ende Juni 2026 6,32 Milliarden Euro Schäden. Es ist keine vollständig gemessene volkswirtschaftliche Verlustbilanz.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "description": "Die lange deutsche Hitzewelle im Juni 2026 verursachte laut Modell mehr als sechs Milliarden Euro Schaden.",
+      "reason": "Prognos schätzt für den Zeitraum 17.–30. Juni modellierte Schäden von rund 6,3 Milliarden Euro. Das stützt den geprüften Zahlenbefund, nicht eine vollständige gemessene Verlustbilanz. Der umgangssprachliche Zusatz der längsten Hitzewelle im Sommer wird hier nicht als DWD-Rangfolge bestätigt; dafür wären Vergleichsgebiet und Definition separat festzulegen.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Einzelnachprüfung Kai am 26.11.2026: Vergleich mit öffentlichem Podcasttranskript und benannten Primärquellen; keine Kontrolle der YouTube-Audiofassung oder Zeitmarke.",
       "occurrences": [
         {
           "startSeconds": 2073,
@@ -2883,6 +3397,14 @@
         {
           "sourceId": "Q19",
           "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        },
+        {
+          "sourceId": "V03",
+          "note": "Wortlaut und Gesprächskontext aus anderer Fassung; Videomarke unverändert ungefähr."
+        },
+        {
+          "sourceId": "KP-59",
+          "note": "Gelesene Originalfundstelle siehe Quellenprotokoll."
         }
       ],
       "research": {
@@ -2896,18 +3418,47 @@
               "Q19"
             ],
             "result": "Das Prognos-Modell schätzt für die Hitzewelle Ende Juni 2026 6,32 Milliarden Euro Schäden. Es ist keine vollständig gemessene volkswirtschaftliche Verlustbilanz."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Aussagekontext im öffentlichen Podcasttranskript abgeglichen und einschlägige primäre Sachquellen geprüft; keine Änderung der ungefähren Videomarke.",
+            "sourceIds": [
+              "V01",
+              "Q19",
+              "V03",
+              "KP-59"
+            ],
+            "result": "Prognos schätzt für den Zeitraum 17.–30. Juni modellierte Schäden von rund 6,3 Milliarden Euro. Das stützt den geprüften Zahlenbefund, nicht eine vollständige gemessene Verlustbilanz. Der umgangssprachliche Zusatz der längsten Hitzewelle im Sommer wird hier nicht als DWD-Rangfolge bestätigt; dafür wären Vergleichsgebiet und Definition separat festzulegen."
           }
         ]
       },
-      "verdict": "Teilweise belegt",
-      "shortReason": "Das Prognos-Modell schätzt für die Hitzewelle Ende Juni 2026 6,32 Milliarden Euro Schäden.",
+      "verdict": "Belegt",
       "factIndex": {
         "weight": 2,
         "weightReason": "Tragender Themen- oder Zahlenpunkt der zentralen Kontroverse, unabhängig vom Urteil gewählt.",
         "weightStatus": "Vorläufig",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Eine deutsche Hitzewelle im Sommer 2026 verursachte mehr als sechs Milliarden Euro Schaden."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Die lange deutsche Hitzewelle im Juni 2026 verursachte laut Modell mehr als sechs Milliarden Euro Schaden."
+            },
+            "reason": "Prognos schätzt für den Zeitraum 17.–30. Juni modellierte Schäden von rund 6,3 Milliarden Euro. Das stützt den geprüften Zahlenbefund, nicht eine vollständige gemessene Verlustbilanz. Der umgangssprachliche Zusatz der längsten Hitzewelle im Sommer wird hier nicht als DWD-Rangfolge bestätigt; dafür wären Vergleichsgebiet und Definition separat festzulegen."
+          }
+        ]
       },
       "attribution": {
         "statementBy": "Gast",
@@ -2989,9 +3540,9 @@
       "chapter": 4,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "description": "Deutschland gebe jährlich 70 bis 130 Milliarden Euro für Öl- und Gasimporte aus.",
-      "reason": "2025 betrugen erfasste Rohöl- und Erdgasimporte zusammen rund 60,6 Milliarden Euro; andere Warenpositionen fehlen. 2022 lagen die beiden Werte bei rund 127,8 Milliarden Euro. Die Spanne schwankt nach Jahr und Definition.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "description": "Deutschlands jährliche Ausgaben für Öl- und Gasimporte lagen in jüngeren Vergleichsjahren grob zwischen 70 und 130 Milliarden Euro.",
+      "reason": "Die Schätzung im Gespräch ist erkennbar gerundet. Mit der Nettoabgrenzung einschließlich Ölprodukten zeigt Tabelle 8-3 des Öko-Instituts etwa 69,2 Milliarden Euro für 2025, 68,9 Milliarden für 2024 und 129,3 Milliarden für 2022. Andere Jahre wie 2020 oder Bruttoimporte liegen teils deutlich außerhalb des Korridors. Die Zahlen belegen nur die jüngeren Größenordnungen unter der genannten Nettoabgrenzung.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Einzelnachprüfung Kai am 26.11.2026: Vergleich mit öffentlichem Podcasttranskript und benannten Primärquellen; keine Kontrolle der YouTube-Audiofassung oder Zeitmarke.",
       "occurrences": [
         {
           "startSeconds": 2155,
@@ -3017,6 +3568,14 @@
         {
           "sourceId": "Q22",
           "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        },
+        {
+          "sourceId": "V03",
+          "note": "Wortlaut und Gesprächskontext aus anderer Fassung; Videomarke unverändert ungefähr."
+        },
+        {
+          "sourceId": "KP-60",
+          "note": "Gelesene Originalfundstelle siehe Quellenprotokoll."
         }
       ],
       "research": {
@@ -3031,18 +3590,48 @@
               "Q22"
             ],
             "result": "2025 betrugen erfasste Rohöl- und Erdgasimporte zusammen rund 60,6 Milliarden Euro; andere Warenpositionen fehlen. 2022 lagen die beiden Werte bei rund 127,8 Milliarden Euro. Die Spanne schwankt nach Jahr und Definition."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Aussagekontext im öffentlichen Podcasttranskript abgeglichen und einschlägige primäre Sachquellen geprüft; keine Änderung der ungefähren Videomarke.",
+            "sourceIds": [
+              "V01",
+              "Q21",
+              "Q22",
+              "V03",
+              "KP-60"
+            ],
+            "result": "Die Schätzung im Gespräch ist erkennbar gerundet. Mit der Nettoabgrenzung einschließlich Ölprodukten zeigt Tabelle 8-3 des Öko-Instituts etwa 69,2 Milliarden Euro für 2025, 68,9 Milliarden für 2024 und 129,3 Milliarden für 2022. Andere Jahre wie 2020 oder Bruttoimporte liegen teils deutlich außerhalb des Korridors. Die Zahlen belegen nur die jüngeren Größenordnungen unter der genannten Nettoabgrenzung."
           }
         ]
       },
-      "verdict": "Teilweise belegt",
-      "shortReason": "2025 betrugen erfasste Rohöl- und Erdgasimporte zusammen rund 60,6 Milliarden Euro; andere Warenpositionen fehlen.",
+      "verdict": "Belegt",
       "factIndex": {
         "weight": 2,
         "weightReason": "Tragender Themen- oder Zahlenpunkt der zentralen Kontroverse, unabhängig vom Urteil gewählt.",
         "weightStatus": "Vorläufig",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Deutschland gebe jährlich 70 bis 130 Milliarden Euro für Öl- und Gasimporte aus."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Deutschlands jährliche Ausgaben für Öl- und Gasimporte lagen in jüngeren Vergleichsjahren grob zwischen 70 und 130 Milliarden Euro."
+            },
+            "reason": "Die Schätzung im Gespräch ist erkennbar gerundet. Mit der Nettoabgrenzung einschließlich Ölprodukten zeigt Tabelle 8-3 des Öko-Instituts etwa 69,2 Milliarden Euro für 2025, 68,9 Milliarden für 2024 und 129,3 Milliarden für 2022. Andere Jahre wie 2020 oder Bruttoimporte liegen teils deutlich außerhalb des Korridors. Die Zahlen belegen nur die jüngeren Größenordnungen unter der genannten Nettoabgrenzung."
+          }
+        ]
       },
       "attribution": {
         "statementBy": "Gast",
@@ -3058,10 +3647,10 @@
       "id": "sp5TM1dh4Og-A0038",
       "chapter": 4,
       "kind": "Tatsachenbehauptung",
-      "status": "Abgeschlossen",
-      "description": "Erneuerbare Energie ermöglicht besonders preiswerte und unabhängige deutsche Energieversorgung.",
-      "reason": "Viele neue Anlagen haben günstige Stromgestehungskosten und senken Brennstoffimporte. Vollsystemkosten hängen zusätzlich von Netzen, Speichern und weiteren Importen ab.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung.",
+      "status": "Offen",
+      "description": "Deutschlands gesamte Energieversorgung könne auf keinem anderen Weg günstiger und unabhängiger organisiert werden als mit erneuerbaren Energien.",
+      "reason": "Fraunhofer und IRENA belegen niedrige Kosten vieler erneuerbarer Erzeugungsprojekte; das Umweltbundesamt dokumentiert einen Weg zu weniger fossiler Importabhängigkeit. Die Aussage im Gespräch ist stärker: Sie schließt günstigere oder souveränere Alternativen für das gesamte System aus. Dafür fehlt ein definierter Vergleichsrahmen mit Netz, Reserve, Speichern, Brennstoff- und sonstigen Importen; kein pauschaler Gegenbeweis.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Einzelnachprüfung Kai am 26.11.2026: Vergleich mit öffentlichem Podcasttranskript und benannten Primärquellen; keine Kontrolle der YouTube-Audiofassung oder Zeitmarke.",
       "occurrences": [
         {
           "startSeconds": 2201,
@@ -3087,6 +3676,18 @@
         {
           "sourceId": "Q13",
           "note": "Unabhängige Sach- bzw. institutionelle Quelle im angegebenen Geltungsbereich."
+        },
+        {
+          "sourceId": "V03",
+          "note": "Wortlaut und Gesprächskontext aus anderer Fassung; Videomarke unverändert ungefähr."
+        },
+        {
+          "sourceId": "KP-63",
+          "note": "Gelesene Originalfundstelle siehe Quellenprotokoll."
+        },
+        {
+          "sourceId": "KP-64",
+          "note": "Gelesene Originalfundstelle siehe Quellenprotokoll."
         }
       ],
       "research": {
@@ -3101,18 +3702,49 @@
               "Q13"
             ],
             "result": "Viele neue Anlagen haben günstige Stromgestehungskosten und senken Brennstoffimporte. Vollsystemkosten hängen zusätzlich von Netzen, Speichern und weiteren Importen ab."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Aussagekontext im öffentlichen Podcasttranskript abgeglichen und einschlägige primäre Sachquellen geprüft; keine Änderung der ungefähren Videomarke.",
+            "sourceIds": [
+              "V01",
+              "Q04",
+              "Q13",
+              "V03",
+              "KP-63",
+              "KP-64"
+            ],
+            "result": "Fraunhofer und IRENA belegen niedrige Kosten vieler erneuerbarer Erzeugungsprojekte; das Umweltbundesamt dokumentiert einen Weg zu weniger fossiler Importabhängigkeit. Die Aussage im Gespräch ist stärker: Sie schließt günstigere oder souveränere Alternativen für das gesamte System aus. Dafür fehlt ein definierter Vergleichsrahmen mit Netz, Reserve, Speichern, Brennstoff- und sonstigen Importen; kein pauschaler Gegenbeweis."
           }
         ]
       },
-      "verdict": "Teilweise belegt",
-      "shortReason": "Viele neue Anlagen haben günstige Stromgestehungskosten und senken Brennstoffimporte.",
+      "verdict": null,
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Zentrale Sachbehauptung für die Argumentation, unabhängig vom Urteil gewählt.",
         "weightStatus": "Vorläufig",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Erneuerbare Energie ermöglicht besonders preiswerte und unabhängige deutsche Energieversorgung."
+            },
+            "next": {
+              "status": "Offen",
+              "verdict": null,
+              "description": "Deutschlands gesamte Energieversorgung könne auf keinem anderen Weg günstiger und unabhängiger organisiert werden als mit erneuerbaren Energien."
+            },
+            "reason": "Fraunhofer und IRENA belegen niedrige Kosten vieler erneuerbarer Erzeugungsprojekte; das Umweltbundesamt dokumentiert einen Weg zu weniger fossiler Importabhängigkeit. Die Aussage im Gespräch ist stärker: Sie schließt günstigere oder souveränere Alternativen für das gesamte System aus. Dafür fehlt ein definierter Vergleichsrahmen mit Netz, Reserve, Speichern, Brennstoff- und sonstigen Importen; kein pauschaler Gegenbeweis."
+          }
+        ]
       },
       "attribution": {
         "statementBy": "Gast",
@@ -3122,7 +3754,10 @@
         "basis": "Eigene Äußerung der Podcast-Gästin im laufenden Interview. Wo der Host nicht deutlich widerspricht, zählt eine Gastaussage als Gesprächsinhalt.",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24"
-      }
+      },
+      "openQuestions": [
+        "Welche definierten, vergleichbaren deutschen Versorgungsszenarien belegen die behauptete Rangfolge bei Vollkosten und Abhängigkeiten?"
+      ]
     },
     {
       "id": "sp5TM1dh4Og-A0039",
@@ -3321,10 +3956,10 @@
       "id": "sp5TM1dh4Og-A0042",
       "chapter": 4,
       "kind": "Tatsachenbehauptung",
-      "status": "Abgeschlossen",
-      "description": "US-Demokraten hätten durch Werbung für erneuerbare Energien eine Wahl gewonnen.",
-      "reason": "Die Demokraten gewannen am 3. November 2026 zahlreiche US-Wahlen, und manche ihrer Kandidaten warben ausdrücklich mit Wind- und Solarenergie als Mittel gegen hohe Stromkosten. Diese beiden Komponenten sind dokumentiert. Unabhängige Auswertungen zeigen aber, dass die Wahlkämpfe stark von allgemeiner Bezahlbarkeit geprägt waren und Klimaschutz als eigenständiges Thema vergleichsweise selten vorkam. Ob Kampagnen für erneuerbare Energien einen konkreten Wahlsieg verursacht haben, lässt sich damit nicht belegen; genau diese Kausalität stellte der Moderator infrage.",
-      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Vertiefte Nachrecherche vom 24.11.2026; die Transkript- und audiovisuelle Unsicherheit bleibt bestehen.",
+      "status": "Offen",
+      "description": "Werbung für erneuerbare Energien habe zu einem Wahlsieg der US-Demokraten beigetragen.",
+      "reason": "Es gibt nachprüfbare Wahlkampfprogramme mit ausdrücklichem Erneuerbarenbezug. Auf Nachfrage des Hosts verneint Neubauer einen alleinigen Klimaeffekt. Weder der Nachweis der Werbung noch dokumentierte Wahlergebnisse belegen einen messbaren Beitrag dieser Werbung zum Wahlsieg; die Kausalbehauptung bleibt offen. Die Distanzierung des Hosts bleibt in der Zuordnung erhalten.",
+      "assessmentBasis": "Vom Nutzer geliefertes Transkript über gesamte Laufzeit gelesen, Untertitelposition mit ungefährem Zeitwert; Sachrecherche vom 24.11.2026. Keine vollständige Bild-/Tonprüfung. Vertiefte Nachrecherche vom 24.11.2026; die Transkript- und audiovisuelle Unsicherheit bleibt bestehen. Einzelnachprüfung Kai am 26.11.2026: Vergleich mit öffentlichem Podcasttranskript und benannten Primärquellen; keine Kontrolle der YouTube-Audiofassung oder Zeitmarke.",
       "occurrences": [
         {
           "startSeconds": 2255,
@@ -3354,6 +3989,14 @@
         {
           "sourceId": "Q53",
           "note": "Neue externe Prüfung vom 24.11.2026; Reichweite siehe Quelle und Begründung."
+        },
+        {
+          "sourceId": "V03",
+          "note": "Wortlaut und Gesprächskontext aus anderer Fassung; Videomarke unverändert ungefähr."
+        },
+        {
+          "sourceId": "KP-65",
+          "note": "Gelesene Originalfundstelle siehe Quellenprotokoll."
         }
       ],
       "research": {
@@ -3376,6 +4019,20 @@
               "Q53"
             ],
             "result": "Die Demokraten gewannen am 3. November 2026 zahlreiche US-Wahlen, und manche ihrer Kandidaten warben ausdrücklich mit Wind- und Solarenergie als Mittel gegen hohe Stromkosten. Diese beiden Komponenten sind dokumentiert. Unabhängige Auswertungen zeigen aber, dass die Wahlkämpfe stark von allgemeiner Bezahlbarkeit geprägt waren und Klimaschutz als eigenständiges Thema vergleichsweise selten vorkam. Ob Kampagnen für erneuerbare Energien einen konkreten Wahlsieg verursacht haben, lässt sich damit nicht belegen; genau diese Kausalität stellte der Moderator infrage."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Aussagekontext im öffentlichen Podcasttranskript abgeglichen und einschlägige primäre Sachquellen geprüft; keine Änderung der ungefähren Videomarke.",
+            "sourceIds": [
+              "V01",
+              "Q51",
+              "Q52",
+              "Q53",
+              "V03",
+              "KP-65"
+            ],
+            "result": "Es gibt nachprüfbare Wahlkampfprogramme mit ausdrücklichem Erneuerbarenbezug. Auf Nachfrage des Hosts verneint Neubauer einen alleinigen Klimaeffekt. Weder der Nachweis der Werbung noch dokumentierte Wahlergebnisse belegen einen messbaren Beitrag dieser Werbung zum Wahlsieg; die Kausalbehauptung bleibt offen. Die Distanzierung des Hosts bleibt in der Zuordnung erhalten."
           }
         ]
       },
@@ -3385,7 +4042,25 @@
         "weightStatus": "Vorläufig",
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "US-Demokraten hätten durch Werbung für erneuerbare Energien eine Wahl gewonnen."
+            },
+            "next": {
+              "status": "Offen",
+              "verdict": null,
+              "description": "Werbung für erneuerbare Energien habe zu einem Wahlsieg der US-Demokraten beigetragen."
+            },
+            "reason": "Es gibt nachprüfbare Wahlkampfprogramme mit ausdrücklichem Erneuerbarenbezug. Auf Nachfrage des Hosts verneint Neubauer einen alleinigen Klimaeffekt. Weder der Nachweis der Werbung noch dokumentierte Wahlergebnisse belegen einen messbaren Beitrag dieser Werbung zum Wahlsieg; die Kausalbehauptung bleibt offen. Die Distanzierung des Hosts bleibt in der Zuordnung erhalten."
+          }
+        ]
       },
       "attribution": {
         "statementBy": "Gast",
@@ -3396,11 +4071,13 @@
         "assessedBy": "Kai (ChatGPT)",
         "assessedOn": "2026-11-24"
       },
-      "verdict": "Teilweise belegt",
-      "shortReason": "Die Demokraten gewannen am 3.",
+      "verdict": null,
       "migration": {
         "assessmentChange": "2026-11-24: Kai (ChatGPT); vorher In Bearbeitung ohne Urteil, jetzt Teilweise belegt. Neue Quellen: Q51, Q52, Q53. Gewichtfaktor unverändert; keine Zweitagentenprüfung."
-      }
+      },
+      "openQuestions": [
+        "Gibt es eine auf konkrete Kandidatur und Kampagne bezogene Wirkungsmessung, die Werbeeffekte von anderen Wahlmotiven trennt?"
+      ]
     },
     {
       "id": "sp5TM1dh4Og-A0043",

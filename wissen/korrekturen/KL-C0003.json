@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "KL-C0003",
+  "kind": "Zuordnung falsch",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "sp5TM1dh4Og-A0025",
+    "entryId": null,
+    "description": "Prüfparaphrase fügte einen nicht genannten Endenergie-Nenner ein; Issue #72."
+  },
+  "evidence": [
+    {
+      "title": "Happy Scribe: Transkript der Podcastfassung",
+      "url": "https://podcasts.happyscribe.com/de/ronzheimer/krise-krieg-greta-ist-die-klima-bewegung-am-ende-mit-luisa-neubauer",
+      "accessedOn": "2026-11-26",
+      "finding": "Dieselbe Episode als Podcastfassung; Gesprächsabschnitte zur Wortlautkontrolle. Podcastzeit und YouTube-Zeit nicht gleichsetzen."
+    },
+    {
+      "title": "AG Energiebilanzen: Jahresbericht 2025",
+      "url": "https://ag-energiebilanzen.de/ag-energiebilanzen-veroeffentlicht-jahresbericht/",
+      "accessedOn": "2026-11-26",
+      "finding": "Jahresbericht 2025, Primärenergie: Summe von Mineralöl, Erdgas, Braunkohle und Steinkohle rund 76,5 Prozent."
+    }
+  ],
+  "affected": [
+    {
+      "target": "sp5TM1dh4Og-A0025",
+      "reason": "Nur dieses Teilzitat verwendet den fehlerhaft ergänzten Endenergie-Nenner. Die gemeinsamen Video-/Datenquellen allein begründen keine sachliche Abhängigkeit."
+    }
+  ],
+  "decision": {
+    "by": "Regel:Einzelkorrektur nach AGENTEN_WISSEN Abschnitt 4",
+    "date": "2026-11-26",
+    "basis": "Begrenzter Wortlautfehler anhand der zugänglichen Podcastfassung nachvollziehbar; kein Wissenseintragsurteil, Bedeutungsfaktor oder Zurechnung geändert. Umsetzung im Draft #71."
+  },
+  "changes": [
+    {
+      "target": "sp5TM1dh4Og-A0025",
+      "field": "description",
+      "before": "Öl, Kohle und Gas deckten 2025 in Deutschland noch ungefähr 75 Prozent der gesamten Endenergie.",
+      "after": "Ralf Fücks beziffert im vorgelesenen Beitrag den Anteil von Öl, Gas und Kohle am deutschen Energieverbrauch auf rund drei Viertel."
+    },
+    {
+      "target": "sp5TM1dh4Og-A0025",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Belegt"
+    },
+    {
+      "target": "sp5TM1dh4Og-A0025",
+      "field": "reason",
+      "before": "2025 betrug der Erneuerbaren-Anteil am Bruttoendenergieverbrauch 23,8 Prozent. Der Rest ist nicht exakt gleichbedeutend mit Öl, Gas und Kohle. Die Aussage ist ein vorgelesenes Zitat von Ralf Fücks.",
+      "after": "Im vorgelesenen Beitrag steht Energieverbrauch, nicht Endenergie; ein Jahr ist für diese Quote nicht ausdrücklich genannt. Die AG Energiebilanzen weist für 2025 bei der verbreiteten Lesart als Primärenergie für Öl, Erdgas und Kohle zusammen etwa 76,5 Prozent aus. Das stützt die Größenordnung, belegt aber keine vom Sprecher ausdrücklich genannte Bezugsgröße. Die Nichtzurechnung des vorgelesenen Fremdzitats bleibt bestehen."
+    },
+    {
+      "target": "sp5TM1dh4Og-A0025",
+      "field": "shortReason",
+      "before": "2025 betrug der Erneuerbaren-Anteil am Bruttoendenergieverbrauch 23,8 Prozent.",
+      "after": null
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Gemeldet und im Draft #71 korrigiert; neue Fassung erst nach Merge öffentlich."
+    }
+  ]
+}

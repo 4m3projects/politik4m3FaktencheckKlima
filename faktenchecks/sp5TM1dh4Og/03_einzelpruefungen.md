@@ -44,20 +44,20 @@ Prüfung durch Kai, 2026-11-24. Grundlage: vollständig gelesenes deutsches Nutz
 - **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og).
 - **Bedeutung:** 1 (vorläufig).  
 
-## sp5TM1dh4Og-A0006 – Die AfD habe 2019 bis 2021 historisch niedrige Zustimmungswerte gehabt.
+## sp5TM1dh4Og-A0006 – In der Pandemiephase um 2020/21 lag die AfD-Wahlneigung im Vergleich zu den Jahren nach 2015 relativ niedrig.
 
 - **Zeit:** ungefähr 00:10:04. **Sprecher:** Luisa Neubauer (Gast).
-- **Bewertung:** Teilweise belegt.
-- **Begründung:** Die AfD hatte in der Zeit 2020/21 im Vergleich zu 2017 und zur Entwicklung nach 2022 relativ niedrige Zustimmungs- und Wahlneigungswerte. Die Politbarometer-Längsschnittanalyse weist 2020 bis Frühjahr 2022 im Mittel rund sechs Prozent AfD-Wahlneigung aus. Ein historisches Allzeittief war das aber nicht: Schon 2013/15 wurden niedrigere Werte erfasst, bei der Bundestagswahl 2013 waren es 4,7 Prozent gegenüber 10,3 Prozent 2021. Die Formulierung historisch niedrig trifft als Vergleich mit der späteren Entwicklung zu, nicht als Tiefststand der gesamten Parteigeschichte.
-- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q43](https://link.springer.com/article/10.1007/s11615-025-00612-y), [Q44](https://www.bundestag.de/parlament/wahlen/ergebnisse_seit1949-244692).
+- **Bewertung:** Belegt.
+- **Begründung:** Im Gespräch nennt der Host 2019 und 2021 als historische Bezugspunkte; der Gast bezeichnet die Werte relativ als historisch niedrig, nicht als absoluten Rekord. Das Politbarometer (Q43, Abschnitt 4) liegt vom Pandemiebeginn bis Frühjahr 2022 im Mittel bei etwa sechs Prozent, gegenüber rund acht Prozent im Abschnitt nach 2015 bis 2020. Frühe Tiefpunkte waren niedriger; Bundestagswahlergebnisse sind keine Umfragewerte.
+- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q43](https://link.springer.com/article/10.1007/s11615-025-00612-y), [Q44](https://www.bundestag.de/parlament/wahlen/ergebnisse_seit1949-244692), [V03](https://podcasts.happyscribe.com/de/ronzheimer/krise-krieg-greta-ist-die-klima-bewegung-am-ende-mit-luisa-neubauer).
 - **Bedeutung:** 1 (vorläufig).  
 
-## sp5TM1dh4Og-A0007 – Das Pariser Klimaabkommen existierte 2016 und Trump zog die USA gleich danach zurück.
+## sp5TM1dh4Og-A0007 – Das Pariser Klimaabkommen bestand 2016, und die USA seien unter dem frisch gewählten Trump sofort wieder ausgetreten.
 
 - **Zeit:** ungefähr 00:11:39. **Sprecher:** Luisa Neubauer (Gast).
-- **Bewertung:** Teilweise belegt.
-- **Begründung:** Das Abkommen wurde 2015 beschlossen. Trump kündigte den Austritt erst 2017 an, rechtswirksam erfolgte er 2020. Im lockeren historischen Rückblick werden diese Schritte zeitlich gerafft.
-- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q20](https://unfccc.int/process-and-meetings/the-paris-agreement/nationally-determined-contributions-ndcs).
+- **Bewertung:** Widerlegt.
+- **Begründung:** Das Abkommen trat am 4. November 2016 in Kraft. Trump kündigte die Absicht am 1. Juni 2017 an; der Austritt wurde am 4. November 2019 notifiziert und wirkte erst am 4. November 2020. Damit ist ein sofortiger vollzogener Austritt, nicht der Bestand des Abkommens 2016 oder die frühe Ankündigung, widerlegt. Die Zeitangabe ist notwendiger Teil der behaupteten Abfolge.
+- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q20](https://unfccc.int/process-and-meetings/the-paris-agreement/nationally-determined-contributions-ndcs), [V03](https://podcasts.happyscribe.com/de/ronzheimer/krise-krieg-greta-ist-die-klima-bewegung-am-ende-mit-luisa-neubauer), [KP-54](https://unfccc.int/news/on-the-possibility-to-withdraw-from-the-paris-agreement-a-short-overview), [KP-55](https://treaties.un.org/pages/ViewDetails.aspx?Src=TREATY&chapter=27&clang=_en&mtdsg_no=XXVII-7-d).
 - **Bedeutung:** 1 (vorläufig).  
 
 ## sp5TM1dh4Og-A0008 – Deutschland hat einen gesetzlich beschlossenen Kohleausstieg begonnen.
@@ -76,20 +76,20 @@ Prüfung durch Kai, 2026-11-24. Grundlage: vollständig gelesenes deutsches Nutz
 - **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q03](https://bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rs20210324_1bvr265618.html).
 - **Bedeutung:** 1.5 (vorläufig).  
 
-## sp5TM1dh4Og-A0010 – Erneuerbare Energien sind heute die günstigsten Stromquellen überhaupt.
+## sp5TM1dh4Og-A0010 – Erneuerbare Energien wie Wind und Solar können heute die billigsten neuen Stromquellen sein.
 
 - **Zeit:** ungefähr 00:12:23. **Sprecher:** Luisa Neubauer (Gast).
-- **Bewertung:** Teilweise belegt.
-- **Begründung:** IRENA belegt für viele neue Wind- und Solarprojekte niedrige Stromgestehungskosten. Die Aussage unterscheidet nicht zwischen neuen Erzeugungsanlagen und den Vollkosten des Versorgungssystems.
-- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q04](https://www.irena.org/Publications/2026/Jul/Renewable-Power-Generation-Costs-in-2025).
+- **Bewertung:** Belegt.
+- **Begründung:** Die öffentliche Podcastfassung enthält ausdrücklich eine Möglichkeitsaussage, keinen universellen Superlativ. Im IRENA-Original waren 2025 mehr als 90 Prozent der betrachteten neuen großen Erneuerbarenprojekte günstiger als die jeweils billigste vergleichbare fossile Neuanlage. Das erfasst Stromgestehungskosten einzelner Anlagen, nicht sämtliche Systemkosten.
+- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q04](https://www.irena.org/Publications/2026/Jul/Renewable-Power-Generation-Costs-in-2025), [V03](https://podcasts.happyscribe.com/de/ronzheimer/krise-krieg-greta-ist-die-klima-bewegung-am-ende-mit-luisa-neubauer).
 - **Bedeutung:** 1.5 (vorläufig).  
 
-## sp5TM1dh4Og-A0011 – Das deutsche EEG sei international ein großer Exportschlager gewesen.
+## sp5TM1dh4Og-A0011 – Das deutsche EEG war ein internationales Vorbild für Regeln zur Förderung erneuerbarer Energien.
 
 - **Zeit:** ungefähr 00:15:02. **Sprecher:** Luisa Neubauer (Gast).
-- **Bewertung:** Teilweise belegt.
-- **Begründung:** Die wissenschaftliche Literatur beschreibt das deutsche EEG als frühen Wegbereiter von Einspeisetarifen und als bedeutenden Einfluss auf die internationale Verbreitung ähnlicher Fördermodelle. Damit ist die weltweite Vorbildrolle belegt. Ob das EEG als konkretes deutsches Gesetz oder als kommerzieller Exportschlager einzustufen ist, bleibt eine rhetorische Wertung; gleichartige Auslandsregelungen sind nicht identisch mit dem deutschen EEG.
-- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q36](https://www.sciencedirect.com/science/article/abs/pii/S0301421519301272), [Q37](https://www.sciencedirect.com/science/article/pii/S2214629618305152).
+- **Bewertung:** Belegt.
+- **Begründung:** Der Gast verwendet Exportschlager im Zusammenhang mit der EEG-Gesetzgebung. Vergleichende Forschung (Q36, Q37) dokumentiert den Einfluss des deutschen EEG auf ähnliche Einspeiseregeln. Ein wörtlicher kommerzieller Export oder eine Rangfolge und persönliche Anekdoten sind nicht Prüfgegenstand.
+- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q36](https://www.sciencedirect.com/science/article/abs/pii/S0301421519301272), [Q37](https://www.sciencedirect.com/science/article/pii/S2214629618305152), [V03](https://podcasts.happyscribe.com/de/ronzheimer/krise-krieg-greta-ist-die-klima-bewegung-am-ende-mit-luisa-neubauer).
 - **Bedeutung:** 0.5 (vorläufig).  
 
 ## sp5TM1dh4Og-A0012 – Ein Teil der deutschen Automobilindustrie manipulierte Dieselabgasmessungen.
@@ -119,17 +119,17 @@ Prüfung durch Kai, 2026-11-24. Grundlage: vollständig gelesenes deutsches Nutz
 ## sp5TM1dh4Og-A0015 – Im deutschen Erneuerbaren-Sektor gingen zeitweise über 100.000 Arbeitsplätze verloren.
 
 - **Zeit:** ungefähr 00:20:45. **Sprecher:** Luisa Neubauer (Gast).
-- **Bewertung:** Teilweise belegt.
-- **Begründung:** Historische Beschäftigungsreihen zeigen einen erheblichen Rückgang vom Hochstand um 2011 bis 2019. Die neueren Reihen haben geänderte Definitionen; Zeitpunkt und Vergleichsbasis sind zu nennen.
-- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q08](https://www.umweltbundesamt.de/daten/umweltindikatoren/indikator-beschaeftigte-im-bereich-erneuerbare).
+- **Bewertung:** Belegt.
+- **Begründung:** In der methodisch einheitlichen historischen Reihe des Wirtschaftsministeriums fiel die Bruttobeschäftigung in den erneuerbaren Energien von 415.700 (2011) auf 309.000 (2019), also um 106.700 Arbeitsplätze. Die Photovoltaik sank im gleichen Vergleich von 156.700 auf 48.900. Das ist die Differenz zweier Schätzbestände, keine Zählung individueller Entlassungen und kein Beleg einer Ursache.
+- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q08](https://www.umweltbundesamt.de/daten/umweltindikatoren/indikator-beschaeftigte-im-bereich-erneuerbare), [V03](https://podcasts.happyscribe.com/de/ronzheimer/krise-krieg-greta-ist-die-klima-bewegung-am-ende-mit-luisa-neubauer), [KP-56](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Downloads/E/ee-beschaeftigte-2000-2022.pdf?__blob=publicationFile&v=1).
 - **Bedeutung:** 1 (vorläufig).  
 
-## sp5TM1dh4Og-A0016 – Die damalige Bundesregierung habe diesen Arbeitsplatzverlust vor allem durch Blockade der Energiewende verursacht.
+## sp5TM1dh4Og-A0016 – Die damalige Bundesregierung habe den Arbeitsplatzverlust bei Erneuerbaren durch Blockade der Energiewende ausgelöst.
 
 - **Zeit:** ungefähr 00:21:05. **Sprecher:** Luisa Neubauer (Gast).
-- **Bewertung:** Teilweise belegt.
-- **Begründung:** Der Beschäftigungseinbruch in der Solarbranche nach 2011 und der Einfluss politisch gekürzter Solarförderung sind dokumentiert. Die Bertelsmann-Stiftung nennt Förderkürzungen als eine wichtige Ursache und die OECD betont gleichzeitig asiatische Konkurrenz; die damalige Bundesregierung sah 2013 allein weltweite Überkapazitäten als Ursache und widersprach einer ursächlichen EEG-Kürzung. Die pauschale Erklärung, vor allem eine Merkel-Regierung habe die Arbeitsplatzverluste durch Blockade verursacht, blendet wesentliche weitere Faktoren aus und ist als Alleinursache nicht belegt.
-- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q08](https://www.umweltbundesamt.de/daten/umweltindikatoren/indikator-beschaeftigte-im-bereich-erneuerbare), [Q45](https://www.bertelsmann-stiftung.de/de/themen/aktuelle-meldungen/2026/beschaeftigungsrekord-bei-erneuerbaren-energien-aber-kehrtwende-der-politik-gefaehrdet-arbeitsplaetze), [Q46](https://www.bundestag.de/webarchiv/presse/hib/2013_07/01-256480), [Q47](https://www.oecd.org/de/publications/oecd-umweltprufberichte-deutschland-2023_9a336992-de/full-report/component-6.html).
+- **Bewertung:** Irreführend / Kontext fehlt.
+- **Begründung:** Neubauer verknüpft den Branchenrückgang ausdrücklich kausal mit dem Regierungskurs, nennt ihn aber nicht die einzige Ursache. Änderungen der Solarförderung und ein rückläufiger heimischer Ausbau trugen zur Entwicklung bei. Die dokumentierten strukturellen Ursachen umfassen zugleich starke internationale Konkurrenz, Produktionsverlagerungen und Überkapazitäten; die pauschale politische Erklärung unterschlägt diese für das Verständnis wesentlichen Faktoren.
+- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q08](https://www.umweltbundesamt.de/daten/umweltindikatoren/indikator-beschaeftigte-im-bereich-erneuerbare), [Q45](https://www.bertelsmann-stiftung.de/de/themen/aktuelle-meldungen/2026/beschaeftigungsrekord-bei-erneuerbaren-energien-aber-kehrtwende-der-politik-gefaehrdet-arbeitsplaetze), [Q46](https://www.bundestag.de/webarchiv/presse/hib/2013_07/01-256480), [Q47](https://www.oecd.org/de/publications/oecd-umweltprufberichte-deutschland-2023_9a336992-de/full-report/component-6.html), [V03](https://podcasts.happyscribe.com/de/ronzheimer/krise-krieg-greta-ist-die-klima-bewegung-am-ende-mit-luisa-neubauer).
 - **Bedeutung:** 1 (vorläufig).  
 
 ## sp5TM1dh4Og-A0017 – Salzgitter arbeitet am Aufbau von klimafreundlicherer Stahlproduktion.
@@ -156,12 +156,12 @@ Prüfung durch Kai, 2026-11-24. Grundlage: vollständig gelesenes deutsches Nutz
 - **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q17](https://www.ipcc.ch/report/ar6/syr/summary-for-policymakers/), [Q35](https://www.worldbank.org/en/country/nepal/publication/nepaldevelopmentupdate).
 - **Bedeutung:** 1 (vorläufig).  
 
-## sp5TM1dh4Og-A0020 – US-Hilfekürzungen hätten in Nepal ein Bergwarnsystem lahmgelegt und dadurch Opfer einer Flut verursacht.
+## sp5TM1dh4Og-A0020 – Kurzfristige US-Hilfekürzungen hätten Bergmonitoring und rechtzeitige Warnung ausfallen lassen und die Flut in Nepal so gefährlicher gemacht.
 
 - **Zeit:** ungefähr 00:23:28. **Sprecher:** Luisa Neubauer (Gast).
-- **Bewertung:** Teilweise belegt.
-- **Begründung:** ICIMOD bestätigte selbst, dass US-Finanzierungsumbrüche 2025 die Betreuung von Partnern des NASA/USAID-Programms SERVIR-HKH beeinträchtigten. Der Betreiber führt aber zugleich auf seiner Projektseite aus, dass bestehende Warn- und Monitoringwerkzeuge aktiv und funktionsfähig blieben. Journalistische Recherchen zeigen weggefallene Weiterentwicklungen und Nutzerschulungen. Nicht nachgewiesen ist, dass bei der gemeinten Flut alle Bergwarnsysteme ausfielen, überhaupt keine Warnungen erfolgten und sich daraus konkret bestimmte Todesfälle erklären lassen. Der Programmverlust ist real, die pauschale Ausfall- und Opferkette jedoch überzogen.
-- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q38](https://foreignpolicy.com/2026/10/15/nepal-usaid-doge-floods-united-states-funding/), [Q39](https://english.elpais.com/international/2026-10-09/how-usaid-cuts-left-nepals-children-exposed-to-deadly-floods.html?outputType=amp), [Q48](https://www.icimod.org/directorate/2025-reflections-walking-with-the-mountains/), [Q49](https://servir.icimod.org/).
+- **Bewertung:** Offen (noch kein Urteil).
+- **Begründung:** Der Gesprächswortlaut behauptet die Kausalverbindung zur Gefahr, nicht eine bestimmte Todeszahl. ICIMOD bestätigt beeinträchtigte Partnerunterstützung, betont zugleich fortgeführte vorhandene Werkzeuge. UN Nepal dokumentiert ausgegebene Warnungen für das Ereignis im August 2026; UNESCO dokumentiert zugleich, dass vorhandene Technik eine konkrete Flutgefahr nicht rechtzeitig erfasste. Ohne sichere Zuordnung aller Quellen zum genau gemeinten Ereignis und einen belastbaren Nachweis der Kette Kürzung → fehlende Erstwarnung → gesteigerte Gefahr bleibt die Kausalbehauptung offen.
+- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q38](https://foreignpolicy.com/2026/10/15/nepal-usaid-doge-floods-united-states-funding/), [Q39](https://english.elpais.com/international/2026-10-09/how-usaid-cuts-left-nepals-children-exposed-to-deadly-floods.html?outputType=amp), [Q48](https://www.icimod.org/directorate/2025-reflections-walking-with-the-mountains/), [Q49](https://servir.icimod.org/), [V03](https://podcasts.happyscribe.com/de/ronzheimer/krise-krieg-greta-ist-die-klima-bewegung-am-ende-mit-luisa-neubauer), [KP-61](https://nepal.un.org/sites/default/files/2026-09/Nepal_Rasuwa%20Flood_2026_FA%20%281%29.pdf), [KP-62](https://ihp-wins.unesco.org/rapid-response/rasuwa-flash-flood-in-nepal).
 - **Bedeutung:** 1.5 (vorläufig). Sachanteile wurden im strukturierten Datensatz begründet dokumentiert. 
 
 ## sp5TM1dh4Og-A0021 – Die menschengemachte Erwärmung verschärft Klimaextremrisiken und trifft besonders verletzliche Länder.
@@ -172,12 +172,12 @@ Prüfung durch Kai, 2026-11-24. Grundlage: vollständig gelesenes deutsches Nutz
 - **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q17](https://www.ipcc.ch/report/ar6/syr/summary-for-policymakers/).
 - **Bedeutung:** 1.5 (vorläufig).  
 
-## sp5TM1dh4Og-A0022 – Öl- und Gasexportländer bremsten bei COP31 Verhandlungen über das fossile Zeitalter.
+## sp5TM1dh4Og-A0022 – Saudi-Arabien, Russland und weitere Länder blockierten bei COP31 eine stärkere Formulierung zur Abkehr von fossilen Energien.
 
 - **Zeit:** ungefähr 00:24:21. **Sprecher:** Luisa Neubauer (Gast).
-- **Bewertung:** Teilweise belegt.
-- **Begründung:** Der dokumentierte Streit zwischen ambitionierteren Ländern und Öl-/Gasinteressen stützt den Kern. Eine absichtsvolle Unterwanderung ist eine darüber hinausgehende politische Interpretation.
-- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q10](https://www.un.org/en/desa/cop31-ends-without-climate-pact-as-un-chief-warns-there-is-no-ambiguity-in-science), [Q11](https://www.carbonbrief.org/cop31-key-outcomes-agreed-at-the-un-climate-talks-in-antalya).
+- **Bewertung:** Belegt.
+- **Begründung:** Der EU-Parlamentsdienst dokumentiert die Blockade durch eine von Saudi-Arabien angeführte Gruppe, zu der Russland gehörte. Das belegt beobachtbares Verhandlungsverhalten, keine verdeckte Absicht; im weiteren Gespräch kritisiert Neubauer auch die EU und weist den Ländern nicht die alleinige Schuld zu.
+- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q10](https://www.un.org/en/desa/cop31-ends-without-climate-pact-as-un-chief-warns-there-is-no-ambiguity-in-science), [Q11](https://www.carbonbrief.org/cop31-key-outcomes-agreed-at-the-un-climate-talks-in-antalya), [V03](https://podcasts.happyscribe.com/de/ronzheimer/krise-krieg-greta-ist-die-klima-bewegung-am-ende-mit-luisa-neubauer), [KP-57](https://research.europarl.europa.eu/EPRS_ATA%282026%29797056?locale=EN).
 - **Bedeutung:** 1.5 (vorläufig).  
 
 ## sp5TM1dh4Og-A0023 – Bei COP28 habe sich die Welt bereits auf den verbindlichen Ausstieg aus Öl, Gas und Kohle geeinigt.
@@ -196,12 +196,12 @@ Prüfung durch Kai, 2026-11-24. Grundlage: vollständig gelesenes deutsches Nutz
 - **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q11](https://www.carbonbrief.org/cop31-key-outcomes-agreed-at-the-un-climate-talks-in-antalya).
 - **Bedeutung:** 1 (vorläufig).  
 
-## sp5TM1dh4Og-A0025 – Öl, Kohle und Gas deckten 2025 in Deutschland noch ungefähr 75 Prozent der gesamten Endenergie.
+## sp5TM1dh4Og-A0025 – Ralf Fücks beziffert im vorgelesenen Beitrag den Anteil von Öl, Gas und Kohle am deutschen Energieverbrauch auf rund drei Viertel.
 
 - **Zeit:** ungefähr 00:25:54. **Sprecher:** Ralf Fücks (Zitat).
-- **Bewertung:** Teilweise belegt.
-- **Begründung:** 2025 betrug der Erneuerbaren-Anteil am Bruttoendenergieverbrauch 23,8 Prozent. Der Rest ist nicht exakt gleichbedeutend mit Öl, Gas und Kohle. Die Aussage ist ein vorgelesenes Zitat von Ralf Fücks.
-- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q13](https://www.umweltbundesamt.de/themen/erneuerbare-energien-in-deutschland-wachstum-2025).
+- **Bewertung:** Belegt.
+- **Begründung:** Im vorgelesenen Beitrag steht Energieverbrauch, nicht Endenergie; ein Jahr ist für diese Quote nicht ausdrücklich genannt. Die AG Energiebilanzen weist für 2025 bei der verbreiteten Lesart als Primärenergie für Öl, Erdgas und Kohle zusammen etwa 76,5 Prozent aus. Das stützt die Größenordnung, belegt aber keine vom Sprecher ausdrücklich genannte Bezugsgröße. Die Nichtzurechnung des vorgelesenen Fremdzitats bleibt bestehen.
+- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q13](https://www.umweltbundesamt.de/themen/erneuerbare-energien-in-deutschland-wachstum-2025), [V03](https://podcasts.happyscribe.com/de/ronzheimer/krise-krieg-greta-ist-die-klima-bewegung-am-ende-mit-luisa-neubauer), [KP-58](https://ag-energiebilanzen.de/ag-energiebilanzen-veroeffentlicht-jahresbericht/).
 - **Bedeutung:** 1 (vorläufig).  Nur Fremdzitat, keine eigene Podcastüberzeugung.
 
 ## sp5TM1dh4Og-A0026 – Solar- und Windenergie verdrängen weltweit bisher kaum fossile Energieträger.
@@ -236,12 +236,12 @@ Prüfung durch Kai, 2026-11-24. Grundlage: vollständig gelesenes deutsches Nutz
 - **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q17](https://www.ipcc.ch/report/ar6/syr/summary-for-policymakers/).
 - **Bedeutung:** 1 (vorläufig).  
 
-## sp5TM1dh4Og-A0030 – Im europäischen Sommer 2026 starben rund 50.000 Menschen infolge von Hitze.
+## sp5TM1dh4Og-A0030 – Eine Schätzung beziffert die hitzebedingten Todesfälle im europäischen Sommer 2026 auf rund 50.000.
 
 - **Zeit:** ungefähr 00:29:00. **Sprecher:** Luisa Neubauer (Gast).
-- **Bewertung:** Teilweise belegt.
-- **Begründung:** Die Modellstudie schätzt 50.391 hitzebedingte Todesfälle in 854 europäischen Städten. Sie zählt nicht sämtliche Todesfälle in Europa vollständig.
-- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q18](https://www.nature.com/articles/s44360-026-00220-z).
+- **Bewertung:** Belegt.
+- **Begründung:** Die Originalstudie schätzt 50.391 hitzebedingte Todesfälle zwischen Juni und August 2026 für 854 Städte in 30 Ländern (95-%-Intervall: 46.046–53.878). Der Gast nennt Europa, nicht eine flächendeckende amtliche Zählung; der Größenordnungsbefund ist durch die Teilstichprobe gedeckt. Das besagt weder, dass sämtliche europäischen Todesfälle erfasst sind, noch dass es sich um Todesfälle allein durch den menschengemachten Zusatzanteil handelt.
+- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q18](https://www.nature.com/articles/s44360-026-00220-z), [V03](https://podcasts.happyscribe.com/de/ronzheimer/krise-krieg-greta-ist-die-klima-bewegung-am-ende-mit-luisa-neubauer).
 - **Bedeutung:** 1.5 (vorläufig).  
 
 ## sp5TM1dh4Og-A0031 – Internationale Gasprojekte in armen Ländern verschärfen deren Verschuldung und schaden örtlicher Stromversorgung.
@@ -271,17 +271,17 @@ Prüfung durch Kai, 2026-11-24. Grundlage: vollständig gelesenes deutsches Nutz
 ## sp5TM1dh4Og-A0034 – Ein heißer Sommertag kostet die deutsche Wirtschaft fast eine Milliarde Euro.
 
 - **Zeit:** ungefähr 00:34:20. **Sprecher:** Luisa Neubauer (Gast).
-- **Bewertung:** Teilweise belegt.
-- **Begründung:** Eine Prognos-Modellrechnung kommt an Tagen über 35 Grad auf Schäden bis knapp eine Milliarde Euro. Die Aussage darf nicht auf jeden Hitzetag ohne Schwellenwert übertragen werden.
-- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q19](https://www.handelsblatt.com/unternehmen/industrie/hitzewelle-hitze-wird-zum-milliardenrisiko-fuer-den-standort-deutschland/100239736.html).
+- **Bewertung:** Irreführend / Kontext fehlt.
+- **Begründung:** Die Originalrechnung veranschlagt 984 Millionen Euro für einen Tag mit über 35 °C, aber nur 431 Millionen Euro für einen Tag mit über 30 °C. Im Gespräch wird die erste Zahl als Preis eines Hitzetags ohne den entscheidenden Temperaturschwellenwert herausgestellt. Damit entsteht ein wesentlich zu allgemeiner Eindruck; ein sehr heißer Beispieltag kann den genannten Betrag erreichen.
+- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q19](https://www.handelsblatt.com/unternehmen/industrie/hitzewelle-hitze-wird-zum-milliardenrisiko-fuer-den-standort-deutschland/100239736.html), [V03](https://podcasts.happyscribe.com/de/ronzheimer/krise-krieg-greta-ist-die-klima-bewegung-am-ende-mit-luisa-neubauer), [KP-59](https://www.prognos.com/en/cost-heatwave-june-2026).
 - **Bedeutung:** 2 (vorläufig).  
 
-## sp5TM1dh4Og-A0035 – Eine deutsche Hitzewelle im Sommer 2026 verursachte mehr als sechs Milliarden Euro Schaden.
+## sp5TM1dh4Og-A0035 – Die lange deutsche Hitzewelle im Juni 2026 verursachte laut Modell mehr als sechs Milliarden Euro Schaden.
 
 - **Zeit:** ungefähr 00:34:33. **Sprecher:** Luisa Neubauer (Gast).
-- **Bewertung:** Teilweise belegt.
-- **Begründung:** Das Prognos-Modell schätzt für die Hitzewelle Ende Juni 2026 6,32 Milliarden Euro Schäden. Es ist keine vollständig gemessene volkswirtschaftliche Verlustbilanz.
-- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q19](https://www.handelsblatt.com/unternehmen/industrie/hitzewelle-hitze-wird-zum-milliardenrisiko-fuer-den-standort-deutschland/100239736.html).
+- **Bewertung:** Belegt.
+- **Begründung:** Prognos schätzt für den Zeitraum 17.–30. Juni modellierte Schäden von rund 6,3 Milliarden Euro. Das stützt den geprüften Zahlenbefund, nicht eine vollständige gemessene Verlustbilanz. Der umgangssprachliche Zusatz der längsten Hitzewelle im Sommer wird hier nicht als DWD-Rangfolge bestätigt; dafür wären Vergleichsgebiet und Definition separat festzulegen.
+- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q19](https://www.handelsblatt.com/unternehmen/industrie/hitzewelle-hitze-wird-zum-milliardenrisiko-fuer-den-standort-deutschland/100239736.html), [V03](https://podcasts.happyscribe.com/de/ronzheimer/krise-krieg-greta-ist-die-klima-bewegung-am-ende-mit-luisa-neubauer), [KP-59](https://www.prognos.com/en/cost-heatwave-june-2026).
 - **Bedeutung:** 2 (vorläufig).  
 
 ## sp5TM1dh4Og-A0036 – Alle Staaten seien rechtlich verpflichtet, ihre jeweiligen Paris-Klimaziele zu erreichen.
@@ -292,20 +292,20 @@ Prüfung durch Kai, 2026-11-24. Grundlage: vollständig gelesenes deutsches Nutz
 - **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q20](https://unfccc.int/process-and-meetings/the-paris-agreement/nationally-determined-contributions-ndcs).
 - **Bedeutung:** 1.5 (vorläufig).  
 
-## sp5TM1dh4Og-A0037 – Deutschland gebe jährlich 70 bis 130 Milliarden Euro für Öl- und Gasimporte aus.
+## sp5TM1dh4Og-A0037 – Deutschlands jährliche Ausgaben für Öl- und Gasimporte lagen in jüngeren Vergleichsjahren grob zwischen 70 und 130 Milliarden Euro.
 
 - **Zeit:** ungefähr 00:35:55. **Sprecher:** Luisa Neubauer (Gast).
-- **Bewertung:** Teilweise belegt.
-- **Begründung:** 2025 betrugen erfasste Rohöl- und Erdgasimporte zusammen rund 60,6 Milliarden Euro; andere Warenpositionen fehlen. 2022 lagen die beiden Werte bei rund 127,8 Milliarden Euro. Die Spanne schwankt nach Jahr und Definition.
-- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q21](https://www.destatis.de/EN/Themes/Economy/Foreign-Trade/Tables/crude-oil-yearly.html), [Q22](https://www.destatis.de/DE/Themen/Wirtschaft/Aussenhandel/Tabellen/erdgas-jaehrlich.html).
+- **Bewertung:** Belegt.
+- **Begründung:** Die Schätzung im Gespräch ist erkennbar gerundet. Mit der Nettoabgrenzung einschließlich Ölprodukten zeigt Tabelle 8-3 des Öko-Instituts etwa 69,2 Milliarden Euro für 2025, 68,9 Milliarden für 2024 und 129,3 Milliarden für 2022. Andere Jahre wie 2020 oder Bruttoimporte liegen teils deutlich außerhalb des Korridors. Die Zahlen belegen nur die jüngeren Größenordnungen unter der genannten Nettoabgrenzung.
+- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q21](https://www.destatis.de/EN/Themes/Economy/Foreign-Trade/Tables/crude-oil-yearly.html), [Q22](https://www.destatis.de/DE/Themen/Wirtschaft/Aussenhandel/Tabellen/erdgas-jaehrlich.html), [V03](https://podcasts.happyscribe.com/de/ronzheimer/krise-krieg-greta-ist-die-klima-bewegung-am-ende-mit-luisa-neubauer), [KP-60](https://www.oeko.de/fileadmin/oekodoc/Analyse-Energieimporte-2026-gesamt.pdf).
 - **Bedeutung:** 2 (vorläufig).  
 
-## sp5TM1dh4Og-A0038 – Erneuerbare Energie ermöglicht besonders preiswerte und unabhängige deutsche Energieversorgung.
+## sp5TM1dh4Og-A0038 – Deutschlands gesamte Energieversorgung könne auf keinem anderen Weg günstiger und unabhängiger organisiert werden als mit erneuerbaren Energien.
 
 - **Zeit:** ungefähr 00:36:41. **Sprecher:** Luisa Neubauer (Gast).
-- **Bewertung:** Teilweise belegt.
-- **Begründung:** Viele neue Anlagen haben günstige Stromgestehungskosten und senken Brennstoffimporte. Vollsystemkosten hängen zusätzlich von Netzen, Speichern und weiteren Importen ab.
-- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q04](https://www.irena.org/Publications/2026/Jul/Renewable-Power-Generation-Costs-in-2025), [Q13](https://www.umweltbundesamt.de/themen/erneuerbare-energien-in-deutschland-wachstum-2025).
+- **Bewertung:** Offen (noch kein Urteil).
+- **Begründung:** Fraunhofer und IRENA belegen niedrige Kosten vieler erneuerbarer Erzeugungsprojekte; das Umweltbundesamt dokumentiert einen Weg zu weniger fossiler Importabhängigkeit. Die Aussage im Gespräch ist stärker: Sie schließt günstigere oder souveränere Alternativen für das gesamte System aus. Dafür fehlt ein definierter Vergleichsrahmen mit Netz, Reserve, Speichern, Brennstoff- und sonstigen Importen; kein pauschaler Gegenbeweis.
+- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q04](https://www.irena.org/Publications/2026/Jul/Renewable-Power-Generation-Costs-in-2025), [Q13](https://www.umweltbundesamt.de/themen/erneuerbare-energien-in-deutschland-wachstum-2025), [V03](https://podcasts.happyscribe.com/de/ronzheimer/krise-krieg-greta-ist-die-klima-bewegung-am-ende-mit-luisa-neubauer), [KP-63](https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/DE2024_ISE_Studie_Stromgestehungskosten_Erneuerbare_Energien.pdf), [KP-64](https://www.umweltbundesamt.de/themen/ausstieg-aus-fossilen-brennstoffen-schuetzt-vor).
 - **Bedeutung:** 1.5 (vorläufig).  
 
 ## sp5TM1dh4Og-A0039 – Deutschland sei für über zwei Prozent der weltweiten CO2-Emissionen verantwortlich.
@@ -332,12 +332,12 @@ Prüfung durch Kai, 2026-11-24. Grundlage: vollständig gelesenes deutsches Nutz
 - **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q15](https://www.iea.org/reports/global-energy-review-2026/electricity-supply).
 - **Bedeutung:** 1 (vorläufig).  
 
-## sp5TM1dh4Og-A0042 – US-Demokraten hätten durch Werbung für erneuerbare Energien eine Wahl gewonnen.
+## sp5TM1dh4Og-A0042 – Werbung für erneuerbare Energien habe zu einem Wahlsieg der US-Demokraten beigetragen.
 
 - **Zeit:** ungefähr 00:37:35. **Sprecher:** Luisa Neubauer (Gast).
-- **Bewertung:** Teilweise belegt.
-- **Begründung:** Die Demokraten gewannen am 3. November 2026 zahlreiche US-Wahlen, und manche ihrer Kandidaten warben ausdrücklich mit Wind- und Solarenergie als Mittel gegen hohe Stromkosten. Diese beiden Komponenten sind dokumentiert. Unabhängige Auswertungen zeigen aber, dass die Wahlkämpfe stark von allgemeiner Bezahlbarkeit geprägt waren und Klimaschutz als eigenständiges Thema vergleichsweise selten vorkam. Ob Kampagnen für erneuerbare Energien einen konkreten Wahlsieg verursacht haben, lässt sich damit nicht belegen; genau diese Kausalität stellte der Moderator infrage.
-- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q51](https://www.spglobal.com/energy/en/news-research/latest-news/electric-power/082026-clean-energy-politics-get-boost-from-affordability-debate-in-midterm-campaigns), [Q52](https://www.americanprogress.org/article/powering-the-midterms-how-candidates-connected-clean-energy-and-affordability/), [Q53](https://www.axios.com/2026/11/06/democrats-blue-wave-climate-silence).
+- **Bewertung:** Offen (noch kein Urteil).
+- **Begründung:** Es gibt nachprüfbare Wahlkampfprogramme mit ausdrücklichem Erneuerbarenbezug. Auf Nachfrage des Hosts verneint Neubauer einen alleinigen Klimaeffekt. Weder der Nachweis der Werbung noch dokumentierte Wahlergebnisse belegen einen messbaren Beitrag dieser Werbung zum Wahlsieg; die Kausalbehauptung bleibt offen. Die Distanzierung des Hosts bleibt in der Zuordnung erhalten.
+- **Quellen:** [V01](https://www.youtube.com/watch?v=sp5TM1dh4Og), [Q51](https://www.spglobal.com/energy/en/news-research/latest-news/electric-power/082026-clean-energy-politics-get-boost-from-affordability-debate-in-midterm-campaigns), [Q52](https://www.americanprogress.org/article/powering-the-midterms-how-candidates-connected-clean-energy-and-affordability/), [Q53](https://www.axios.com/2026/11/06/democrats-blue-wave-climate-silence), [V03](https://podcasts.happyscribe.com/de/ronzheimer/krise-krieg-greta-ist-die-klima-bewegung-am-ende-mit-luisa-neubauer), [KP-65](https://www.jocelynbenson.com/jocelyn-benson-s-environment-agenda.pdf).
 - **Bedeutung:** 0.5 (vorläufig).  
 
 ## sp5TM1dh4Og-A0043 – Elektroautos werden weltweit in Millionenhöhe verkauft.
