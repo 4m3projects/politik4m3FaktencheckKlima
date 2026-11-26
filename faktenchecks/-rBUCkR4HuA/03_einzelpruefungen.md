@@ -64,23 +64,23 @@ Quellen: V001.
 
 ## -rBUCkR4HuA-A0007
 
-**Abgeschlossen · Teilweise belegt · 7:59–10:10**
+**Abgeschlossen · Belegt · 7:59–10:10**
 
-Aufmerksamkeitsökonomie verschärfe die gesellschaftliche Polarisierung.
+Zuspitzung und negative Inhalte können online mehr Aufmerksamkeit bekommen; konfliktbetonte Empfehlungen können Polarisierung verstärken.
 
-Experimentelle Forschung stützt, dass die Auswahl parteifeindlicher Inhalte auf X affektive Polarisierung beeinflussen kann. Ein YouTube-Experiment findet dagegen begrenzte kurzfristige Effekte auf politische Einstellungen. Der Mechanismus ist plausibel und für bestimmte Kontexte kausal gestützt; ein gleicher gesamtgesellschaftlicher Effekt sämtlicher Medien und Geschäftsmodelle ist damit nicht nachgewiesen.
+Im Podcast wird die Wirkung modal und nicht als unvermeidliches Gesetz jeder Mediennutzung dargestellt. Randomisierte Tests bei Upworthy belegen höhere Klicks für negativere Überschriften. Experimente zu Empfehlungen stützen für ausgewählte Inhalte auf X einen Effekt auf affektive Polarisierung, während ein YouTube-Experiment die Plattformübertragbarkeit begrenzt. Mehr Aufmerksamkeit ist nicht dieselbe Messgröße wie gesellschaftliche Polarisierung.
 
-Quellen: V001, Q33, Q34.
+Quellen: V001, Q33, Q34, WP, WN.
 
 ## -rBUCkR4HuA-A0008
 
-**Abgeschlossen · Teilweise belegt · 10:38–10:58**
+**Offen · kein Urteil · 10:38–10:58**
 
 Zu Beginn seiner Fernseharbeit gab es drei Programme, kein Privatfernsehen und kein Internet.
 
-Der Rückblick auf eine deutlich kleinere Fernsehlandschaft ist im Kern zutreffend. Die Vita nennt journalistische Arbeit ab 1983 und den WDR ab 1987; private deutsche Sender starteten bereits 1984. Technische Computernetze existierten schon vor dem späteren Massenmedium Web. Ohne genaue Datierung seines ersten Fernsehbeitrags lassen sich die drei Teilangaben nicht pauschal auf den WDR-Eintritt übertragen.
+Yogeshwar bezieht sich auf den Beginn seiner Fernseharbeit, nicht ausdrücklich auf den Eintritt beim WDR im Jahr 1987. Sein Lebenslauf nennt journalistische Arbeit seit 1983 und einen späteren Wechsel zum WDR, aber kein belastbares Datum des ersten Fernsehbeitrags. Privatfernsehen startete 1984, und technische Netze bestanden schon vor dem verbreiteten Web. Ohne genauen Zeitpunkt und präzise Definition von Internet ist die Dreierkombination nicht bestätigt.
 
-Quellen: V001, Q01, Q35, Q36.
+Quellen: V001, Q01, Q35, Q36, WP, WV, WB.
 
 ## -rBUCkR4HuA-A0009
 
@@ -94,13 +94,13 @@ Quellen: V001.
 
 ## -rBUCkR4HuA-A0010
 
-**Abgeschlossen · Teilweise belegt · 13:07–13:26**
+**Abgeschlossen · Irreführend / Kontext fehlt · 13:07–13:26**
 
-Im September 2026 waren fast 40% der deutschen Autoverkäufe elektrisch.
+Im September 2026 seien in Deutschland fast 40 % der verkauften Neuwagen elektrisch gewesen.
 
-Zeitlich passende VDA/KBA-Daten ergeben 34,5% reine BEV oder 45,3% mit PHEV. Der starke Trend stimmt; die genannte Quote und Kategorie sind unpräzise. Belegte Messgröße sind Neuzulassungen.
+Im Podcast ist der Vormonat zur Oktober-Aufzeichnung und ein nicht genauer definierter Elektroanteil gemeint. Amtliche Neuzulassungen zeigen 34,5 % reine Batterieautos beziehungsweise 45,3 % einschließlich Plug-in-Hybriden. Keine der naheliegenden Abgrenzungen bildet die suggerierte knapp unter 40 % liegende Quote ab; Zulassung und Verkauf sind zudem nicht gleich. Der starke Zulassungsanstieg bleibt belegt.
 
-Quellen: V001, Q02.
+Quellen: V001, Q02, WP, WE.
 
 ## -rBUCkR4HuA-A0011
 
@@ -184,13 +184,13 @@ Quellen: V001, Q39, Q40.
 
 ## -rBUCkR4HuA-A0019
 
-**Abgeschlossen · Teilweise belegt · 23:51–24:14**
+**Abgeschlossen · Irreführend / Kontext fehlt · 23:51–24:14**
 
-Energieförderung erreiche vor allem vermögendere Eigentümer; Mietende hätten schlechteren Zugang.
+Von der Energieförderung profitierten praktisch nur Wohlhabende; Mietende hätten schlechteren Zugang.
 
-Eigentumsbezug und hoher Mietanteil stützen den strukturellen Punkt. KfW gewährt aber Einkommensboni; alle Empfänger als reich zu bezeichnen und die Verteilung zu quantifizieren ist nicht gedeckt.
+Die Aufzeichnung stützt die breite Gegenüberstellung zwischen Wohlhabenden und anderen. Mietende haben bei Eigentümer-Förderprogrammen keinen unmittelbaren Zugang, und die KfW-Daten zeigen ungleichen Technologiezugang nach Einkommen und Wohnverhältnis. Einkommensabhängige Zuschüsse gelten aber ausdrücklich auch für berechtigte Haushalte mit geringeren Einkommen. Die dokumentierten Unterschiede belegen keine fast ausschließliche Auszahlung an Wohlhabende.
 
-Quellen: V001, Q03, Q04.
+Quellen: V001, Q03, Q04, WP, WM, WK.
 
 ## -rBUCkR4HuA-A0020
 
@@ -204,13 +204,13 @@ Quellen: V001, Q03.
 
 ## -rBUCkR4HuA-A0021
 
-**Abgeschlossen · Teilweise belegt · 24:49–25:01**
+**Abgeschlossen · Belegt · 24:49–25:01**
 
-Wärmepumpen sind in Deutschland deutlich teurer als in NL oder UK.
+Vergleichbare installierte Luft-Wasser-Wärmepumpen im Einfamilienhausbestand waren in den untersuchten Daten in Deutschland deutlich teurer als in den Niederlanden oder Großbritannien.
 
-Die RWTH-Analyse vergleicht zwei Angebote für eine 8-kW-Luft-Wasser-Wärmepumpe und findet einen deutlich höheren deutschen Endkundenpreis als im UK. Sie erläutert technische und marktbezogene Unterschiede und warnt vor repräsentativen Schlüssen aus Einzelangeboten. Der UK-Vergleich ist damit konkret gestützt; ein gleicher aktueller Marktvergleich mit den Niederlanden und die Ursache allein durch Förderung sind nicht nachgewiesen.
+Für vergleichbare 8–10-kW-Anlagen im Bestand einschließlich Einbau und Nebenkosten dokumentiert Heat Pumps Watch (2022–2025) 23.000–40.000+ Euro in Deutschland, 11.000–19.000 Euro in den Niederlanden und 10.000–14.000 Euro in Großbritannien. Das Gespräch nennt Preisunterschiede, keine verifizierbare Vollerhebung zum Aufnahmetag. Aus dem Vergleich folgt keine alleinige Ursache durch Förderung.
 
-Quellen: V001, Q41.
+Quellen: V001, Q41, WP, WH.
 
 ## -rBUCkR4HuA-A0022
 
@@ -234,13 +234,13 @@ Quellen: V001, Q01.
 
 ## -rBUCkR4HuA-A0024
 
-**Abgeschlossen · Teilweise belegt · 27:32–27:44**
+**Offen · kein Urteil · 27:32–27:44**
 
-Er durfte als erster Journalist frei in Fukushima drehen.
+Yogeshwar sei der erste Journalist gewesen, der in Fukushima frei drehen durfte.
 
-Der produzierende WDR bestätigt 2014 einen besonderen Erstzugang: Yogeshwars Team durfte als erstes ausländisches Reporterteam so frei und selbstständig im Reaktor drehen. Das stützt den Sachkern seiner Erinnerung. Der Beleg ist eine eigene Senderangabe und enger als die uneingeschränkte Behauptung, überhaupt der erste dort drehende Journalist gewesen zu sein.
+Der offizielle Wortlaut behauptet den ersten frei drehenden Journalisten, ohne das auf ausländische Teams zu beschränken. Der mitproduzierende WDR dokumentiert eine Sondergenehmigung und nennt das erste ausländische Reporterteam mit dieser Drehfreiheit. Das stützt den engeren Sachverhalt, belegt aber keine Priorität gegenüber allen japanischen Teams. Aus früheren geführten Besuchen folgt umgekehrt keine Widerlegung der besonderen Drehfreiheit.
 
-Quellen: V001, Q42.
+Quellen: V001, Q42, WP, WW.
 
 ## -rBUCkR4HuA-A0025
 
