@@ -7,7 +7,7 @@
     "asOf": "2026-11-23",
     "durationSeconds": 896,
     "coverageNote": "Alle verfügbaren deutschen Untertitel von 00:00 bis zum Schluss wurden gelesen. Sachbehauptungen, politische Wertungen und zugeschriebene Reiche-Zitate werden getrennt erfasst; Wiederholungen sind zusammengeführt. Die berechnete Abdeckung bezieht sich auf diesen Aussagenbestand, nicht auf audiovisuell geprüfte Sekunden oder eine garantierte Erfassung jeder Bildeinblendung.",
-    "researchNote": "Originalvideo vom 17.12.2025; geprüft am 23.11.2026 mit Blick auf die zum Videodatum belegbare Lage. Direkter Metadaten-/Untertitelabruf ohne vidIQ und ohne Medien. Keine vollständige Kontrolle von Originalton, Zitattafeln, Grafiken, Musik oder Schnitt. Datierungs- und Zuordnungsbefunde beziehen sich bis zum A/V-Abgleich auf die abgerufenen Untertitel. Später abrufbare Quellen wurden auf historischen Aussagebezug geprüft; aktuelle Dateien beweisen nicht automatisch historischen Versionsstand. Nachprüfung: konkrete VKU-Begrenzungsforderung, historisches NRW-BDEW-Mandat, Strom-Größenvergleich und Gas-Tätigkeitsergebnisse ergänzt; ursprüngliche offene Sachangaben jetzt mit ausdrücklich begrenzten Ergebnissen eingeordnet. Der direkte Browserversuch am 23.11.2026 blieb trotz einmaligem Neuladen bei 12:10 ohne laufendes Videobild; keine zusätzliche A/V-Prüfung behauptet."
+    "researchNote": "Originalvideo vom 17.12.2025; geprüft am 23.11.2026 mit Blick auf die zum Videodatum belegbare Lage. Direkter Metadaten-/Untertitelabruf ohne vidIQ und ohne Medien. Keine vollständige Kontrolle von Originalton, Zitattafeln, Grafiken, Musik oder Schnitt. Datierungs- und Zuordnungsbefunde beziehen sich bis zum A/V-Abgleich auf die abgerufenen Untertitel. Später abrufbare Quellen wurden auf historischen Aussagebezug geprüft; aktuelle Dateien beweisen nicht automatisch historischen Versionsstand. Nachprüfung: konkrete VKU-Begrenzungsforderung, historisches NRW-BDEW-Mandat, Strom-Größenvergleich und Gas-Tätigkeitsergebnisse ergänzt; ursprüngliche offene Sachangaben jetzt mit ausdrücklich begrenzten Ergebnissen eingeordnet. Der direkte Browserversuch am 23.11.2026 blieb trotz einmaligem Neuladen bei 12:10 ohne laufendes Videobild; keine zusätzliche A/V-Prüfung behauptet. Kai (26.11.2026): 13 alte Teilurteile anhand der originalen automatischen YouTube-Textspur und der jeweiligen Sachquellen einzeln erneut geprüft; kein Ton- oder Bildvollabgleich."
   },
   "speakers": [
     {
@@ -967,10 +967,10 @@
       "id": "nhkbLylbVg4-A0008",
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
-      "status": "Abgeschlossen",
-      "description": "Reiche arbeitete im VKU gegen den schnellen Windenergieausbau, weil Stadtwerke mit ihren neuen Gaskraftwerken länger Gewinne erzielen sollten.",
-      "reason": "Der VKU schlug am 28. April 2016 jährlich 2.000 MW netto für Windkraft-Ausschreibungen gegenüber dem bisherigen 2.500-MW-Ausbaupfad vor und befürwortete bei Überschreiten des Gesamtkorridors eine Drosselung. Bei Beibehaltung der staatlichen Windformel verlangte er 2.000 MW alternativ als Mindestmenge; die Zahl ist daher nicht isoliert als unbedingter Höchstdeckel zu lesen. Im FR-Originalinterview vertritt Reiche persönlich diesen begrenzten Korridor und beschreibt separat wirtschaftliche Nachteile des schnellen Erneuerbaren-Ausbaus für Gaskraftwerke. Der Handlungskern ist damit belegt, die behauptete konkrete Gewinnabsicht nicht: Das VKU-Papier nennt Netzplanung, Kosten und Berechenbarkeit als Gründe. Am 4. September 2019 forderte Reiche ausdrücklich schnelleren Windausbau; das widerlegt die frühere Begrenzungsposition nicht, begrenzt aber eine pauschale Darstellung ihrer gesamten VKU-Zeit.",
-      "assessmentBasis": "Nachprüfung 23.11.2026 auf Grundlage des vorhandenen Untertitels und gezielt ergänzter VKU-Originalstellungnahme sowie Originalinterviews; spätere abweichende Windposition als Kontext berücksichtigt. Eigenständige Gegenprüfung durch bdew_followup bestätigt Urteil, Faktor und Mischanteile; keine audiovisuelle Vollsichtung.",
+      "status": "Offen",
+      "description": "Reiche habe den schnellen Windkraftausbau im VKU gebremst, um kommunalen Gaskraftwerken längere Gewinne zu verschaffen.",
+      "reason": "Die Originaltextspur begründet die politische Position ausdrücklich mit neuen kommunalen Gaskraftwerken und längeren Gewinnen. Das VKU-Papier von 2016 nennt dagegen Netzplanung, Kosten und Berechenbarkeit. Das damalige Interview dokumentiert Reiches wirtschaftliche Sorge um Gaskraftwerke und ihre Position zum Wind-Ausbaupfad, belegt aber nicht die behauptete konkrete Zwecksetzung. Die früher vertretene Windposition ist davon unabhängig und separat in A0080 geprüft.",
+      "assessmentBasis": "Nachprüfung 23.11.2026 auf Grundlage des vorhandenen Untertitels und gezielt ergänzter VKU-Originalstellungnahme sowie Originalinterviews; spätere abweichende Windposition als Kontext berücksichtigt. Eigenständige Gegenprüfung durch bdew_followup bestätigt Urteil, Faktor und Mischanteile; keine audiovisuelle Vollsichtung. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 74,
@@ -1006,8 +1006,7 @@
         }
       ],
       "openQuestions": [
-        "Gibt es einen Originalbeleg, der die Wind-Begrenzungsforderung ausdrücklich mit länger erzielbaren Gewinnen konkreter kommunaler Gaskraftwerke begründet?",
-        "Welche Stadtwerke, Investitionen und Zeiträume sind mit der behaupteten Gewinnabsicht gemeint?"
+        "Gibt es zeitgenössische Primärbelege, die die Wind-Begrenzungsforderung ausdrücklich an längere Gewinne bestimmter kommunaler Kraftwerke knüpfen?"
       ],
       "factIndex": {
         "weight": 1.5,
@@ -1030,12 +1029,6 @@
             "reason": "VKU-Originalstellungnahme S. 7–10 sowie FR-, Handelsblatt- und IKEM-Originale unabhängig geprüft. Konkrete Begrenzungsposition belegt, kausale Gewinnabsicht ungeklärt: p=0,5/f=0/u=0,5 bestätigt. Faktor 1,5 bleibt unabhängig vom Urteil angemessen, da die Aussage eine tragende Verbindung zwischen Verbandstätigkeit und Hauptthese bildet."
           }
         ],
-        "shares": {
-          "p": 0.5,
-          "f": 0,
-          "u": 0.5
-        },
-        "sharesReason": "Die konkrete Begrenzungsforderung und die behauptete kausale Gewinnabsicht sind zwei eigenständige, für die Aussage wesentliche Teile; der erste ist belegt, der zweite ungeklärt, keiner widerlegt.",
         "history": [
           {
             "date": "2026-11-23",
@@ -1048,11 +1041,49 @@
               "u": 0.5
             },
             "reason": "Bei der Erstbewertung der zuvor offenen Aussage Handlung und Gewinnmotiv als gleichrangige Teile ausdrücklich getrennt; nach unabhängiger Gegenprüfung übernommen."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Reiche arbeitete im VKU gegen den schnellen Windenergieausbau, weil Stadtwerke mit ihren neuen Gaskraftwerken länger Gewinne erzielen sollten.",
+              "shares": {
+                "p": 0.5,
+                "f": 0,
+                "u": 0.5
+              },
+              "sharesReason": "Die konkrete Begrenzungsforderung und die behauptete kausale Gewinnabsicht sind zwei eigenständige, für die Aussage wesentliche Teile; der erste ist belegt, der zweite ungeklärt, keiner widerlegt."
+            },
+            "next": {
+              "status": "Offen",
+              "verdict": null,
+              "description": "Reiche habe den schnellen Windkraftausbau im VKU gebremst, um kommunalen Gaskraftwerken längere Gewinne zu verschaffen."
+            },
+            "reason": "Die Originaltextspur begründet die politische Position ausdrücklich mit neuen kommunalen Gaskraftwerken und längeren Gewinnen. Das VKU-Papier von 2016 nennt dagegen Netzplanung, Kosten und Berechenbarkeit. Das damalige Interview dokumentiert Reiches wirtschaftliche Sorge um Gaskraftwerke und ihre Position zum Wind-Ausbaupfad, belegt aber nicht die behauptete konkrete Zwecksetzung. Die früher vertretene Windposition ist davon unabhängig und separat in A0080 geprüft."
           }
         ]
       },
-      "verdict": "Teilweise belegt",
-      "shortReason": "Reiche und der VKU befürworteten einen begrenzten Wind-Ausbaupfad; die behauptete Absicht, damit längere Gaskraftwerksgewinne zu sichern, bleibt ungeklärt."
+      "verdict": null,
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "S006",
+              "S007",
+              "S064",
+              "S065"
+            ],
+            "result": "Die Originaltextspur begründet die politische Position ausdrücklich mit neuen kommunalen Gaskraftwerken und längeren Gewinnen. Das VKU-Papier von 2016 nennt dagegen Netzplanung, Kosten und Berechenbarkeit. Das damalige Interview dokumentiert Reiches wirtschaftliche Sorge um Gaskraftwerke und ihre Position zum Wind-Ausbaupfad, belegt aber nicht die behauptete konkrete Zwecksetzung. Die früher vertretene Windposition ist davon unabhängig und separat in A0080 geprüft."
+          }
+        ]
+      }
     },
     {
       "id": "nhkbLylbVg4-A0009",
@@ -1114,10 +1145,10 @@
       "id": "nhkbLylbVg4-A0010",
       "chapter": 2,
       "kind": "Tatsachenbehauptung",
-      "status": "Abgeschlossen",
+      "status": "Offen",
       "description": "Westenergie ist Deutschlands größter regionaler Betreiber von Gas-, Strom- und Wassernetzen.",
-      "reason": "Die zeitgenössische Unternehmensselbstbeschreibung nennt Westenergie den größten regionalen Energie- und Infrastrukturdienstleister. Für das Stromnetzgeschäft gibt es nun einen unabhängig nachgerechneten Teilbeleg: Die Tochter Westnetz lag 2024 mit 3.951.295 angeschlossenen Letztverbrauchern vorn, wenn die vier veröffentlichten Spannungsebenen im BNetzA-Datensatz addiert werden. Vergleichbar sind 196 vollständig numerische Betreiberzeilen; bei zwei weiteren fehlen Teilfelder, die nicht als Null behandelt wurden. Die Dateifassung vom 19. Januar 2026 bestätigt rückblickend historische Stromdaten und war in dieser Fassung nach dem Videodatum. Ein gemeinsamer Größenrang für Gas-, Strom- und Wassernetze oder die gesamte Westenergie-Gruppe folgt daraus nicht; dafür fehlen Unternehmensabgrenzung und Größenmaß. Die Videoformulierung wird nicht in drei getrennte Spitzenplatzbehauptungen pro Sparte umgedeutet.",
-      "assessmentBasis": "Nachprüfung 23.11.2026: Unternehmensquellen, amtliche BNetzA-Originaldaten und deren Erläuterung; Hauptrecherche hat die Rangrechnung selbst wiederholt und zwei unvollständige Zeilen ausgeschlossen. Quelle mit historischem Datenbezug, aber späterer Dateifassung; keine audiovisuelle Vollsichtung.",
+      "reason": "Westenergie bezeichnet sich als größten regionalen Energie- und Infrastrukturdienstleister. Die Bundesnetzagentur weist für Tochter Westnetz 2024 rund 3,95 Mio. angeschlossene Strom-Letztverbraucher in den vollständig numerisch erfassten Vergleichsfeldern aus. Das ist ein Strom-Indikator, kein übergreifender Rang über Gas-, Strom- und Wassernetze. Maßstab und Organisationsgrenze des Superlativs sind nicht festgelegt; es wird dem Beitrag nicht jeweils ein eigener Spitzenplatz in allen drei Sparten zugeschrieben.",
+      "assessmentBasis": "Nachprüfung 23.11.2026: Unternehmensquellen, amtliche BNetzA-Originaldaten und deren Erläuterung; Hauptrecherche hat die Rangrechnung selbst wiederholt und zwei unvollständige Zeilen ausgeschlossen. Quelle mit historischem Datenbezug, aber späterer Dateifassung; keine audiovisuelle Vollsichtung. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 96,
@@ -1157,8 +1188,7 @@
         }
       ],
       "openQuestions": [
-        "Welches Größenmaß meint der spartenübergreifende Superlativ?",
-        "Welche Unternehmensgrenze ist gemeint: Westenergie-Gruppe, AG oder Westnetz?"
+        "Welches gemeinsame Größenmaß und welche Unternehmensgrenze erlauben einen vergleichbaren Rang in allen drei Netzen?"
       ],
       "factIndex": {
         "weight": 0.5,
@@ -1174,10 +1204,45 @@
             "agent": "ChatGPT – unabhängiger Agent repo_audit",
             "date": "2026-11-23"
           }
+        ],
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Westenergie ist Deutschlands größter regionaler Betreiber von Gas-, Strom- und Wassernetzen."
+            },
+            "next": {
+              "status": "Offen",
+              "verdict": null,
+              "description": "Westenergie ist Deutschlands größter regionaler Betreiber von Gas-, Strom- und Wassernetzen."
+            },
+            "reason": "Westenergie bezeichnet sich als größten regionalen Energie- und Infrastrukturdienstleister. Die Bundesnetzagentur weist für Tochter Westnetz 2024 rund 3,95 Mio. angeschlossene Strom-Letztverbraucher in den vollständig numerisch erfassten Vergleichsfeldern aus. Das ist ein Strom-Indikator, kein übergreifender Rang über Gas-, Strom- und Wassernetze. Maßstab und Organisationsgrenze des Superlativs sind nicht festgelegt; es wird dem Beitrag nicht jeweils ein eigener Spitzenplatz in allen drei Sparten zugeschrieben."
+          }
         ]
       },
-      "verdict": "Teilweise belegt",
-      "shortReason": "Westnetz lag 2024 bei Strom-Letztverbrauchern im geprüften amtlichen Vergleich vorn; ein gemeinsamer Größenrang für Gas, Strom und Wasser bleibt offen."
+      "verdict": null,
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "S003",
+              "S008",
+              "S009",
+              "S071",
+              "S072"
+            ],
+            "result": "Westenergie bezeichnet sich als größten regionalen Energie- und Infrastrukturdienstleister. Die Bundesnetzagentur weist für Tochter Westnetz 2024 rund 3,95 Mio. angeschlossene Strom-Letztverbraucher in den vollständig numerisch erfassten Vergleichsfeldern aus. Das ist ein Strom-Indikator, kein übergreifender Rang über Gas-, Strom- und Wassernetze. Maßstab und Organisationsgrenze des Superlativs sind nicht festgelegt; es wird dem Beitrag nicht jeweils ein eigener Spitzenplatz in allen drei Sparten zugeschrieben."
+          }
+        ]
+      }
     },
     {
       "id": "nhkbLylbVg4-A0011",
@@ -1595,9 +1660,9 @@
       "chapter": 4,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "description": "Reiche legte ihre Unternehmensbeteiligungen zunächst nicht vollständig offen und tat dies erst nach öffentlichem Druck.",
-      "reason": "Die parlamentarische Antwort vom 28. Mai 2025 verneint E.ON-Aktien und versichert, sonstige Beteiligungen verursachten keine Interessenkonflikte, nennt aber nicht die erfragten Beteiligungen vollständig. Die spätere Regierungsantwort vom 4. August 2025 nennt eine Immobiliengesellschaft und inzwischen veräußerte Ingrid-Capacity-Optionsrechte im ungefähren Wert von 3.000 Euro und betont die Freiwilligkeit der Angaben. LobbyControl beschreibt den Übergang zur Offenlegung als Folge öffentlichen Drucks und parlamentarischer Nachfragen. Die Abfolge von zunächst begrenzter und später ausführlicherer Auskunft ist primär belegt; der innere Grund für den Sinneswandel lässt sich daraus nicht sicher beweisen.",
-      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll.",
+      "description": "Reiche gab ihre Beteiligungen nach ersten begrenzten Angaben und öffentlichen Nachfragen später ausführlicher bekannt.",
+      "reason": "Die Antwort vom 28. Mai 2025 verneint E.ON-Aktien und nennt sonstige Beteiligungen nicht einzeln. Die Antwort vom 4. August nennt eine Immobiliengesellschaft und inzwischen veräußerte Optionsrechte im ungefähren Wert von 3.000 Euro. LobbyControl hatte die fehlenden Angaben öffentlich kritisiert; auch parlamentarische Nachfragen sind dokumentiert. Belegt ist diese Abfolge, nicht eine juristische Pflichtverletzung, eine erschöpfende Vermögensliste oder der innere Grund der späteren Auskunft.",
+      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 177,
@@ -1628,8 +1693,7 @@
           "note": "07.08.2025: Offenlegung nach Nachfragen und politischem Druck."
         }
       ],
-      "verdict": "Teilweise belegt",
-      "shortReason": "Zunächst begrenzte und später erweiterte Auskünfte sind belegt; 'erst durch Druck' bleibt eine erklärende Zuschreibung.",
+      "verdict": "Belegt",
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Tatsachenbehauptung mit normaler Bedeutung für das zugehörige Argument.",
@@ -1643,6 +1707,40 @@
             "reason": "Die Geschichte der Beteiligungsoffenlegung bildet einen eigenständigen Beleg im Transparenzabschnitt. Faktor 1 passt, weil sie weder die zentrale Energieentscheidung noch nur beiläufige Dekoration ist.",
             "agent": "ChatGPT – unabhängiger Agent repo_audit",
             "date": "2026-11-23"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Reiche legte ihre Unternehmensbeteiligungen zunächst nicht vollständig offen und tat dies erst nach öffentlichem Druck."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Reiche gab ihre Beteiligungen nach ersten begrenzten Angaben und öffentlichen Nachfragen später ausführlicher bekannt."
+            },
+            "reason": "Die Antwort vom 28. Mai 2025 verneint E.ON-Aktien und nennt sonstige Beteiligungen nicht einzeln. Die Antwort vom 4. August nennt eine Immobiliengesellschaft und inzwischen veräußerte Optionsrechte im ungefähren Wert von 3.000 Euro. LobbyControl hatte die fehlenden Angaben öffentlich kritisiert; auch parlamentarische Nachfragen sind dokumentiert. Belegt ist diese Abfolge, nicht eine juristische Pflichtverletzung, eine erschöpfende Vermögensliste oder der innere Grund der späteren Auskunft."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "S018",
+              "S019",
+              "S020"
+            ],
+            "result": "Die Antwort vom 28. Mai 2025 verneint E.ON-Aktien und nennt sonstige Beteiligungen nicht einzeln. Die Antwort vom 4. August nennt eine Immobiliengesellschaft und inzwischen veräußerte Optionsrechte im ungefähren Wert von 3.000 Euro. LobbyControl hatte die fehlenden Angaben öffentlich kritisiert; auch parlamentarische Nachfragen sind dokumentiert. Belegt ist diese Abfolge, nicht eine juristische Pflichtverletzung, eine erschöpfende Vermögensliste oder der innere Grund der späteren Auskunft."
           }
         ]
       }
@@ -1895,8 +1993,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
       "description": "Reiche trat 2006 öffentlich für Laufzeitverlängerungen entgegen dem Koalitionsvertrag von Union und SPD ein.",
-      "reason": "Reiche verteidigte im Deutschlandfunk-Interview vom 28. September 2006 die weitere Nutzung der Kernenergie und stellte zur Diskussion, ob Deutschland den Atomausstieg konsequent weiterverfolgen sollte. Das stand politisch in Spannung zum Koalitionsvertrag von 2005, der die damalige Ausstiegsregelung unverändert ließ. Im selben Interview bekannte sie sich jedoch zur geltenden Koalitionsvereinbarung und unterschied die langfristige Debatte von der Regierungsentscheidung über Reststrommengen für Biblis A. Belegt sind ihr Eintreten für längere Kernenergienutzung und eine erneute Ausstiegsdebatte. Die Videodarstellung lässt ihren ausdrücklichen Vorbehalt und den damaligen Streitgegenstand weg.",
-      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll.",
+      "reason": "Im Deutschlandfunk befürwortete Reiche eine langfristig längere Nutzung und eine Diskussion über den Atomausstieg. Sie bekannte sich im selben Interview zur bestehenden Koalitionsvereinbarung und trennte die Langfristdebatte von der konkreten Frage nach der Reststrommenge für Biblis A. Eine politische Spannung ist dokumentiert; die Kurzfassung „entgegen dem Koalitionsvertrag“ unterschlägt den ausdrücklich genannten Vorbehalt.",
+      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 256,
@@ -1923,8 +2021,7 @@
           "note": "Abschnitt 5.1, S.50: Dissens und unveränderte Atomvereinbarung/gesetzliche Regelung."
         }
       ],
-      "verdict": "Teilweise belegt",
-      "shortReason": "Reiche stellte den Ausstiegskurs infrage, bekannte sich zugleich aber zum geltenden Koalitionsvertrag; diese Spannung gehört zur Einordnung.",
+      "verdict": "Irreführend / Kontext fehlt",
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Tatsachenbehauptung mit normaler Bedeutung für das zugehörige Argument.",
@@ -1938,6 +2035,40 @@
             "reason": "Das frühere öffentliche Eintreten für Laufzeitverlängerungen ist ein eigenständiger historischer Beleg des politischen Kurses. Faktor 1 ist angemessen.",
             "agent": "ChatGPT – unabhängiger Agent repo_audit",
             "date": "2026-11-23"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Reiche trat 2006 öffentlich für Laufzeitverlängerungen entgegen dem Koalitionsvertrag von Union und SPD ein."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Reiche trat 2006 öffentlich für Laufzeitverlängerungen entgegen dem Koalitionsvertrag von Union und SPD ein."
+            },
+            "reason": "Im Deutschlandfunk befürwortete Reiche eine langfristig längere Nutzung und eine Diskussion über den Atomausstieg. Sie bekannte sich im selben Interview zur bestehenden Koalitionsvereinbarung und trennte die Langfristdebatte von der konkreten Frage nach der Reststrommenge für Biblis A. Eine politische Spannung ist dokumentiert; die Kurzfassung „entgegen dem Koalitionsvertrag“ unterschlägt den ausdrücklich genannten Vorbehalt."
+          }
+        ]
+      },
+      "shortReason": "Reiche wollte die Langfristfrage diskutieren und bekannte sich im selben Interview zur geltenden Vereinbarung.",
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "S025",
+              "S026"
+            ],
+            "result": "Im Deutschlandfunk befürwortete Reiche eine langfristig längere Nutzung und eine Diskussion über den Atomausstieg. Sie bekannte sich im selben Interview zur bestehenden Koalitionsvereinbarung und trennte die Langfristdebatte von der konkreten Frage nach der Reststrommenge für Biblis A. Eine politische Spannung ist dokumentiert; die Kurzfassung „entgegen dem Koalitionsvertrag“ unterschlägt den ausdrücklich genannten Vorbehalt."
           }
         ]
       }
@@ -1994,10 +2125,10 @@
       "id": "nhkbLylbVg4-A0026",
       "chapter": 5,
       "kind": "Tatsachenbehauptung",
-      "status": "Abgeschlossen",
+      "status": "Offen",
       "description": "Erneuerbare Energien seien längst die volkswirtschaftlich günstigste Energiequelle.",
-      "reason": "Für neue Stromerzeugungsanlagen stützt Fraunhofer ISE die niedrigen Kosten von Wind an Land und Photovoltaik. Die Studie vergleicht aber Stromgestehungskosten einzelner Anlagen und lässt zusätzliche Systemkosten für Netze, Speicher/Reserve und Abregelung ausdrücklich außen vor. Auch nicht sämtliche Kernkraft-Folgekosten sind enthalten. Aus dieser Quelle allein folgt deshalb keine pauschale Rangfolge der volkswirtschaftlichen Gesamtkosten aller Energieträger und Versorgungssysteme. Für einen belastbaren Systemvergleich wären Versorgungssicherheit, Klimaziel, Zeitpunkt und Kostenabgrenzung festzulegen.",
-      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll.",
+      "reason": "Fraunhofer ISE vergleicht Stromgestehungskosten einzelner Neuanlagen und stützt günstigen Wind- und Solarstrom. Das beantwortet nicht, welche Energiequelle in einer volkswirtschaftlichen Gesamtrechnung am billigsten ist. Die Videoformulierung legt weder Betrachtungszeitraum noch Versorgungssicherheit und Systemgrenzen fest. Netz-, Reserve- und Abregelungskosten sind allein aus dem Anlagenvergleich nicht nachvollziehbar.",
+      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 282,
@@ -2020,10 +2151,9 @@
           "note": "Originalstudie. PV 4,1–14,4 ct/kWh, Onshore-Wind 4,3–9,2 ct/kWh. Vergleich neuer Einzelanlagen. PDF-Seite 17: zusätzliche Backup-, Abregelungs- und Netzausbaukosten nicht berücksichtigt; auch Rückbau-/Endlagerkosten der Kernkraft nicht vollständig internalisiert."
         }
       ],
-      "verdict": "Teilweise belegt",
-      "shortReason": "Niedrige Kosten für Wind- und Solarstrom sind belegt; ein volkswirtschaftlicher Vergleich muss zusätzlich Netz-, Speicher-, Reserve- und Folgekosten abgrenzen.",
+      "verdict": null,
       "openQuestions": [
-        "Liegt dem Video zusätzlich zur Anlagenkostenstudie ein vollständiger volkswirtschaftlicher Systemvergleich zugrunde?"
+        "Für welche Systemgrenze, Versorgungsaufgabe und welchen Zeitraum soll das volkswirtschaftliche Minimum gelten?"
       ],
       "factIndex": {
         "weight": 1.5,
@@ -2038,6 +2168,38 @@
             "reason": "Die behauptete heutige volkswirtschaftliche Kostengünstigkeit soll das frühere Brückenargument entkräften. Sie ist eine tragende wirtschaftliche Prämisse; Faktor 1,5 ist angemessen.",
             "agent": "ChatGPT – unabhängiger Agent repo_audit",
             "date": "2026-11-23"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Erneuerbare Energien seien längst die volkswirtschaftlich günstigste Energiequelle."
+            },
+            "next": {
+              "status": "Offen",
+              "verdict": null,
+              "description": "Erneuerbare Energien seien längst die volkswirtschaftlich günstigste Energiequelle."
+            },
+            "reason": "Fraunhofer ISE vergleicht Stromgestehungskosten einzelner Neuanlagen und stützt günstigen Wind- und Solarstrom. Das beantwortet nicht, welche Energiequelle in einer volkswirtschaftlichen Gesamtrechnung am billigsten ist. Die Videoformulierung legt weder Betrachtungszeitraum noch Versorgungssicherheit und Systemgrenzen fest. Netz-, Reserve- und Abregelungskosten sind allein aus dem Anlagenvergleich nicht nachvollziehbar."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "S027"
+            ],
+            "result": "Fraunhofer ISE vergleicht Stromgestehungskosten einzelner Neuanlagen und stützt günstigen Wind- und Solarstrom. Das beantwortet nicht, welche Energiequelle in einer volkswirtschaftlichen Gesamtrechnung am billigsten ist. Die Videoformulierung legt weder Betrachtungszeitraum noch Versorgungssicherheit und Systemgrenzen fest. Netz-, Reserve- und Abregelungskosten sind allein aus dem Anlagenvergleich nicht nachvollziehbar."
           }
         ]
       }
@@ -2210,8 +2372,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
       "description": "Diese Maßnahme sei eine unmittelbare Subvention zugunsten der fossilen Industrie.",
-      "reason": "Die staatliche Übernahme der Umlagenkosten entlastet den Verbrauch fossilen Gases und lässt sich als fossile Verbrauchsförderung einordnen. Auch die OECD erfasst Verbraucherunterstützung als fossile Förderung. Unmittelbar ausgeglichen wird das Umlagenkonto; die Preisentlastung muss an Gaskunden weitergegeben werden. Greenpeace beschreibt damit einen realen Fördermechanismus, verkürzt aber den Begünstigtenkreis auf die fossile Industrie.",
-      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll.",
+      "reason": "Der Bund gleicht Kosten der Gasspeicherumlage aus; die Preisentlastung ist an Gaskunden weiterzugeben. Das fördert den Verbrauch fossilen Gases, auch nach OECD-Systematik. Die Beschreibung als unmittelbare Hilfe an die fossile Industrie beschreibt aber den Zahlungsweg und den Begünstigtenkreis unvollständig: auch Haushalte und andere Verbraucher werden entlastet.",
+      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 329,
@@ -2238,8 +2400,7 @@
           "note": "November 2024, gedruckte S. 5–6: Förderung umfasst auch fossilen Verbrauch, nicht nur Produzenten."
         }
       ],
-      "verdict": "Teilweise belegt",
-      "shortReason": "Die Maßnahme fördert fossilen Gasverbrauch; die unmittelbare Preisentlastung kommt Gaskunden zugute, nicht ausschließlich der Industrie.",
+      "verdict": "Irreführend / Kontext fehlt",
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Tragender Beleg für die Bewertung von Reiches Energiepolitik oder der behaupteten wirtschaftlichen Folgen.",
@@ -2253,6 +2414,40 @@
             "reason": "Die Bestimmung der unmittelbaren Begünstigten trägt die politische Schlussfolgerung aus der Gasentlastung. Dieser eigene Verteilungsbefund hat erhöhte Bedeutung; Faktor 1,5 ist angemessen.",
             "agent": "ChatGPT – unabhängiger Agent repo_audit",
             "date": "2026-11-23"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Diese Maßnahme sei eine unmittelbare Subvention zugunsten der fossilen Industrie."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Diese Maßnahme sei eine unmittelbare Subvention zugunsten der fossilen Industrie."
+            },
+            "reason": "Der Bund gleicht Kosten der Gasspeicherumlage aus; die Preisentlastung ist an Gaskunden weiterzugeben. Das fördert den Verbrauch fossilen Gases, auch nach OECD-Systematik. Die Beschreibung als unmittelbare Hilfe an die fossile Industrie beschreibt aber den Zahlungsweg und den Begünstigtenkreis unvollständig: auch Haushalte und andere Verbraucher werden entlastet."
+          }
+        ]
+      },
+      "shortReason": "Die Maßnahme entlastet fossilen Gasverbrauch, nicht nur unmittelbar die fossile Industrie.",
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "S032",
+              "S033"
+            ],
+            "result": "Der Bund gleicht Kosten der Gasspeicherumlage aus; die Preisentlastung ist an Gaskunden weiterzugeben. Das fördert den Verbrauch fossilen Gases, auch nach OECD-Systematik. Die Beschreibung als unmittelbare Hilfe an die fossile Industrie beschreibt aber den Zahlungsweg und den Begünstigtenkreis unvollständig: auch Haushalte und andere Verbraucher werden entlastet."
           }
         ]
       }
@@ -2377,10 +2572,10 @@
       "id": "nhkbLylbVg4-A0034",
       "chapter": 6,
       "kind": "Tatsachenbehauptung",
-      "status": "Abgeschlossen",
+      "status": "Offen",
       "description": "Neue Gaskraftwerke sollen mit Milliarden aus der Staatskasse unterstützt werden.",
-      "reason": "Öffentliche Förderung neuer Kraftwerke war geplant; der Haushaltsentwurf 2026 führt dafür Titel 6092/893 12 mit 250.000 Euro, ohne eigene Verpflichtungsermächtigung. Die November-Beschlussempfehlung und der spätere finale Plan ergeben keinen höheren Titelbetrag. Dieser Jahresansatz umfasst auch Umsetzungskosten und ist kein Maß für sämtliche späteren Förderkosten. Eine FÖS-Analyse im Auftrag des BUND vom April 2025 modellierte 22,2–32,4 Milliarden Euro Gesamtförderkosten für die damalige 20-GW-Erweiterung einschließlich weiterer Förderelemente. Die Rechnung nutzt ältere BMWK-Annahmen und lässt den Finanzierungsweg ausdrücklich offen, auch eine Stromumlage wird betrachtet. Damit ist eine zeitgenössisch modellierte Milliarden-Größenordnung belegt, aber weder ein amtlicher Kostenansatz des später veränderten Plans noch eine konkrete Milliardenfinanzierung aus der Staatskasse. Die Bundesregierung konnte im November 2025 verlässliche Kosten- und Finanzierungsangaben noch nicht machen. Das Video formuliert eine Absicht; fehlende endgültige Beschlüsse widerlegen diese nicht.",
-      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll. Nachprüfung: Haushaltsentwurf, November-Beschlussempfehlung, finale Soll-Fassung und zeitgenössische FÖS-Szenariorechnung zusätzlich geprüft; Urteil unverändert.",
+      "reason": "Die Förderung war beabsichtigt. Der Haushaltstitel 6092/893 12 weist für 2026 aber nur einen Jahresansatz von 250.000 Euro ohne eigene Verpflichtungsermächtigung aus; das misst nicht sämtliche künftigen Kosten. Das FÖS modellierte 22,2 bis 32,4 Mrd. Euro für eine frühere 20-GW-Variante, einschließlich weiterer Förderelemente und mit offener Finanzierung. Amtliche Auskünfte vor Upload bezifferten die Staatsfinanzierung des späteren Plans nicht. Weder eine tatsächliche Auszahlung noch das Scheitern einer Absicht werden daraus abgeleitet.",
+      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll. Nachprüfung: Haushaltsentwurf, November-Beschlussempfehlung, finale Soll-Fassung und zeitgenössische FÖS-Szenariorechnung zusätzlich geprüft; Urteil unverändert. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 382,
@@ -2437,10 +2632,9 @@
           "note": "Rückblickender Abgleich der finalen Soll-Zeile; keine Rückdatierung des gesamten Gesetzgebungsverfahrens."
         }
       ],
-      "verdict": "Teilweise belegt",
-      "shortReason": "Förderabsicht und modellierte Milliardenkosten sind belegt; die konkrete Staatsfinanzierung des späteren Kraftwerksplans bleibt ungeklärt.",
+      "verdict": null,
       "openQuestions": [
-        "Welche bis 17.12.2025 veröffentlichte amtliche Kalkulation ordnet Milliardenkosten des konkret veränderten Kraftwerksplans eindeutig dem Staatshaushalt zu? Szenarien, Jahresansatz, Finanzierung und verbindliche Zusage getrennt halten."
+        "Welche vor dem Video verfügbare amtliche Kalkulation belegt Milliarden direkt aus dem Staatshaushalt für die damals geplante Fassung?"
       ],
       "factIndex": {
         "weight": 1.5,
@@ -2455,6 +2649,44 @@
             "reason": "Die geplante öffentliche Unterstützung neuer Gaskraftwerke wird im Hauptteil und später im Bürger-Konzern-Vergleich wiederaufgenommen. Faktor 1,5 ist angemessen; beide Fundstellen bleiben eine Aussage.",
             "agent": "ChatGPT – unabhängiger Agent repo_audit",
             "date": "2026-11-23"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Neue Gaskraftwerke sollen mit Milliarden aus der Staatskasse unterstützt werden."
+            },
+            "next": {
+              "status": "Offen",
+              "verdict": null,
+              "description": "Neue Gaskraftwerke sollen mit Milliarden aus der Staatskasse unterstützt werden."
+            },
+            "reason": "Die Förderung war beabsichtigt. Der Haushaltstitel 6092/893 12 weist für 2026 aber nur einen Jahresansatz von 250.000 Euro ohne eigene Verpflichtungsermächtigung aus; das misst nicht sämtliche künftigen Kosten. Das FÖS modellierte 22,2 bis 32,4 Mrd. Euro für eine frühere 20-GW-Variante, einschließlich weiterer Förderelemente und mit offener Finanzierung. Amtliche Auskünfte vor Upload bezifferten die Staatsfinanzierung des späteren Plans nicht. Weder eine tatsächliche Auszahlung noch das Scheitern einer Absicht werden daraus abgeleitet."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "S036",
+              "S037",
+              "S038",
+              "S074",
+              "S075",
+              "S076",
+              "S077"
+            ],
+            "result": "Die Förderung war beabsichtigt. Der Haushaltstitel 6092/893 12 weist für 2026 aber nur einen Jahresansatz von 250.000 Euro ohne eigene Verpflichtungsermächtigung aus; das misst nicht sämtliche künftigen Kosten. Das FÖS modellierte 22,2 bis 32,4 Mrd. Euro für eine frühere 20-GW-Variante, einschließlich weiterer Förderelemente und mit offener Finanzierung. Amtliche Auskünfte vor Upload bezifferten die Staatsfinanzierung des späteren Plans nicht. Weder eine tatsächliche Auszahlung noch das Scheitern einer Absicht werden daraus abgeleitet."
           }
         ]
       }
@@ -3275,8 +3507,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
       "description": "Eine 10-kW-Dachsolaranlage solle künftig regulatorische Hürden wie ein Gaskraftwerk überwinden.",
-      "reason": "Der Maßnahmenplan sieht eine Direktvermarktungspflicht für Neuanlagen vor. Das kann auch kleine Dachanlagen mit zusätzlichen Vermarktungsanforderungen belasten und stützt den Kern der Kritik. Der zugespitzte Vergleich mit einem Gaskraftwerk benennt jedoch keine konkreten identischen Pflichten. Aus dem Plan geht nicht abschließend hervor, wie die Regelung für eine 10-kW-Anlage ausgestaltet würde; das Monitoringgutachten diskutiert ausdrücklich vereinfachte Verfahren für Kleinstanlagen. Belegt ist deshalb die geplante zusätzliche Marktintegration kleiner Anlagen. Eine gleiche regulatorische Belastung wie bei Gaskraftwerken ist damit nicht nachgewiesen.",
-      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll.",
+      "reason": "Das Ministerium wollte neue Anlagen einschließlich kleiner Dachanlagen stärker in die Direktvermarktung bringen. Der Vergleich mit einem Gaskraftwerk legt eine gleiche Art oder ähnlich hohe Belastung nahe. Der Vorschlag legt für eine 10-kW-Anlage keine vergleichbaren Genehmigungs- oder Vermarktungsauflagen fest; das Gutachten behandelt zudem vereinfachte Modelle für kleine Anlagen. Umfang und Kosten einer späteren Regelung werden nicht vorausgesagt.",
+      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 596,
@@ -3303,8 +3535,7 @@
           "note": "S. 192: vereinfachte Direktvermarktung auch für Kleinstanlagen; S. 212: differenzierte Optionen für PV unter 100 kWp."
         }
       ],
-      "verdict": "Teilweise belegt",
-      "shortReason": "Zusätzliche Vermarktungspflichten für kleine Neuanlagen sind geplant; welche Belastungen denen eines Gaskraftwerks entsprechen, bleibt offen.",
+      "verdict": "Irreführend / Kontext fehlt",
       "openQuestions": [
         "Welche konkreten zusätzlichen Pflichten und Kosten hätte eine finale Regelung für eine 10-kW-Neuanlage? Das allgemeine Maßnahmenpapier beantwortet das nicht."
       ],
@@ -3322,6 +3553,40 @@
             "agent": "ChatGPT – unabhängiger Agent repo_audit",
             "date": "2026-11-23"
           }
+        ],
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Eine 10-kW-Dachsolaranlage solle künftig regulatorische Hürden wie ein Gaskraftwerk überwinden."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Eine 10-kW-Dachsolaranlage solle künftig regulatorische Hürden wie ein Gaskraftwerk überwinden."
+            },
+            "reason": "Das Ministerium wollte neue Anlagen einschließlich kleiner Dachanlagen stärker in die Direktvermarktung bringen. Der Vergleich mit einem Gaskraftwerk legt eine gleiche Art oder ähnlich hohe Belastung nahe. Der Vorschlag legt für eine 10-kW-Anlage keine vergleichbaren Genehmigungs- oder Vermarktungsauflagen fest; das Gutachten behandelt zudem vereinfachte Modelle für kleine Anlagen. Umfang und Kosten einer späteren Regelung werden nicht vorausgesagt."
+          }
+        ]
+      },
+      "shortReason": "Zusätzlicher Vermarktungsaufwand ist plausibel; gleichartige Hürden wie für Gaskraftwerke sind nicht aus den Papieren ableitbar.",
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "S054",
+              "S035"
+            ],
+            "result": "Das Ministerium wollte neue Anlagen einschließlich kleiner Dachanlagen stärker in die Direktvermarktung bringen. Der Vergleich mit einem Gaskraftwerk legt eine gleiche Art oder ähnlich hohe Belastung nahe. Der Vorschlag legt für eine 10-kW-Anlage keine vergleichbaren Genehmigungs- oder Vermarktungsauflagen fest; das Gutachten behandelt zudem vereinfachte Modelle für kleine Anlagen. Umfang und Kosten einer späteren Regelung werden nicht vorausgesagt."
+          }
         ]
       }
     },
@@ -3329,10 +3594,10 @@
       "id": "nhkbLylbVg4-A0053",
       "chapter": 8,
       "kind": "Tatsachenbehauptung",
-      "status": "Abgeschlossen",
+      "status": "Offen",
       "description": "Die Energiewende sei vor allem engagierten Bürgern und privaten Kleininvestoren zu verdanken.",
-      "reason": "Die verlinkte Eigentümerstudie dokumentiert einen großen Beitrag: 2019 befand sich knapp ein Drittel der installierten EE-Stromleistung in Bürgerhand, zusammen mit Landwirten gut 40 %. Das stützt deren zentrale Rolle. Es misst jedoch Eigentum an Erzeugungsleistung, nicht den gesamten ursächlichen Beitrag zur Energiewende, und liegt sechs Jahre vor dem Video. Netzbetreiber, Unternehmen, öffentliche Politik und Forschung werden damit nicht als nebensächlich erwiesen. Die stärkere Zuschreibung „vor allem“ bleibt wertend.",
-      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll.",
+      "reason": "Die Eigentümerstudie weist für 2019 knapp ein Drittel der installierten Erneuerbaren-Stromleistung in Bürgerhand aus; mit Landwirten gut 40 Prozent. Das belegt einen hohen Beteiligungsanteil, misst aber nicht den hauptsächlichen ursächlichen Beitrag zur gesamten Energiewende. Bürgerinvestitionen, politische Entscheidungen, Forschung, Netze und andere Investoren lassen sich nicht mit dieser Eigentumsquote gewichten.",
+      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 607,
@@ -3365,10 +3630,9 @@
           "note": "Originalveröffentlichung der Studienauftraggeberin: knapp ein Drittel der installierten EE-Stromleistung in Bürgerhand, zusammen mit Landwirten gut 40 %. Anteile unterscheiden sich stark nach Technologie. Studie beschreibt Eigentum an Leistung, nicht gesamten politischen/ökonomischen Beitrag zur Energiewende; Datenstand sechs Jahre vor Video."
         }
       ],
-      "verdict": "Teilweise belegt",
-      "shortReason": "Eigentumsdaten belegen einen großen Beitrag von Bürgern zu erneuerbaren Anlagen, aber keinen überwiegenden Anteil am Gesamterfolg der Energiewende.",
+      "verdict": null,
       "openQuestions": [
-        "Neuere vergleichbare Eigentumsdaten für 2025 und eine Definition des gemeinten Beitrags fehlen."
+        "Wie wäre der Gesamtbeitrag zur Energiewende vergleichbar zu messen, und welche Daten belegen eine führende kausale Rolle?"
       ],
       "factIndex": {
         "weight": 1.5,
@@ -3408,6 +3672,36 @@
             "previous": "Strittig",
             "next": "Gegengeprüft",
             "reason": "Der unabhängige Prüfer hat den übernommenen Vorschlag am aktualisierten Eintrag erneut bestätigt."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Die Energiewende sei vor allem engagierten Bürgern und privaten Kleininvestoren zu verdanken."
+            },
+            "next": {
+              "status": "Offen",
+              "verdict": null,
+              "description": "Die Energiewende sei vor allem engagierten Bürgern und privaten Kleininvestoren zu verdanken."
+            },
+            "reason": "Die Eigentümerstudie weist für 2019 knapp ein Drittel der installierten Erneuerbaren-Stromleistung in Bürgerhand aus; mit Landwirten gut 40 Prozent. Das belegt einen hohen Beteiligungsanteil, misst aber nicht den hauptsächlichen ursächlichen Beitrag zur gesamten Energiewende. Bürgerinvestitionen, politische Entscheidungen, Forschung, Netze und andere Investoren lassen sich nicht mit dieser Eigentumsquote gewichten."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "S055"
+            ],
+            "result": "Die Eigentümerstudie weist für 2019 knapp ein Drittel der installierten Erneuerbaren-Stromleistung in Bürgerhand aus; mit Landwirten gut 40 Prozent. Das belegt einen hohen Beteiligungsanteil, misst aber nicht den hauptsächlichen ursächlichen Beitrag zur gesamten Energiewende. Bürgerinvestitionen, politische Entscheidungen, Forschung, Netze und andere Investoren lassen sich nicht mit dieser Eigentumsquote gewichten."
           }
         ]
       }
@@ -3579,8 +3873,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
       "description": "Reiches offizieller Zehnpunkteplan sei fast wörtlich von RWE und E.ON abgeschrieben.",
-      "reason": "In den vier vorgeführten Themenfeldern bestehen deutliche inhaltliche und stellenweise sprachliche Übereinstimmungen. Besonders eng sind die Forderungen zu fixer Einspeisevergütung, Rollout-Verantwortung und Wasserstoffregeln. Nicht alle Gegenüberstellungen sind nahezu wörtliche Kopien. Für den konkreten Entstehungsweg fehlen Entwürfe oder Kommunikation; die Regierungsantwort verweist allgemein auf zahlreiche berücksichtigte Akteure und öffentliche Positionen. Textliche Übereinstimmung ist ein belastbarer Befund, aber kein alleiniger Nachweis einer bestimmten persönlichen Einflussnahme. Der separate Fehler bei der Smart-Meter-Quellenzuordnung wird hier nicht erneut gewertet.",
-      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll.",
+      "reason": "Die nebeneinander gezeigten Dokumente enthalten erkennbare inhaltliche und stellenweise sprachliche Parallelen etwa zu Einspeisevergütung, Messstellenbetrieb und Wasserstoff. „Fast wörtlich abgeschrieben“ behauptet darüber hinaus weitgehend gleiche Formulierungen und einen Entstehungsweg. Der Wortlaut der gezeigten Punkte ist nicht durchgehend nahezu gleich; Entwürfe oder Korrespondenz für die behauptete Übernahme fehlen. Der eigenständige Zuordnungsfehler zu Smart-Meter-Zitaten wird nicht noch einmal gewertet.",
+      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 668,
@@ -3611,8 +3905,7 @@
           "note": "Gedruckte S. 73 (PDF-Seite 81), Frage 94 und Antwort Frank Wetzel vom 06.10.2025 zu Ähnlichkeiten und Stakeholder-Positionen."
         }
       ],
-      "verdict": "Teilweise belegt",
-      "shortReason": "Erhebliche Parallelen sind nachweisbar; der behauptete konkrete Abschreibevorgang und die pauschale fast wörtliche Übernahme gehen über den Beleg hinaus.",
+      "verdict": "Irreführend / Kontext fehlt",
       "openQuestions": [
         "Für den konkreten Textentstehungs- und Übernahmevorgang wären Entwürfe, Versionsvergleiche oder Kommunikation erforderlich.",
         "Eine gleiche politische Forderung ist für sich genommen kein Nachweis unzulässiger Einflussnahme."
@@ -3630,6 +3923,41 @@
             "reason": "Die behauptete fast wörtliche Übernahme ist die herausgehobene Hauptbehauptung des letzten Belegkapitels und verbindet die Dokumentvergleiche mit der zentralen Lobbythese. Faktor 2 ist angemessen. Konkrete Einzelfehler werden nicht nochmals als zusätzliche Anteile dieser Gesamtaussage gezählt.",
             "agent": "ChatGPT – unabhängiger Agent repo_audit",
             "date": "2026-11-23"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Reiches offizieller Zehnpunkteplan sei fast wörtlich von RWE und E.ON abgeschrieben."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Reiches offizieller Zehnpunkteplan sei fast wörtlich von RWE und E.ON abgeschrieben."
+            },
+            "reason": "Die nebeneinander gezeigten Dokumente enthalten erkennbare inhaltliche und stellenweise sprachliche Parallelen etwa zu Einspeisevergütung, Messstellenbetrieb und Wasserstoff. „Fast wörtlich abgeschrieben“ behauptet darüber hinaus weitgehend gleiche Formulierungen und einen Entstehungsweg. Der Wortlaut der gezeigten Punkte ist nicht durchgehend nahezu gleich; Entwürfe oder Korrespondenz für die behauptete Übernahme fehlen. Der eigenständige Zuordnungsfehler zu Smart-Meter-Zitaten wird nicht noch einmal gewertet."
+          }
+        ]
+      },
+      "shortReason": "Reale inhaltliche und sprachliche Parallelen belegen kein fast wörtliches Abschreiben.",
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "S061",
+              "S054",
+              "S004"
+            ],
+            "result": "Die nebeneinander gezeigten Dokumente enthalten erkennbare inhaltliche und stellenweise sprachliche Parallelen etwa zu Einspeisevergütung, Messstellenbetrieb und Wasserstoff. „Fast wörtlich abgeschrieben“ behauptet darüber hinaus weitgehend gleiche Formulierungen und einen Entstehungsweg. Der Wortlaut der gezeigten Punkte ist nicht durchgehend nahezu gleich; Entwürfe oder Korrespondenz für die behauptete Übernahme fehlen. Der eigenständige Zuordnungsfehler zu Smart-Meter-Zitaten wird nicht noch einmal gewertet."
           }
         ]
       }
@@ -3733,9 +4061,9 @@
       "chapter": 9,
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
-      "description": "Beide Papiere wollen die Solarförderung beziehungsweise die fixe Einspeisevergütung auch für kleine Dachanlagen abschaffen.",
-      "reason": "Der präzise Kern stimmt: Beide Papiere wollen das bisherige feste Vergütungsinstrument für neue Anlagen beenden. Die übergeordnete Formulierung einer Abschaffung der Solarförderung ist weiter als die Dokumente. Diese sehen andere Finanzierungs- und Absicherungsformen vor. Welche davon für kleine Dachanlagen konkret zugänglich wären, bleibt im politischen Plan offen. Man darf deshalb weder das Ende jeglicher Solarförderung noch eine gesicherte gleichwertige Ersatzförderung für jede Kleinanlage daraus ableiten.",
-      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll.",
+      "description": "Beide Papiere schlagen vor, die fixe Einspeisevergütung für neue Anlagen einschließlich kleiner Dachanlagen zu beenden.",
+      "reason": "Die Einleitung des Videoabschnitts spricht breit von Solarförderung, benennt danach aber als konkrete gemeinsame Forderung die fixe Einspeisevergütung. RWE/E.ON wollen auch kleinere Erzeuger ohne dieses Instrument in den Markt bringen; der BMWE-Plan verbindet dessen Ende mit Direktvermarktung. Beide behandeln daneben andere Finanzierungs- oder Absicherungsmodelle. Das Urteil betrifft diese ausdrücklich benannte fixe Vergütung, nicht das Ende jeglicher Förderung oder garantierten Ersatz für jede kleine Anlage.",
+      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 707,
@@ -3762,8 +4090,7 @@
           "note": "S. 4, Maßnahme 2: Abschaffung fixer Vergütung und alternative Finanzierungsmodelle."
         }
       ],
-      "verdict": "Teilweise belegt",
-      "shortReason": "Ende der fixen Einspeisevergütung belegt; Ende sämtlicher Förderung wäre eine überzogene Verallgemeinerung.",
+      "verdict": "Belegt",
       "openQuestions": [
         "Die zusätzliche Behauptung über Reiches konkretes Beispiel auf der Pressekonferenz wurde hier nicht anhand der vollständigen Pressekonferenz überprüft.",
         "Konkrete Ersatzinstrumente, Größenklassen und Übergangsregeln sind aus dem Zehnpunkteplan allein nicht abschließend bestimmbar."
@@ -3781,6 +4108,39 @@
             "reason": "Die Vergütungsforderungen werden als zweites konkretes Dokumentbeispiel ausführlich gegenübergestellt. Faktor 1,5 bildet diesen tragenden Teilbeleg ab.",
             "agent": "ChatGPT – unabhängiger Agent repo_audit",
             "date": "2026-11-23"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Beide Papiere wollen die Solarförderung beziehungsweise die fixe Einspeisevergütung auch für kleine Dachanlagen abschaffen."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Belegt",
+              "description": "Beide Papiere schlagen vor, die fixe Einspeisevergütung für neue Anlagen einschließlich kleiner Dachanlagen zu beenden."
+            },
+            "reason": "Die Einleitung des Videoabschnitts spricht breit von Solarförderung, benennt danach aber als konkrete gemeinsame Forderung die fixe Einspeisevergütung. RWE/E.ON wollen auch kleinere Erzeuger ohne dieses Instrument in den Markt bringen; der BMWE-Plan verbindet dessen Ende mit Direktvermarktung. Beide behandeln daneben andere Finanzierungs- oder Absicherungsmodelle. Das Urteil betrifft diese ausdrücklich benannte fixe Vergütung, nicht das Ende jeglicher Förderung oder garantierten Ersatz für jede kleine Anlage."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "S061",
+              "S054"
+            ],
+            "result": "Die Einleitung des Videoabschnitts spricht breit von Solarförderung, benennt danach aber als konkrete gemeinsame Forderung die fixe Einspeisevergütung. RWE/E.ON wollen auch kleinere Erzeuger ohne dieses Instrument in den Markt bringen; der BMWE-Plan verbindet dessen Ende mit Direktvermarktung. Beide behandeln daneben andere Finanzierungs- oder Absicherungsmodelle. Das Urteil betrifft diese ausdrücklich benannte fixe Vergütung, nicht das Ende jeglicher Förderung oder garantierten Ersatz für jede kleine Anlage."
           }
         ]
       }
@@ -3847,8 +4207,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "Abgeschlossen",
       "description": "Die Smart-Meter-Forderung widerspreche dem eigenen Monitoringgutachten, das gleiche Bedingungen für grundzuständige und wettbewerbliche Messstellenbetreiber befürwortet.",
-      "reason": "Der Monitoringbericht nennt gleiche Wettbewerbsbedingungen zwischen grundzuständigen und wettbewerblichen Messstellenbetreibern als Mittel für einen schnelleren und günstigeren Rollout. Der Ministeriumsplan legt die Verantwortung für den verpflichtenden Rollout künftig bei den Verteilnetzbetreibern und ordnet sie ihrem regulierten Anlagevermögen zu. Diese unterschiedliche Schwerpunktsetzung trägt die Kritik an einer politischen Spannung. Eine zwingende sachliche Unvereinbarkeit ist damit noch nicht belegt: Verantwortung für den Pflichtrollout und Wettbewerb um Messstellen können grundsätzlich nebeneinander bestehen. Die konkrete rechtliche Ausgestaltung blieb in der Regierungsantwort vom Oktober offen.",
-      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll.",
+      "reason": "Das Gutachten befürwortet faire Bedingungen für unterschiedliche Messstellenbetreiber. Der Plan will die Verantwortung für den Pflichtrollout auf Verteilnetzbetreiber übertragen; laut Regierungsantwort vom 13. Oktober war die Ausgestaltung offen. Unterschiedliche Schwerpunkte und eine mögliche Spannung sind dokumentiert, schließen sich aber nicht sachlich aus. Eine Pflichtzuständigkeit kann mit Wettbewerb bei anderen Messstellen vereinbar sein.",
+      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 750,
@@ -3879,8 +4239,7 @@
           "note": "S. 2–4, Antworten zu Fragen 1, 2, 5 und 4, 6–9: Prüfung regulatorischer Ansätze, stärkere Anreize für Verteilnetzbetreiber und Kooperationen; keine konkret ausformulierte Abschaffung wettbewerblicher Anbieter."
         }
       ],
-      "verdict": "Teilweise belegt",
-      "shortReason": "Eine Spannung zur Wettbewerbsempfehlung ist dokumentiert; ein tatsächlicher Widerspruch hängt von der konkreten Ausgestaltung ab.",
+      "verdict": "Irreführend / Kontext fehlt",
       "openQuestions": [
         "Entscheidend für die Wettbewerbswirkung wäre die konkrete Änderung des Messstellenbetriebsgesetzes und die Rolle wettbewerblicher Betreiber darin."
       ],
@@ -3897,6 +4256,41 @@
             "reason": "Der behauptete Widerspruch zur Wettbewerbsempfehlung trägt das dritte Dokumentbeispiel und die spätere Kritik am Umgang mit dem Gutachten. Faktor 1,5 ist angemessen.",
             "agent": "ChatGPT – unabhängiger Agent repo_audit",
             "date": "2026-11-23"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Die Smart-Meter-Forderung widerspreche dem eigenen Monitoringgutachten, das gleiche Bedingungen für grundzuständige und wettbewerbliche Messstellenbetreiber befürwortet."
+            },
+            "next": {
+              "status": "Abgeschlossen",
+              "verdict": "Irreführend / Kontext fehlt",
+              "description": "Die Smart-Meter-Forderung widerspreche dem eigenen Monitoringgutachten, das gleiche Bedingungen für grundzuständige und wettbewerbliche Messstellenbetreiber befürwortet."
+            },
+            "reason": "Das Gutachten befürwortet faire Bedingungen für unterschiedliche Messstellenbetreiber. Der Plan will die Verantwortung für den Pflichtrollout auf Verteilnetzbetreiber übertragen; laut Regierungsantwort vom 13. Oktober war die Ausgestaltung offen. Unterschiedliche Schwerpunkte und eine mögliche Spannung sind dokumentiert, schließen sich aber nicht sachlich aus. Eine Pflichtzuständigkeit kann mit Wettbewerb bei anderen Messstellen vereinbar sein."
+          }
+        ]
+      },
+      "shortReason": "Eine andere Zuständigkeit für den Pflichtrollout schließt faire Wettbewerbsregeln nicht zwingend aus.",
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "S035",
+              "S054",
+              "S057"
+            ],
+            "result": "Das Gutachten befürwortet faire Bedingungen für unterschiedliche Messstellenbetreiber. Der Plan will die Verantwortung für den Pflichtrollout auf Verteilnetzbetreiber übertragen; laut Regierungsantwort vom 13. Oktober war die Ausgestaltung offen. Unterschiedliche Schwerpunkte und eine mögliche Spannung sind dokumentiert, schließen sich aber nicht sachlich aus. Eine Pflichtzuständigkeit kann mit Wettbewerb bei anderen Messstellen vereinbar sein."
           }
         ]
       }
@@ -3996,10 +4390,10 @@
       "id": "nhkbLylbVg4-A0065",
       "chapter": 9,
       "kind": "Tatsachenbehauptung",
-      "status": "Abgeschlossen",
+      "status": "Offen",
       "description": "Viele Vorschläge des Zehnpunkteplans ließen sich in dieser Form nicht aus dem wissenschaftlichen Monitoringbericht ableiten.",
-      "reason": "Greenpeace kritisiert die Ableitung vieler Vorschläge in ihrer konkreten Form. Beim Smart-Meter-Wettbewerb besteht eine erkennbare Spannung zwischen der Empfehlung gleicher Wettbewerbsbedingungen und der geplanten Verlagerung der Rollout-Verantwortung. Der Bericht benennt zudem Bedingungen, Zielkonflikte und Unsicherheiten. Zugleich diskutiert er die Direktvermarktung kleiner PV-Anlagen, alternative Vergütungsmodelle und gelockerte Wasserstoffkriterien selbst als Handlungsoptionen. Die Kritik an Auswahl und Ausgestaltung ist damit teilweise begründet; eine generelle fachliche Grundlage für die angesprochenen Maßnahmen lässt sich dem Bericht aber nicht absprechen. Die Erwähnung einer Option ist umgekehrt keine uneingeschränkte Empfehlung ihrer politischen Umsetzung.",
-      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll.",
+      "reason": "Die Textspur beschränkt den Einwand auf die konkrete Form vieler Vorschläge. Der Bericht diskutiert Direktvermarktung für kleine Anlagen, andere Vergütungsmodelle sowie gelockerte Wasserstoffregeln. Damit gibt es fachliche Anknüpfungspunkte; eine Option ist keine Empfehlung genau der gewählten Ausgestaltung. Die gezeigten Beispiele erlauben keine belastbare quantifizierte Aussage darüber, wie viele der zehn Maßnahmen im Einzelnen aus dem Bericht folgen.",
+      "assessmentBasis": "Vollständige Untertitellektüre, Prüfung der jeweils verlinkten Belege und getrennte Gegenprüfung zentraler Wertungen. Quellenzugriff und verbleibende Grenzen stehen bei den Quellen und im Prüfprotokoll. Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur im Kontext gelesen und mit Primärquellen abgeglichen; keine Tonvollprüfung.",
       "occurrences": [
         {
           "startSeconds": 791,
@@ -4022,10 +4416,9 @@
           "note": "S. 21: politische Abwägung und weitere Analyse; S. 192 und 212: kleine PV-Anlagen und Vergütungsoptionen; S. 215–216: RFNBO-Kriterien samt Risiken; S. 226: Messstellenwettbewerb."
         }
       ],
-      "verdict": "Teilweise belegt",
-      "shortReason": "Abweichungen und ausgelassene Bedingungen sind erkennbar; mehrere angesprochene Maßnahmen werden im Bericht jedoch selbst als Handlungsoptionen diskutiert.",
+      "verdict": null,
       "openQuestions": [
-        "In welchem Umfang sich die vollständigen zehn Maßnahmen wirtschaftlich und klimapolitisch aus dem Bericht begründen lassen, bedarf einer Prüfung je Maßnahme; die vier Beispiele erlauben keine pauschale Aussage über alle zehn."
+        "Welche der zehn konkreten Maßnahmen sollen nach welchem Kriterium nicht aus dem Gutachten ableitbar sein?"
       ],
       "factIndex": {
         "weight": 1.5,
@@ -4040,6 +4433,38 @@
             "reason": "Die mangelnde Ableitbarkeit aus dem Monitoringbericht ergänzt den Textvergleich um eine eigene wissenschaftsbezogene Begründung der Lobbythese. Faktor 1,5 ist angemessen, sofern die Bewertung wie im Text über A0062 hinausgeht.",
             "agent": "ChatGPT – unabhängiger Agent repo_audit",
             "date": "2026-11-23"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "status/verdict/description",
+            "previous": {
+              "status": "Abgeschlossen",
+              "verdict": "Teilweise belegt",
+              "description": "Viele Vorschläge des Zehnpunkteplans ließen sich in dieser Form nicht aus dem wissenschaftlichen Monitoringbericht ableiten."
+            },
+            "next": {
+              "status": "Offen",
+              "verdict": null,
+              "description": "Viele Vorschläge des Zehnpunkteplans ließen sich in dieser Form nicht aus dem wissenschaftlichen Monitoringbericht ableiten."
+            },
+            "reason": "Die Textspur beschränkt den Einwand auf die konkrete Form vieler Vorschläge. Der Bericht diskutiert Direktvermarktung für kleine Anlagen, andere Vergütungsmodelle sowie gelockerte Wasserstoffregeln. Damit gibt es fachliche Anknüpfungspunkte; eine Option ist keine Empfehlung genau der gewählten Ausgestaltung. Die gezeigten Beispiele erlauben keine belastbare quantifizierte Aussage darüber, wie viele der zehn Maßnahmen im Einzelnen aus dem Bericht folgen."
+          }
+        ]
+      },
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Originale Textspur und Sachquellen getrennt abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "S035"
+            ],
+            "result": "Die Textspur beschränkt den Einwand auf die konkrete Form vieler Vorschläge. Der Bericht diskutiert Direktvermarktung für kleine Anlagen, andere Vergütungsmodelle sowie gelockerte Wasserstoffregeln. Damit gibt es fachliche Anknüpfungspunkte; eine Option ist keine Empfehlung genau der gewählten Ausgestaltung. Die gezeigten Beispiele erlauben keine belastbare quantifizierte Aussage darüber, wie viele der zehn Maßnahmen im Einzelnen aus dem Bericht folgen."
           }
         ]
       }
@@ -4127,6 +4552,86 @@
         }
       ],
       "verdict": "Meinung / Prognose"
+    },
+    {
+      "id": "nhkbLylbVg4-A0080",
+      "chapter": 2,
+      "kind": "Tatsachenbehauptung",
+      "status": "Abgeschlossen",
+      "description": "Reiche vertrat als VKU-Hauptgeschäftsführerin 2016 einen begrenzten Ausbaupfad für Windkraft.",
+      "reason": "Die VKU-Stellungnahme vom 28. April 2016 setzte 2.000 MW netto gegen den bisherigen Ausbaupfad von 2.500 MW und verband ihn mit einer Drosselung, wenn der Gesamtkorridor überschritten würde. Bei Beibehaltung der staatlichen Windformel galt im Papier ein Alternativvorschlag mit 2.000 MW als Mindestmenge; kein pauschaler Höchstdeckel. Reiche vertrat den begrenzten Ausbaupfad im damaligen Originalinterview. 2019 forderte sie schnelleren Ausbau. Das Belegt-Urteil betrifft die frühere dokumentierte Position, nicht die separate Motivbehauptung A0008.",
+      "assessmentBasis": "Einzelnachprüfung Kai (26.11.2026): originale automatische YouTube-Textspur und zeitgenössische VKU-Stellungnahme sowie Interviews; keine Tonvollprüfung.",
+      "occurrences": [
+        {
+          "startSeconds": 74,
+          "endSeconds": 89,
+          "precision": "Ungefähr",
+          "speakerId": "SP01",
+          "role": "Behauptung",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Moderations- bzw. Zitatkontext der deutschen Untertitel; keine unabhängige vollständige Stimm- und Bildkontrolle.",
+          "timeBasis": "Direkt abgerufene deutsche YouTube-Untertitel, mit den vorhandenen Alternativspuren bei strittigen Datierungen abgeglichen."
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Fundstelle in den direkt abgerufenen deutschen Untertiteln; Zeiten ungefähr."
+        },
+        {
+          "sourceId": "S006",
+          "note": "Bessere Bedingungen für wirtschaftlichen Gaskraftwerksbetrieb und VKU-Modell."
+        },
+        {
+          "sourceId": "S007",
+          "note": "04.09.2019: Reiche für schnelleren Windkraftausbau, mehr Flächen und kürzere Genehmigungen."
+        },
+        {
+          "sourceId": "S064",
+          "note": "Datierte konkrete Begrenzungsposition: § 4, S. 7–10; feste Menge und alternative Mindestmenge unterscheiden."
+        },
+        {
+          "sourceId": "S065",
+          "note": "Reiches eigene Antworten zu Ausbaukorridor und wirtschaftlichen Schwierigkeiten der Gaskraftwerke; Gesprächsdatum nicht sicher geklärt."
+        }
+      ],
+      "openQuestions": [],
+      "factIndex": {
+        "weight": 1,
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-26",
+        "assessedBeforeVerdict": false,
+        "weightReason": "Frühere Position zum Windzubau; begrenztes Teilargument und nicht die separate Motivbehauptung.",
+        "history": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "description",
+            "previous": "Handlungskern in A0008",
+            "next": "Reiche vertrat als VKU-Hauptgeschäftsführerin 2016 einen begrenzten Ausbaupfad für Windkraft.",
+            "reason": "Eigenständig überprüfbare Position, getrennt von der nicht belegten konkreten Motivation."
+          }
+        ]
+      },
+      "verdict": "Belegt",
+      "research": {
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Textspur und zeitgenössische Originalquellen abgeglichen.",
+            "sourceIds": [
+              "S001",
+              "S006",
+              "S007",
+              "S064",
+              "S065"
+            ],
+            "result": "Die VKU-Stellungnahme vom 28. April 2016 setzte 2.000 MW netto gegen den bisherigen Ausbaupfad von 2.500 MW und verband ihn mit einer Drosselung, wenn der Gesamtkorridor überschritten würde. Bei Beibehaltung der staatlichen Windformel galt im Papier ein Alternativvorschlag mit 2.000 MW als Mindestmenge; kein pauschaler Höchstdeckel. Reiche vertrat den begrenzten Ausbaupfad im damaligen Originalinterview. 2019 forderte sie schnelleren Ausbau. Das Belegt-Urteil betrifft die frühere dokumentierte Position, nicht die separate Motivbehauptung A0008."
+          }
+        ]
+      }
     }
   ]
 }

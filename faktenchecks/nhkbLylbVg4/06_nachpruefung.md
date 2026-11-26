@@ -78,3 +78,7 @@ Der zusätzliche Browserversuch erreichte die Originalseite und Untertitel, aber
 Die gezielte Suche zum unmittelbaren KBA-Beleg erschloss keinen zusätzlichen direkt gelesenen Behördennachweis; die gekennzeichnete VDIK-Auswertung bleibt die bestehende Grundlage. Bei der PV-Ausgestaltung und Dokumententstehung werden die vorhandenen Grenzen nicht durch Vermutungen ersetzt. Für andere Agenten stehen konkrete nächste Quellen und Abschlusskriterien im [Prüfauftrag](PRUEFAUFTRAG.md) sowie in [Issue #50](https://github.com/4m3projects/politik4m3FaktencheckKlima/issues/50).
 
 Alle neuen Bewertungen betreffen vorher offene Aussagen. A0034 behält sein bisheriges Urteil. Bedeutungsfaktoren bleiben unverändert; die ausdrücklich begründeten Mischanteile bei A0008 sind unabhängig gegengeprüft. Die gesamte Videoprüfung bleibt wegen des offenen audiovisuellen Umfangs als **Teilbestand geprüft** gekennzeichnet.
+
+## Einzelnachprüfung vom 26.11.2026
+
+Dieser Bericht dokumentiert oben die damalige Bewertung vor der neuen Einzelprüfung. Kai hat die 13 früheren Teilurteile in den [Einzelprüfungen](03_einzelpruefungen.md) erneut gegen die originale YouTube-Textspur und die Sachquellen geprüft. Die frühe VKU-Windposition ist jetzt getrennt vom nicht nachgewiesenen Gewinnmotiv ausgewiesen. Bei Kraftwerkskosten, Systemkosten und gemeinsamer Unternehmensgröße fehlen weiterhin klar abgegrenzte Nachweise. Die genaue Maßnahme zur fixen Einspeisevergütung ist dagegen in beiden Papieren nachweisbar.

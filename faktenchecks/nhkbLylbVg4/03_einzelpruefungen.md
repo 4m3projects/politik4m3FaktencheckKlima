@@ -94,19 +94,17 @@ Quellen: [S006](04_quellen.md#s006).
 
 ## nhkbLylbVg4-A0008 · 01:14
 
-**Teilweise belegt · Tatsachenbehauptung**
+**Offen · Tatsachenbehauptung**
 
-Reiche arbeitete im VKU gegen den schnellen Windenergieausbau, weil Stadtwerke mit ihren neuen Gaskraftwerken länger Gewinne erzielen sollten.
+Reiche habe den schnellen Windkraftausbau im VKU gebremst, um kommunalen Gaskraftwerken längere Gewinne zu verschaffen.
 
-Der VKU schlug am 28. April 2016 jährlich 2.000 MW netto für Windkraft-Ausschreibungen gegenüber dem bisherigen 2.500-MW-Ausbaupfad vor und befürwortete bei Überschreiten des Gesamtkorridors eine Drosselung. Bei Beibehaltung der staatlichen Windformel verlangte er 2.000 MW alternativ als Mindestmenge; die Zahl ist daher nicht isoliert als unbedingter Höchstdeckel zu lesen. Im FR-Originalinterview vertritt Reiche persönlich diesen begrenzten Korridor und beschreibt separat wirtschaftliche Nachteile des schnellen Erneuerbaren-Ausbaus für Gaskraftwerke. Der Handlungskern ist damit belegt, die behauptete konkrete Gewinnabsicht nicht: Das VKU-Papier nennt Netzplanung, Kosten und Berechenbarkeit als Gründe. Am 4. September 2019 forderte Reiche ausdrücklich schnelleren Windausbau; das widerlegt die frühere Begrenzungsposition nicht, begrenzt aber eine pauschale Darstellung ihrer gesamten VKU-Zeit.
+Die Originaltextspur begründet die politische Position ausdrücklich mit neuen kommunalen Gaskraftwerken und längeren Gewinnen. Das VKU-Papier von 2016 nennt dagegen Netzplanung, Kosten und Berechenbarkeit. Das damalige Interview dokumentiert Reiches wirtschaftliche Sorge um Gaskraftwerke und ihre Position zum Wind-Ausbaupfad, belegt aber nicht die behauptete konkrete Zwecksetzung. Die früher vertretene Windposition ist davon unabhängig und separat in A0080 geprüft.
 
 Fundstellen: 01:14–01:29.
 
 Quellen: [S006](04_quellen.md#s006); [S007](04_quellen.md#s007); [S064](04_quellen.md#s064); [S065](04_quellen.md#s065).
 
-Noch zu klären: Gibt es einen Originalbeleg, der die Wind-Begrenzungsforderung ausdrücklich mit länger erzielbaren Gewinnen konkreter kommunaler Gaskraftwerke begründet? Welche Stadtwerke, Investitionen und Zeiträume sind mit der behaupteten Gewinnabsicht gemeint?
-
-Die eigenständige Gegenprüfung bestätigt die Trennung von belegtem Handlungsteil und ungeklärtem Motiv (Anteile 0,5/0/0,5); der Bedeutungsfaktor 1,5 bleibt unverändert.
+Noch zu klären: Gibt es zeitgenössische Primärbelege, die die Wind-Begrenzungsforderung ausdrücklich an längere Gewinne bestimmter kommunaler Kraftwerke knüpfen?
 
 ## nhkbLylbVg4-A0009 · 01:30
 
@@ -122,17 +120,17 @@ Quellen: [S003](04_quellen.md#s003); [S008](04_quellen.md#s008); [S009](04_quell
 
 ## nhkbLylbVg4-A0010 · 01:36
 
-**Teilweise belegt · Tatsachenbehauptung**
+**Offen · Tatsachenbehauptung**
 
 Westenergie ist Deutschlands größter regionaler Betreiber von Gas-, Strom- und Wassernetzen.
 
-Die zeitgenössische Unternehmensselbstbeschreibung nennt Westenergie den größten regionalen Energie- und Infrastrukturdienstleister. Für das Stromnetzgeschäft gibt es nun einen unabhängig nachgerechneten Teilbeleg: Die Tochter Westnetz lag 2024 mit 3.951.295 angeschlossenen Letztverbrauchern vorn, wenn die vier veröffentlichten Spannungsebenen im BNetzA-Datensatz addiert werden. Vergleichbar sind 196 vollständig numerische Betreiberzeilen; bei zwei weiteren fehlen Teilfelder, die nicht als Null behandelt wurden. Die Dateifassung vom 19. Januar 2026 bestätigt rückblickend historische Stromdaten und war in dieser Fassung nach dem Videodatum. Ein gemeinsamer Größenrang für Gas-, Strom- und Wassernetze oder die gesamte Westenergie-Gruppe folgt daraus nicht; dafür fehlen Unternehmensabgrenzung und Größenmaß. Die Videoformulierung wird nicht in drei getrennte Spitzenplatzbehauptungen pro Sparte umgedeutet.
+Westenergie bezeichnet sich als größten regionalen Energie- und Infrastrukturdienstleister. Die Bundesnetzagentur weist für Tochter Westnetz 2024 rund 3,95 Mio. angeschlossene Strom-Letztverbraucher in den vollständig numerisch erfassten Vergleichsfeldern aus. Das ist ein Strom-Indikator, kein übergreifender Rang über Gas-, Strom- und Wassernetze. Maßstab und Organisationsgrenze des Superlativs sind nicht festgelegt; es wird dem Beitrag nicht jeweils ein eigener Spitzenplatz in allen drei Sparten zugeschrieben.
 
 Fundstellen: 01:36–01:45.
 
 Quellen: [S003](04_quellen.md#s003); [S008](04_quellen.md#s008); [S009](04_quellen.md#s009); [S071](04_quellen.md#s071); [S072](04_quellen.md#s072).
 
-Noch zu klären: Welches Größenmaß meint der spartenübergreifende Superlativ? Welche Unternehmensgrenze ist gemeint: Westenergie-Gruppe, AG oder Westnetz?
+Noch zu klären: Welches gemeinsame Größenmaß und welche Unternehmensgrenze erlauben einen vergleichbaren Rang in allen drei Netzen?
 
 ## nhkbLylbVg4-A0011 · 01:41
 
@@ -224,11 +222,11 @@ Quellen: [S017](04_quellen.md#s017).
 
 ## nhkbLylbVg4-A0018 · 02:57
 
-**Teilweise belegt · Tatsachenbehauptung**
+**Belegt · Tatsachenbehauptung**
 
-Reiche legte ihre Unternehmensbeteiligungen zunächst nicht vollständig offen und tat dies erst nach öffentlichem Druck.
+Reiche gab ihre Beteiligungen nach ersten begrenzten Angaben und öffentlichen Nachfragen später ausführlicher bekannt.
 
-Die parlamentarische Antwort vom 28. Mai 2025 verneint E.ON-Aktien und versichert, sonstige Beteiligungen verursachten keine Interessenkonflikte, nennt aber nicht die erfragten Beteiligungen vollständig. Die spätere Regierungsantwort vom 4. August 2025 nennt eine Immobiliengesellschaft und inzwischen veräußerte Ingrid-Capacity-Optionsrechte im ungefähren Wert von 3.000 Euro und betont die Freiwilligkeit der Angaben. LobbyControl beschreibt den Übergang zur Offenlegung als Folge öffentlichen Drucks und parlamentarischer Nachfragen. Die Abfolge von zunächst begrenzter und später ausführlicherer Auskunft ist primär belegt; der innere Grund für den Sinneswandel lässt sich daraus nicht sicher beweisen.
+Die Antwort vom 28. Mai 2025 verneint E.ON-Aktien und nennt sonstige Beteiligungen nicht einzeln. Die Antwort vom 4. August nennt eine Immobiliengesellschaft und inzwischen veräußerte Optionsrechte im ungefähren Wert von 3.000 Euro. LobbyControl hatte die fehlenden Angaben öffentlich kritisiert; auch parlamentarische Nachfragen sind dokumentiert. Belegt ist diese Abfolge, nicht eine juristische Pflichtverletzung, eine erschöpfende Vermögensliste oder der innere Grund der späteren Auskunft.
 
 Fundstellen: 02:57–03:11.
 
@@ -296,11 +294,11 @@ Quellen: [S024](04_quellen.md#s024); [S025](04_quellen.md#s025).
 
 ## nhkbLylbVg4-A0024 · 04:16
 
-**Teilweise belegt · Tatsachenbehauptung**
+**Irreführend / Kontext fehlt · Tatsachenbehauptung**
 
 Reiche trat 2006 öffentlich für Laufzeitverlängerungen entgegen dem Koalitionsvertrag von Union und SPD ein.
 
-Reiche verteidigte im Deutschlandfunk-Interview vom 28. September 2006 die weitere Nutzung der Kernenergie und stellte zur Diskussion, ob Deutschland den Atomausstieg konsequent weiterverfolgen sollte. Das stand politisch in Spannung zum Koalitionsvertrag von 2005, der die damalige Ausstiegsregelung unverändert ließ. Im selben Interview bekannte sie sich jedoch zur geltenden Koalitionsvereinbarung und unterschied die langfristige Debatte von der Regierungsentscheidung über Reststrommengen für Biblis A. Belegt sind ihr Eintreten für längere Kernenergienutzung und eine erneute Ausstiegsdebatte. Die Videodarstellung lässt ihren ausdrücklichen Vorbehalt und den damaligen Streitgegenstand weg.
+Im Deutschlandfunk befürwortete Reiche eine langfristig längere Nutzung und eine Diskussion über den Atomausstieg. Sie bekannte sich im selben Interview zur bestehenden Koalitionsvereinbarung und trennte die Langfristdebatte von der konkreten Frage nach der Reststrommenge für Biblis A. Eine politische Spannung ist dokumentiert; die Kurzfassung „entgegen dem Koalitionsvertrag“ unterschlägt den ausdrücklich genannten Vorbehalt.
 
 Fundstellen: 04:16–04:28.
 
@@ -320,17 +318,17 @@ Quellen: [S025](04_quellen.md#s025).
 
 ## nhkbLylbVg4-A0026 · 04:42
 
-**Teilweise belegt · Tatsachenbehauptung**
+**Offen · Tatsachenbehauptung**
 
 Erneuerbare Energien seien längst die volkswirtschaftlich günstigste Energiequelle.
 
-Für neue Stromerzeugungsanlagen stützt Fraunhofer ISE die niedrigen Kosten von Wind an Land und Photovoltaik. Die Studie vergleicht aber Stromgestehungskosten einzelner Anlagen und lässt zusätzliche Systemkosten für Netze, Speicher/Reserve und Abregelung ausdrücklich außen vor. Auch nicht sämtliche Kernkraft-Folgekosten sind enthalten. Aus dieser Quelle allein folgt deshalb keine pauschale Rangfolge der volkswirtschaftlichen Gesamtkosten aller Energieträger und Versorgungssysteme. Für einen belastbaren Systemvergleich wären Versorgungssicherheit, Klimaziel, Zeitpunkt und Kostenabgrenzung festzulegen.
+Fraunhofer ISE vergleicht Stromgestehungskosten einzelner Neuanlagen und stützt günstigen Wind- und Solarstrom. Das beantwortet nicht, welche Energiequelle in einer volkswirtschaftlichen Gesamtrechnung am billigsten ist. Die Videoformulierung legt weder Betrachtungszeitraum noch Versorgungssicherheit und Systemgrenzen fest. Netz-, Reserve- und Abregelungskosten sind allein aus dem Anlagenvergleich nicht nachvollziehbar.
 
 Fundstellen: 04:42–04:47.
 
 Quellen: [S027](04_quellen.md#s027).
 
-Noch zu klären: Liegt dem Video zusätzlich zur Anlagenkostenstudie ein vollständiger volkswirtschaftlicher Systemvergleich zugrunde?
+Noch zu klären: Für welche Systemgrenze, Versorgungsaufgabe und welchen Zeitraum soll das volkswirtschaftliche Minimum gelten?
 
 ## nhkbLylbVg4-A0027 · 04:47
 
@@ -370,11 +368,11 @@ Quellen: [S032](04_quellen.md#s032).
 
 ## nhkbLylbVg4-A0030 · 05:29
 
-**Teilweise belegt · Tatsachenbehauptung**
+**Irreführend / Kontext fehlt · Tatsachenbehauptung**
 
 Diese Maßnahme sei eine unmittelbare Subvention zugunsten der fossilen Industrie.
 
-Die staatliche Übernahme der Umlagenkosten entlastet den Verbrauch fossilen Gases und lässt sich als fossile Verbrauchsförderung einordnen. Auch die OECD erfasst Verbraucherunterstützung als fossile Förderung. Unmittelbar ausgeglichen wird das Umlagenkonto; die Preisentlastung muss an Gaskunden weitergegeben werden. Greenpeace beschreibt damit einen realen Fördermechanismus, verkürzt aber den Begünstigtenkreis auf die fossile Industrie.
+Der Bund gleicht Kosten der Gasspeicherumlage aus; die Preisentlastung ist an Gaskunden weiterzugeben. Das fördert den Verbrauch fossilen Gases, auch nach OECD-Systematik. Die Beschreibung als unmittelbare Hilfe an die fossile Industrie beschreibt aber den Zahlungsweg und den Begünstigtenkreis unvollständig: auch Haushalte und andere Verbraucher werden entlastet.
 
 Fundstellen: 05:29–05:40.
 
@@ -418,17 +416,17 @@ Quellen: [S035](04_quellen.md#s035).
 
 ## nhkbLylbVg4-A0034 · 06:22
 
-**Teilweise belegt · Tatsachenbehauptung**
+**Offen · Tatsachenbehauptung**
 
 Neue Gaskraftwerke sollen mit Milliarden aus der Staatskasse unterstützt werden.
 
-Öffentliche Förderung neuer Kraftwerke war geplant; der Haushaltsentwurf 2026 führt dafür Titel 6092/893 12 mit 250.000 Euro, ohne eigene Verpflichtungsermächtigung. Die November-Beschlussempfehlung und der spätere finale Plan ergeben keinen höheren Titelbetrag. Dieser Jahresansatz umfasst auch Umsetzungskosten und ist kein Maß für sämtliche späteren Förderkosten. Eine FÖS-Analyse im Auftrag des BUND vom April 2025 modellierte 22,2–32,4 Milliarden Euro Gesamtförderkosten für die damalige 20-GW-Erweiterung einschließlich weiterer Förderelemente. Die Rechnung nutzt ältere BMWK-Annahmen und lässt den Finanzierungsweg ausdrücklich offen, auch eine Stromumlage wird betrachtet. Damit ist eine zeitgenössisch modellierte Milliarden-Größenordnung belegt, aber weder ein amtlicher Kostenansatz des später veränderten Plans noch eine konkrete Milliardenfinanzierung aus der Staatskasse. Die Bundesregierung konnte im November 2025 verlässliche Kosten- und Finanzierungsangaben noch nicht machen. Das Video formuliert eine Absicht; fehlende endgültige Beschlüsse widerlegen diese nicht.
+Die Förderung war beabsichtigt. Der Haushaltstitel 6092/893 12 weist für 2026 aber nur einen Jahresansatz von 250.000 Euro ohne eigene Verpflichtungsermächtigung aus; das misst nicht sämtliche künftigen Kosten. Das FÖS modellierte 22,2 bis 32,4 Mrd. Euro für eine frühere 20-GW-Variante, einschließlich weiterer Förderelemente und mit offener Finanzierung. Amtliche Auskünfte vor Upload bezifferten die Staatsfinanzierung des späteren Plans nicht. Weder eine tatsächliche Auszahlung noch das Scheitern einer Absicht werden daraus abgeleitet.
 
 Fundstellen: 06:22–06:34, 10:43–10:54.
 
 Quellen: [S036](04_quellen.md#s036); [S037](04_quellen.md#s037); [S038](04_quellen.md#s038); [S074](04_quellen.md#s074); [S075](04_quellen.md#s075); [S076](04_quellen.md#s076); [S077](04_quellen.md#s077).
 
-Noch zu klären: Welche bis 17.12.2025 veröffentlichte amtliche Kalkulation ordnet Milliardenkosten des konkret veränderten Kraftwerksplans eindeutig dem Staatshaushalt zu? Szenarien, Jahresansatz, Finanzierung und verbindliche Zusage getrennt halten.
+Noch zu klären: Welche vor dem Video verfügbare amtliche Kalkulation belegt Milliarden direkt aus dem Staatshaushalt für die damals geplante Fassung?
 
 ## nhkbLylbVg4-A0035 · 06:29
 
@@ -640,31 +638,29 @@ Quellen: [S053](04_quellen.md#s053); [S036](04_quellen.md#s036).
 
 ## nhkbLylbVg4-A0052 · 09:56
 
-**Teilweise belegt · Tatsachenbehauptung**
+**Irreführend / Kontext fehlt · Tatsachenbehauptung**
 
 Eine 10-kW-Dachsolaranlage solle künftig regulatorische Hürden wie ein Gaskraftwerk überwinden.
 
-Der Maßnahmenplan sieht eine Direktvermarktungspflicht für Neuanlagen vor. Das kann auch kleine Dachanlagen mit zusätzlichen Vermarktungsanforderungen belasten und stützt den Kern der Kritik. Der zugespitzte Vergleich mit einem Gaskraftwerk benennt jedoch keine konkreten identischen Pflichten. Aus dem Plan geht nicht abschließend hervor, wie die Regelung für eine 10-kW-Anlage ausgestaltet würde; das Monitoringgutachten diskutiert ausdrücklich vereinfachte Verfahren für Kleinstanlagen. Belegt ist deshalb die geplante zusätzliche Marktintegration kleiner Anlagen. Eine gleiche regulatorische Belastung wie bei Gaskraftwerken ist damit nicht nachgewiesen.
+Das Ministerium wollte neue Anlagen einschließlich kleiner Dachanlagen stärker in die Direktvermarktung bringen. Der Vergleich mit einem Gaskraftwerk legt eine gleiche Art oder ähnlich hohe Belastung nahe. Der Vorschlag legt für eine 10-kW-Anlage keine vergleichbaren Genehmigungs- oder Vermarktungsauflagen fest; das Gutachten behandelt zudem vereinfachte Modelle für kleine Anlagen. Umfang und Kosten einer späteren Regelung werden nicht vorausgesagt.
 
 Fundstellen: 09:56–10:07.
 
 Quellen: [S054](04_quellen.md#s054); [S035](04_quellen.md#s035).
 
-Noch zu klären: Welche konkreten zusätzlichen Pflichten und Kosten hätte eine finale Regelung für eine 10-kW-Neuanlage? Das allgemeine Maßnahmenpapier beantwortet das nicht.
-
 ## nhkbLylbVg4-A0053 · 10:07
 
-**Teilweise belegt · Tatsachenbehauptung**
+**Offen · Tatsachenbehauptung**
 
 Die Energiewende sei vor allem engagierten Bürgern und privaten Kleininvestoren zu verdanken.
 
-Die verlinkte Eigentümerstudie dokumentiert einen großen Beitrag: 2019 befand sich knapp ein Drittel der installierten EE-Stromleistung in Bürgerhand, zusammen mit Landwirten gut 40 %. Das stützt deren zentrale Rolle. Es misst jedoch Eigentum an Erzeugungsleistung, nicht den gesamten ursächlichen Beitrag zur Energiewende, und liegt sechs Jahre vor dem Video. Netzbetreiber, Unternehmen, öffentliche Politik und Forschung werden damit nicht als nebensächlich erwiesen. Die stärkere Zuschreibung „vor allem“ bleibt wertend.
+Die Eigentümerstudie weist für 2019 knapp ein Drittel der installierten Erneuerbaren-Stromleistung in Bürgerhand aus; mit Landwirten gut 40 Prozent. Das belegt einen hohen Beteiligungsanteil, misst aber nicht den hauptsächlichen ursächlichen Beitrag zur gesamten Energiewende. Bürgerinvestitionen, politische Entscheidungen, Forschung, Netze und andere Investoren lassen sich nicht mit dieser Eigentumsquote gewichten.
 
 Fundstellen: 10:07–10:17, 14:08–14:18.
 
 Quellen: [S055](04_quellen.md#s055).
 
-Noch zu klären: Neuere vergleichbare Eigentumsdaten für 2025 und eine Definition des gemeinten Beitrags fehlen.
+Noch zu klären: Wie wäre der Gesamtbeitrag zur Energiewende vergleichbar zu messen, und welche Daten belegen eine führende kausale Rolle?
 
 ## nhkbLylbVg4-A0054 · 10:17
 
@@ -708,17 +704,15 @@ Noch zu klären: Konkrete Unternehmen und nachweisbare Handlungen einzeln prüfe
 
 ## nhkbLylbVg4-A0057 · 11:08
 
-**Teilweise belegt · Tatsachenbehauptung**
+**Irreführend / Kontext fehlt · Tatsachenbehauptung**
 
 Reiches offizieller Zehnpunkteplan sei fast wörtlich von RWE und E.ON abgeschrieben.
 
-In den vier vorgeführten Themenfeldern bestehen deutliche inhaltliche und stellenweise sprachliche Übereinstimmungen. Besonders eng sind die Forderungen zu fixer Einspeisevergütung, Rollout-Verantwortung und Wasserstoffregeln. Nicht alle Gegenüberstellungen sind nahezu wörtliche Kopien. Für den konkreten Entstehungsweg fehlen Entwürfe oder Kommunikation; die Regierungsantwort verweist allgemein auf zahlreiche berücksichtigte Akteure und öffentliche Positionen. Textliche Übereinstimmung ist ein belastbarer Befund, aber kein alleiniger Nachweis einer bestimmten persönlichen Einflussnahme. Der separate Fehler bei der Smart-Meter-Quellenzuordnung wird hier nicht erneut gewertet.
+Die nebeneinander gezeigten Dokumente enthalten erkennbare inhaltliche und stellenweise sprachliche Parallelen etwa zu Einspeisevergütung, Messstellenbetrieb und Wasserstoff. „Fast wörtlich abgeschrieben“ behauptet darüber hinaus weitgehend gleiche Formulierungen und einen Entstehungsweg. Der Wortlaut der gezeigten Punkte ist nicht durchgehend nahezu gleich; Entwürfe oder Korrespondenz für die behauptete Übernahme fehlen. Der eigenständige Zuordnungsfehler zu Smart-Meter-Zitaten wird nicht noch einmal gewertet.
 
 Fundstellen: 11:08–11:21.
 
 Quellen: [S061](04_quellen.md#s061); [S054](04_quellen.md#s054); [S004](04_quellen.md#s004).
-
-Noch zu klären: Für den konkreten Textentstehungs- und Übernahmevorgang wären Entwürfe, Versionsvergleiche oder Kommunikation erforderlich. Eine gleiche politische Forderung ist für sich genommen kein Nachweis unzulässiger Einflussnahme.
 
 ## nhkbLylbVg4-A0058 · 11:21
 
@@ -750,17 +744,15 @@ Noch zu klären: Eine belastbare Wirkungsprognose erfordert vergleichbare Stromm
 
 ## nhkbLylbVg4-A0060 · 11:47
 
-**Teilweise belegt · Tatsachenbehauptung**
+**Belegt · Tatsachenbehauptung**
 
-Beide Papiere wollen die Solarförderung beziehungsweise die fixe Einspeisevergütung auch für kleine Dachanlagen abschaffen.
+Beide Papiere schlagen vor, die fixe Einspeisevergütung für neue Anlagen einschließlich kleiner Dachanlagen zu beenden.
 
-Der präzise Kern stimmt: Beide Papiere wollen das bisherige feste Vergütungsinstrument für neue Anlagen beenden. Die übergeordnete Formulierung einer Abschaffung der Solarförderung ist weiter als die Dokumente. Diese sehen andere Finanzierungs- und Absicherungsformen vor. Welche davon für kleine Dachanlagen konkret zugänglich wären, bleibt im politischen Plan offen. Man darf deshalb weder das Ende jeglicher Solarförderung noch eine gesicherte gleichwertige Ersatzförderung für jede Kleinanlage daraus ableiten.
+Die Einleitung des Videoabschnitts spricht breit von Solarförderung, benennt danach aber als konkrete gemeinsame Forderung die fixe Einspeisevergütung. RWE/E.ON wollen auch kleinere Erzeuger ohne dieses Instrument in den Markt bringen; der BMWE-Plan verbindet dessen Ende mit Direktvermarktung. Beide behandeln daneben andere Finanzierungs- oder Absicherungsmodelle. Das Urteil betrifft diese ausdrücklich benannte fixe Vergütung, nicht das Ende jeglicher Förderung oder garantierten Ersatz für jede kleine Anlage.
 
 Fundstellen: 11:47–12:10.
 
 Quellen: [S061](04_quellen.md#s061); [S054](04_quellen.md#s054).
-
-Noch zu klären: Die zusätzliche Behauptung über Reiches konkretes Beispiel auf der Pressekonferenz wurde hier nicht anhand der vollständigen Pressekonferenz überprüft. Konkrete Ersatzinstrumente, Größenklassen und Übergangsregeln sind aus dem Zehnpunkteplan allein nicht abschließend bestimmbar.
 
 ## nhkbLylbVg4-A0061 · 12:10
 
@@ -778,17 +770,15 @@ Noch zu klären: Vor einer Aussage über die sichtbaren Videotafeln sollten dies
 
 ## nhkbLylbVg4-A0062 · 12:28
 
-**Teilweise belegt · Tatsachenbehauptung**
+**Irreführend / Kontext fehlt · Tatsachenbehauptung**
 
 Die Smart-Meter-Forderung widerspreche dem eigenen Monitoringgutachten, das gleiche Bedingungen für grundzuständige und wettbewerbliche Messstellenbetreiber befürwortet.
 
-Der Monitoringbericht nennt gleiche Wettbewerbsbedingungen zwischen grundzuständigen und wettbewerblichen Messstellenbetreibern als Mittel für einen schnelleren und günstigeren Rollout. Der Ministeriumsplan legt die Verantwortung für den verpflichtenden Rollout künftig bei den Verteilnetzbetreibern und ordnet sie ihrem regulierten Anlagevermögen zu. Diese unterschiedliche Schwerpunktsetzung trägt die Kritik an einer politischen Spannung. Eine zwingende sachliche Unvereinbarkeit ist damit noch nicht belegt: Verantwortung für den Pflichtrollout und Wettbewerb um Messstellen können grundsätzlich nebeneinander bestehen. Die konkrete rechtliche Ausgestaltung blieb in der Regierungsantwort vom Oktober offen.
+Das Gutachten befürwortet faire Bedingungen für unterschiedliche Messstellenbetreiber. Der Plan will die Verantwortung für den Pflichtrollout auf Verteilnetzbetreiber übertragen; laut Regierungsantwort vom 13. Oktober war die Ausgestaltung offen. Unterschiedliche Schwerpunkte und eine mögliche Spannung sind dokumentiert, schließen sich aber nicht sachlich aus. Eine Pflichtzuständigkeit kann mit Wettbewerb bei anderen Messstellen vereinbar sein.
 
 Fundstellen: 12:30–12:43.
 
 Quellen: [S035](04_quellen.md#s035); [S054](04_quellen.md#s054); [S057](04_quellen.md#s057).
-
-Noch zu klären: Entscheidend für die Wettbewerbswirkung wäre die konkrete Änderung des Messstellenbetriebsgesetzes und die Rolle wettbewerblicher Betreiber darin.
 
 ## nhkbLylbVg4-A0063 · 12:41
 
@@ -818,17 +808,17 @@ Noch zu klären: Die genaue ökologische Wirkung hängt unter anderem von den St
 
 ## nhkbLylbVg4-A0065 · 13:11
 
-**Teilweise belegt · Tatsachenbehauptung**
+**Offen · Tatsachenbehauptung**
 
 Viele Vorschläge des Zehnpunkteplans ließen sich in dieser Form nicht aus dem wissenschaftlichen Monitoringbericht ableiten.
 
-Greenpeace kritisiert die Ableitung vieler Vorschläge in ihrer konkreten Form. Beim Smart-Meter-Wettbewerb besteht eine erkennbare Spannung zwischen der Empfehlung gleicher Wettbewerbsbedingungen und der geplanten Verlagerung der Rollout-Verantwortung. Der Bericht benennt zudem Bedingungen, Zielkonflikte und Unsicherheiten. Zugleich diskutiert er die Direktvermarktung kleiner PV-Anlagen, alternative Vergütungsmodelle und gelockerte Wasserstoffkriterien selbst als Handlungsoptionen. Die Kritik an Auswahl und Ausgestaltung ist damit teilweise begründet; eine generelle fachliche Grundlage für die angesprochenen Maßnahmen lässt sich dem Bericht aber nicht absprechen. Die Erwähnung einer Option ist umgekehrt keine uneingeschränkte Empfehlung ihrer politischen Umsetzung.
+Die Textspur beschränkt den Einwand auf die konkrete Form vieler Vorschläge. Der Bericht diskutiert Direktvermarktung für kleine Anlagen, andere Vergütungsmodelle sowie gelockerte Wasserstoffregeln. Damit gibt es fachliche Anknüpfungspunkte; eine Option ist keine Empfehlung genau der gewählten Ausgestaltung. Die gezeigten Beispiele erlauben keine belastbare quantifizierte Aussage darüber, wie viele der zehn Maßnahmen im Einzelnen aus dem Bericht folgen.
 
 Fundstellen: 13:11–13:21.
 
 Quellen: [S035](04_quellen.md#s035).
 
-Noch zu klären: In welchem Umfang sich die vollständigen zehn Maßnahmen wirtschaftlich und klimapolitisch aus dem Bericht begründen lassen, bedarf einer Prüfung je Maßnahme; die vier Beispiele erlauben keine pauschale Aussage über alle zehn.
+Noch zu klären: Welche der zehn konkreten Maßnahmen sollen nach welchem Kriterium nicht aus dem Gutachten ableitbar sein?
 
 ## nhkbLylbVg4-A0066 · 13:52
 
@@ -853,3 +843,15 @@ Die Formulierung ist eine politische Handlungsforderung. Der technische Bedarf a
 Fundstellen: 14:03–14:08.
 
 Quellen: [S045](04_quellen.md#s045); [S057](04_quellen.md#s057).
+
+## nhkbLylbVg4-A0080 · 01:14
+
+**Belegt · Tatsachenbehauptung**
+
+Reiche vertrat als VKU-Hauptgeschäftsführerin 2016 einen begrenzten Ausbaupfad für Windkraft.
+
+Die VKU-Stellungnahme vom 28. April 2016 setzte 2.000 MW netto gegen den bisherigen Ausbaupfad von 2.500 MW und verband ihn mit einer Drosselung, wenn der Gesamtkorridor überschritten würde. Bei Beibehaltung der staatlichen Windformel galt im Papier ein Alternativvorschlag mit 2.000 MW als Mindestmenge; kein pauschaler Höchstdeckel. Reiche vertrat den begrenzten Ausbaupfad im damaligen Originalinterview. 2019 forderte sie schnelleren Ausbau. Das Belegt-Urteil betrifft die frühere dokumentierte Position, nicht die separate Motivbehauptung A0008.
+
+Fundstellen: 01:14–01:29.
+
+Quellen: [S007](04_quellen.md#s007); [S064](04_quellen.md#s064); [S065](04_quellen.md#s065).

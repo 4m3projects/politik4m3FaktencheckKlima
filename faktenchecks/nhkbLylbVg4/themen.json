@@ -549,6 +549,14 @@
         "energie",
         "energie/versorgungssicherheit"
       ]
+    },
+    {
+      "claimId": "nhkbLylbVg4-A0080",
+      "topics": [
+        "energie",
+        "energie/erdgas",
+        "energie/windkraft"
+      ]
     }
   ],
   "history": [
