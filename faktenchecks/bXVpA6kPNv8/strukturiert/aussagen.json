@@ -630,6 +630,14 @@
       "details": "Artikel ursprünglich vom 25.09.2026. Im Korrekturhinweis ordnet der rbb die 7.500 Haushalte nach Angaben von GICON künftigen leistungsstärkeren Anlagen zu.",
       "accessedOn": "2026-11-27",
       "accessBasis": "Artikel und Korrekturhinweis direkt gelesen. Redaktionelle Primärquelle für die eigene Korrektur des rbb. Die darin GICON zugeschriebene Auskunft ist mittelbar überliefert."
+    },
+    {
+      "id": "IF24",
+      "title": "BGR: Bescheid zum Zugang zu den Infraschall-Rohdaten",
+      "url": "https://media.frag-den-staat.de/files/foi/559404/Antwort_BGR_endg.pdf",
+      "details": "Bundesanstalt für Geowissenschaften und Rohstoffe, Bescheid zur Anfrage vom 21.12.2020, Versand am 22.01.2021 laut FragDenStaat-Vorgang #207029.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Originalbescheid geöffnet und Entscheidung samt Begründung gelesen. Die Behörde erläutert den Zugang zu den Rohdaten und lehnt die Herausgabe der angefragten Berechnung ab."
     }
   ],
   "claims": [
@@ -5207,7 +5215,7 @@
       "kind": "Tatsachenbehauptung",
       "status": "In Bearbeitung",
       "description": "Die BGR habe Hinweise auf ihre falschen Infraschallberechnungen jahrelang ignoriert.",
-      "reason": "Die LUBW widersprach bereits im Januar 2019 der Darstellung ihrer Messkurven in einer ZDF-Sendung und erklärte, warum BGR und LUBW unterschiedliche Messziele hatten. Das belegt frühen fachlichen Widerspruch, aber keinen konkreten Hinweis auf den später identifizierten BGR-Umrechnungsfehler. Eine freigegebene Originalmail belegt, dass Holzheu die BGR am 6. April 2020 auf die abweichenden Pegel und Fragen zur Auswertung hinwies. Im Juli 2020 formulierte er laut seinem zeitgenössischen Bericht die Fehlerhypothese; im Januar 2021 verteidigte die BGR die Berechnung, 2021 wurde der Fehler bestätigt. Dass die BGR konkrete Hinweise auf genau diesen Rechenfehler schon mehrere Jahre vor der Korrektur erhalten und ignoriert habe, ist damit weiterhin nicht belegt. Fachlicher Widerspruch ersetzt keinen Nachweis einer ignorierten Korrekturmeldung.",
+      "reason": "Die LUBW widersprach bereits im Januar 2019 der Darstellung ihrer Messkurven in einer ZDF-Sendung und erklärte, warum BGR und LUBW unterschiedliche Messziele hatten. Das belegt frühen fachlichen Widerspruch, aber keinen konkreten Hinweis auf den später identifizierten BGR-Umrechnungsfehler. Eine freigegebene Originalmail belegt, dass Holzheu die BGR am 6. April 2020 auf die abweichenden Pegel und Fragen zur Auswertung hinwies. Im Juli 2020 formulierte er laut seinem zeitgenössischen Bericht die Fehlerhypothese; am 12.01.2021 verteidigte die BGR die Berechnung. Der am 22.01.2021 versandte BGR-Bescheid erläuterte Holzheu den Zugang zu den öffentlichen Rohdaten. Die Herausgabe der angeforderten Pegelberechnung lehnte die Behörde ab. Wann sie die konkreten Fehlerhinweise inhaltlich prüfte, geht aus dem Bescheid nicht hervor. 2021 wurde der Fehler bestätigt. Dass die BGR konkrete Hinweise auf genau diesen Rechenfehler schon mehrere Jahre vor der Korrektur erhalten und ignoriert habe, ist damit weiterhin nicht belegt. Fachlicher Widerspruch ersetzt keinen Nachweis einer ignorierten Korrekturmeldung.",
       "assessmentBasis": "Vollständige deutsche Originalcaptions mit Nutzertranskript und Redaktionsskript abgeglichen; Sachprüfung anhand der zugeordneten Originalquellen und ihrer Reichweite. Eigene Paraphrase, ungefähre Zeitposition; keine audiovisuelle Vollkontrolle.",
       "occurrences": [
         {
@@ -5249,6 +5257,10 @@
         {
           "sourceId": "IF20",
           "note": "Datumszeile: 06.04.2020. Der BGR ausdrücklich gemeldete Diskrepanz; noch keine Bezifferung eines 36-dB-Umrechnungsfehlers."
+        },
+        {
+          "sourceId": "IF24",
+          "note": "Belegt die Reaktion auf die Datenanfrage vor der Korrektur sowie die Reichweite der Auskunft."
         }
       ],
       "research": {
@@ -5288,6 +5300,17 @@
               "IF11"
             ],
             "result": "Die LUBW widersprach bereits im Januar 2019 der Darstellung ihrer Messkurven in einer ZDF-Sendung und erklärte, warum BGR und LUBW unterschiedliche Messziele hatten. Das belegt frühen fachlichen Widerspruch, aber keinen konkreten Hinweis auf den später identifizierten BGR-Umrechnungsfehler. Eine freigegebene Originalmail belegt, dass Holzheu die BGR am 6. April 2020 auf die abweichenden Pegel und Fragen zur Auswertung hinwies. Im Juli 2020 formulierte er laut seinem zeitgenössischen Bericht die Fehlerhypothese; im Januar 2021 verteidigte die BGR die Berechnung, 2021 wurde der Fehler bestätigt. Dass die BGR konkrete Hinweise auf genau diesen Rechenfehler schon mehrere Jahre vor der Korrektur erhalten und ignoriert habe, ist damit weiterhin nicht belegt. Fachlicher Widerspruch ersetzt keinen Nachweis einer ignorierten Korrekturmeldung."
+          },
+          {
+            "date": "2026-11-27",
+            "agent": "Codex",
+            "strategy": "Öffentlichen IFG-Vorgang und Originalbescheid mit der Fehlerchronologie abgleichen.",
+            "sourceIds": [
+              "IF24",
+              "IF12",
+              "H01"
+            ],
+            "result": "Der am 22.01.2021 versandte BGR-Bescheid erläuterte Holzheu den Zugang zu den öffentlichen Rohdaten. Die Herausgabe der angeforderten Pegelberechnung lehnte die Behörde ab. Wann sie die konkreten Fehlerhinweise inhaltlich prüfte, geht aus dem Bescheid nicht hervor."
           }
         ]
       },

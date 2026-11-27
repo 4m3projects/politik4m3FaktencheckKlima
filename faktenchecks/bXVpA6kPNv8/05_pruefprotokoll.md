@@ -72,3 +72,7 @@ Quellen: IF19, IF20 und F20 im [Quellenbericht](04_quellen.md), abgeglichen mit 
 **A0044:** Die öffentlich verlinkte Skriptfassung bezieht die Aussage auf die damalige Debatte um Beschwerden und das später so bezeichnete Wind-Turbine-Syndrom. Für die breitere Frage nach Windradgeräuschen gab es bereits 2004 Messungen an einem Windpark (Van den Berg) und eine Studie zu Geräuschpegel und berichteter Belästigung (Pedersen und Persson Waye). Jakobsen wertete 2005 speziell Infraschallmessungen aus, darunter solche an damaligen Anlagen mit Rotor vor dem Turm. Die akustische Forschung ist damit nicht erst später entstanden. Diese Arbeiten prüfen aber nicht das konkret behauptete klinische Beschwerdebild und belegen weder dessen Existenz noch die Vollständigkeit der damaligen Forschung. Das enge historische Sachurteil bleibt offen; eine neue Originaltonkontrolle wurde nicht durchgeführt.
 
 Die Ergänzung ändert keine Urteile, Gewichte, Ampelschwellen oder Aussagezahlen.
+
+## Nachrecherche vom 27.11.2026 (Codex)
+
+**A0047:** Der am 22.01.2021 versandte BGR-Bescheid erläuterte Holzheu den Zugang zu den öffentlichen Rohdaten. Die Herausgabe der angeforderten Pegelberechnung lehnte die Behörde ab. Wann sie die konkreten Fehlerhinweise inhaltlich prüfte, geht aus dem Bescheid nicht hervor. Für den behaupteten mehrjährigen Zeitraum fehlen weiterhin datierte konkrete Fehlerhinweise vor 2020. [IF24 im Quellenbericht](04_quellen.md)

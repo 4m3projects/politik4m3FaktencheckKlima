@@ -135,13 +135,14 @@ Die Bundesregierung bestätigt einen Umrechnungsfehler von 36 dB in den 2004 erh
 
 **Fundstelle:** 02:59–03:04 · **Art:** Tatsachenbehauptung · **Status:** In Bearbeitung
 
-Holzheus zeitgenössischer Beitrag vom 30.11.2020 dokumentiert Diskussionen seit März 2020 und eine Fehlerhypothese im Juli. Die veröffentlichte BGR-Antwort vom 12.01.2021 verteidigt die damalige Berechnung. Das belegt eine verzögerte Auseinandersetzung über Monate, aber noch keine lückenlose mehrjährige Chronologie konkreter Fehlerhinweise und deren Umgang. Die amtliche Bestätigung des Rechenfehlers beweist diesen zusätzlichen Vorwurf nicht. Weitere datierte Originalhinweise sind erforderlich.
+Die LUBW widersprach bereits im Januar 2019 der Darstellung ihrer Messkurven in einer ZDF-Sendung und erklärte, warum BGR und LUBW unterschiedliche Messziele hatten. Das belegt frühen fachlichen Widerspruch, aber keinen konkreten Hinweis auf den später identifizierten BGR-Umrechnungsfehler. Eine freigegebene Originalmail belegt, dass Holzheu die BGR am 6. April 2020 auf die abweichenden Pegel und Fragen zur Auswertung hinwies. Im Juli 2020 formulierte er laut seinem zeitgenössischen Bericht die Fehlerhypothese; am 12.01.2021 verteidigte die BGR die Berechnung. Der am 22.01.2021 versandte BGR-Bescheid erläuterte Holzheu den Zugang zu den öffentlichen Rohdaten. Die Herausgabe der angeforderten Pegelberechnung lehnte die Behörde ab. Wann sie die konkreten Fehlerhinweise inhaltlich prüfte, geht aus dem Bescheid nicht hervor. 2021 wurde der Fehler bestätigt. Dass die BGR konkrete Hinweise auf genau diesen Rechenfehler schon mehrere Jahre vor der Korrektur erhalten und ignoriert habe, ist damit weiterhin nicht belegt. Fachlicher Widerspruch ersetzt keinen Nachweis einer ignorierten Korrekturmeldung.
 
 **Sachquellen:**
 
 - [Stefan Holzheu: BGR-Fehlerdiskussion, 30.11.2020](https://www.bayceer.uni-bayreuth.de/infraschall/de/windenergi/gru/html.php?id_obj=157370): Zeitgenössischer Bericht eines Beteiligten: Diskussion seit März 2020, Fehlerhypothese Juli 2020, Information der BGR. Keine vollständige Mailakte und keine offizielle Universitätsposition.
 - [Stefan Holzheu: Antworten der BGR auf Fragenkatalog über BMWi-Bürgerdialog](https://www.bayceer.uni-bayreuth.de/infraschall/de/windenergi/gru/html.php?id_obj=158944): 2021-01; Fragen/Antworten vom 12.01.2021, besonders Frage 3. Zeitgenössische veröffentlichte Korrespondenz, primäres Zeugnis eines Beteiligten; Autor schreibt ausdrücklich nicht für die Universität.
 - [Bundesregierung: Antwort auf schriftliche Frage 51, BT-Drs. 19/29449](https://dserver.bundestag.de/btd/19/294/1929449.pdf): 2021-05-04; gedruckte S. 36–37 / PDF-Seiten 42–43. Bestätigt 36-dB-Umrechnungsfehler, Messungen 2004, Korrektur 2021; Untersuchung betraf Messstationen, nicht Gesundheit; bedauert Verunsicherung.
+- [BGR-Bescheid zur Datenanfrage](https://media.frag-den-staat.de/files/foi/559404/Antwort_BGR_endg.pdf) · Entscheidung über den Rohdatenzugang und die Herausgabe der Berechnungen.
 
 ## 0046 · Peter Altmaier habe sich 2021 persönlich für die falschen BGR-Zahlen entschuldigt.
 
