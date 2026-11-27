@@ -168,6 +168,26 @@
           "change": "Neu angelegt für die Klimaseite (in den Schwesterprojekten noch nicht vorhanden)."
         }
       ]
+    },
+    {
+      "id": "energie/geothermie",
+      "name": "Geothermie",
+      "level": "Unterthema",
+      "parent": "energie",
+      "aliases": [
+        "Erdwärme",
+        "Tiefengeothermie"
+      ],
+      "description": "Erdwärmegewinnung, hydro- und petrothermale Systeme, induzierte Seismizität und geothermische Wärmespeicher.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-27",
+          "agent": "Kai",
+          "change": "Eigenes Sachthema für die Geothermie-Reportage; bis zur Mindestzahl passender Videos unter weiteren Themen."
+        }
+      ]
     }
   ]
 }

@@ -110,6 +110,32 @@
       }
     },
     {
+      "id": "DZmYmBqViJA",
+      "title": "Erdwärme: Rettung fürs Klima oder tickende Zeitbombe? | NANO",
+      "structured": true,
+      "rhetoric": false,
+      "files": [
+        "README.md"
+      ],
+      "video": {
+        "schemaVersion": 1,
+        "videoId": "DZmYmBqViJA",
+        "role": "original",
+        "channel": "3sat NANO",
+        "title": "Erdwärme: Rettung fürs Klima oder tickende Zeitbombe? | NANO",
+        "videoUrl": "https://www.youtube.com/watch?v=DZmYmBqViJA",
+        "publishedAt": "2026-11-26",
+        "durationSeconds": 2586,
+        "workStatus": "Teilbestand geprüft",
+        "format": "video",
+        "identification": {
+          "basis": "Titel, Uploaddatum, Video-ID und Laufzeit direkt aus den öffentlichen YouTube-Originalmetadaten; Laufzeit und Inhalt mit der 3sat-/ZDF-Mediatheksfassung abgeglichen.",
+          "certainty": "Belegt",
+          "checkedOn": "2026-11-27"
+        }
+      }
+    },
+    {
       "id": "FUTqodPqWac",
       "title": "Der Atomausstieg ist der dümmste Fehler Deutschlands",
       "structured": true,
