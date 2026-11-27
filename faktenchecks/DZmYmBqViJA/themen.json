@@ -1,0 +1,1180 @@
+{
+  "schemaVersion": 1,
+  "videoId": "DZmYmBqViJA",
+  "basis": "Zuordnung aus den inhaltlichen Zeitabschnitten der NANO-Doku.",
+  "topics": [
+    {
+      "topic": "energie/geothermie",
+      "relevance": "Schwerpunkt",
+      "basis": "Geothermie, Bohrtechnik, seismisches Risiko und Wärmespeicherung sind durchgehend Thema.",
+      "segments": [
+        {
+          "startSeconds": 107,
+          "endSeconds": 294,
+          "note": "BedrettoLab"
+        },
+        {
+          "startSeconds": 294,
+          "endSeconds": 337,
+          "note": "Petrothermale Geothermie"
+        },
+        {
+          "startSeconds": 337,
+          "endSeconds": 441,
+          "note": "Das Erdbeben von Basel"
+        },
+        {
+          "startSeconds": 441,
+          "endSeconds": 879,
+          "note": "Grünwald und Laufzorn I"
+        },
+        {
+          "startSeconds": 879,
+          "endSeconds": 1033,
+          "note": "Seismische Risiken"
+        },
+        {
+          "startSeconds": 1033,
+          "endSeconds": 1428,
+          "note": "Suche nach Erdbeben-Vorboten"
+        },
+        {
+          "startSeconds": 1428,
+          "endSeconds": 1511,
+          "note": "Laufzorn II"
+        },
+        {
+          "startSeconds": 1511,
+          "endSeconds": 1865,
+          "note": "Münchner 3D-Seismik"
+        },
+        {
+          "startSeconds": 1865,
+          "endSeconds": 2103,
+          "note": "Bohrforschung in Celle"
+        },
+        {
+          "startSeconds": 2103,
+          "endSeconds": 2311,
+          "note": "Darmstädter Wärmespeicher"
+        },
+        {
+          "startSeconds": 2311,
+          "endSeconds": 2468,
+          "note": "Kontinentale Tiefbohrung Windischeschenbach"
+        },
+        {
+          "startSeconds": 2468,
+          "endSeconds": 2586,
+          "note": "Fazit"
+        }
+      ]
+    },
+    {
+      "topic": "energie",
+      "relevance": "Schwerpunkt",
+      "basis": "Rolle tiefer Geothermie in der deutschen Wärmeversorgung und Vergleich mit anderen Energiequellen.",
+      "segments": [
+        {
+          "startSeconds": 615,
+          "endSeconds": 681,
+          "note": "Endenergie und Wärmebedarf"
+        },
+        {
+          "startSeconds": 2468,
+          "endSeconds": 2554,
+          "note": "Beitrag zur Wärmewende"
+        }
+      ]
+    },
+    {
+      "topic": "energie/preise",
+      "relevance": "Behandelt",
+      "basis": "Anschluss-, Bohr- und Investitionskosten sowie Amortisationsmodelle.",
+      "segments": [
+        {
+          "startSeconds": 530,
+          "endSeconds": 550,
+          "note": "Anschlusspreise"
+        },
+        {
+          "startSeconds": 1858,
+          "endSeconds": 2103,
+          "note": "Bohrkosten"
+        },
+        {
+          "startSeconds": 2293,
+          "endSeconds": 2316,
+          "note": "Amortisation"
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "DZmYmBqViJA-A0001",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0002",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0003",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0004",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0005",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0006",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0007",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0008",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0009",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0010",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0011",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0012",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0013",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0014",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0015",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0016",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0017",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0018",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0019",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0020",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0021",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0022",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0023",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0024",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0025",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0026",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0027",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0028",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0029",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0030",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0031",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0032",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0033",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0034",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0035",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0036",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0037",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0038",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0039",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0040",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0041",
+      "topics": [
+        "energie/geothermie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0042",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0043",
+      "topics": [
+        "energie/geothermie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0044",
+      "topics": [
+        "energie/geothermie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0045",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0046",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0047",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0048",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0049",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0050",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0051",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0052",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0053",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0054",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0055",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0056",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0057",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0058",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0059",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0060",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0061",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0062",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0063",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0064",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0065",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0066",
+      "topics": [
+        "energie/geothermie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0067",
+      "topics": [
+        "energie/geothermie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0068",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0069",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0070",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0071",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0072",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0073",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0074",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0075",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0076",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0077",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0078",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0079",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0080",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0081",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0082",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0083",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0084",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0085",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0086",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0087",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0088",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0089",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0090",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0091",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0092",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0093",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0094",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0095",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0096",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0097",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0098",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0099",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0100",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0101",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0102",
+      "topics": [
+        "energie/geothermie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0103",
+      "topics": [
+        "energie/geothermie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0104",
+      "topics": [
+        "energie/geothermie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0105",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0106",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0107",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0108",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0109",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0110",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0111",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0112",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0113",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0114",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0115",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0116",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0117",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0118",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0119",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0120",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0121",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0122",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0123",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0124",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0125",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0126",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0127",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0128",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0129",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0130",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0131",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0132",
+      "topics": [
+        "energie/geothermie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0133",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0134",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0135",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0136",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0137",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0138",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0139",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0140",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0141",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0142",
+      "topics": [
+        "energie/geothermie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0143",
+      "topics": [
+        "energie/geothermie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0144",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0145",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0146",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0147",
+      "topics": [
+        "energie/geothermie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0148",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0149",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0150",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0151",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0152",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0153",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0154",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0155",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0156",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0157",
+      "topics": [
+        "energie/geothermie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0158",
+      "topics": [
+        "energie/geothermie",
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0159",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0160",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0161",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0162",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0163",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0164",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0165",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0166",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0167",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0168",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0169",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0170",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0171",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0172",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0173",
+      "topics": [
+        "energie/geothermie"
+      ]
+    },
+    {
+      "claimId": "DZmYmBqViJA-A0174",
+      "topics": [
+        "energie/geothermie"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-27",
+      "agent": "Kai",
+      "change": "Themen erstmals nach dem gesprochenen Beitrag zugeordnet."
+    }
+  ]
+}
