@@ -569,3 +569,11 @@ Zusammenfassung im Universitätsrepositorium: nächtliche Schallmessungen am Win
 [Quelle öffnen](https://pubmed.ncbi.nlm.nih.gov/15658697/)
 
 Veröffentlichter Autorenabstract: Zusammenhang zwischen berechneten Windturbinengeräuschpegeln und berichteter Belästigung; keine klinische Prüfung eines Syndroms. **Zugriff 25.11.2026:** Originalstudie, Abstract geprüft.
+
+## M17 · rbb24: Korrektur zur Haushaltsprognose für das Höhenwindrad
+
+[Quelle öffnen](https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-schipkau-groesste-windrad-der-welt-fertigstellung.html)
+
+Artikel ursprünglich vom 25.09.2026. Im Korrekturhinweis ordnet der rbb die 7.500 Haushalte nach Angaben von GICON künftigen leistungsstärkeren Anlagen zu.
+
+**Zugriff 2026-11-27:** Artikel und Korrekturhinweis direkt gelesen. Redaktionelle Primärquelle für die eigene Korrektur des rbb. Die darin GICON zugeschriebene Auskunft ist mittelbar überliefert.
