@@ -569,3 +569,21 @@ Zusammenfassung im Universitätsrepositorium: nächtliche Schallmessungen am Win
 [Quelle öffnen](https://pubmed.ncbi.nlm.nih.gov/15658697/)
 
 Veröffentlichter Autorenabstract: Zusammenhang zwischen berechneten Windturbinengeräuschpegeln und berichteter Belästigung; keine klinische Prüfung eines Syndroms. **Zugriff 25.11.2026:** Originalstudie, Abstract geprüft.
+
+## M17 · rbb24: Korrektur zur Haushaltsprognose für das Höhenwindrad
+
+[Quelle öffnen](https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-schipkau-groesste-windrad-der-welt-fertigstellung.html)
+
+Artikel ursprünglich vom 25.09.2026. Im Korrekturhinweis ordnet der rbb die 7.500 Haushalte nach Angaben von GICON künftigen leistungsstärkeren Anlagen zu.
+
+**Zugriff 2026-11-27:** Artikel und Korrekturhinweis direkt gelesen. Redaktionelle Primärquelle für die eigene Korrektur des rbb. Die darin GICON zugeschriebene Auskunft ist mittelbar überliefert.
+
+## Nachrecherche vom 27.11.2026 (Codex)
+
+### IF24 · BGR: Bescheid zum Zugang zu den Infraschall-Rohdaten
+
+[Bescheid öffnen](https://media.frag-den-staat.de/files/foi/559404/Antwort_BGR_endg.pdf) · [Vorgang mit Versanddatum](https://fragdenstaat.de/a/207029/)
+
+Bundesanstalt für Geowissenschaften und Rohstoffe, Bescheid zur Anfrage vom 21.12.2020, Versand am 22.01.2021 laut FragDenStaat-Vorgang #207029.
+
+**Zugriff 2026-11-27:** Originalbescheid geöffnet und Entscheidung samt Begründung gelesen. Die Behörde erläutert den Zugang zu den Rohdaten und lehnt die Herausgabe der angefragten Berechnung ab.

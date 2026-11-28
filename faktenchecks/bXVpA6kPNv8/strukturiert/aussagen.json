@@ -622,6 +622,22 @@
       "accessBasis": "Veröffentlichter Autorenabstract: Zusammenhang zwischen berechneten Windturbinengeräuschpegeln und berichteter Belästigung; keine klinische Prüfung eines Syndroms.",
       "kind": "Originalstudie, Abstract geprüft",
       "accessedOn": "2026-11-25"
+    },
+    {
+      "id": "M17",
+      "title": "rbb24: Korrektur zur Haushaltsprognose für das Höhenwindrad",
+      "url": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-schipkau-groesste-windrad-der-welt-fertigstellung.html",
+      "details": "Artikel ursprünglich vom 25.09.2026. Im Korrekturhinweis ordnet der rbb die 7.500 Haushalte nach Angaben von GICON künftigen leistungsstärkeren Anlagen zu.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Artikel und Korrekturhinweis direkt gelesen. Redaktionelle Primärquelle für die eigene Korrektur des rbb. Die darin GICON zugeschriebene Auskunft ist mittelbar überliefert."
+    },
+    {
+      "id": "IF24",
+      "title": "BGR: Bescheid zum Zugang zu den Infraschall-Rohdaten",
+      "url": "https://media.frag-den-staat.de/files/foi/559404/Antwort_BGR_endg.pdf",
+      "details": "Bundesanstalt für Geowissenschaften und Rohstoffe, Bescheid zur Anfrage vom 21.12.2020, Versand am 22.01.2021 laut FragDenStaat-Vorgang #207029.",
+      "accessedOn": "2026-11-27",
+      "accessBasis": "Originalbescheid geöffnet und Entscheidung samt Begründung gelesen. Die Behörde erläutert den Zugang zu den Rohdaten und lehnt die Herausgabe der angefragten Berechnung ab."
     }
   ],
   "claims": [
@@ -4573,7 +4589,7 @@
       "kind": "Tatsachenbehauptung",
       "status": "In Bearbeitung",
       "description": "Die Höhenwind-Pilotanlage soll langfristig rechnerisch bis zu 7.500 Haushalte mit Strom versorgen.",
-      "reason": "Die Angabe ist eine Prognose, kein gemessener Jahresertrag. Für den 3,8-MW-Piloten nannte GICON im Juli 2025 mindestens rund 18 GWh pro Jahr und etwa 6.000 Haushalte (rechnerisch ca. 3.000 kWh je Haushalt). Für künftige Anlagen ab 8 MW prognostizierte GICON im März 2026 dagegen 30–33 GWh pro Jahr bzw. rund 7.500 Vier-Personen-Haushalte (rechnerisch 4.000–4.400 kWh je Haushalt). PwC Legal gibt im Oktober 2026 die Betreiberprognose von bis zu 7.500 Haushalten im Zusammenhang mit dem 3,8-MW-Turm wieder, ohne Ertrag oder Haushaltsverbrauch anzugeben. Rechnerisch würden 18 GWh für 7.500 Haushalte bei 2.400 kWh pro Haushalt reichen; bei 3.000 kWh wären 22,5 GWh nötig. Das sind Vergleichsrechnungen, keine Angaben von PwC oder GICON. GICON meldete im November den Netzanschluss, aber keinen gemessenen Jahresertrag. Die Rechenbasis der späteren 7.500-Haushalte-Angabe für den Piloten bleibt offen; die Zahl ist damit nicht widerlegt. Der frühere Check LWQUaGxUmxk-A16 belegt die korrekte Wiedergabe einer Projektangabe, nicht den tatsächlichen Ertrag.",
+      "reason": "Die Angabe ist eine Prognose, kein gemessener Jahresertrag. Für den 3,8-MW-Piloten nannte GICON im Juli 2025 mindestens rund 18 GWh pro Jahr und etwa 6.000 Haushalte (rechnerisch ca. 3.000 kWh je Haushalt). Für künftige Anlagen ab 8 MW prognostizierte GICON im März 2026 dagegen 30–33 GWh pro Jahr bzw. rund 7.500 Vier-Personen-Haushalte (rechnerisch 4.000–4.400 kWh je Haushalt). PwC Legal gibt im Oktober 2026 die Betreiberprognose von bis zu 7.500 Haushalten im Zusammenhang mit dem 3,8-MW-Turm wieder, ohne Ertrag oder Haushaltsverbrauch anzugeben. Rechnerisch würden 18 GWh für 7.500 Haushalte bei 2.400 kWh pro Haushalt reichen; bei 3.000 kWh wären 22,5 GWh nötig. Das sind Vergleichsrechnungen, keine Angaben von PwC oder GICON. GICON meldete im November den Netzanschluss, aber keinen gemessenen Jahresertrag. Die Rechenbasis der späteren 7.500-Haushalte-Angabe für den Piloten bleibt offen; die Zahl ist damit nicht widerlegt. Der frühere Check LWQUaGxUmxk-A16 belegt die korrekte Wiedergabe einer Projektangabe, nicht den tatsächlichen Ertrag. Der rbb hat seine frühere Zuordnung der 7.500 Haushalte zum Prototyp korrigiert. Er verweist auf eine Auskunft von GICON, wonach sich diese Zahl auf künftige leistungsstärkere Anlagen bezieht. PwC Legal ordnet die Zahl dagegen noch im Oktober dem konkreten Projekt zu und nennt keine Berechnungsgrundlage.",
       "assessmentBasis": "Vollständige deutsche Originalcaptions mit Nutzertranskript und Redaktionsskript abgeglichen; Sachprüfung anhand der zugeordneten Originalquellen und ihrer Reichweite. Eigene Paraphrase, ungefähre Zeitposition; keine audiovisuelle Vollkontrolle.",
       "occurrences": [
         {
@@ -4615,6 +4631,10 @@
         {
           "sourceId": "M16",
           "note": "19.11.2026: Die veröffentlichte GICON-Originalmeldung bestätigt Einweihung und Netzanschluss, nennt aber keinen gemessenen Jahresertrag."
+        },
+        {
+          "sourceId": "M17",
+          "note": "Der rbb dokumentiert seine Korrektur und gibt GICONs Zuordnung zu künftigen leistungsstärkeren Anlagen wieder."
         }
       ],
       "research": {
@@ -4653,6 +4673,18 @@
               "M16"
             ],
             "result": "Zwei verschiedene GICON-Prognosen sind dem Piloten bzw. künftigen Anlagen zugeordnet. PwC nennt für die im Projektkontext wiedergegebene Zahl von bis zu 7.500 Haushalten keine Rechenbasis; ein gemessener Jahresertrag liegt in den geprüften Quellen nicht vor. Status bleibt unverändert."
+          },
+          {
+            "date": "2026-11-27",
+            "agent": "Codex",
+            "strategy": "Veröffentlichte Eigenkorrektur des rbb mit GICONs eigener März- und Novembermitteilung sowie der PwC-Legal-Mitteilung vom Oktober verglichen.",
+            "sourceIds": [
+              "M03",
+              "M04",
+              "M16",
+              "M17"
+            ],
+            "result": "Der rbb änderte die Zuschreibung nach Herstellerangaben zugunsten künftiger Anlagen. PwC Legal nennt die Haushaltszahl im Zusammenhang mit dem 3,8-MW-Piloten, legt die Berechnung aber nicht offen. GICONs eigene Netzanschlussmeldung beziffert keinen gemessenen Jahresertrag."
           }
         ]
       },
@@ -5183,7 +5215,7 @@
       "kind": "Tatsachenbehauptung",
       "status": "In Bearbeitung",
       "description": "Die BGR habe Hinweise auf ihre falschen Infraschallberechnungen jahrelang ignoriert.",
-      "reason": "Die LUBW widersprach bereits im Januar 2019 der Darstellung ihrer Messkurven in einer ZDF-Sendung und erklärte, warum BGR und LUBW unterschiedliche Messziele hatten. Das belegt frühen fachlichen Widerspruch, aber keinen konkreten Hinweis auf den später identifizierten BGR-Umrechnungsfehler. Eine freigegebene Originalmail belegt, dass Holzheu die BGR am 6. April 2020 auf die abweichenden Pegel und Fragen zur Auswertung hinwies. Im Juli 2020 formulierte er laut seinem zeitgenössischen Bericht die Fehlerhypothese; im Januar 2021 verteidigte die BGR die Berechnung, 2021 wurde der Fehler bestätigt. Dass die BGR konkrete Hinweise auf genau diesen Rechenfehler schon mehrere Jahre vor der Korrektur erhalten und ignoriert habe, ist damit weiterhin nicht belegt. Fachlicher Widerspruch ersetzt keinen Nachweis einer ignorierten Korrekturmeldung.",
+      "reason": "Die LUBW widersprach bereits im Januar 2019 der Darstellung ihrer Messkurven in einer ZDF-Sendung und erklärte, warum BGR und LUBW unterschiedliche Messziele hatten. Das belegt frühen fachlichen Widerspruch, aber keinen konkreten Hinweis auf den später identifizierten BGR-Umrechnungsfehler. Eine freigegebene Originalmail belegt, dass Holzheu die BGR am 6. April 2020 auf die abweichenden Pegel und Fragen zur Auswertung hinwies. Im Juli 2020 formulierte er laut seinem zeitgenössischen Bericht die Fehlerhypothese; am 12.01.2021 verteidigte die BGR die Berechnung. Der am 22.01.2021 versandte BGR-Bescheid erläuterte Holzheu den Zugang zu den öffentlichen Rohdaten. Die Herausgabe der angeforderten Pegelberechnung lehnte die Behörde ab. Wann sie die konkreten Fehlerhinweise inhaltlich prüfte, geht aus dem Bescheid nicht hervor. 2021 wurde der Fehler bestätigt. Dass die BGR konkrete Hinweise auf genau diesen Rechenfehler schon mehrere Jahre vor der Korrektur erhalten und ignoriert habe, ist damit weiterhin nicht belegt. Fachlicher Widerspruch ersetzt keinen Nachweis einer ignorierten Korrekturmeldung.",
       "assessmentBasis": "Vollständige deutsche Originalcaptions mit Nutzertranskript und Redaktionsskript abgeglichen; Sachprüfung anhand der zugeordneten Originalquellen und ihrer Reichweite. Eigene Paraphrase, ungefähre Zeitposition; keine audiovisuelle Vollkontrolle.",
       "occurrences": [
         {
@@ -5225,6 +5257,10 @@
         {
           "sourceId": "IF20",
           "note": "Datumszeile: 06.04.2020. Der BGR ausdrücklich gemeldete Diskrepanz; noch keine Bezifferung eines 36-dB-Umrechnungsfehlers."
+        },
+        {
+          "sourceId": "IF24",
+          "note": "Belegt die Reaktion auf die Datenanfrage vor der Korrektur sowie die Reichweite der Auskunft."
         }
       ],
       "research": {
@@ -5264,6 +5300,17 @@
               "IF11"
             ],
             "result": "Die LUBW widersprach bereits im Januar 2019 der Darstellung ihrer Messkurven in einer ZDF-Sendung und erklärte, warum BGR und LUBW unterschiedliche Messziele hatten. Das belegt frühen fachlichen Widerspruch, aber keinen konkreten Hinweis auf den später identifizierten BGR-Umrechnungsfehler. Eine freigegebene Originalmail belegt, dass Holzheu die BGR am 6. April 2020 auf die abweichenden Pegel und Fragen zur Auswertung hinwies. Im Juli 2020 formulierte er laut seinem zeitgenössischen Bericht die Fehlerhypothese; im Januar 2021 verteidigte die BGR die Berechnung, 2021 wurde der Fehler bestätigt. Dass die BGR konkrete Hinweise auf genau diesen Rechenfehler schon mehrere Jahre vor der Korrektur erhalten und ignoriert habe, ist damit weiterhin nicht belegt. Fachlicher Widerspruch ersetzt keinen Nachweis einer ignorierten Korrekturmeldung."
+          },
+          {
+            "date": "2026-11-27",
+            "agent": "Codex",
+            "strategy": "Öffentlichen IFG-Vorgang und Originalbescheid mit der Fehlerchronologie abgleichen.",
+            "sourceIds": [
+              "IF24",
+              "IF12",
+              "H01"
+            ],
+            "result": "Der am 22.01.2021 versandte BGR-Bescheid erläuterte Holzheu den Zugang zu den öffentlichen Rohdaten. Die Herausgabe der angeforderten Pegelberechnung lehnte die Behörde ab. Wann sie die konkreten Fehlerhinweise inhaltlich prüfte, geht aus dem Bescheid nicht hervor."
           }
         ]
       },
