@@ -113,8 +113,10 @@ function vcRhetFlags(list) {
 async function pageVideoSync(id, opts = {}) {
   const v = await loadVideo(id);
   const d = v.data;
-  const ytId = d ? FactSync.youtubeId(d.scope.videoUrl) : null;
-  if (!d || !ytId || (d.scope.videoId && d.scope.videoId !== ytId)) { location.replace(`#/video/${id}`); return; }
+  const originalId = d ? FactSync.youtubeId(d.scope.videoUrl) : null;
+  const playUrl = playbackUrl(v);
+  const ytId = d ? FactSync.youtubeId(playUrl) : null;
+  if (!d || !ytId || !originalId || (d.scope.videoId && d.scope.videoId !== originalId)) { location.replace(`#/video/${id}`); return; }
 
   const byClaim = Object.fromEntries(d.claims.map(c => [c.id, c]));
   const ctx = {
@@ -130,7 +132,7 @@ async function pageVideoSync(id, opts = {}) {
   const occOf = e => (byClaim[e.claimId].occurrences || [])[e.index - 1];
   const entryByKey = Object.fromEntries([...timeline.entries, ...timeline.untimed].map(e => [e.key, e]));
   const prefs = loadPrefs();
-  const extUrl = safeUrl(d.scope.videoUrl);
+  const extUrl = safeUrl(playUrl);
   const tolText = Object.entries(FactSync.TOLERANCE).map(([k, s]) => `${k}: ±${s} s`).join(', ');
 
   const items = timeline.entries.map(e => vcItem(e, byClaim[e.claimId], occOf(e), v, ctx)).join('');
