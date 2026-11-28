@@ -8,3 +8,5 @@
 - **Entsorgung:** Deutschland sucht weiterhin einen Standort für sein Endlager für hochradioaktive Abfälle. Das ist keine Aussage über alle Länder.
 
 Zeitmarken stammen aus dem eigenen privaten Master. Kurzbewertungen, Quellen, der Datenstand und seine Grenzen stehen im strukturierten Prüfbericht. Der ausgleichende Faktencheck ist redaktionell vom politischen Liedtext getrennt.
+
+Der Player zeigt das [offizielle Musikvideo von Politik4M3](https://www.youtube.com/watch?v=m95ac5b1ETY). Der [Art-Track](https://www.youtube.com/watch?v=zpg5TZDHrv0) bleibt Referenz für die Prüfung der gesungenen Aussagen. Die zusätzlichen Bildtafeln des Musikvideos sind nicht Gegenstand dieser Prüfung.
