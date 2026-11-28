@@ -751,6 +751,70 @@
       "details": "Schätzt bereits 2022 rund 100.000 Erdwärmesonden; keine Zählung für 2026.",
       "accessedOn": "2026-11-28",
       "accessBasis": "Relevante Angabe in der verlinkten Originalquelle abgeglichen."
+    },
+    {
+      "id": "BFEBASEL07",
+      "title": "Geowatt/Geothermal Explorers für das BFE: Geothermie-Jahresbericht 2007, Abschnitt 5",
+      "url": "https://www.aramis.admin.ch/Default?DocumentID=64053&Load=true",
+      "details": "Nennt das Basler Beben der lokalen Magnitude 3,4 um 17:48 Uhr und hält ausdrücklich fest, dass die induzierten Ereignisse keine Verletzten forderten.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Relevante Angabe in der verlinkten Quelle nachgeprüft."
+    },
+    {
+      "id": "BL2012328",
+      "title": "Regierungsrat Basel-Landschaft: Antwort 2012/328, S. 2",
+      "url": "https://kanton.baselland.ch/landrat-parlament/geschafte/geschaftsliste/2012-november-dezember-319-bis-404/downloads-1/2012-328.pdf#page=2",
+      "details": "Ordnet 60 Mio. CHF Bilanzverlust der Projektgesellschaft Geopower AG in Liquidation zu.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Relevante Angabe in der verlinkten Quelle nachgeprüft."
+    },
+    {
+      "id": "IWB09",
+      "title": "IWB-Geschäftsbericht 2009, Anmerkungen 10 und 11",
+      "url": "https://grosserrat.bs.ch/dokumente/100359/000000359971.pdf#page=81",
+      "details": "18 Mio. CHF nachrangiges Darlehen an Geopower vollständig wertberichtigt; Geopower unter den Beteiligungen.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Relevante Angabe in der verlinkten Quelle nachgeprüft."
+    },
+    {
+      "id": "IWB11",
+      "title": "IWB-Geschäftsbericht 2011, Anmerkung 13",
+      "url": "https://grosserrat.bs.ch/dokumente/100373/000000373593.pdf",
+      "details": "Weist für das Geopower-Darlehen weiterhin kumuliert 18 Mio. CHF Wertberichtigung aus; kein Gesamtverlust des Versorgers für das Projekt.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Relevante Angabe in der verlinkten Quelle nachgeprüft."
+    },
+    {
+      "id": "SERIANEX09",
+      "title": "SERIANEX: Seismische Risikoanalyse Deep Heat Mining Basel, 2009",
+      "url": "https://www.aramis.admin.ch/Default?DocumentID=62392&Load=true",
+      "details": "Rund 7 Mio. CHF über die Versicherung kompensierte Sachschäden; keine Anzahl entschädigter Personen.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Relevante Angabe in der verlinkten Quelle nachgeprüft."
+    },
+    {
+      "id": "BWGEOSCHADEN",
+      "title": "Gutachten für das Umweltministerium Baden-Württemberg: Schadensfallregulierung, Rn. 127–128",
+      "url": "https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/5_Energie/Erneuerbare_Energien/Geothermie/Gutachten-Tiefengeothermie.pdf#page=50",
+      "details": "Sichtet zeitgenössische Angaben zu rund 2.700 Meldungen bei Geopower, 292 bei der Polizei und bis November 2007 zu rund 2.200 bearbeiteten Fällen, etwa ein Drittel mit Zahlung.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Relevante Angabe in der verlinkten Quelle nachgeprüft."
+    },
+    {
+      "id": "BFE19SONDEN",
+      "title": "Bundesamt für Energie: Energieforschung und Innovation, Bericht 2019, S. 17",
+      "url": "https://pubdb.bfe.admin.ch/de/publication/download/10106#page=17",
+      "details": "Nennt über 100.000 Erdwärmesonden in der Schweiz im Einsatz, primär zum Heizen von Gebäuden.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Relevante Angabe in der verlinkten Quelle nachgeprüft."
+    },
+    {
+      "id": "BFE25SYSTEME",
+      "title": "EnergieSchweiz: Statistik der geothermischen Nutzung, Ausgabe 2025, § 3.2.4",
+      "url": "https://geothermie-schweiz.ch/wp_live/wp-content/uploads/2026/09/12745-Geothermiestatistik_Schweiz_Ausgabe_2025-final.pdf#page=21",
+      "details": "Schätzt 123.987 Wärmepumpen der EWS-Gruppe einschließlich Erdkörben und Erdregistern; überwiegender Teil mit Erdwärmesonden. Keine Einzelsondenzählung.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Relevante Angabe in der verlinkten Quelle nachgeprüft."
     }
   ],
   "claims": [
@@ -1832,10 +1896,10 @@
       "id": "DZmYmBqViJA-A0031",
       "chapter": 4,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
+      "status": "Abgeschlossen",
       "description": "Das Basler Geothermiebeben forderte weder Tote noch Verletzte.",
-      "reason": "Die Fachberichte dokumentieren geringe Gebäudeschäden und nennen keine Opfer. Die absolute Aussage über Verletzte ist ohne ausdrückliche Primärangabe separat offen.",
-      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben.",
+      "reason": "Der fachliche Bericht für das Schweizer Bundesamt für Energie hält unmittelbar nach der Schilderung des Basler Bebens der lokalen Magnitude 3,4 ausdrücklich fest, dass durch die induzierten Ereignisse niemand verletzt wurde. Das stützt die Aussage der Doku über ausbleibende Personenschäden; Sachschäden gab es trotzdem.",
+      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben. Passage in der ZDF-Fassung am 28.11.2026 erneut per lokaler Spracherkennung abgeglichen; Quellen nachgeprüft.",
       "occurrences": [
         {
           "startSeconds": 385,
@@ -1858,8 +1922,13 @@
         {
           "sourceId": "BS",
           "note": "Projektgeschichte, Magnitude 3,4 und Schadenszahlungen von rund 7 Mio. CHF."
+        },
+        {
+          "sourceId": "BFEBASEL07",
+          "note": "Nennt das Basler Beben der lokalen Magnitude 3,4 um 17:48 Uhr und hält ausdrücklich fest, dass die induzierten Ereignisse keine Verletzten forderten."
         }
-      ]
+      ],
+      "verdict": "Belegt"
     },
     {
       "id": "DZmYmBqViJA-A0032",
@@ -1948,8 +2017,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "Offen",
       "description": "Beim Netzbetreiber entstanden 60 Millionen Verlust.",
-      "reason": "Der öffentlich dokumentierte IWB-Rahmenkredit und die Schadenszahlungen sind andere Größen. Ein IWB-Abschluss oder Projektabschluss mit der exakt behaupteten Verlustposition fehlt.",
-      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben.",
+      "reason": "Rechsteiner bezieht die 60 Millionen in der Passage auf den Netzbetreiber. Der Kanton Basel-Landschaft weist 60 Mio. CHF Bilanzverlust bei der rechtlich eigenen Projektgesellschaft Geopower Basel AG aus. Die IWB waren beteiligt und haben ein Darlehen über 18 Mio. CHF vollständig wertberichtigt. Weder der Bilanzverlust der Geopower noch diese einzelne IWB-Abschreibung ist der gesamte Projektverlust der IWB. Dieser bleibt ohne vollständige Abrechnung offen.",
+      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben. Passage in der ZDF-Fassung am 28.11.2026 erneut per lokaler Spracherkennung abgeglichen; Quellen nachgeprüft.",
       "occurrences": [
         {
           "startSeconds": 410,
@@ -1972,6 +2041,18 @@
         {
           "sourceId": "BSSTOP",
           "note": "Amtliche Entscheidung und Modellierung sachlicher Risiken bei einer Fortsetzung."
+        },
+        {
+          "sourceId": "BL2012328",
+          "note": "Ordnet 60 Mio. CHF Bilanzverlust der Projektgesellschaft Geopower AG in Liquidation zu."
+        },
+        {
+          "sourceId": "IWB09",
+          "note": "18 Mio. CHF nachrangiges Darlehen an Geopower vollständig wertberichtigt; Geopower unter den Beteiligungen."
+        },
+        {
+          "sourceId": "IWB11",
+          "note": "Weist für das Geopower-Darlehen weiterhin kumuliert 18 Mio. CHF Wertberichtigung aus; kein Gesamtverlust des Versorgers für das Projekt."
         }
       ],
       "attribution": {
@@ -1990,8 +2071,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "Offen",
       "description": "5.000 Personen mussten für Risse entschädigt werden.",
-      "reason": "Die Quellen trennen Schadensmeldungen und Auszahlungen und nennen Beträge, aber keine verifizierte Zahl von 5.000 entschädigten Personen.",
-      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben.",
+      "reason": "Rechsteiner spricht von 5.000 entschädigten Personen. Die seismische Risikoanalyse nennt rund 7 Mio. CHF kompensierte Sachschäden ohne Personenzahl. Ein im Auftrag des baden-württembergischen Umweltministeriums erstelltes Gutachten berichtet von 2.700 Meldungen bei Geopower und 292 bei der Polizei. Bis November 2007 waren rund 2.200 Fälle bearbeitet, rund ein Drittel davon per Auszahlung. Meldungen, bearbeitete Fälle, Auszahlungen und eindeutig gezählte Personen sind unterschiedliche Größen. 5.000 entschädigte Personen sind damit nicht belegt; eine abschließende Empfängerliste fehlt.",
+      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben. Passage in der ZDF-Fassung am 28.11.2026 erneut per lokaler Spracherkennung abgeglichen; Quellen nachgeprüft.",
       "occurrences": [
         {
           "startSeconds": 416,
@@ -2018,6 +2099,14 @@
         {
           "sourceId": "SEDB",
           "note": "Ereignisse, Schadensintensität V und Abbruch des Vorhabens."
+        },
+        {
+          "sourceId": "SERIANEX09",
+          "note": "Rund 7 Mio. CHF über die Versicherung kompensierte Sachschäden; keine Anzahl entschädigter Personen."
+        },
+        {
+          "sourceId": "BWGEOSCHADEN",
+          "note": "Sichtet zeitgenössische Angaben zu rund 2.700 Meldungen bei Geopower, 292 bei der Polizei und bis November 2007 zu rund 2.200 bearbeiteten Fällen, etwa ein Drittel mit Zahlung."
         }
       ],
       "attribution": {
@@ -7206,10 +7295,10 @@
       "id": "DZmYmBqViJA-A0171",
       "chapter": 13,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
+      "status": "Abgeschlossen",
       "description": "In der Schweiz gibt es 50.000 Erdwärmesonden für Wärme.",
-      "reason": "Das HyEnergy-Projekt schätzte bereits 2022 rund 100.000 einzelne Schweizer Erdwärmesonden. Das spricht gegen 50.000 als aktuelle landesweite Größenordnung, ersetzt aber keine gleich abgegrenzte Bestandszählung zum Sendestichtag. Die BFE-Anlagenstatistik zählt keine Einzelsonden.",
-      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben. Quellen nachgeprüft am 28.11.2026.",
+      "reason": "Rechsteiner nennt 50.000 für die gesamte Schweiz im Präsens und grenzt sie nicht auf einen früheren Zeitraum oder Teilbestand ein. Das Bundesamt für Energie nannte im Bericht 2019 bereits über 100.000 einzelne Erdwärmesonden im Einsatz, hauptsächlich für Gebäudeheizung; HyEnergy schätzte 2022 ebenfalls rund 100.000. Die jüngere amtlich beauftragte Statistik schätzt 123.987 Wärmepumpen in der EWS-Gruppe für 2025, überwiegend mit Erdwärmesonden, aber einschließlich anderer Kollektortypen. Zusammen widerlegen diese Quellen die Größenordnung 50.000 als aktuellen landesweiten Sondenbestand. Sie liefern keine exakte Zahl der Einzelsonden zum Sendetag. Das Interviewzitat wird dem Beitrag gemäß bestehender Zuordnung nicht als eigener Fehler angerechnet.",
+      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben. Quellen nachgeprüft am 28.11.2026. Passage in der ZDF-Fassung am 28.11.2026 erneut per lokaler Spracherkennung abgeglichen; Quellen nachgeprüft.",
       "occurrences": [
         {
           "startSeconds": 2489,
@@ -7236,6 +7325,14 @@
         {
           "sourceId": "NFP75",
           "note": "Schätzt bereits 2022 rund 100.000 Erdwärmesonden; keine Zählung für 2026."
+        },
+        {
+          "sourceId": "BFE19SONDEN",
+          "note": "Nennt über 100.000 Erdwärmesonden in der Schweiz im Einsatz, primär zum Heizen von Gebäuden."
+        },
+        {
+          "sourceId": "BFE25SYSTEME",
+          "note": "Schätzt 123.987 Wärmepumpen der EWS-Gruppe einschließlich Erdkörben und Erdregistern; überwiegender Teil mit Erdwärmesonden. Keine Einzelsondenzählung."
         }
       ],
       "attribution": {
@@ -7246,7 +7343,9 @@
         "basis": "Als Archivquelle, private Erfahrung oder eigenständige Gegenposition kenntlich gemacht, nicht von der Redaktion als eigenes Prüfergebnis behauptet.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-27"
-      }
+      },
+      "verdict": "Widerlegt",
+      "shortReason": "Das BFE nannte schon im Bericht 2019 über 100.000 Erdwärmesonden im Einsatz. Die neuere Anlagenstatistik stützt die höhere Größenordnung."
     },
     {
       "id": "DZmYmBqViJA-A0172",
