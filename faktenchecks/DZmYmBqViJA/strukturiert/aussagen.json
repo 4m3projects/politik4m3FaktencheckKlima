@@ -687,6 +687,70 @@
       "details": "Bisherige Versuche und Messungen; keine Ankündigung eines genehmigten Kraftwerks.",
       "accessedOn": "2026-11-27",
       "accessBasis": "Relevante Angaben in der verlinkten Fachquelle, Originalstatistik oder Projektunterlage abgeglichen."
+    },
+    {
+      "id": "OK26",
+      "title": "Öko-Institut/WWF – Energieimporte, Oktober 2026, Tabelle A-4",
+      "url": "https://www.oeko.de/fileadmin/oekodoc/Analyse-Energieimporte-2026-gesamt.pdf#page=43",
+      "details": "Monetäre Warenwerte, Brutto- und Nettoimportrechnung, Druckseite 39.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Relevante Angabe in der verlinkten Originalquelle abgeglichen."
+    },
+    {
+      "id": "SEDFAQ",
+      "title": "Schweizerischer Erdbebendienst – gefühlte Erdbeben pro Jahr",
+      "url": "https://www.seismo.ethz.ch/de/knowledge/faq/how-many-earthquakes-occur-in-switzerland/",
+      "details": "Schweiz und nahes benachbartes Ausland.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Relevante Angabe in der verlinkten Originalquelle abgeglichen."
+    },
+    {
+      "id": "EWG61",
+      "title": "Erdwärme Grünwald II – Förderbescheid, 29.07.2024",
+      "url": "https://laufzornll.erdwaerme-gruenwald.de/de/buerger-infos/news/meldungen/2024/Foerderbescheid-des-Bundes-eingegangen.php",
+      "details": "Bewilligung von 61 Mio. Euro, damaliger Ansatz rund 153 Mio. Euro; Betreiberangabe.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Relevante Angabe in der verlinkten Originalquelle abgeglichen."
+    },
+    {
+      "id": "EWG150",
+      "title": "Erdwärme Grünwald II – Spatenstich, 14.11.2024",
+      "url": "https://laufzornll.erdwaerme-gruenwald.de/de/buerger-infos/news/meldungen/2024/Spatenstich-fuer-das-neue-Werk-Laufzorn-II.php",
+      "details": "Damalige Investition rund 150 Mio. Euro; Auszahlung ausdrücklich noch nicht belegt.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Relevante Angabe in der verlinkten Originalquelle abgeglichen."
+    },
+    {
+      "id": "TH4",
+      "title": "Erdwärme Grünwald II – dritte Bohrung Th4, 23.07.2026",
+      "url": "https://laufzornll.erdwaerme-gruenwald.de/de/buerger-infos/ticker/meldungen/Pumptests-Th4.php",
+      "details": "Knapp 6.150 m Bohrpfad, keine vertikale Tiefe; Betreiberangabe.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Relevante Angabe in der verlinkten Originalquelle abgeglichen."
+    },
+    {
+      "id": "SKEWSEXP",
+      "title": "Krusemark et al. – SKEWS-Feldversuch, Abschnitt 3.2",
+      "url": "https://europeangeothermalcongress.eu/wp-content/uploads/2025/11/Krusemark-et-al-1.pdf",
+      "details": "Fünf verkürzte Lade-/Entladezyklen 2024/2025; bis zu 50 °C in der Ladeflüssigkeit.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Relevante Angabe in der verlinkten Originalquelle abgeglichen."
+    },
+    {
+      "id": "GFZKOLA",
+      "title": "GFZ – Wissenschaftliches Bohren",
+      "url": "https://www.gfz.de/presse/spotlights/wissenschaftliches-bohren-teleskop-ins-erdinnere",
+      "details": "Kola: 12.266 m vertikale Tiefe im Nordwesten Russlands.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Relevante Angabe in der verlinkten Originalquelle abgeglichen."
+    },
+    {
+      "id": "NFP75",
+      "title": "Schweizerischer Nationalfonds/NFP75 – HyEnergy, 31.03.2022",
+      "url": "https://www.nfp75.ch/de/sD7rSfqv32YoW6xL/news/220331-news-nfp75-abschaetzung-des-potenzials-erneuerbarer-energien-in-der-schweiz-dank-big-data",
+      "details": "Schätzt bereits 2022 rund 100.000 Erdwärmesonden; keine Zählung für 2026.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Relevante Angabe in der verlinkten Originalquelle abgeglichen."
     }
   ],
   "claims": [
@@ -2312,8 +2376,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "Offen",
       "description": "Der Standort liefert 40 MW thermische Leistung.",
-      "reason": "Die Zahl ist nur mit Stichtag und Abgrenzung prüfbar: reine Geothermie, Heizwerk mit Reserve und Netzleistung sind unterschiedliche Größen.",
-      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben.",
+      "reason": "Der Betreiber nennt rund 40 MW thermische Gesamtleistung des Heizwerks. Das ist eine Kapazitätsangabe, keine Messung der tatsächlichen Wärmeabgabe und kein Beleg für 40 MW allein aus Geothermie. Ohne passende Betriebsdaten bleibt die Aussage über die Lieferung offen.",
+      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben. Quellen nachgeprüft am 28.11.2026.",
       "occurrences": [
         {
           "startSeconds": 569,
@@ -2616,10 +2680,10 @@
       "id": "DZmYmBqViJA-A0053",
       "chapter": 5,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
+      "status": "Abgeschlossen",
       "description": "Deutschland gab im Durchschnitt der vergangenen zehn Jahre rund 100 Milliarden Euro jährlich für fossile Energieimporte aus.",
-      "reason": "Die KfW nennt für ihren längeren Zeitraum seit 2008 durchschnittlich 81 Mrd. Euro. Brutto- oder Nettoimporte sowie die im Film gemeinten zehn Jahre sind nicht klar genannt; der KfW-Wert allein widerlegt keinen anders abgegrenzten Zeitraum.",
-      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben.",
+      "reason": "Über die zehn vollständigen Kalenderjahre 2016–2025 ergeben Kohle, Rohöl und Mineralölprodukte sowie Erdgas laut Tabelle A-4 im Mittel rund 96 Mrd. Euro Bruttoimporte pro Jahr. Die Größenordnung von rund 100 Mrd. Euro trifft damit für die ausdrücklich genannten Importausgaben zu. Nach Abzug der Exporte sind es rund 76 Mrd. Euro; das ist nicht dieselbe Kennzahl.",
+      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben. Quellen nachgeprüft am 28.11.2026.",
       "occurrences": [
         {
           "startSeconds": 642,
@@ -2638,6 +2702,10 @@
         {
           "sourceId": "KFW",
           "note": "Zeitreihe seit 2008 mit Durchschnitt von 81 Mrd. Euro; anderer Zeitraum als im Film."
+        },
+        {
+          "sourceId": "OK26",
+          "note": "Monetäre Warenwerte, Brutto- und Nettoimportrechnung, Druckseite 39."
         }
       ],
       "attribution": {
@@ -2648,7 +2716,8 @@
         "basis": "Fach- oder Betreiberinterview als Teil der eigenen reportierten Erklärung; der Beitrag widerspricht an der Fundstelle nicht.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-27"
-      }
+      },
+      "verdict": "Belegt"
     },
     {
       "id": "DZmYmBqViJA-A0054",
@@ -3302,10 +3371,10 @@
       "id": "DZmYmBqViJA-A0072",
       "chapter": 6,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
+      "status": "Abgeschlossen",
       "description": "20 bis 30 der registrierten Erdbeben sind jährlich an der Oberfläche spürbar.",
-      "reason": "Der allgemeine SED-Wert lautet etwa 10 bis 20. Bei jüngeren hohen Jahreswerten kann die Zahl abweichen; eine dazu passende Bezugsperiode fehlt.",
-      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben.",
+      "reason": "Der Schweizerische Erdbebendienst nennt jährlich rund 20 bis 30 tatsächlich von der Bevölkerung verspürte Ereignisse in seinem Erfassungsraum: Schweiz und nahes benachbartes Ausland. Das ist nicht die Anzahl aller registrierten Beben und keine ausschließlich auf das Schweizer Staatsgebiet bezogene Zahl.",
+      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben. Quellen nachgeprüft am 28.11.2026.",
       "occurrences": [
         {
           "startSeconds": 905,
@@ -3332,8 +3401,13 @@
         {
           "sourceId": "YR25",
           "note": "Gut 1.800 registrierte Ereignisse im Jahr 2025."
+        },
+        {
+          "sourceId": "SEDFAQ",
+          "note": "Schweiz und nahes benachbartes Ausland."
         }
-      ]
+      ],
+      "verdict": "Belegt"
     },
     {
       "id": "DZmYmBqViJA-A0073",
@@ -4495,8 +4569,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "Offen",
       "description": "Die Gemeinde investiert rund 188 Mio. Euro in Laufzorn II.",
-      "reason": "Die offiziellen Projektunterlagen belegen Planung und Ausbau. Ein veröffentlichter Finanzierungsstand mit genau 188 Mio. Euro und derselben Abgrenzung ist noch nicht nachgewiesen.",
-      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben.",
+      "reason": "Der Betreiber nannte 2024 rund 150 bzw. 153 Mio. Euro. Diese älteren Planungsstände sind nicht direkt mit der in der Sendung genannten Summe vergleichbar. Eine öffentlich belegte, gleich abgegrenzte Gesamtsumme von 188 Mio. Euro zum Sendestichtag fehlt.",
+      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben. Quellen nachgeprüft am 28.11.2026.",
       "occurrences": [
         {
           "startSeconds": 1427,
@@ -4519,6 +4593,14 @@
         {
           "sourceId": "BOHR",
           "note": "Projektplanung, thermische Nutzung und Einspeisung, Bohrplanung in einer früheren Stufe."
+        },
+        {
+          "sourceId": "EWG61",
+          "note": "Bewilligung von 61 Mio. Euro, damaliger Ansatz rund 153 Mio. Euro; Betreiberangabe."
+        },
+        {
+          "sourceId": "EWG150",
+          "note": "Damalige Investition rund 150 Mio. Euro; Auszahlung ausdrücklich noch nicht belegt."
         }
       ]
     },
@@ -4561,8 +4643,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "Offen",
       "description": "Der Bund finanziert 40 Prozent der Kosten von Laufzorn II.",
-      "reason": "Ein Programmfördersatz ist kein bewilligter Zuschuss in dieser Höhe bezogen auf alle Projektkosten. Der projektbezogene Förderbescheid wurde nicht gefunden.",
-      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben.",
+      "reason": "Der Betreiber veröffentlichte 2024 eine Bundeszusage von 61 Mio. Euro, rund 40 % gemessen an den 153 Mio. Euro aus derselben Meldung. Gegenüber den in der Sendung erwähnten 188 Mio. Euro entspräche das rund 32 %. Förderfähige Kosten, Gesamtbudget und tatsächlich erfolgte Auszahlungen sind unterschiedliche Größen; für den Sendestichtag fehlt die passende Abrechnung.",
+      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben. Quellen nachgeprüft am 28.11.2026.",
       "occurrences": [
         {
           "startSeconds": 1435,
@@ -4585,6 +4667,14 @@
         {
           "sourceId": "BOHR",
           "note": "Projektplanung, thermische Nutzung und Einspeisung, Bohrplanung in einer früheren Stufe."
+        },
+        {
+          "sourceId": "EWG61",
+          "note": "Bewilligung von 61 Mio. Euro, damaliger Ansatz rund 153 Mio. Euro; Betreiberangabe."
+        },
+        {
+          "sourceId": "EWG150",
+          "note": "Damalige Investition rund 150 Mio. Euro; Auszahlung ausdrücklich noch nicht belegt."
         }
       ]
     },
@@ -4637,8 +4727,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "Offen",
       "description": "Eine gerade gebohrte Bohrung ist entlang ihres Pfads rund 6.200 m lang.",
-      "reason": "In Quellen werden Bohrpfadlänge und vertikale Tiefe unterschieden. Die konkrete, beim Dreh gemeinte Bohrung samt Endlänge ist nicht eindeutig zugeordnet.",
-      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben.",
+      "reason": "Für die dritte Bohrung Th4 meldete der Betreiber knapp 6.150 m Bohrpfad. Das stützt die genannte Größenordnung, falls der Film Th4 meint. Die Identität der Bohrung in der Szene ist nicht sicher geklärt; zudem ist die Pfadlänge nicht die vertikale Tiefe.",
+      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben. Quellen nachgeprüft am 28.11.2026.",
       "occurrences": [
         {
           "startSeconds": 1451,
@@ -4661,6 +4751,10 @@
         {
           "sourceId": "SIX",
           "note": "Sechs Bohrungen im Ausbauplan, erste Bohrung fündig."
+        },
+        {
+          "sourceId": "TH4",
+          "note": "Knapp 6.150 m Bohrpfad, keine vertikale Tiefe; Betreiberangabe."
         }
       ],
       "attribution": {
@@ -6503,8 +6597,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "Offen",
       "description": "Der Speicher wird im Test monatelang mit 50 °C geladen und im Winter ebenso lange entladen.",
-      "reason": "Ein saisonaler Zyklus ist belegt; das genaue Temperaturniveau und der ununterbrochene Betrieb über ein bestimmtes ganzes Jahr sind nicht eindeutig belegt.",
-      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben.",
+      "reason": "Die Forschenden dokumentieren in der Versuchsreihe 2024/2025 bis zu 50 °C in der Ladeflüssigkeit und etwa 20 °C bei der Entnahme. Die fünf Zyklen waren verkürzt; der letzte wechselte täglich. Das belegt kein monatelanges kontinuierliches Laden bei 50 °C. Ob die Passage einen späteren Betrieb oder das saisonale Prinzip beschreibt, bleibt unklar.",
+      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben. Quellen nachgeprüft am 28.11.2026.",
       "occurrences": [
         {
           "startSeconds": 2259,
@@ -6527,6 +6621,10 @@
         {
           "sourceId": "TERM",
           "note": "Saisonale Wärmespeicherung mit gemessenen Versuchs- bzw. Demonstrationsdaten, Wärmenetzanbindung."
+        },
+        {
+          "sourceId": "SKEWSEXP",
+          "note": "Fünf verkürzte Lade-/Entladezyklen 2024/2025; bis zu 50 °C in der Ladeflüssigkeit."
         }
       ]
     },
@@ -6725,8 +6823,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "Offen",
       "description": "Die Kontinentale Tiefbohrung in Windischeschenbach ist europaweit das tiefste Bohrloch.",
-      "reason": "Nachgewiesen sind 9.101 m und der deutsche Rekord. Ohne Zusatz „offen“, „wissenschaftlich zugänglich“ oder „vertikal“ und ohne europaweite Vergleichsliste bleibt der breitere Superlativ offen.",
-      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben.",
+      "reason": "Die 9.101 m in Windischeschenbach sind belegt. Der GFZ nennt für die Kola-Halbinsel im europäischen Nordwesten Russlands 12.266 m. Das ist ein Gegenbeispiel zum unbeschränkten Europarekord, aber nicht zum engeren Rekord der heute wissenschaftlich zugänglichen Bohrungen. Der genaue Geltungsbereich der Aussage bleibt offen.",
+      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben. Quellen nachgeprüft am 28.11.2026.",
       "occurrences": [
         {
           "startSeconds": 2339,
@@ -6749,6 +6847,10 @@
         {
           "sourceId": "KTB30",
           "note": "9.101 m im Oktober 1994, 1.468 Bohrtage."
+        },
+        {
+          "sourceId": "GFZKOLA",
+          "note": "Kola: 12.266 m vertikale Tiefe im Nordwesten Russlands."
         }
       ]
     },
@@ -7106,8 +7208,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "Offen",
       "description": "In der Schweiz gibt es 50.000 Erdwärmesonden für Wärme.",
-      "reason": "Die offiziellen Reihen belegen eine breite Nutzung, aber keine 50.000 Einzelsonden in der behaupteten Abgrenzung. Anzahl Wärmepumpenanlagen, Bohrungen und Sonden sind nicht austauschbar.",
-      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben.",
+      "reason": "Das HyEnergy-Projekt schätzte bereits 2022 rund 100.000 einzelne Schweizer Erdwärmesonden. Das spricht gegen 50.000 als aktuelle landesweite Größenordnung, ersetzt aber keine gleich abgegrenzte Bestandszählung zum Sendestichtag. Die BFE-Anlagenstatistik zählt keine Einzelsonden.",
+      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben. Quellen nachgeprüft am 28.11.2026.",
       "occurrences": [
         {
           "startSeconds": 2489,
@@ -7130,6 +7232,10 @@
         {
           "sourceId": "CH25",
           "note": "Bestätigt große Bedeutung von Erdwärmesonden, nennt Heizleistung statt pauschaler Zahl einzelner Sonden."
+        },
+        {
+          "sourceId": "NFP75",
+          "note": "Schätzt bereits 2022 rund 100.000 Erdwärmesonden; keine Zählung für 2026."
         }
       ],
       "attribution": {
