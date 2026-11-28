@@ -815,6 +815,62 @@
       "details": "Schätzt 123.987 Wärmepumpen der EWS-Gruppe einschließlich Erdkörben und Erdregistern; überwiegender Teil mit Erdwärmesonden. Keine Einzelsondenzählung.",
       "accessedOn": "2026-11-28",
       "accessBasis": "Relevante Angabe in der verlinkten Quelle nachgeprüft."
+    },
+    {
+      "id": "EWGNET25",
+      "title": "Erdwärme Grünwald: Fündigkeit Laufzorn II, 30.10.2025",
+      "url": "https://laufzornll.erdwaerme-gruenwald.de/de/buerger-infos/news/meldungen/2025/Laufzorn-II-Fuendigkeit-Pressemitteilung.php",
+      "details": "Betreiberangaben: Grünwalder Netz 120 km und Unterhachinger Bestandsnetz 65 km. Der kontinentale Superlativ ist eine Selbstauskunft.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Relevante Angabe in der verlinkten Quelle nachgeprüft."
+    },
+    {
+      "id": "EWGNET26",
+      "title": "Erdwärme Grünwald: Das Erlebnis Tiefengeothermie, 17.06.2026",
+      "url": "https://www.erdwaerme-gruenwald.de/de/service/news/meldungen/2026/6937934295.php",
+      "details": "Betreiberangaben zum Verbund: Grünwald rund 125 km, Unterhaching rund 65 km; zusammen rund 190 km.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Relevante Angabe in der verlinkten Quelle nachgeprüft."
+    },
+    {
+      "id": "UHWP26",
+      "title": "Gemeinde Unterhaching: Kommunaler Wärmeplan, Kap. 3.8, S. 41",
+      "url": "https://www.unterhaching.de/ceasy/resource/?download=1&id=4688",
+      "details": "Rund 70 km Fernwärmenetz, Stand 2026; Verbund mit Grünwald seit 2013.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Relevante Angabe in der verlinkten Quelle nachgeprüft."
+    },
+    {
+      "id": "GWKAP25",
+      "title": "Münchner Merkur: Bericht aus dem Grünwalder Gemeinderat, 23.10.2025",
+      "url": "https://www.merkur.de/lokales/muenchen-lk/gruenwald-ort28770/geothermie-gruenwald-investiert-millionen-in-ausbau-des-fernwaermenetzes-93999742.html",
+      "details": "Wiedergabe der Geschäftsführung: rund 2.200 Verträge sind etwa 70 % des Hausanschlusspotenzials; rund 190 Mio. Euro für den erweiterten Projektumfang und 75 Mio. Euro geplante Bundesförderung. Der neue Bescheid wurde zu diesem Zeitpunkt erwartet.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Relevante Angabe in der verlinkten Quelle nachgeprüft."
+    },
+    {
+      "id": "BVGR23",
+      "title": "Gemeinde Grünwald: Protokoll der Bürgerversammlung 2023 (gespiegeltes Original)",
+      "url": "https://www.fdp-gruenwald.de/sites/default/files/2023-12/Protokoll_BV_2023_mit_Texterkennung.pdf",
+      "details": "Rund 2.000 angeschlossene Gebäude und über 70 % der benötigten Heizwärme; keine Haushaltsquote.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Relevante Angabe in der verlinkten Quelle nachgeprüft."
+    },
+    {
+      "id": "PARL25LZ",
+      "title": "Das Parlament: Ausgabe 50–51/2025, S. 10, Projektkasten Laufzorn II",
+      "url": "https://www.das-parlament.de/epaper/2025/50_51/epaper/ausgabe.pdf#page=10",
+      "details": "Berichtet rund 190 Mio. Euro Baukosten und 75 Mio. Euro Bundesanteil. Redaktioneller Artikel, kein Förderbescheid.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Relevante Angabe in der verlinkten Quelle nachgeprüft."
+    },
+    {
+      "id": "BYUK26",
+      "title": "Bayerisches Landesamt für Statistik: Endgültige Umlagekraft 2026 und 2025",
+      "url": "https://www.statistik.bayern.de/mam/statistik/haushalte_steuern/kommunaler_finanzausgleich/07_sk_2026_endg_uk-vgl_1.pdf",
+      "details": "Für Grünwald 2026: 19.216,27 Euro je Einwohner, Platz 1 im Landkreis, Platz 4 im Landesvergleich der Tabelle. Keine bundesweite Vermögensrangliste.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Relevante Angabe in der verlinkten Quelle nachgeprüft."
     }
   ],
   "claims": [
@@ -2257,8 +2313,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "Offen",
       "description": "Rund 70 Prozent der Haushalte in Grünwald werden so mit Wärme versorgt.",
-      "reason": "Die Betreiberangabe zählt Wohn- und Gewerbeeinheiten. Für die Haushaltsquote fehlen ein dazu passender Nenner und eine Abgrenzung zu Verträgen oder Hausanschlüssen.",
-      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben.",
+      "reason": "Der Kommentar nennt ausdrücklich Haushalte. Im Gemeinderatsbericht sind knapp 2.200 Verträge etwa 70 % der potenziellen Hausanschlüsse. Das Protokoll der Bürgerversammlung 2023 nennt mehr als 70 % der benötigten Heizwärme und separat rund 2.000 angeschlossene Gebäude. Hausanschlüsse, Wärmemenge und Haushalte sind unterschiedliche Bezugsgrößen. Eine passende Haushaltsquote ist nicht verifiziert.",
+      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben. ZDF-Passage am 28.11.2026 per lokaler Spracherkennung abgeglichen; ergänzende Quellen nachgeprüft.",
       "occurrences": [
         {
           "startSeconds": 457,
@@ -2281,6 +2337,14 @@
         {
           "sourceId": "II",
           "note": "Projektbeschreibung und Planungs- bzw. Genehmigungsvorlauf."
+        },
+        {
+          "sourceId": "GWKAP25",
+          "note": "Wiedergabe der Geschäftsführung: rund 2.200 Verträge sind etwa 70 % des Hausanschlusspotenzials; rund 190 Mio. Euro für den erweiterten Projektumfang und 75 Mio. Euro geplante Bundesförderung. Der neue Bescheid wurde zu diesem Zeitpunkt erwartet."
+        },
+        {
+          "sourceId": "BVGR23",
+          "note": "Rund 2.000 angeschlossene Gebäude und über 70 % der benötigten Heizwärme; keine Haushaltsquote."
         }
       ]
     },
@@ -3184,8 +3248,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "Offen",
       "description": "Trotz anderer europäischer Netze betreibe der Anbieter das größte geothermische Fernwärmenetz Kontinentaleuropas.",
-      "reason": "Der Superlativ hängt von der Bezugsgröße (Trassenkilometer, einzelne Rohrleitungen, Anschlussleistung, Geothermieanteil) ab. Die lokalen Betreiberangaben ersetzen keine vergleichbare Rangliste.",
-      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben.",
+      "reason": "Der Geschäftsführer formuliert den Kontinentalrekord. Die eigenen Betreiberangaben bestätigen die Länge des Verbunds, reichen aber nicht für einen Vergleich mit anderen Netzen. Trassenlänge, Länge einzelner Rohrleitungen, Leistung und Anteil der Geothermie sind unterschiedliche Vergleichsmaßstäbe. Eine gleich abgegrenzte unabhängige Rangliste fehlt.",
+      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben. ZDF-Passage am 28.11.2026 per lokaler Spracherkennung abgeglichen; ergänzende Quellen nachgeprüft.",
       "occurrences": [
         {
           "startSeconds": 771,
@@ -3208,6 +3272,14 @@
         {
           "sourceId": "FAQ",
           "note": "Temperatur, Förderleistung, Fernwärmenetz und elektrische Maximalleistung des ORC-Kraftwerks."
+        },
+        {
+          "sourceId": "EWGNET25",
+          "note": "Betreiberangaben: Grünwalder Netz 120 km und Unterhachinger Bestandsnetz 65 km. Der kontinentale Superlativ ist eine Selbstauskunft."
+        },
+        {
+          "sourceId": "EWGNET26",
+          "note": "Betreiberangaben zum Verbund: Grünwald rund 125 km, Unterhaching rund 65 km; zusammen rund 190 km."
         }
       ],
       "attribution": {
@@ -3224,10 +3296,10 @@
       "id": "DZmYmBqViJA-A0065",
       "chapter": 5,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
+      "status": "Abgeschlossen",
       "description": "Das zusammen beschriebene Fernwärmenetz umfasst fast 190 km.",
-      "reason": "Die FAQ nennt eine andere Länge für das eigene Netz. Eine gemeinsame und auf denselben Stichtag bezogene Summe für Grünwald und Unterhaching ist noch nicht eindeutig belegt.",
-      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben.",
+      "reason": "Die Doku summiert Grünwald und Unterhaching. Der Betreiber nannte im Oktober 2025 120 und 65 km (185 km), im Juni 2026 rund 125 und 65 km (190 km). Unterhachings kommunaler Wärmeplan bestätigt zudem für das eigene Netz den im Film gerundeten Wert von rund 70 km für 2026. Die Angaben stützen die gemeinsame Größenordnung von knapp 190 km; die leicht abweichenden Einzelwerte sind unterschiedlich datiert und gerundet. Daraus folgt kein belegter europäischer Rekord.",
+      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben. ZDF-Passage am 28.11.2026 per lokaler Spracherkennung abgeglichen; ergänzende Quellen nachgeprüft.",
       "occurrences": [
         {
           "startSeconds": 790,
@@ -3246,8 +3318,21 @@
         {
           "sourceId": "FAQ",
           "note": "Temperatur, Förderleistung, Fernwärmenetz und elektrische Maximalleistung des ORC-Kraftwerks."
+        },
+        {
+          "sourceId": "EWGNET25",
+          "note": "Betreiberangaben: Grünwalder Netz 120 km und Unterhachinger Bestandsnetz 65 km. Der kontinentale Superlativ ist eine Selbstauskunft."
+        },
+        {
+          "sourceId": "EWGNET26",
+          "note": "Betreiberangaben zum Verbund: Grünwald rund 125 km, Unterhaching rund 65 km; zusammen rund 190 km."
+        },
+        {
+          "sourceId": "UHWP26",
+          "note": "Rund 70 km Fernwärmenetz, Stand 2026; Verbund mit Grünwald seit 2013."
         }
-      ]
+      ],
+      "verdict": "Belegt"
     },
     {
       "id": "DZmYmBqViJA-A0066",
@@ -3326,8 +3411,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "Offen",
       "description": "Grünwald gehört zu den wohlhabendsten Kommunen Deutschlands.",
-      "reason": "Es fehlt ein definierter Maßstab: privates Einkommen, Steuerkraft der Kommune und Kassenbestand wären unterschiedliche Vergleiche.",
-      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben.",
+      "reason": "In der amtlichen bayerischen Vergleichstabelle liegt Grünwald 2026 mit 19.216,27 Euro Umlagekraft je Einwohner auf Rang 1 im Landkreis und Rang 4 im Land. Das stützt eine hohe kommunale Finanzkraft. Umlagekraft ist weder Privatvermögen noch Kassenbestand; die Quelle reicht nicht für den unscharfen bundesweiten Vergleich in der Doku.",
+      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben. Ergänzende amtliche Quelle am 28.11.2026 abgeglichen.",
       "occurrences": [
         {
           "startSeconds": 859,
@@ -3346,6 +3431,10 @@
         {
           "sourceId": "II",
           "note": "Projektbeschreibung und Planungs- bzw. Genehmigungsvorlauf."
+        },
+        {
+          "sourceId": "BYUK26",
+          "note": "Für Grünwald 2026: 19.216,27 Euro je Einwohner, Platz 1 im Landkreis, Platz 4 im Landesvergleich der Tabelle. Keine bundesweite Vermögensrangliste."
         }
       ]
     },
@@ -4656,10 +4745,10 @@
       "id": "DZmYmBqViJA-A0102",
       "chapter": 8,
       "kind": "Tatsachenbehauptung",
-      "status": "Offen",
+      "status": "Abgeschlossen",
       "description": "Die Gemeinde investiert rund 188 Mio. Euro in Laufzorn II.",
-      "reason": "Der Betreiber nannte 2024 rund 150 bzw. 153 Mio. Euro. Diese älteren Planungsstände sind nicht direkt mit der in der Sendung genannten Summe vergleichbar. Eine öffentlich belegte, gleich abgegrenzte Gesamtsumme von 188 Mio. Euro zum Sendestichtag fehlt.",
-      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben. Quellen nachgeprüft am 28.11.2026.",
+      "reason": "Die Doku spricht über die Investition in die noch im Bau befindliche Anlage. Für das um zwei weitere Bohrungen erweiterte Laufzorn II nannte die Geschäftsführung im Oktober 2025 laut Gemeinderatsbericht rund 190 Mio. Euro; Das Parlament nannte dieselbe Größenordnung im Dezember 2025. Damit sind rund 188 Mio. Euro als Größenordnung der geplanten Gesamtinvestition belegt. Das ist keine Endabrechnung und nicht der allein von der Gemeinde zu zahlende Eigenanteil. Die 150–153 Mio. Euro bezogen sich auf den früheren Planungsstand.",
+      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben. Quellen nachgeprüft am 28.11.2026. ZDF-Passage am 28.11.2026 per lokaler Spracherkennung abgeglichen; ergänzende Quellen nachgeprüft.",
       "occurrences": [
         {
           "startSeconds": 1427,
@@ -4690,8 +4779,17 @@
         {
           "sourceId": "EWG150",
           "note": "Damalige Investition rund 150 Mio. Euro; Auszahlung ausdrücklich noch nicht belegt."
+        },
+        {
+          "sourceId": "GWKAP25",
+          "note": "Wiedergabe der Geschäftsführung: rund 2.200 Verträge sind etwa 70 % des Hausanschlusspotenzials; rund 190 Mio. Euro für den erweiterten Projektumfang und 75 Mio. Euro geplante Bundesförderung. Der neue Bescheid wurde zu diesem Zeitpunkt erwartet."
+        },
+        {
+          "sourceId": "PARL25LZ",
+          "note": "Berichtet rund 190 Mio. Euro Baukosten und 75 Mio. Euro Bundesanteil. Redaktioneller Artikel, kein Förderbescheid."
         }
-      ]
+      ],
+      "verdict": "Belegt"
     },
     {
       "id": "DZmYmBqViJA-A0103",
@@ -4732,8 +4830,8 @@
       "kind": "Tatsachenbehauptung",
       "status": "Offen",
       "description": "Der Bund finanziert 40 Prozent der Kosten von Laufzorn II.",
-      "reason": "Der Betreiber veröffentlichte 2024 eine Bundeszusage von 61 Mio. Euro, rund 40 % gemessen an den 153 Mio. Euro aus derselben Meldung. Gegenüber den in der Sendung erwähnten 188 Mio. Euro entspräche das rund 32 %. Förderfähige Kosten, Gesamtbudget und tatsächlich erfolgte Auszahlungen sind unterschiedliche Größen; für den Sendestichtag fehlt die passende Abrechnung.",
-      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben. Quellen nachgeprüft am 28.11.2026.",
+      "reason": "Die Doku nennt 40 % Finanzierung durch den Bund. In der früheren Stufe sind 61 Mio. Euro bei rund 153 Mio. Euro Gesamtansatz laut Betreiber bewilligt. Für die erweiterte Stufe wurden im Oktober 2025 rund 75 Mio. Euro Bundesförderung bei 190 Mio. Euro geschätzt (39,5 %); der neue Bescheid wurde damals noch erwartet. Das Parlament berichtete im Dezember denselben Betrag, jedoch ohne Bescheid oder Auszahlungsbeleg. Die geplante Quote ist nachvollziehbar; die endgültige Bewilligung für den erweiterten Umfang und tatsächlich geflossene Mittel bleiben offen.",
+      "assessmentBasis": "Sinngemäße Erfassung der gesprochenen Passage, keine wörtliche Wiedergabe. Themenstand zur Veröffentlichung; Quellenabgleich wie angegeben. Quellen nachgeprüft am 28.11.2026. ZDF-Passage am 28.11.2026 per lokaler Spracherkennung abgeglichen; ergänzende Quellen nachgeprüft.",
       "occurrences": [
         {
           "startSeconds": 1435,
@@ -4764,6 +4862,14 @@
         {
           "sourceId": "EWG150",
           "note": "Damalige Investition rund 150 Mio. Euro; Auszahlung ausdrücklich noch nicht belegt."
+        },
+        {
+          "sourceId": "GWKAP25",
+          "note": "Wiedergabe der Geschäftsführung: rund 2.200 Verträge sind etwa 70 % des Hausanschlusspotenzials; rund 190 Mio. Euro für den erweiterten Projektumfang und 75 Mio. Euro geplante Bundesförderung. Der neue Bescheid wurde zu diesem Zeitpunkt erwartet."
+        },
+        {
+          "sourceId": "PARL25LZ",
+          "note": "Berichtet rund 190 Mio. Euro Baukosten und 75 Mio. Euro Bundesanteil. Redaktioneller Artikel, kein Förderbescheid."
         }
       ]
     },
